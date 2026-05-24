@@ -110,6 +110,10 @@ function renderDigestList() {
 }
 
 function getWorkflowUrl() {
+  const configured = els.runWorkflow?.getAttribute("href");
+  if (configured && configured !== "#") {
+    return configured;
+  }
   const host = window.location.hostname;
   const parts = window.location.pathname.split("/").filter(Boolean);
   if (host.endsWith(".github.io") && parts.length > 0) {

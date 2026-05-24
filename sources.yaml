@@ -1,0 +1,108 @@
+# Add, remove, or pause sources here. RSS feeds are preferred because they
+# provide public metadata without scraping full copyrighted article text.
+#
+# Optional fields:
+#   enabled: false
+#   default_topic: Science and daily life
+#   source_type: rss | html
+#   max_items: 12
+#   article_type_hint: feature
+#   public_access: likely public
+
+sources:
+  - name: AP News
+    outlet: AP News
+    url: https://apnews.com/hub/ap-top-news?output=rss
+    source_type: rss
+    default_topic: Public-interest news
+    article_type_hint: short news
+    public_access: likely public
+
+  - name: Reuters Lifestyle
+    outlet: Reuters
+    url: https://www.reutersagency.com/feed/?best-topics=lifestyle&post_type=best
+    source_type: rss
+    default_topic: Culture and everyday life
+    article_type_hint: short news
+    public_access: likely public preview
+
+  - name: The Guardian World
+    outlet: The Guardian
+    url: https://www.theguardian.com/world/rss
+    source_type: rss
+    default_topic: Public-interest news
+    article_type_hint: feature
+    public_access: likely public
+
+  - name: The Guardian Education
+    outlet: The Guardian
+    url: https://www.theguardian.com/education/rss
+    source_type: rss
+    default_topic: Education and youth
+    article_type_hint: feature
+    public_access: likely public
+
+  - name: BBC News
+    outlet: BBC
+    url: https://feeds.bbci.co.uk/news/rss.xml
+    source_type: rss
+    default_topic: Public-interest news
+    article_type_hint: short news
+    public_access: likely public
+
+  - name: NPR
+    outlet: NPR
+    url: https://feeds.npr.org/1001/rss.xml
+    source_type: rss
+    default_topic: Public-interest stories
+    article_type_hint: feature
+    public_access: likely public
+
+  - name: Smithsonian Magazine
+    outlet: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/rss/latest_articles/
+    source_type: rss
+    default_topic: Science, culture, and history
+    article_type_hint: feature
+    public_access: likely public
+
+  - name: Scientific American
+    outlet: Scientific American
+    url: https://rss.sciam.com/ScientificAmerican-Global
+    source_type: rss
+    default_topic: Science explained
+    article_type_hint: science story
+    public_access: likely public preview
+
+  - name: The Conversation
+    outlet: The Conversation
+    url: https://theconversation.com/us/articles.atom
+    source_type: rss
+    default_topic: Education, science, and society
+    article_type_hint: explainer
+    public_access: likely public
+
+  - name: ProPublica
+    outlet: ProPublica
+    url: https://www.propublica.org/feeds/propublica/main
+    source_type: rss
+    default_topic: Public-interest accountability
+    article_type_hint: investigation
+    public_access: likely public
+
+  - name: Pulitzer Prize Stories
+    outlet: Pulitzer.org
+    url: https://www.pulitzer.org/news/rss
+    source_type: rss
+    default_topic: Award-winning journalism
+    article_type_hint: feature
+    public_access: likely public
+
+  - name: The Atlantic
+    outlet: The Atlantic
+    url: https://www.theatlantic.com/feed/all/
+    source_type: rss
+    default_topic: Culture, ideas, and society
+    article_type_hint: feature
+    public_access: mixed public preview
+

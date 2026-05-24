@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News Radar Digest</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Digest dates">
+        <header class="brand">
+          <div class="brand-mark" aria-hidden="true">NR</div>
+          <div>
+            <p class="eyebrow">English Close Reading</p>
+            <h1>News Radar</h1>
+          </div>
+        </header>
+
+        <section class="sidebar-panel">
+          <label class="field-label" for="digest-search">搜索标题、来源、话题</label>
+          <div class="search-wrap">
+            <span aria-hidden="true">⌕</span>
+            <input id="digest-search" type="search" placeholder="AI, school, NPR...">
+          </div>
+        </section>
+
+        <section class="sidebar-panel">
+          <div class="panel-heading">
+            <h2>每日文稿</h2>
+            <span id="digest-count">0</span>
+          </div>
+          <div id="digest-list" class="digest-list" role="list"></div>
+        </section>
+      </aside>
+
+      <main class="content">
+        <header class="toolbar">
+          <div>
+            <p class="eyebrow">Daily Recommendations</p>
+            <h2 id="page-title">请选择一篇每日推荐</h2>
+          </div>
+          <div class="toolbar-actions">
+            <button id="copy-markdown" class="icon-button" type="button" title="复制 Markdown" aria-label="复制 Markdown">⧉</button>
+            <a id="open-markdown" class="text-button" href="#" target="_blank" rel="noreferrer">打开 Markdown</a>
+          </div>
+        </header>
+
+        <section class="stats-row" aria-label="Digest summary">
+          <div class="stat">
+            <span class="stat-value" id="stat-items">0</span>
+            <span class="stat-label">篇文章</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="stat-date">-</span>
+            <span class="stat-label">日期</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="stat-average">-</span>
+            <span class="stat-label">平均优先级</span>
+          </div>
+        </section>
+
+        <section class="filters" aria-label="Article filters">
+          <button class="filter-chip is-active" type="button" data-filter="all">全部</button>
+          <button class="filter-chip" type="button" data-filter="B1">B1</button>
+          <button class="filter-chip" type="button" data-filter="B2">B2</button>
+          <button class="filter-chip" type="button" data-filter="C1">C1</button>
+        </section>
+
+        <section id="empty-state" class="empty-state">
+          <h3>还没有可展示的每日推荐</h3>
+          <p>运行生成脚本后，这里会自动出现最新的 Markdown 文稿和文章卡片。</p>
+          <code>python scripts/generate_digest.py</code>
+        </section>
+
+        <section id="no-results" class="empty-state" hidden>
+          <h3>没有匹配的文章</h3>
+          <p>试试清空搜索词，或者切换到“全部”难度。</p>
+        </section>
+
+        <section id="article-grid" class="article-grid" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

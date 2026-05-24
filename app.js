@@ -12,6 +12,7 @@ const els = {
   count: document.querySelector("#digest-count"),
   title: document.querySelector("#page-title"),
   openMarkdown: document.querySelector("#open-markdown"),
+  runWorkflow: document.querySelector("#run-workflow"),
   copyMarkdown: document.querySelector("#copy-markdown"),
   grid: document.querySelector("#article-grid"),
   empty: document.querySelector("#empty-state"),
@@ -106,6 +107,17 @@ function renderDigestList() {
       `,
     )
     .join("");
+}
+
+function getWorkflowUrl() {
+  const host = window.location.hostname;
+  const parts = window.location.pathname.split("/").filter(Boolean);
+  if (host.endsWith(".github.io") && parts.length > 0) {
+    const owner = host.replace(".github.io", "");
+    const repo = parts[0];
+    return `https://github.com/${owner}/${repo}/actions/workflows/daily-digest.yml`;
+  }
+  return "https://github.com/";
 }
 
 function renderStats(articles) {
@@ -230,3 +242,4 @@ els.copyMarkdown.addEventListener("click", async () => {
 });
 
 loadIndex();
+els.runWorkflow.href = getWorkflowUrl();

@@ -112,7 +112,7 @@ For a custom subdomain such as `news.example.com`, create a DNS `CNAME` record p
 
 ## GitHub Actions
 
-The workflow at `.github/workflows/daily-digest.yml` runs every day at `01:00 UTC` and can also be started manually with `workflow_dispatch`.
+The workflow at `.github/workflows/daily-digest.yml` runs every day at `10:00 UTC`, which is `18:00` in Beijing/Shanghai time, and can also be started manually with `workflow_dispatch`.
 
 Required repository secret:
 

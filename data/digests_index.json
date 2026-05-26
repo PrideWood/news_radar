@@ -1,18 +1,25 @@
 {
   "digests": [
     {
+      "date": "2026-05-26",
+      "file": "digests/2026-05-26.md",
+      "title": "Daily English Close-Reading Recommendations - 2026-05-26",
+      "item_count": 8,
+      "updated_at": "2026-05-26T13:23:54+00:00"
+    },
+    {
       "date": "2026-05-25",
       "file": "digests/2026-05-25.md",
       "title": "Daily English Close-Reading Recommendations - 2026-05-25",
       "item_count": 8,
-      "updated_at": "2026-05-25T13:31:07+00:00"
+      "updated_at": "2026-05-26T13:23:54+00:00"
     },
     {
       "date": "2026-05-24",
       "file": "digests/2026-05-24.md",
       "title": "Daily English Close-Reading Recommendations - 2026-05-24",
       "item_count": 8,
-      "updated_at": "2026-05-25T13:31:07+00:00"
+      "updated_at": "2026-05-26T13:23:54+00:00"
     }
   ]
 }

@@ -49,7 +49,16 @@ jobs:
             echo "No digest changes to commit."
           else
             git commit -m "Add daily digest $(date -u +%F)"
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" = "3" ]; then
+                exit 1
+              fi
+              echo "git push failed; retrying in 30 seconds..."
+              sleep 30
+            done
           fi
 
       - name: Configure Pages

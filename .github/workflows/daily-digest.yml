@@ -2,7 +2,8 @@ name: Daily English News Digest
 
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "30 9 * * *"
+    - cron: "30 10 * * *"
   workflow_dispatch:
 
 permissions:
@@ -38,7 +39,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
-        run: python scripts/generate_digest.py --date "$(date -u +%F)"
+        run: |
+          digest_date="$(date -u +%F)"
+          if [ -f "digests/${digest_date}.md" ]; then
+            echo "Digest for ${digest_date} already exists; skipping generation."
+            exit 0
+          fi
+          python scripts/generate_digest.py --date "${digest_date}"
 
       - name: Commit digest
         run: |

@@ -21,6 +21,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse, urlunparse
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -38,6 +39,7 @@ DEFAULT_SOURCES = ROOT / "sources.yaml"
 DEFAULT_STATE = ROOT / "data" / "seen_articles.json"
 DEFAULT_DIGEST_DIR = ROOT / "digests"
 DEFAULT_DIGEST_INDEX = ROOT / "data" / "digests_index.json"
+DEFAULT_TIMEZONE = os.getenv("NEWS_RADAR_TIMEZONE", "Asia/Shanghai")
 
 TARGET_TOPICS = [
     "AI, technology, and daily life",
@@ -133,6 +135,10 @@ def parse_date(value: Any) -> str | None:
 def load_yaml(path: Path) -> dict[str, Any]:
     with path.open("r", encoding="utf-8") as handle:
         return yaml.safe_load(handle) or {}
+
+
+def default_digest_date() -> str:
+    return dt.datetime.now(ZoneInfo(DEFAULT_TIMEZONE)).date().isoformat()
 
 
 def load_state(path: Path) -> dict[str, Any]:
@@ -488,7 +494,7 @@ def update_digest_index(digest_dir: Path, index_path: Path) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--date", default=dt.date.today().isoformat())
+    parser.add_argument("--date", default=default_digest_date())
     parser.add_argument("--sources", type=Path, default=DEFAULT_SOURCES)
     parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_DIGEST_DIR)

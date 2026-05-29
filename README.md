@@ -112,7 +112,8 @@ For a custom subdomain such as `news.example.com`, create a DNS `CNAME` record p
 
 ## GitHub Actions
 
-The workflow at `.github/workflows/daily-digest.yml` runs every day at `10:00 UTC`, which is `18:00` in Beijing/Shanghai time, and can also be started manually with `workflow_dispatch`.
+The workflow at `.github/workflows/daily-digest.yml` runs every day at `08:10` and `20:10` in Beijing/Shanghai time, and can also be started manually with `workflow_dispatch`.
+The generator uses the `Asia/Shanghai` date by default, so scheduled and manual runs both create the digest for the expected local day.
 After generating and committing the new digest, it deploys GitHub Pages directly so the site updates without manually running the Pages workflow.
 
 Required repository secret:
@@ -123,6 +124,7 @@ Optional repository variable:
 
 - `OPENAI_MODEL`, defaults to `gpt-4o-mini`
 - `OPENAI_BASE_URL`, for DeepSeek or other OpenAI-compatible providers
+- `NEWS_RADAR_TIMEZONE`, defaults to `Asia/Shanghai`
 
 The workflow commits new files in `digests/` and updates `data/seen_articles.json` for deduplication plus `data/digests_index.json` for the frontend reader.
 

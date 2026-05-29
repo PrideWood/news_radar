@@ -2,8 +2,10 @@ name: Daily English News Digest
 
 on:
   schedule:
-    - cron: "30 9 * * *"
-    - cron: "30 10 * * *"
+    # 08:10 and 20:10 Asia/Shanghai. The evening run is a catch-up if the
+    # morning run was delayed, skipped by GitHub Actions, or failed upstream.
+    - cron: "10 0 * * *"
+    - cron: "10 12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -39,13 +41,17 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+          NEWS_RADAR_TIMEZONE: Asia/Shanghai
+          TZ: Asia/Shanghai
         run: |
-          digest_date="$(date -u +%F)"
+          digest_date="$(date +%F)"
+          echo "Generating digest for ${digest_date} (${TZ})"
           if [ -f "digests/${digest_date}.md" ]; then
             echo "Digest for ${digest_date} already exists; skipping generation."
             exit 0
           fi
           python scripts/generate_digest.py --date "${digest_date}"
+          test -s "digests/${digest_date}.md"
 
       - name: Commit digest
         run: |
@@ -55,7 +61,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No digest changes to commit."
           else
-            git commit -m "Add daily digest $(date -u +%F)"
+            git commit -m "Add daily digest $(date +%F)"
             for attempt in 1 2 3; do
               if git push; then
                 break

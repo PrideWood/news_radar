@@ -3,19 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f7f4">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="News Radar">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <title>News Radar Digest</title>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="styles.css?v=20260524-2">
+    <link rel="stylesheet" href="styles.css?v=20260612-3">
   </head>
   <body>
     <div class="app-shell">
       <aside class="sidebar" aria-label="Digest dates">
         <header class="brand">
-          <div class="brand-mark" aria-hidden="true">NR</div>
+          <div class="brand-mark" aria-hidden="true">
+            <img src="apple-touch-icon.png" alt="">
+          </div>
           <div>
             <p class="eyebrow">English Close Reading</p>
             <h1>News Radar</h1>
@@ -30,13 +36,13 @@
           </div>
         </section>
 
-        <section class="sidebar-panel">
-          <div class="panel-heading">
+        <details class="sidebar-panel history-panel" open>
+          <summary class="panel-heading">
             <h2>每日文稿</h2>
             <span id="digest-count">0</span>
-          </div>
+          </summary>
           <div id="digest-list" class="digest-list" role="list"></div>
-        </section>
+        </details>
       </aside>
 
       <main class="content">
@@ -52,30 +58,38 @@
           </div>
         </header>
 
-        <section class="stats-row" aria-label="Digest summary">
-          <div class="stat">
-            <span class="stat-value" id="stat-items">0</span>
-            <span class="stat-label">篇文章</span>
-          </div>
-          <div class="stat">
-            <span class="stat-value" id="stat-date">-</span>
-            <span class="stat-label">日期</span>
-          </div>
-          <div class="stat">
-            <span class="stat-value" id="stat-average">-</span>
-            <span class="stat-label">平均优先级</span>
-          </div>
-          <div class="stat">
-            <span class="stat-value">18:00</span>
-            <span class="stat-label">北京时间自动更新</span>
-          </div>
+        <section class="content-controls" aria-label="Content controls">
+          <label class="sr-only" for="section-select">内容类型</label>
+          <select id="section-select" class="section-select">
+            <option value="articles">英文精读推荐</option>
+            <option value="topics">国内热点话题</option>
+            <option value="japanese">日文精读推荐</option>
+          </select>
+          <div class="filters" aria-label="Article filters"></div>
         </section>
 
-        <section class="filters" aria-label="Article filters">
-          <button class="filter-chip is-active" type="button" data-filter="all">全部</button>
-          <button class="filter-chip" type="button" data-filter="B1">B1</button>
-          <button class="filter-chip" type="button" data-filter="B2">B2</button>
-          <button class="filter-chip" type="button" data-filter="C1">C1</button>
+        <section id="hot-topics-panel" class="hot-topics-panel" hidden>
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Domestic Trends</p>
+              <h3>今日国内热点话题</h3>
+            </div>
+            <span id="hot-topics-date">-</span>
+          </div>
+          <section id="hot-topics-empty" class="empty-state" hidden>
+            <h3>还没有热点话题</h3>
+            <p>下次自动生成后，这里会展示 3 条适合继续整理成分享内容的中文互联网热点。</p>
+          </section>
+          <section id="hot-topics-grid" class="article-grid" aria-live="polite"></section>
+        </section>
+
+        <section id="japanese-panel" class="reader-panel" hidden>
+          <section id="japanese-empty" class="empty-state" hidden>
+            <h3>还没有可展示的日文推荐</h3>
+            <p>运行生成脚本后，这里会出现适合 N4-N1 学习者精读的公开日文材料。</p>
+            <code>python scripts/generate_digest.py --japanese-only</code>
+          </section>
+          <section id="japanese-grid" class="article-grid" aria-live="polite"></section>
         </section>
 
         <section id="empty-state" class="empty-state">
@@ -93,6 +107,6 @@
       </main>
     </div>
 
-    <script src="app.js?v=20260524-2"></script>
+    <script src="app.js?v=20260612-3"></script>
   </body>
 </html>

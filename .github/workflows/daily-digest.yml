@@ -47,17 +47,25 @@ jobs:
           digest_date="$(date +%F)"
           echo "Generating digest for ${digest_date} (${TZ})"
           if [ -f "digests/${digest_date}.md" ]; then
-            echo "Digest for ${digest_date} already exists; skipping generation."
+            echo "Digest for ${digest_date} already exists; updating Chinese hot topics and Japanese recommendations only."
+            python scripts/generate_digest.py --date "${digest_date}" --topics-only
+            python scripts/generate_digest.py --date "${digest_date}" --japanese-only
+            test -s "data/chinese_hot_topics.json"
+            test -s "japanese_digests/${digest_date}.md"
+            test -s "data/japanese_digests_index.json"
             exit 0
           fi
           python scripts/generate_digest.py --date "${digest_date}"
           test -s "digests/${digest_date}.md"
+          test -s "data/chinese_hot_topics.json"
+          test -s "japanese_digests/${digest_date}.md"
+          test -s "data/japanese_digests_index.json"
 
       - name: Commit digest
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add digests data
+          git add digests japanese_digests data
           if git diff --cached --quiet; then
             echo "No digest changes to commit."
           else

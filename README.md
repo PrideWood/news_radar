@@ -1,6 +1,6 @@
 # News Radar: Daily English Close-Reading Digest
 
-This project generates one Markdown digest per day under `digests/YYYY-MM-DD.md`. Each digest recommends 5-10 publicly accessible English news, feature, or magazine-style articles that are suitable for short close-reading videos.
+This project generates one Markdown digest per day under `digests/YYYY-MM-DD.md`. Each digest recommends 5-10 publicly accessible English news, feature, or magazine-style articles that are suitable for short close-reading videos. It can also generate a separate Japanese close-reading digest under `japanese_digests/YYYY-MM-DD.md`.
 
 The generator uses RSS feeds or public index pages for article metadata. It stores only metadata, links, short public summaries/previews, and teaching suggestions. It does not download or store full copyrighted article text.
 
@@ -18,6 +18,10 @@ Each recommendation includes:
 - estimated CEFR difficulty and video length
 - public-access estimate
 - priority score from 1 to 10
+
+The generator also writes `data/chinese_hot_topics.json` with three Chinese internet hot topics for the day. Each topic includes the Chinese topic text, a neutral official-style English wording or matched official English headline when available, a short reason it is hot, a share angle, and keywords for later AI-assisted content preparation.
+
+Japanese recommendations use public Japanese-language metadata from news, technology, internet culture, and public-information sources. They are selected for language-learning value across JLPT-style levels N4-N1 and are not limited to hard news.
 
 The daily mix aims to include short news, human-interest or uplifting stories, a science or technology explainer, an education/youth/culture story, a serious public-interest story, and one surprising wildcard.
 
@@ -67,6 +71,18 @@ Run a local smoke test without an LLM:
 python scripts/generate_digest.py --no-llm
 ```
 
+Update only the Japanese close-reading data:
+
+```bash
+python scripts/generate_digest.py --japanese-only
+```
+
+Update only the Chinese hot topics data:
+
+```bash
+python scripts/generate_digest.py --topics-only
+```
+
 The `--no-llm` mode is for development only. In normal use, the LLM is used only for scoring, selection, and teaching suggestions from metadata and short public excerpts.
 
 ## Frontend Reader
@@ -83,7 +99,7 @@ Then open:
 http://127.0.0.1:8000/
 ```
 
-The reader loads `data/digests_index.json`, lists available daily digests, renders each recommendation as a card, and supports search plus B1/B2/C1 filtering. The digest generator updates the index automatically whenever it writes a new Markdown file.
+The reader loads `data/digests_index.json`, lists available daily English digests, renders each recommendation as a card, and supports search plus B1/B2/C1/C2 filtering. It also loads `data/chinese_hot_topics.json` in the "国内热点话题" view and `data/japanese_digests_index.json` in the "日文精读推荐" view, where filtering uses N4/N3/N2/N1. The digest generator updates indexes automatically whenever it writes new Markdown files.
 
 ## GitHub Pages
 
@@ -126,7 +142,7 @@ Optional repository variable:
 - `OPENAI_BASE_URL`, for DeepSeek or other OpenAI-compatible providers
 - `NEWS_RADAR_TIMEZONE`, defaults to `Asia/Shanghai`
 
-The workflow commits new files in `digests/` and updates `data/seen_articles.json` for deduplication plus `data/digests_index.json` for the frontend reader.
+The workflow commits new files in `digests/` and `japanese_digests/`, updates `data/seen_articles.json` and `data/seen_japanese_items.json` for deduplication, updates both frontend indexes, and writes `data/chinese_hot_topics.json` for the hot-topic view. If the English digest for the day already exists, the workflow refreshes the hot-topic and Japanese data.
 
 ## Customizing Sources
 

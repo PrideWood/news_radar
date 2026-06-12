@@ -19,7 +19,7 @@ Each recommendation includes:
 - public-access estimate
 - priority score from 1 to 10
 
-The generator also writes `data/chinese_hot_topics.json` with three Chinese internet hot topics for the day. Each topic includes the Chinese topic text, a neutral official-style English wording or matched official English headline when available, a short reason it is hot, a share angle, and keywords for later AI-assisted content preparation.
+The generator also writes `data/chinese_hot_topics.json` with eight Chinese internet hot topics for the day. Each topic includes the Chinese topic text, a neutral official-style English wording or matched official English headline when available, a short reason it is hot, a share angle, and keywords for later AI-assisted content preparation.
 
 Japanese recommendations use public Japanese-language metadata from news, technology, internet culture, and public-information sources. They are selected for language-learning value across JLPT-style levels N4-N1 and are not limited to hard news.
 

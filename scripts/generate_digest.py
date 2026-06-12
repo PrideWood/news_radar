@@ -704,7 +704,7 @@ def write_hot_topics(path: Path, digest_date: str, topics: list[dict[str, Any]])
         handle.write("\n")
 
 
-def generate_hot_topics(path: Path, digest_date: str, timeout: int, no_llm: bool, count: int = 3) -> list[dict[str, Any]]:
+def generate_hot_topics(path: Path, digest_date: str, timeout: int, no_llm: bool, count: int = 8) -> list[dict[str, Any]]:
     candidates = collect_hot_topics(timeout)
     if not candidates:
         raise RuntimeError("No Chinese hot-topic candidates found")

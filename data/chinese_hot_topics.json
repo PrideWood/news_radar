@@ -1,6 +1,135 @@
 {
-  "date": "",
-  "updated_at": "",
+  "date": "2026-06-12",
+  "updated_at": "2026-06-12T12:57:21+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
-  "topics": []
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "总书记朝鲜行的“重要里程碑意义”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 总书记朝鲜行的“重要里程碑意义”",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "被抢中国球迷：墨西哥警察来了先要钱",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 被抢中国球迷：墨西哥警察来了先要钱",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "世界杯在中国的收视率爆了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 世界杯在中国的收视率爆了",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "中国农机驶向全球",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 中国农机驶向全球",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "一觉醒来20万没了 只因开了这个权限",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 一觉醒来20万没了 只因开了这个权限",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "央视曝光“套路养生馆”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 央视曝光“套路养生馆”",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "网警披露未履行个人信息保护义务案",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 网警披露未履行个人信息保护义务案",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "世界杯补水时间被全球吐槽",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Chinese online users discuss: 世界杯补水时间被全球吐槽",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    }
+  ]
 }

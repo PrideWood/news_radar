@@ -1,14 +1,34 @@
 {
   "seen": {
+    "00221eac9117ca638dd9": {
+      "first_seen": "2026-06-12",
+      "link": "https://gigazine.net/news/20260613-anime-2026summer",
+      "title": "2026年夏開始の新作アニメ一覧"
+    },
     "09e5c312de2e5ed8c53e": {
       "first_seen": "2026-06-12",
       "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148691000.html",
       "title": "陸上日本選手権開幕 男子100m予選 桐生祥秀 10秒09で準決勝へ"
     },
+    "18408de5d9d90b2cffce": {
+      "first_seen": "2026-06-12",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
+      "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模"
+    },
+    "1c55c97ae4007a08c18b": {
+      "first_seen": "2026-06-12",
+      "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148861000.html",
+      "title": "女性トイレの行列改善へ トイレ設置に初のガイドライン 国交省"
+    },
     "41d02c56de90719c8d21": {
       "first_seen": "2026-06-12",
       "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148331000.html",
       "title": "関東では「ひょう」も 浸水など十分注意 13日も大気不安定に"
+    },
+    "495da569dbb1ab36330b": {
+      "first_seen": "2026-06-12",
+      "link": "https://gigazine.net/news/20260612-jacket-pulls-drinking-water-from-air",
+      "title": "空気中から1リットル近い飲料水を取り出せるジャケットが開発される"
     },
     "565b6c9a59abbb742847": {
       "first_seen": "2026-06-12",
@@ -25,6 +45,11 @@
       "link": "http://www3.nhk.or.jp/news/html/20260612/k10015147941000.html",
       "title": "米メディアが覚書の内容伝える イラン“最終結論至らず”"
     },
+    "6d4d39e8c4427e1c908d": {
+      "first_seen": "2026-06-12",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/12/news023.html",
+      "title": "金はなぜ錆びずに輝き続ける？ 単に「酸素と結びつきにくい」だけじゃない 米大学が学術誌で発表"
+    },
     "778491d0320a659cd7ec": {
       "first_seen": "2026-06-12",
       "link": "https://www.watch.impress.co.jp/docs/news/2116669.html",
@@ -39,6 +64,21 @@
       "first_seen": "2026-06-12",
       "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148131000.html",
       "title": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA"
+    },
+    "c5b42078364fc6312e70": {
+      "first_seen": "2026-06-12",
+      "link": "https://gigazine.net/news/20260612-astrology-analysis",
+      "title": "科学的根拠が一切ない「占星術」が古代から現代まで愛され続けている理由とは？"
+    },
+    "efb5660f76af4ea6914b": {
+      "first_seen": "2026-06-12",
+      "link": "https://gigazine.net/news/20260612-general-anesthesia-brain-still-listening",
+      "title": "全身麻酔中でも脳は周囲の音を聞いていてリアルタイムで言語を処理している可能性"
+    },
+    "fca5fe785bb6fed58819": {
+      "first_seen": "2026-06-12",
+      "link": "https://gigazine.net/news/20260612-sukiya-bibimbap-gyudon",
+      "title": "牛丼におんたま＆キムチ＆ナムルが合い盛りになったすき家の「おんたまビビンバ牛丼」を食べてみた"
     }
   }
 }

@@ -1,134 +1,149 @@
 {
   "date": "2026-06-12",
-  "updated_at": "2026-06-12T12:57:21+00:00",
+  "updated_at": "2026-06-12T15:34:37+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "总书记朝鲜行的“重要里程碑意义”",
+      "chinese_topic": "被抢中国球迷：墨西哥警察来了先要钱",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 总书记朝鲜行的“重要里程碑意义”",
+      "official_english": "Chinese Fans Robbed in Mexico: Police Demanded Money First",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "World Cup related incident involving Chinese citizens abroad, sparking discussion on safety and police corruption.",
+      "share_angle": "Highlight the experience of Chinese fans at the World Cup and raise awareness about travel safety.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "World Cup",
+        "Chinese fans",
+        "Mexico",
+        "robbery",
+        "police"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "被抢中国球迷：墨西哥警察来了先要钱",
+      "chinese_topic": "中国农机驶向全球",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 被抢中国球迷：墨西哥警察来了先要钱",
+      "official_english": "Chinese Agricultural Machinery Goes Global",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Showcases China's manufacturing and export strength in agricultural machinery, a positive economic story.",
+      "share_angle": "Explain how Chinese farm equipment is gaining international market share and what it means for global agriculture.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "agricultural machinery",
+        "export",
+        "China manufacturing",
+        "global market"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "世界杯在中国的收视率爆了",
+      "chinese_topic": "演员表不让单独用艺名了",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 世界杯在中国的收视率爆了",
+      "official_english": "New Regulation: Stage Names No Longer Allowed Alone in Credits",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Regulatory change affecting the entertainment industry, sparking debate on artist identity and transparency.",
+      "share_angle": "Discuss the implications of requiring real names in film/TV credits and how it impacts actors and audiences.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "stage name",
+        "regulation",
+        "entertainment industry",
+        "credits",
+        "China"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "中国农机驶向全球",
+      "chinese_topic": "世界杯在中国的收视率爆了",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 中国农机驶向全球",
+      "official_english": "World Cup Viewership in China Hits Record High",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Massive audience engagement with the World Cup in China, reflecting sports popularity and media consumption trends.",
+      "share_angle": "Analyze the factors behind the viewership surge and what it says about Chinese sports culture.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "World Cup",
+        "viewership",
+        "China",
+        "sports",
+        "record"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "一觉醒来20万没了 只因开了这个权限",
+      "chinese_topic": "这种体态的人中风风险更高",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 一觉醒来20万没了 只因开了这个权限",
+      "official_english": "People with This Body Type Have Higher Stroke Risk",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Health-related topic with practical implications, likely based on a study, generating public concern.",
+      "share_angle": "Summarize the research findings and offer actionable advice for reducing stroke risk.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "stroke",
+        "body type",
+        "health risk",
+        "study",
+        "prevention"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "央视曝光“套路养生馆”",
+      "chinese_topic": "网传“2026高考答案”系谣言",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 央视曝光“套路养生馆”",
+      "official_english": "Rumor: '2026 College Entrance Exam Answers' Circulating Online Is Fake",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Education-related misinformation during exam season, important for students and parents.",
+      "share_angle": "Explain how to identify exam-related scams and the importance of relying on official sources.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "gaokao",
+        "exam answers",
+        "rumor",
+        "misinformation",
+        "education"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "网警披露未履行个人信息保护义务案",
+      "chinese_topic": "央视曝光“套路养生馆”",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 网警披露未履行个人信息保护义务案",
+      "official_english": "CCTV Exposes 'Routine Health Scams' Targeting Elderly",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Consumer protection issue exposed by state media, highlighting scams in the wellness industry.",
+      "share_angle": "Detail the deceptive practices and advise how to avoid falling victim to such scams.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "health scam",
+        "CCTV",
+        "elderly",
+        "consumer protection",
+        "wellness"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "世界杯补水时间被全球吐槽",
+      "chinese_topic": "SpaceX在纳斯达克敲钟上市",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese online users discuss: 世界杯补水时间被全球吐槽",
+      "official_english": "SpaceX Lists on Nasdaq, Rings Opening Bell",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "why_hot": "Major milestone for private space company, generating interest in space economy and investment.",
+      "share_angle": "Discuss the significance of SpaceX's IPO for the space industry and what it means for future space exploration.",
       "keywords": [
-        "Chinese web",
-        "hot topic",
-        "English framing"
+        "SpaceX",
+        "IPO",
+        "Nasdaq",
+        "space",
+        "investment"
       ]
     }
   ]

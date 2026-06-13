@@ -1,134 +1,134 @@
 {
   "date": "2026-06-13",
-  "updated_at": "2026-06-13T04:47:10+00:00",
+  "updated_at": "2026-06-13T14:20:44+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "守护好中华民族文化瑰宝和自然珍宝",
+      "chinese_topic": "跟着总书记一起感受非遗魅力",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Safeguarding the Cultural Treasures and Natural Gems of the Chinese Nation",
+      "official_english": "President Xi Jinping Promotes Intangible Cultural Heritage",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects national emphasis on cultural heritage and natural conservation, resonating with public pride.",
-      "share_angle": "Explain China's efforts in preserving cultural and natural heritage, and why it matters globally.",
+      "why_hot": "High-level endorsement of cultural heritage resonates with national pride and cultural preservation efforts.",
+      "share_angle": "Explore how China is preserving its intangible cultural heritage through leadership engagement.",
       "keywords": [
-        "cultural heritage",
-        "natural conservation",
-        "China"
+        "intangible cultural heritage",
+        "Xi Jinping",
+        "cultural preservation"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "这届世界杯有点太政治了",
+      "chinese_topic": "人民币可以在印尼直接花了",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "This World Cup Feels Too Political",
+      "official_english": "Chinese Yuan Now Directly Usable in Indonesia",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup controversies spark debate on sports and politics intersection.",
-      "share_angle": "Discuss how political issues are overshadowing the World Cup, with examples like player bans and protests.",
+      "why_hot": "Signifies progress in RMB internationalization and economic cooperation with Indonesia.",
+      "share_angle": "Discuss the implications of RMB internationalization for global trade and travel.",
       "keywords": [
-        "World Cup",
-        "politics",
-        "sports"
+        "RMB internationalization",
+        "China-Indonesia",
+        "currency"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "美加墨世界杯诞生首个乌龙",
+      "chinese_topic": "走出实验室 机器人如何“上岗”",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "First Own Goal in US-Canada-Mexico World Cup",
+      "official_english": "Robots Move from Labs to Real-World Jobs",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "First own goal of the tournament is a notable sports moment.",
-      "share_angle": "Recap the match and the own goal, explaining its impact on the game.",
+      "why_hot": "Reflects growing interest in AI and robotics applications in daily life and industry.",
+      "share_angle": "Highlight real-world applications of robotics in China and future trends.",
       "keywords": [
-        "World Cup",
-        "own goal",
-        "soccer"
+        "robotics",
+        "AI",
+        "automation"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "一周“靓”数",
+      "chinese_topic": "世界杯赛事发朋友圈或构成侵权",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Weekly Highlights in Numbers",
+      "official_english": "Posting World Cup Moments on Social Media May Infringe Copyright",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A curated list of notable statistics from the week, appealing to data lovers.",
-      "share_angle": "Present interesting numbers from the week, e.g., economic data, sports stats, or social trends.",
+      "why_hot": "Raises awareness about copyright issues during major sports events, relevant to many fans.",
+      "share_angle": "Explain copyright laws around sharing sports content on social media.",
       "keywords": [
-        "weekly roundup",
-        "statistics",
-        "data"
+        "World Cup",
+        "copyright",
+        "social media"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "名涉性侵球员世界杯命运截然不同",
+      "chinese_topic": "“机器人伴侣”来了 10天预售3800台",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "World Cup Fates Diverge for Players Accused of Sexual Assault",
+      "official_english": "Robot Companions Hit Market: 3,800 Pre-ordered in 10 Days",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Contrasting outcomes for players facing serious allegations sparks debate on justice.",
-      "share_angle": "Compare cases of players accused of sexual assault and their different World Cup participation statuses.",
+      "why_hot": "Combines tech innovation with social/emotional needs, sparking debate on AI companionship.",
+      "share_angle": "Discuss the rise of AI companions and their societal impact.",
       "keywords": [
-        "sexual assault",
-        "World Cup",
-        "justice"
+        "robot companion",
+        "AI",
+        "consumer tech"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "雷军回应用私家车装600斤车厘子",
+      "chinese_topic": "SpaceX亏损达413亿美元",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Lei Jun Responds to Using Personal Car to Transport 300 kg of Cherries",
+      "official_english": "SpaceX Reports $41.3 Billion in Losses",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Tech CEO's quirky response to a viral anecdote humanizes a business figure.",
-      "share_angle": "Share Lei Jun's explanation and discuss the cultural significance of cherries in China.",
+      "why_hot": "High-profile financial news about a major space company, relevant to business and tech.",
+      "share_angle": "Analyze SpaceX's financial challenges and implications for the space industry.",
       "keywords": [
-        "Lei Jun",
-        "cherries",
-        "Xiaomi"
+        "SpaceX",
+        "financial loss",
+        "space industry"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "日本炸鸡店一锅油反复用66年",
+      "chinese_topic": "世界杯熬夜性价比指南",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Japanese Fried Chicken Shop Uses Same Oil for 66 Years",
+      "official_english": "World Cup All-Nighter Cost-Benefit Guide",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Unusual food practice sparks curiosity and health concerns.",
-      "share_angle": "Explore the story behind the shop, the science of reused oil, and cultural attitudes toward food.",
+      "why_hot": "Practical lifestyle content for World Cup fans, balancing health and entertainment.",
+      "share_angle": "Provide tips for staying healthy while enjoying late-night World Cup matches.",
       "keywords": [
-        "Japan",
-        "fried chicken",
-        "oil reuse"
+        "World Cup",
+        "health tips",
+        "lifestyle"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "燃油车反击新能源车 成本催升订单",
+      "chinese_topic": "北京雨后出现双彩虹",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Gasoline Vehicles Fight Back Against New Energy Vehicles as Costs Boost Orders",
+      "official_english": "Double Rainbow Appears Over Beijing After Rain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Shift in auto market dynamics affects consumers and industry.",
-      "share_angle": "Analyze why gasoline car orders are rising due to cost factors, and what it means for EV adoption.",
+      "why_hot": "Beautiful natural phenomenon that captures public imagination and social media sharing.",
+      "share_angle": "Share the science behind double rainbows and the cultural significance in China.",
       "keywords": [
-        "gasoline cars",
-        "new energy vehicles",
-        "auto market"
+        "double rainbow",
+        "Beijing",
+        "weather"
       ]
     }
   ]

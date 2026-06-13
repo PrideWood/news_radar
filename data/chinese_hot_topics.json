@@ -1,149 +1,134 @@
 {
-  "date": "2026-06-12",
-  "updated_at": "2026-06-12T15:34:37+00:00",
+  "date": "2026-06-13",
+  "updated_at": "2026-06-13T04:47:10+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "被抢中国球迷：墨西哥警察来了先要钱",
+      "chinese_topic": "守护好中华民族文化瑰宝和自然珍宝",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese Fans Robbed in Mexico: Police Demanded Money First",
+      "official_english": "Safeguarding the Cultural Treasures and Natural Gems of the Chinese Nation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup related incident involving Chinese citizens abroad, sparking discussion on safety and police corruption.",
-      "share_angle": "Highlight the experience of Chinese fans at the World Cup and raise awareness about travel safety.",
+      "why_hot": "Reflects national emphasis on cultural heritage and natural conservation, resonating with public pride.",
+      "share_angle": "Explain China's efforts in preserving cultural and natural heritage, and why it matters globally.",
       "keywords": [
-        "World Cup",
-        "Chinese fans",
-        "Mexico",
-        "robbery",
-        "police"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "中国农机驶向全球",
-      "platform": "Baidu",
-      "heat": "hot",
-      "official_english": "Chinese Agricultural Machinery Goes Global",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Showcases China's manufacturing and export strength in agricultural machinery, a positive economic story.",
-      "share_angle": "Explain how Chinese farm equipment is gaining international market share and what it means for global agriculture.",
-      "keywords": [
-        "agricultural machinery",
-        "export",
-        "China manufacturing",
-        "global market"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "演员表不让单独用艺名了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "official_english": "New Regulation: Stage Names No Longer Allowed Alone in Credits",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Regulatory change affecting the entertainment industry, sparking debate on artist identity and transparency.",
-      "share_angle": "Discuss the implications of requiring real names in film/TV credits and how it impacts actors and audiences.",
-      "keywords": [
-        "stage name",
-        "regulation",
-        "entertainment industry",
-        "credits",
+        "cultural heritage",
+        "natural conservation",
         "China"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "世界杯在中国的收视率爆了",
+      "rank": 2,
+      "chinese_topic": "这届世界杯有点太政治了",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "World Cup Viewership in China Hits Record High",
+      "official_english": "This World Cup Feels Too Political",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Massive audience engagement with the World Cup in China, reflecting sports popularity and media consumption trends.",
-      "share_angle": "Analyze the factors behind the viewership surge and what it says about Chinese sports culture.",
+      "why_hot": "World Cup controversies spark debate on sports and politics intersection.",
+      "share_angle": "Discuss how political issues are overshadowing the World Cup, with examples like player bans and protests.",
       "keywords": [
         "World Cup",
-        "viewership",
-        "China",
-        "sports",
-        "record"
+        "politics",
+        "sports"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "美加墨世界杯诞生首个乌龙",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "First Own Goal in US-Canada-Mexico World Cup",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "First own goal of the tournament is a notable sports moment.",
+      "share_angle": "Recap the match and the own goal, explaining its impact on the game.",
+      "keywords": [
+        "World Cup",
+        "own goal",
+        "soccer"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "一周“靓”数",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Weekly Highlights in Numbers",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A curated list of notable statistics from the week, appealing to data lovers.",
+      "share_angle": "Present interesting numbers from the week, e.g., economic data, sports stats, or social trends.",
+      "keywords": [
+        "weekly roundup",
+        "statistics",
+        "data"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "这种体态的人中风风险更高",
+      "chinese_topic": "名涉性侵球员世界杯命运截然不同",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "People with This Body Type Have Higher Stroke Risk",
+      "official_english": "World Cup Fates Diverge for Players Accused of Sexual Assault",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health-related topic with practical implications, likely based on a study, generating public concern.",
-      "share_angle": "Summarize the research findings and offer actionable advice for reducing stroke risk.",
+      "why_hot": "Contrasting outcomes for players facing serious allegations sparks debate on justice.",
+      "share_angle": "Compare cases of players accused of sexual assault and their different World Cup participation statuses.",
       "keywords": [
-        "stroke",
-        "body type",
-        "health risk",
-        "study",
-        "prevention"
+        "sexual assault",
+        "World Cup",
+        "justice"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "网传“2026高考答案”系谣言",
+      "chinese_topic": "雷军回应用私家车装600斤车厘子",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Rumor: '2026 College Entrance Exam Answers' Circulating Online Is Fake",
+      "official_english": "Lei Jun Responds to Using Personal Car to Transport 300 kg of Cherries",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Education-related misinformation during exam season, important for students and parents.",
-      "share_angle": "Explain how to identify exam-related scams and the importance of relying on official sources.",
+      "why_hot": "Tech CEO's quirky response to a viral anecdote humanizes a business figure.",
+      "share_angle": "Share Lei Jun's explanation and discuss the cultural significance of cherries in China.",
       "keywords": [
-        "gaokao",
-        "exam answers",
-        "rumor",
-        "misinformation",
-        "education"
+        "Lei Jun",
+        "cherries",
+        "Xiaomi"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "央视曝光“套路养生馆”",
+      "chinese_topic": "日本炸鸡店一锅油反复用66年",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "CCTV Exposes 'Routine Health Scams' Targeting Elderly",
+      "official_english": "Japanese Fried Chicken Shop Uses Same Oil for 66 Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumer protection issue exposed by state media, highlighting scams in the wellness industry.",
-      "share_angle": "Detail the deceptive practices and advise how to avoid falling victim to such scams.",
+      "why_hot": "Unusual food practice sparks curiosity and health concerns.",
+      "share_angle": "Explore the story behind the shop, the science of reused oil, and cultural attitudes toward food.",
       "keywords": [
-        "health scam",
-        "CCTV",
-        "elderly",
-        "consumer protection",
-        "wellness"
+        "Japan",
+        "fried chicken",
+        "oil reuse"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "SpaceX在纳斯达克敲钟上市",
+      "chinese_topic": "燃油车反击新能源车 成本催升订单",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "SpaceX Lists on Nasdaq, Rings Opening Bell",
+      "official_english": "Gasoline Vehicles Fight Back Against New Energy Vehicles as Costs Boost Orders",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major milestone for private space company, generating interest in space economy and investment.",
-      "share_angle": "Discuss the significance of SpaceX's IPO for the space industry and what it means for future space exploration.",
+      "why_hot": "Shift in auto market dynamics affects consumers and industry.",
+      "share_angle": "Analyze why gasoline car orders are rising due to cost factors, and what it means for EV adoption.",
       "keywords": [
-        "SpaceX",
-        "IPO",
-        "Nasdaq",
-        "space",
-        "investment"
+        "gasoline cars",
+        "new energy vehicles",
+        "auto market"
       ]
     }
   ]

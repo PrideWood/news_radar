@@ -43,6 +43,7 @@ const els = {
   japaneseGrid: document.querySelector("#japanese-grid"),
   japaneseEmpty: document.querySelector("#japanese-empty"),
   historyPanel: document.querySelector(".history-panel"),
+  historyTitle: document.querySelector("#history-title"),
 };
 
 function escapeHtml(value) {
@@ -136,6 +137,11 @@ function visibleHotTopics() {
 }
 
 function renderDigestList() {
+  if (state.view === "topics") {
+    els.count.textContent = "0";
+    els.list.innerHTML = "";
+    return;
+  }
   const digests = state.view === "japanese" ? state.japaneseDigests : state.digests;
   const selected = state.view === "japanese" ? state.selectedJapanese : state.selected;
   els.count.textContent = digests.length;
@@ -159,6 +165,7 @@ function renderView() {
   const isTopics = state.view === "topics";
   const isJapanese = state.view === "japanese";
   syncHeaderForView();
+  syncSidebarForView();
   els.viewSelect.value = state.view;
   els.filtersBar.hidden = isTopics;
   els.hotTopicsPanel.hidden = !isTopics;
@@ -175,6 +182,15 @@ function renderView() {
   } else {
     renderArticles();
   }
+}
+
+function syncSidebarForView() {
+  els.historyPanel.hidden = state.view === "topics";
+  if (state.view === "japanese") {
+    els.historyTitle.textContent = "日文文稿";
+    return;
+  }
+  els.historyTitle.textContent = "每日文稿";
 }
 
 function syncHeaderForView() {

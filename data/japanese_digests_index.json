@@ -1,18 +1,25 @@
 {
   "digests": [
     {
+      "date": "2026-06-14",
+      "file": "japanese_digests/2026-06-14.md",
+      "title": "Daily Japanese Close-Reading Recommendations - 2026-06-14",
+      "item_count": 8,
+      "updated_at": "2026-06-14T05:04:41+00:00"
+    },
+    {
       "date": "2026-06-13",
       "file": "japanese_digests/2026-06-13.md",
       "title": "Daily Japanese Close-Reading Recommendations - 2026-06-13",
       "item_count": 8,
-      "updated_at": "2026-06-13T14:21:11+00:00"
+      "updated_at": "2026-06-14T05:04:41+00:00"
     },
     {
       "date": "2026-06-12",
       "file": "japanese_digests/2026-06-12.md",
       "title": "Daily Japanese Close-Reading Recommendations - 2026-06-12",
       "item_count": 8,
-      "updated_at": "2026-06-13T14:21:11+00:00"
+      "updated_at": "2026-06-14T05:04:41+00:00"
     }
   ]
 }

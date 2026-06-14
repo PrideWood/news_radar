@@ -1,134 +1,134 @@
 {
-  "date": "2026-06-13",
-  "updated_at": "2026-06-13T14:20:44+00:00",
+  "date": "2026-06-14",
+  "updated_at": "2026-06-14T05:04:15+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "跟着总书记一起感受非遗魅力",
+      "chinese_topic": "廉价低质“迪卡侬”流向全国",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "President Xi Jinping Promotes Intangible Cultural Heritage",
+      "official_english": "Low-quality counterfeit Decathlon products flood Chinese market",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-level endorsement of cultural heritage resonates with national pride and cultural preservation efforts.",
-      "share_angle": "Explore how China is preserving its intangible cultural heritage through leadership engagement.",
+      "why_hot": "Consumer safety and brand protection concerns resonate widely.",
+      "share_angle": "How to spot fake outdoor gear and what it means for consumer rights.",
       "keywords": [
-        "intangible cultural heritage",
-        "Xi Jinping",
-        "cultural preservation"
+        "counterfeit",
+        "Decathlon",
+        "consumer safety"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "人民币可以在印尼直接花了",
+      "chinese_topic": "人民日报：儿童手表能不能做减法",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Chinese Yuan Now Directly Usable in Indonesia",
+      "official_english": "People's Daily: Should children's smartwatches be simplified?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Signifies progress in RMB internationalization and economic cooperation with Indonesia.",
-      "share_angle": "Discuss the implications of RMB internationalization for global trade and travel.",
+      "why_hot": "Parents debate over feature creep and privacy risks in kids' wearables.",
+      "share_angle": "The pros and cons of smartwatches for children and what regulators say.",
       "keywords": [
-        "RMB internationalization",
-        "China-Indonesia",
-        "currency"
+        "children's smartwatch",
+        "privacy",
+        "education"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "走出实验室 机器人如何“上岗”",
+      "chinese_topic": "科技让文物可看可感",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Robots Move from Labs to Real-World Jobs",
+      "official_english": "Technology makes cultural relics visible and tangible",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects growing interest in AI and robotics applications in daily life and industry.",
-      "share_angle": "Highlight real-world applications of robotics in China and future trends.",
+      "why_hot": "Museums use AR/VR to enhance visitor experience, sparking cultural interest.",
+      "share_angle": "How digital innovation is preserving and presenting China's heritage.",
       "keywords": [
-        "robotics",
-        "AI",
-        "automation"
+        "cultural relics",
+        "AR/VR",
+        "museum tech"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "世界杯赛事发朋友圈或构成侵权",
+      "chinese_topic": "尼克斯夺NBA总冠军",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Posting World Cup Moments on Social Media May Infringe Copyright",
+      "official_english": "New York Knicks win NBA championship",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Raises awareness about copyright issues during major sports events, relevant to many fans.",
-      "share_angle": "Explain copyright laws around sharing sports content on social media.",
+      "why_hot": "Major sports event with global fanbase; Knicks' first title in decades.",
+      "share_angle": "The Knicks' historic run and what it means for basketball fans worldwide.",
       "keywords": [
-        "World Cup",
-        "copyright",
-        "social media"
+        "NBA",
+        "Knicks",
+        "championship"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“机器人伴侣”来了 10天预售3800台",
+      "chinese_topic": "世界杯：澳大利亚vs土耳其",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Robot Companions Hit Market: 3,800 Pre-ordered in 10 Days",
+      "official_english": "World Cup: Australia vs Turkey",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Combines tech innovation with social/emotional needs, sparking debate on AI companionship.",
-      "share_angle": "Discuss the rise of AI companions and their societal impact.",
+      "why_hot": "High-stakes match in ongoing World Cup tournament.",
+      "share_angle": "Preview and analysis of the Australia-Turkey World Cup clash.",
       "keywords": [
-        "robot companion",
-        "AI",
-        "consumer tech"
+        "World Cup",
+        "Australia",
+        "Turkey"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "SpaceX亏损达413亿美元",
+      "chinese_topic": "考编第一被人递补维权后岗位取消",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "SpaceX Reports $41.3 Billion in Losses",
+      "official_english": "Top civil service exam candidate loses position after replacement, then position canceled",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-profile financial news about a major space company, relevant to business and tech.",
-      "share_angle": "Analyze SpaceX's financial challenges and implications for the space industry.",
+      "why_hot": "Raises questions about fairness and transparency in public recruitment.",
+      "share_angle": "The story behind a controversial civil service exam case and its implications.",
       "keywords": [
-        "SpaceX",
-        "financial loss",
-        "space industry"
+        "civil service exam",
+        "recruitment",
+        "fairness"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "世界杯熬夜性价比指南",
+      "chinese_topic": "央视曝光：六一前后商家频遭海量退货",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "World Cup All-Nighter Cost-Benefit Guide",
+      "official_english": "CCTV exposes massive return fraud around Children's Day",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Practical lifestyle content for World Cup fans, balancing health and entertainment.",
-      "share_angle": "Provide tips for staying healthy while enjoying late-night World Cup matches.",
+      "why_hot": "E-commerce return abuse hurts small businesses; public anger over unethical behavior.",
+      "share_angle": "How 'return fraud' works and what platforms are doing to stop it.",
       "keywords": [
-        "World Cup",
-        "health tips",
-        "lifestyle"
+        "return fraud",
+        "e-commerce",
+        "Children's Day"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "北京雨后出现双彩虹",
+      "chinese_topic": "机器人伴侣仅限成人购买使用",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Double Rainbow Appears Over Beijing After Rain",
+      "official_english": "Robot companions restricted to adult purchase and use",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Beautiful natural phenomenon that captures public imagination and social media sharing.",
-      "share_angle": "Share the science behind double rainbows and the cultural significance in China.",
+      "why_hot": "Ethical and regulatory debate over AI companions and age restrictions.",
+      "share_angle": "The rise of companion robots and the new rules governing them.",
       "keywords": [
-        "double rainbow",
-        "Beijing",
-        "weather"
+        "robot companion",
+        "AI ethics",
+        "age restriction"
       ]
     }
   ]

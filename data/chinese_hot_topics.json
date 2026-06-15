@@ -1,150 +1,134 @@
 {
-  "date": "2026-06-14",
-  "updated_at": "2026-06-14T14:23:11+00:00",
+  "date": "2026-06-15",
+  "updated_at": "2026-06-15T05:25:37+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "看见时间里的中国",
+      "chinese_topic": "美伊达成和平协议",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Seeing China Through Time",
+      "official_english": "US and Iran Reach Peace Agreement",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A trending cultural topic likely related to a documentary or exhibition showcasing China's transformation, resonating with national pride and historical reflection.",
-      "share_angle": "Explore how visual storytelling captures China's rapid development and cultural heritage, appealing to both domestic and international audiences.",
+      "why_hot": "Major geopolitical development with global implications for oil prices and regional stability.",
+      "share_angle": "Explain the key terms of the agreement and what it means for the Middle East and global energy markets.",
       "keywords": [
-        "China",
-        "time",
-        "culture",
-        "documentary",
-        "transformation"
+        "US-Iran",
+        "peace agreement",
+        "geopolitics"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "“老破小”突然成了抢手货",
+      "chinese_topic": "山姆总部被约谈",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Old, Small, and Dilapidated Homes Suddenly Become Hot Commodities",
+      "official_english": "Sam's Club Headquarters Summoned for Regulatory Talks",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects a shift in China's real estate market where older, smaller properties are gaining value due to renovation policies or location advantages.",
-      "share_angle": "Discuss the urban renewal trend and how older neighborhoods are being revitalized, offering affordable housing options in prime locations.",
+      "why_hot": "Involves a major foreign retailer in China, raising questions about business practices and consumer rights.",
+      "share_angle": "Discuss the reasons behind the regulatory action and its impact on foreign retailers in China.",
       "keywords": [
-        "real estate",
-        "old homes",
-        "urban renewal",
-        "housing market",
-        "China"
+        "Sam's Club",
+        "regulatory",
+        "consumer rights"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "张雪机车第二回合获第8名",
+      "chinese_topic": "金价跌破900老板5个手机都忙不过来",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Zhang Xue Finishes 8th in Second Round of Motorcycle Race",
+      "official_english": "Gold Price Drops Below 900 Yuan per Gram; Jewelry Stores See Surge in Customers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Zhang Xue is a prominent female motorcycle racer in China, and her performance in a competitive race draws attention to women in motorsports.",
-      "share_angle": "Highlight Zhang Xue's journey and the growing popularity of motorsports in China, especially among female athletes.",
+      "why_hot": "Gold price fluctuations directly affect consumers and investors, sparking buying frenzy.",
+      "share_angle": "Analyze the reasons for the gold price drop and its impact on Chinese consumers and the jewelry market.",
       "keywords": [
-        "Zhang Xue",
-        "motorcycle racing",
-        "women in sports",
-        "motorsports",
-        "China"
+        "gold price",
+        "investment",
+        "consumer behavior"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "地下管网焕新 你的城市将迎哪些改变",
+      "chinese_topic": "网民编造涉食品安全谣言被拘",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Underground Pipeline Renewal: What Changes Will Your City See?",
+      "official_english": "Internet User Detained for Spreading Food Safety Rumors",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Infrastructure upgrades directly impact citizens' daily lives, sparking discussion about urban planning and public works.",
-      "share_angle": "Explain how modernizing underground pipelines improves flood control, water quality, and urban resilience, using examples from Chinese cities.",
+      "why_hot": "Food safety is a perennial public concern; rumor-mongering causes panic and harms businesses.",
+      "share_angle": "Highlight the legal consequences of spreading false information and the importance of verifying news.",
       "keywords": [
-        "infrastructure",
-        "pipeline renewal",
-        "urban planning",
-        "flood control",
-        "China"
+        "food safety",
+        "rumor",
+        "legal consequences"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "除了国足 几乎都上场了",
+      "chinese_topic": "瑞典5比1战胜突尼斯",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Everyone Except the National Football Team Has Played",
+      "official_english": "Sweden Defeats Tunisia 5-1 in International Friendly",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A humorous jab at the Chinese men's national football team's absence from a major tournament, reflecting public sentiment about the team's performance.",
-      "share_angle": "Discuss the irony and public frustration with Chinese football, while also noting the success of other Chinese sports teams.",
+      "why_hot": "Sports event draws attention from football fans; scoreline indicates a dominant performance.",
+      "share_angle": "Recap the match highlights and discuss Sweden's prospects in upcoming tournaments.",
       "keywords": [
-        "Chinese football",
-        "national team",
-        "sports humor",
-        "World Cup",
-        "China"
+        "Sweden",
+        "Tunisia",
+        "football"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "男子贷44万给公司买奥迪2月后被开",
+      "chinese_topic": "长沙82岁老太独自出国参赛夺季军",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Man Loans 440,000 Yuan to Buy Audi for Company, Fired Two Months Later",
+      "official_english": "82-Year-Old Woman from Changsha Wins Third Place in International Competition Abroad",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral story highlighting workplace exploitation and financial risk, resonating with many employees concerned about job security.",
-      "share_angle": "Analyze the legal and ethical implications of such employer demands, and advise on protecting oneself in similar situations.",
+      "why_hot": "Inspirational story of an elderly person achieving success independently, challenging age stereotypes.",
+      "share_angle": "Share her story to inspire active aging and lifelong learning.",
       "keywords": [
-        "workplace",
-        "loan",
-        "employment rights",
-        "exploitation",
-        "China"
+        "elderly",
+        "inspiration",
+        "international competition"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "金价大跌 小克重金条几乎卖光",
+      "chinese_topic": "考编第一被递补 需给一个明白交代",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "Gold Prices Plunge, Small Gold Bars Nearly Sold Out",
+      "official_english": "Top Scorer in Civil Service Exam Replaced; Public Demands Explanation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Gold price fluctuations directly affect investors and consumers, with panic buying of small gold bars indicating market sentiment.",
-      "share_angle": "Explain the reasons behind the gold price drop and what it means for Chinese investors, including tips on gold investment.",
+      "why_hot": "Raises concerns about fairness and transparency in China's civil service recruitment process.",
+      "share_angle": "Examine the case and discuss the importance of procedural justice in public sector hiring.",
       "keywords": [
-        "gold price",
-        "investment",
-        "gold bars",
-        "market crash",
-        "China"
+        "civil service exam",
+        "fairness",
+        "transparency"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "大学里最被劝退的专业 它排第一",
+      "chinese_topic": "美公布涉UFO新档案：巨型“土豆”悬浮",
       "platform": "Baidu",
       "heat": "hot",
-      "official_english": "The Most Discouraged Major in Universities: It Ranks First",
+      "official_english": "US Releases New UFO Files: Giant 'Potato-Shaped' Object Hovering",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A topic that sparks debate about education and career prospects, as students and parents discuss which majors lead to employment difficulties.",
-      "share_angle": "Explore the job market for various majors and provide advice on choosing a field of study that balances passion and practicality.",
+      "why_hot": "UFO topics generate widespread curiosity and debate about extraterrestrial life and government transparency.",
+      "share_angle": "Summarize the newly released files and the ongoing public interest in UAP phenomena.",
       "keywords": [
-        "university major",
-        "career advice",
-        "employment",
-        "education",
-        "China"
+        "UFO",
+        "US government",
+        "transparency"
       ]
     }
   ]

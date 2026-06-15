@@ -1,0 +1,25 @@
+{
+  "digests": [
+    {
+      "date": "2026-06-15",
+      "file": "data/hot_topics/2026-06-15.json",
+      "title": "Domestic Hot Topics - 2026-06-15",
+      "item_count": 8,
+      "updated_at": "2026-06-15T05:25:37+00:00"
+    },
+    {
+      "date": "2026-06-14",
+      "file": "data/hot_topics/2026-06-14.json",
+      "title": "Domestic Hot Topics - 2026-06-14",
+      "item_count": 8,
+      "updated_at": "2026-06-14T14:23:11+00:00"
+    },
+    {
+      "date": "2026-06-13",
+      "file": "data/hot_topics/2026-06-13.json",
+      "title": "Domestic Hot Topics - 2026-06-13",
+      "item_count": 8,
+      "updated_at": "2026-06-13T04:47:10+00:00"
+    }
+  ]
+}

@@ -40,6 +40,8 @@ DEFAULT_STATE = ROOT / "data" / "seen_articles.json"
 DEFAULT_DIGEST_DIR = ROOT / "digests"
 DEFAULT_DIGEST_INDEX = ROOT / "data" / "digests_index.json"
 DEFAULT_HOT_TOPICS = ROOT / "data" / "chinese_hot_topics.json"
+DEFAULT_HOT_TOPICS_DIR = ROOT / "data" / "hot_topics"
+DEFAULT_HOT_TOPICS_INDEX = ROOT / "data" / "hot_topics_index.json"
 DEFAULT_JAPANESE_STATE = ROOT / "data" / "seen_japanese_items.json"
 DEFAULT_JAPANESE_DIGEST_DIR = ROOT / "japanese_digests"
 DEFAULT_JAPANESE_DIGEST_INDEX = ROOT / "data" / "japanese_digests_index.json"
@@ -617,6 +619,7 @@ def build_hot_topics_prompt(
               "chinese_topic": "...",
               "platform": "...",
               "heat": "...",
+              "source_url": "...",
               "official_english": "...",
               "official_english_source": "...",
               "official_english_url": "...",
@@ -680,6 +683,7 @@ def heuristic_hot_topics(candidates: list[HotTopicCandidate], count: int) -> lis
                 "chinese_topic": candidate.chinese_topic,
                 "platform": candidate.platform,
                 "heat": candidate.heat,
+                "source_url": candidate.source_url,
                 "official_english": f"Chinese online users discuss: {candidate.chinese_topic}",
                 "official_english_source": "Suggested wording",
                 "official_english_url": "",
@@ -689,6 +693,30 @@ def heuristic_hot_topics(candidates: list[HotTopicCandidate], count: int) -> lis
             }
         )
     return picked
+
+
+def ensure_hot_topic_fields(topics: list[dict[str, Any]], candidates: list[HotTopicCandidate]) -> list[dict[str, Any]]:
+    by_topic = {candidate.chinese_topic: candidate for candidate in candidates}
+    by_rank = {candidate.rank: candidate for candidate in candidates}
+    enriched: list[dict[str, Any]] = []
+    for index, topic in enumerate(topics, start=1):
+        candidate = by_topic.get(str(topic.get("chinese_topic", "")))
+        if not candidate:
+            try:
+                candidate = by_rank.get(int(topic.get("rank", 0)))
+            except (TypeError, ValueError):
+                candidate = None
+        if candidate:
+            topic.setdefault("rank", candidate.rank)
+            topic.setdefault("chinese_topic", candidate.chinese_topic)
+            topic.setdefault("platform", candidate.platform)
+            topic.setdefault("heat", candidate.heat)
+            topic.setdefault("source_url", candidate.source_url)
+        topic.setdefault("rank", index)
+        topic.setdefault("source_url", "")
+        topic.setdefault("official_english_url", "")
+        enriched.append(topic)
+    return enriched
 
 
 def write_hot_topics(path: Path, digest_date: str, topics: list[dict[str, Any]]) -> None:
@@ -704,7 +732,52 @@ def write_hot_topics(path: Path, digest_date: str, topics: list[dict[str, Any]])
         handle.write("\n")
 
 
-def generate_hot_topics(path: Path, digest_date: str, timeout: int, no_llm: bool, count: int = 8) -> list[dict[str, Any]]:
+def update_hot_topics_index(hot_topics_dir: Path, index_path: Path) -> None:
+    index_path.parent.mkdir(parents=True, exist_ok=True)
+    entries = []
+    for topic_path in sorted(hot_topics_dir.glob("*.json"), reverse=True):
+        try:
+            data = json.loads(topic_path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        topics = data.get("topics", [])
+        entries.append(
+            {
+                "date": data.get("date") or topic_path.stem,
+                "file": f"data/hot_topics/{topic_path.name}",
+                "title": f"Domestic Hot Topics - {data.get('date') or topic_path.stem}",
+                "item_count": len(topics) if isinstance(topics, list) else 0,
+                "updated_at": data.get("updated_at") or dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+            }
+        )
+    with index_path.open("w", encoding="utf-8") as handle:
+        json.dump({"digests": entries}, handle, indent=2, ensure_ascii=False)
+        handle.write("\n")
+
+
+def write_hot_topics_outputs(
+    latest_path: Path,
+    hot_topics_dir: Path,
+    index_path: Path,
+    digest_date: str,
+    topics: list[dict[str, Any]],
+) -> Path:
+    dated_path = hot_topics_dir / f"{digest_date}.json"
+    write_hot_topics(dated_path, digest_date, topics)
+    write_hot_topics(latest_path, digest_date, topics)
+    update_hot_topics_index(hot_topics_dir, index_path)
+    return dated_path
+
+
+def generate_hot_topics(
+    path: Path,
+    hot_topics_dir: Path,
+    index_path: Path,
+    digest_date: str,
+    timeout: int,
+    no_llm: bool,
+    count: int = 8,
+) -> list[dict[str, Any]]:
     candidates = collect_hot_topics(timeout)
     if not candidates:
         raise RuntimeError("No Chinese hot-topic candidates found")
@@ -717,8 +790,8 @@ def generate_hot_topics(path: Path, digest_date: str, timeout: int, no_llm: bool
         except Exception as exc:
             print(f"Warning: failed to generate hot topics with LLM, using fallback: {exc}", file=sys.stderr)
             topics = heuristic_hot_topics(candidates, count)
-    topics = topics[:count]
-    write_hot_topics(path, digest_date, topics)
+    topics = ensure_hot_topic_fields(topics[:count], candidates)
+    write_hot_topics_outputs(path, hot_topics_dir, index_path, digest_date, topics)
     return topics
 
 
@@ -975,6 +1048,8 @@ def main() -> int:
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_DIGEST_DIR)
     parser.add_argument("--index", type=Path, default=DEFAULT_DIGEST_INDEX)
     parser.add_argument("--hot-topics-output", type=Path, default=DEFAULT_HOT_TOPICS)
+    parser.add_argument("--hot-topics-dir", type=Path, default=DEFAULT_HOT_TOPICS_DIR)
+    parser.add_argument("--hot-topics-index", type=Path, default=DEFAULT_HOT_TOPICS_INDEX)
     parser.add_argument("--japanese-state", type=Path, default=DEFAULT_JAPANESE_STATE)
     parser.add_argument("--japanese-output-dir", type=Path, default=DEFAULT_JAPANESE_DIGEST_DIR)
     parser.add_argument("--japanese-index", type=Path, default=DEFAULT_JAPANESE_DIGEST_INDEX)
@@ -990,8 +1065,15 @@ def main() -> int:
     args = parser.parse_args()
 
     if args.topics_only:
-        topics = generate_hot_topics(args.hot_topics_output, args.date, args.timeout, args.no_llm)
-        print(f"Wrote {args.hot_topics_output} with {len(topics)} hot topics")
+        topics = generate_hot_topics(
+            args.hot_topics_output,
+            args.hot_topics_dir,
+            args.hot_topics_index,
+            args.date,
+            args.timeout,
+            args.no_llm,
+        )
+        print(f"Wrote {args.hot_topics_dir / (args.date + '.json')} with {len(topics)} hot topics")
         return 0
 
     if args.japanese_only:
@@ -1036,8 +1118,15 @@ def main() -> int:
     update_digest_index(args.output_dir, args.index)
     if not args.skip_hot_topics:
         try:
-            topics = generate_hot_topics(args.hot_topics_output, args.date, args.timeout, args.no_llm)
-            print(f"Wrote {args.hot_topics_output} with {len(topics)} hot topics")
+            topics = generate_hot_topics(
+                args.hot_topics_output,
+                args.hot_topics_dir,
+                args.hot_topics_index,
+                args.date,
+                args.timeout,
+                args.no_llm,
+            )
+            print(f"Wrote {args.hot_topics_dir / (args.date + '.json')} with {len(topics)} hot topics")
         except Exception as exc:
             print(f"Warning: failed to update Chinese hot topics: {exc}", file=sys.stderr)
     if not args.skip_japanese:

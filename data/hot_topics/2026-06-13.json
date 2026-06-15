@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-13",
+  "updated_at": "2026-06-13T04:47:10+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "守护好中华民族文化瑰宝和自然珍宝",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Safeguarding the Cultural Treasures and Natural Gems of the Chinese Nation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Reflects national emphasis on cultural heritage and natural conservation, resonating with public pride.",
+      "share_angle": "Explain China's efforts in preserving cultural and natural heritage, and why it matters globally.",
+      "keywords": [
+        "cultural heritage",
+        "natural conservation",
+        "China"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "这届世界杯有点太政治了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "This World Cup Feels Too Political",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "World Cup controversies spark debate on sports and politics intersection.",
+      "share_angle": "Discuss how political issues are overshadowing the World Cup, with examples like player bans and protests.",
+      "keywords": [
+        "World Cup",
+        "politics",
+        "sports"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "美加墨世界杯诞生首个乌龙",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "First Own Goal in US-Canada-Mexico World Cup",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "First own goal of the tournament is a notable sports moment.",
+      "share_angle": "Recap the match and the own goal, explaining its impact on the game.",
+      "keywords": [
+        "World Cup",
+        "own goal",
+        "soccer"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "一周“靓”数",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Weekly Highlights in Numbers",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A curated list of notable statistics from the week, appealing to data lovers.",
+      "share_angle": "Present interesting numbers from the week, e.g., economic data, sports stats, or social trends.",
+      "keywords": [
+        "weekly roundup",
+        "statistics",
+        "data"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "名涉性侵球员世界杯命运截然不同",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "World Cup Fates Diverge for Players Accused of Sexual Assault",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Contrasting outcomes for players facing serious allegations sparks debate on justice.",
+      "share_angle": "Compare cases of players accused of sexual assault and their different World Cup participation statuses.",
+      "keywords": [
+        "sexual assault",
+        "World Cup",
+        "justice"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "雷军回应用私家车装600斤车厘子",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Lei Jun Responds to Using Personal Car to Transport 300 kg of Cherries",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Tech CEO's quirky response to a viral anecdote humanizes a business figure.",
+      "share_angle": "Share Lei Jun's explanation and discuss the cultural significance of cherries in China.",
+      "keywords": [
+        "Lei Jun",
+        "cherries",
+        "Xiaomi"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "日本炸鸡店一锅油反复用66年",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Japanese Fried Chicken Shop Uses Same Oil for 66 Years",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Unusual food practice sparks curiosity and health concerns.",
+      "share_angle": "Explore the story behind the shop, the science of reused oil, and cultural attitudes toward food.",
+      "keywords": [
+        "Japan",
+        "fried chicken",
+        "oil reuse"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "燃油车反击新能源车 成本催升订单",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Gasoline Vehicles Fight Back Against New Energy Vehicles as Costs Boost Orders",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Shift in auto market dynamics affects consumers and industry.",
+      "share_angle": "Analyze why gasoline car orders are rising due to cost factors, and what it means for EV adoption.",
+      "keywords": [
+        "gasoline cars",
+        "new energy vehicles",
+        "auto market"
+      ]
+    }
+  ]
+}

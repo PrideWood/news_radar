@@ -1,8 +1,10 @@
 const state = {
   digests: [],
   japaneseDigests: [],
+  hotTopicDigests: [],
   selected: null,
   selectedJapanese: null,
+  selectedHotTopics: null,
   rawMarkdown: "",
   rawJapaneseMarkdown: "",
   articles: [],
@@ -137,13 +139,18 @@ function visibleHotTopics() {
 }
 
 function renderDigestList() {
-  if (state.view === "topics") {
-    els.count.textContent = "0";
-    els.list.innerHTML = "";
-    return;
-  }
-  const digests = state.view === "japanese" ? state.japaneseDigests : state.digests;
-  const selected = state.view === "japanese" ? state.selectedJapanese : state.selected;
+  const digests =
+    state.view === "topics"
+      ? state.hotTopicDigests
+      : state.view === "japanese"
+        ? state.japaneseDigests
+        : state.digests;
+  const selected =
+    state.view === "topics"
+      ? state.selectedHotTopics
+      : state.view === "japanese"
+        ? state.selectedJapanese
+        : state.selected;
   els.count.textContent = digests.length;
   els.list.innerHTML = digests
     .map(
@@ -185,7 +192,11 @@ function renderView() {
 }
 
 function syncSidebarForView() {
-  els.historyPanel.hidden = state.view === "topics";
+  els.historyPanel.hidden = false;
+  if (state.view === "topics") {
+    els.historyTitle.textContent = "热点日期";
+    return;
+  }
   if (state.view === "japanese") {
     els.historyTitle.textContent = "日文文稿";
     return;
@@ -202,8 +213,10 @@ function syncHeaderForView() {
     return;
   }
   if (state.view === "topics") {
-    els.title.textContent = "今日国内热点话题";
-    els.openMarkdown.href = "#";
+    els.title.textContent = state.hotTopicsMeta?.date
+      ? `${state.hotTopicsMeta.date} 国内热点话题`
+      : "请选择一组国内热点话题";
+    els.openMarkdown.href = state.selectedHotTopics?.file || "data/chinese_hot_topics.json";
     return;
   }
   els.title.textContent = state.selected ? `${state.selected.date} 每日精读推荐` : "请选择一篇每日推荐";
@@ -363,7 +376,10 @@ function renderHotTopics() {
                 </dl>`
               : ""
           }
-          ${topic.official_english_url ? `<a class="article-link" href="${escapeHtml(topic.official_english_url)}" target="_blank" rel="noreferrer">查看英文表述 →</a>` : ""}
+          <div class="link-row">
+            ${topic.source_url ? `<a class="article-link" href="${escapeHtml(topic.source_url)}" target="_blank" rel="noreferrer">查看热榜来源 →</a>` : ""}
+            ${topic.official_english_url ? `<a class="article-link" href="${escapeHtml(topic.official_english_url)}" target="_blank" rel="noreferrer">查看英文报道 →</a>` : ""}
+          </div>
         </article>
       `,
     )
@@ -404,9 +420,11 @@ async function loadJapaneseDigest(digest) {
   renderView();
 }
 
-async function loadHotTopics() {
+async function loadHotTopicDigest(digest) {
+  state.selectedHotTopics = digest;
+  renderDigestList();
   try {
-    const response = await fetch("data/chinese_hot_topics.json", { cache: "no-store" });
+    const response = await fetch(digest.file, { cache: "no-store" });
     if (!response.ok) throw new Error("Hot topics not found");
     const data = await response.json();
     state.hotTopicsMeta = data;
@@ -416,7 +434,49 @@ async function loadHotTopics() {
     state.hotTopicsMeta = null;
     state.hotTopics = [];
   }
-  if (state.view === "topics") renderHotTopics();
+  renderView();
+}
+
+async function loadHotTopics() {
+  try {
+    const response = await fetch("data/hot_topics_index.json", { cache: "no-store" });
+    if (!response.ok) throw new Error("Hot topics index not found");
+    const data = await response.json();
+    state.hotTopicDigests = Array.isArray(data.digests) ? data.digests : [];
+    if (state.hotTopicDigests.length > 0) {
+      await loadHotTopicDigest(state.hotTopicDigests[0]);
+      return;
+    }
+  } catch (error) {
+    console.warn(error);
+  }
+
+  try {
+    const response = await fetch("data/chinese_hot_topics.json", { cache: "no-store" });
+    if (!response.ok) throw new Error("Hot topics not found");
+    const data = await response.json();
+    state.hotTopicsMeta = data;
+    state.hotTopics = Array.isArray(data.topics) ? data.topics : [];
+    state.hotTopicDigests = data.date
+      ? [
+          {
+            date: data.date,
+            file: "data/chinese_hot_topics.json",
+            title: `Domestic Hot Topics - ${data.date}`,
+            item_count: state.hotTopics.length,
+            updated_at: data.updated_at,
+          },
+        ]
+      : [];
+    state.selectedHotTopics = state.hotTopicDigests[0] || null;
+  } catch (error) {
+    console.warn(error);
+    state.hotTopicsMeta = null;
+    state.hotTopics = [];
+    state.hotTopicDigests = [];
+    state.selectedHotTopics = null;
+  }
+  if (state.view === "topics") renderView();
 }
 
 async function loadIndex() {
@@ -458,10 +518,17 @@ async function loadJapaneseIndex() {
 els.list.addEventListener("click", (event) => {
   const button = event.target.closest("[data-date]");
   if (!button) return;
-  const digests = state.view === "japanese" ? state.japaneseDigests : state.digests;
+  const digests =
+    state.view === "topics"
+      ? state.hotTopicDigests
+      : state.view === "japanese"
+        ? state.japaneseDigests
+        : state.digests;
   const digest = digests.find((item) => item.date === button.dataset.date);
   if (!digest) return;
-  if (state.view === "japanese") {
+  if (state.view === "topics") {
+    loadHotTopicDigest(digest);
+  } else if (state.view === "japanese") {
     loadJapaneseDigest(digest);
   } else {
     loadDigest(digest);
@@ -491,10 +558,14 @@ els.viewSelect.addEventListener("change", (event) => {
 });
 
 els.copyMarkdown.addEventListener("click", async () => {
-  if (state.view === "topics") return;
-  const markdown = state.view === "japanese" ? state.rawJapaneseMarkdown : state.rawMarkdown;
-  if (!markdown) return;
-  await navigator.clipboard.writeText(markdown);
+  const content =
+    state.view === "topics"
+      ? JSON.stringify(state.hotTopicsMeta, null, 2)
+      : state.view === "japanese"
+        ? state.rawJapaneseMarkdown
+        : state.rawMarkdown;
+  if (!content) return;
+  await navigator.clipboard.writeText(content);
   els.copyMarkdown.textContent = "✓";
   window.setTimeout(() => {
     els.copyMarkdown.textContent = "⧉";

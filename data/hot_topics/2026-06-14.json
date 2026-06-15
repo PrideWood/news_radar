@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-14",
+  "updated_at": "2026-06-14T14:23:11+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "看见时间里的中国",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Seeing China Through Time",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A trending cultural topic likely related to a documentary or exhibition showcasing China's transformation, resonating with national pride and historical reflection.",
+      "share_angle": "Explore how visual storytelling captures China's rapid development and cultural heritage, appealing to both domestic and international audiences.",
+      "keywords": [
+        "China",
+        "time",
+        "culture",
+        "documentary",
+        "transformation"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "“老破小”突然成了抢手货",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Old, Small, and Dilapidated Homes Suddenly Become Hot Commodities",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Reflects a shift in China's real estate market where older, smaller properties are gaining value due to renovation policies or location advantages.",
+      "share_angle": "Discuss the urban renewal trend and how older neighborhoods are being revitalized, offering affordable housing options in prime locations.",
+      "keywords": [
+        "real estate",
+        "old homes",
+        "urban renewal",
+        "housing market",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "张雪机车第二回合获第8名",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Zhang Xue Finishes 8th in Second Round of Motorcycle Race",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Zhang Xue is a prominent female motorcycle racer in China, and her performance in a competitive race draws attention to women in motorsports.",
+      "share_angle": "Highlight Zhang Xue's journey and the growing popularity of motorsports in China, especially among female athletes.",
+      "keywords": [
+        "Zhang Xue",
+        "motorcycle racing",
+        "women in sports",
+        "motorsports",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "地下管网焕新 你的城市将迎哪些改变",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Underground Pipeline Renewal: What Changes Will Your City See?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Infrastructure upgrades directly impact citizens' daily lives, sparking discussion about urban planning and public works.",
+      "share_angle": "Explain how modernizing underground pipelines improves flood control, water quality, and urban resilience, using examples from Chinese cities.",
+      "keywords": [
+        "infrastructure",
+        "pipeline renewal",
+        "urban planning",
+        "flood control",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "除了国足 几乎都上场了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Everyone Except the National Football Team Has Played",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A humorous jab at the Chinese men's national football team's absence from a major tournament, reflecting public sentiment about the team's performance.",
+      "share_angle": "Discuss the irony and public frustration with Chinese football, while also noting the success of other Chinese sports teams.",
+      "keywords": [
+        "Chinese football",
+        "national team",
+        "sports humor",
+        "World Cup",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "男子贷44万给公司买奥迪2月后被开",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Man Loans 440,000 Yuan to Buy Audi for Company, Fired Two Months Later",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A viral story highlighting workplace exploitation and financial risk, resonating with many employees concerned about job security.",
+      "share_angle": "Analyze the legal and ethical implications of such employer demands, and advise on protecting oneself in similar situations.",
+      "keywords": [
+        "workplace",
+        "loan",
+        "employment rights",
+        "exploitation",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "金价大跌 小克重金条几乎卖光",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "Gold Prices Plunge, Small Gold Bars Nearly Sold Out",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Gold price fluctuations directly affect investors and consumers, with panic buying of small gold bars indicating market sentiment.",
+      "share_angle": "Explain the reasons behind the gold price drop and what it means for Chinese investors, including tips on gold investment.",
+      "keywords": [
+        "gold price",
+        "investment",
+        "gold bars",
+        "market crash",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "大学里最被劝退的专业 它排第一",
+      "platform": "Baidu",
+      "heat": "hot",
+      "official_english": "The Most Discouraged Major in Universities: It Ranks First",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A topic that sparks debate about education and career prospects, as students and parents discuss which majors lead to employment difficulties.",
+      "share_angle": "Explore the job market for various majors and provide advice on choosing a field of study that balances passion and practicality.",
+      "keywords": [
+        "university major",
+        "career advice",
+        "employment",
+        "education",
+        "China"
+      ],
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    }
+  ]
+}

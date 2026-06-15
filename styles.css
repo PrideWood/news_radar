@@ -482,6 +482,12 @@ h1 {
   text-decoration: underline;
 }
 
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
 @media (max-width: 860px) {
   .app-shell {
     grid-template-columns: 1fr;

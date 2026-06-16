@@ -1,142 +1,142 @@
 {
   "date": "2026-06-16",
-  "updated_at": "2026-06-15T17:26:30+00:00",
+  "updated_at": "2026-06-16T05:28:00+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "多所“双一流”高校宣布扩招",
+      "chinese_topic": "世界杯爆大冷 天台都要挤不下了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple 'Double First-Class' universities announce enrollment expansion",
+      "official_english": "World Cup Upsets: Fans in Shock as Favorites Fall",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Education policy directly affects millions of students and families; expansion of top universities signals major shift in higher education access.",
-      "share_angle": "Explain what 'Double First-Class' means and how expansion could impact college admission rates and educational equity.",
+      "why_hot": "Major World Cup upsets generate widespread discussion and emotional reactions among fans.",
+      "share_angle": "Explain the upsets and their impact on the tournament, focusing on the drama and unpredictability of sports.",
       "keywords": [
-        "Double First-Class",
-        "university expansion",
-        "higher education"
+        "World Cup",
+        "upset",
+        "sports"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "“六张网”为新基建强筋健骨",
+      "chinese_topic": "万欧身价零封5亿欧豪门",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'Six Networks' strengthen new infrastructure",
+      "official_english": "Underdog Team with €10,000 Value Shuts Out €500 Million Giants",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New infrastructure is a key economic driver; 'six networks' concept outlines China's tech and digital development priorities.",
-      "share_angle": "Break down the six networks (e.g., 5G, AI, data centers) and their role in China's economic transformation.",
+      "why_hot": "A stunning David vs. Goliath story in football where a low-value team defeats a high-value opponent.",
+      "share_angle": "Highlight the financial disparity and the beauty of sports where money doesn't guarantee victory.",
       "keywords": [
-        "new infrastructure",
-        "six networks",
-        "digital economy"
+        "football",
+        "underdog",
+        "sports economics"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "伊朗用AI让球员牵遇难儿童入场",
+      "chinese_topic": "万亿存款去哪儿了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Iran uses AI to have players escort deceased children onto field",
+      "official_english": "Where Have Trillions in Deposits Gone?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Combines World Cup, AI technology, and humanitarian gesture; sparks discussion on ethics and innovation.",
-      "share_angle": "Describe how AI was used to create virtual images of children killed in accidents, and the public reaction to this tribute.",
+      "why_hot": "Public concern over a massive shift in bank deposits, sparking debate on economic trends and personal finance.",
+      "share_angle": "Explain possible reasons for the deposit decline, such as consumption or investment shifts, and what it means for the economy.",
       "keywords": [
-        "Iran",
-        "AI",
-        "World Cup tribute"
+        "deposits",
+        "economy",
+        "finance"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "新能源车该不该承担“养护费”",
+      "chinese_topic": "起打击“银狐”木马案例公布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Should new energy vehicles bear 'maintenance fees'?",
+      "official_english": "Authorities Crack Down on 'Silver Fox' Trojan Malware: Cases Revealed",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "As EV adoption grows, debate over road maintenance costs and tax fairness becomes a livelihood issue.",
-      "share_angle": "Compare traditional fuel taxes vs. EV fees, and explain the policy debate in China and globally.",
+      "why_hot": "Cybersecurity action against a major malware threat, highlighting digital safety concerns.",
+      "share_angle": "Describe the malware's impact and the importance of cybersecurity measures for individuals and businesses.",
       "keywords": [
-        "new energy vehicles",
-        "maintenance fees",
-        "EV policy"
+        "cybersecurity",
+        "malware",
+        "Silver Fox"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "博主编造涉货车司机与货主谣言被罚",
+      "chinese_topic": "伊朗国足获准世界杯比赛时在美过夜",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Blogger fined for fabricating rumors about truck drivers and cargo owners",
+      "official_english": "Iran National Football Team Allowed to Stay Overnight in US During World Cup",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Highlights crackdown on online misinformation, relevant to free speech and platform responsibility.",
-      "share_angle": "Discuss the case details and broader implications for rumor control and social media regulation in China.",
+      "why_hot": "A rare diplomatic exception for the Iranian team, reflecting political tensions and sports diplomacy.",
+      "share_angle": "Discuss the geopolitical context and how sports can bridge diplomatic gaps.",
       "keywords": [
-        "rumor",
-        "truck driver",
-        "misinformation penalty"
+        "Iran",
+        "World Cup",
+        "diplomacy"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "多方回应13岁学生被误诊艾滋病",
+      "chinese_topic": "重庆市委书记：全面彻底肃清流毒影响",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple parties respond to misdiagnosis of HIV in 13-year-old student",
+      "official_english": "Chongqing Party Chief Vows to Thoroughly Eradicate Negative Influences",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Medical misdiagnosis of a minor raises serious public health and trust concerns.",
-      "share_angle": "Explain the incident, the responses from hospitals and authorities, and the importance of diagnostic accuracy.",
+      "why_hot": "Political statement on anti-corruption and governance, signaling continued efforts to clean up local politics.",
+      "share_angle": "Explain the context of anti-corruption campaigns and their significance for political stability.",
       "keywords": [
-        "HIV misdiagnosis",
-        "medical error",
-        "student health"
+        "Chongqing",
+        "anti-corruption",
+        "politics"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "世界杯：西班牙vs佛得角",
+      "chinese_topic": "腾讯下调员工Token额度",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup: Spain vs. Cape Verde",
+      "official_english": "Tencent Reduces Employee Token Allowances",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup match featuring a major team vs. a debutant; generates sports excitement and underdog story.",
-      "share_angle": "Preview the match, highlight Cape Verde's historic first World Cup appearance, and discuss Spain's chances.",
+      "why_hot": "A major tech company's internal policy change sparks discussion on corporate benefits and digital currency trends.",
+      "share_angle": "Analyze the implications for employee compensation and the broader tech industry's approach to tokens.",
       "keywords": [
-        "World Cup",
-        "Spain",
-        "Cape Verde"
+        "Tencent",
+        "tokens",
+        "tech industry"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "雷军在武汉给青年两点忠告",
+      "chinese_topic": "女子全副武装防晒反致烂脸",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lei Jun gives two pieces of advice to youth in Wuhan",
+      "official_english": "Woman's Extreme Sun Protection Leads to Severe Skin Damage",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Lei Jun is a prominent tech entrepreneur; his advice resonates with young people and entrepreneurs.",
-      "share_angle": "Summarize his advice (e.g., focus on long-term goals, embrace failure) and relate to startup culture.",
+      "why_hot": "A cautionary tale about overdoing sun protection, raising awareness on proper skincare.",
+      "share_angle": "Discuss the science of sun protection and the risks of excessive or improper use of products.",
       "keywords": [
-        "Lei Jun",
-        "youth advice",
-        "entrepreneurship"
+        "skincare",
+        "sun protection",
+        "health"
       ]
     }
   ]

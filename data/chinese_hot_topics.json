@@ -1,142 +1,142 @@
 {
   "date": "2026-06-17",
-  "updated_at": "2026-06-17T05:10:19+00:00",
+  "updated_at": "2026-06-17T15:57:37+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "梅西帽子戏法 并列世界杯射手王",
+      "chinese_topic": "总结运用闽宁协作等有益经验",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Messi hat-trick ties World Cup all-time scoring record",
+      "official_english": "Summarizing and Applying Beneficial Experiences from Fujian-Ningxia Cooperation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Messi scored a hat-trick in Argentina's 3-0 win over Algeria, tying the World Cup all-time scoring record, sparking massive fan celebration.",
-      "share_angle": "Explain Messi's historic achievement and its significance in World Cup history.",
+      "why_hot": "Highlights successful regional cooperation model, relevant to poverty alleviation and development.",
+      "share_angle": "How China's inter-provincial collaboration model is being scaled up for broader impact.",
       "keywords": [
-        "Messi",
-        "hat-trick",
-        "World Cup record"
+        "Fujian-Ningxia cooperation",
+        "poverty alleviation",
+        "regional development"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "万亿元投资“源源而来”",
+      "chinese_topic": "淘宝闪购、美团、京东外卖集体表态",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Trillions of yuan in investment 'pouring in'",
+      "official_english": "Taobao Flash Sale, Meituan, and JD Delivery Make Collective Statements",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reports of massive new investment plans signal economic stimulus, drawing public attention to economic outlook.",
-      "share_angle": "Break down the scale and potential impact of these investments on ordinary people.",
+      "why_hot": "Major e-commerce platforms addressing competition or regulatory issues, affecting millions of users.",
+      "share_angle": "What the joint statement means for the future of food delivery and e-commerce in China.",
       "keywords": [
-        "investment",
-        "economy",
-        "stimulus"
+        "e-commerce",
+        "food delivery",
+        "platform regulation"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "陆家嘴论坛上 央行带来新政策利好",
+      "chinese_topic": "世界杯：葡萄牙vs刚果金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "PBOC announces new policy benefits at Lujiazui Forum",
+      "official_english": "World Cup: Portugal vs. DR Congo",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Central bank's new policies at the Lujiazui Forum are seen as positive for markets and the economy.",
-      "share_angle": "Summarize the key policy takeaways and what they mean for investors and consumers.",
+      "why_hot": "World Cup match draws global attention; Portugal is a top team.",
+      "share_angle": "Key moments and implications for the tournament.",
       "keywords": [
-        "PBOC",
-        "Lujiazui Forum",
-        "policy"
+        "World Cup",
+        "Portugal",
+        "DR Congo"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "号汽油或回“7”字头",
+      "chinese_topic": "中国机器人开始治理沙漠了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gasoline prices may fall back to 7 yuan per liter",
+      "official_english": "Chinese Robots Begin Desert Greening Efforts",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Potential drop in gasoline prices directly affects household budgets, a livelihood issue.",
-      "share_angle": "Explain the reasons behind the price drop and its impact on daily life.",
+      "why_hot": "Innovative use of robotics for environmental restoration, showcasing tech for sustainability.",
+      "share_angle": "How autonomous robots are being deployed to combat desertification in China.",
       "keywords": [
-        "gasoline price",
-        "livelihood",
-        "economy"
+        "robotics",
+        "desertification",
+        "environmental technology"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "人造谣“有人驾车抢女学生”被拘",
+      "chinese_topic": "世界杯“眯眯眼”事件最新进展",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor-monger detained for false claim of 'car abduction of female student'",
+      "official_english": "Latest Developments in World Cup 'Slanted Eyes' Incident",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Rumor caused public panic; detention highlights consequences of spreading false information.",
-      "share_angle": "Discuss the dangers of online rumors and legal consequences.",
+      "why_hot": "Controversy over racial stereotyping at World Cup sparks debate on discrimination.",
+      "share_angle": "The incident and its implications for cultural sensitivity in global sports.",
       "keywords": [
-        "rumor",
-        "detention",
-        "public safety"
+        "World Cup",
+        "racial stereotyping",
+        "cultural sensitivity"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "岁女孩误把10厘米肿瘤当正常发育",
+      "chinese_topic": "元买数百万Token 一句你好烧掉5万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Girl mistook 10cm tumor for normal growth",
+      "official_english": "Millions of Tokens Purchased for Yuan; a Single 'Hello' Costs 50,000 Tokens",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health scare story raises awareness about pediatric tumor symptoms and medical check-ups.",
-      "share_angle": "Highlight the importance of early detection and regular health checks for children.",
+      "why_hot": "Highlights high cost of AI token usage, raising questions about AI economics.",
+      "share_angle": "The hidden costs of AI: why a simple query can be expensive.",
       "keywords": [
-        "tumor",
-        "health awareness",
-        "children"
+        "AI tokens",
+        "cost",
+        "artificial intelligence"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "男子养309条蟒蛇 案值超3000万",
+      "chinese_topic": "豆包每天消耗数千万 收入不足百万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man kept 309 pythons worth over 30 million yuan",
+      "official_english": "Doubao Consumes Tens of Millions Daily, Revenue Less Than One Million",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Illegal wildlife trade case with huge scale shocks the public and highlights enforcement.",
-      "share_angle": "Explain the legal and ecological issues around illegal wildlife trade.",
+      "why_hot": "Reveals financial challenges of AI products, sparking discussion on business models.",
+      "share_angle": "Why AI chatbots like Doubao struggle to monetize despite high usage.",
       "keywords": [
-        "pythons",
-        "wildlife crime",
-        "illegal trade"
+        "AI chatbot",
+        "revenue",
+        "business model"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "真的会出事！出门前请检查这根线",
+      "chinese_topic": "马宁首次主哨世界杯",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Safety warning: Check this cord before leaving home",
+      "official_english": "Ma Ning Referees World Cup for the First Time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Viral safety tip about a common household hazard resonates widely.",
-      "share_angle": "Share practical safety advice that could prevent accidents.",
+      "why_hot": "Chinese referee makes historic World Cup debut, a milestone for Chinese football.",
+      "share_angle": "Ma Ning's journey to the World Cup and what it means for Chinese refereeing.",
       "keywords": [
-        "safety",
-        "household hazard",
-        "prevention"
+        "Ma Ning",
+        "World Cup",
+        "Chinese referee"
       ]
     }
   ]

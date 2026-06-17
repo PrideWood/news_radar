@@ -1,150 +1,142 @@
 {
   "date": "2026-06-17",
-  "updated_at": "2026-06-16T17:17:49+00:00",
+  "updated_at": "2026-06-17T05:10:19+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "青海6.3级地震 游客正拍照忙蹲下",
+      "chinese_topic": "梅西帽子戏法 并列世界杯射手王",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "6.3-Magnitude Earthquake Strikes Qinghai; Tourists Caught Off Guard",
+      "official_english": "Messi hat-trick ties World Cup all-time scoring record",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Natural disaster with immediate human interest; tourists' reactions add a relatable angle.",
-      "share_angle": "Explain earthquake preparedness and China's seismic monitoring systems.",
+      "why_hot": "Messi scored a hat-trick in Argentina's 3-0 win over Algeria, tying the World Cup all-time scoring record, sparking massive fan celebration.",
+      "share_angle": "Explain Messi's historic achievement and its significance in World Cup history.",
       "keywords": [
-        "earthquake",
-        "Qinghai",
-        "tourism",
-        "disaster response"
+        "Messi",
+        "hat-trick",
+        "World Cup record"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "今年高校新增了这几个专业",
+      "chinese_topic": "万亿元投资“源源而来”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Universities Add New Majors for 2026",
+      "official_english": "Trillions of yuan in investment 'pouring in'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Education policy affecting millions of students and parents; reflects economic and tech trends.",
-      "share_angle": "Discuss which new majors align with future job markets (AI, green energy, etc.).",
+      "why_hot": "Reports of massive new investment plans signal economic stimulus, drawing public attention to economic outlook.",
+      "share_angle": "Break down the scale and potential impact of these investments on ordinary people.",
       "keywords": [
-        "university",
-        "new majors",
-        "education",
-        "career"
+        "investment",
+        "economy",
+        "stimulus"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "中国丝瓜瓤现身旧金山街头 5美元1个",
+      "chinese_topic": "陆家嘴论坛上 央行带来新政策利好",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Loofah Sponges Sold in San Francisco for $5 Each",
+      "official_english": "PBOC announces new policy benefits at Lujiazui Forum",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cultural export and economic curiosity; shows global demand for traditional Chinese products.",
-      "share_angle": "Explore the global market for traditional Chinese household items and sustainability.",
+      "why_hot": "Central bank's new policies at the Lujiazui Forum are seen as positive for markets and the economy.",
+      "share_angle": "Summarize the key policy takeaways and what they mean for investors and consumers.",
       "keywords": [
-        "loofah",
-        "export",
-        "Chinese culture",
-        "sustainability"
+        "PBOC",
+        "Lujiazui Forum",
+        "policy"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "为何一到世界杯英国就变成了英格兰",
+      "chinese_topic": "号汽油或回“7”字头",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Does the UK Become England During the World Cup?",
+      "official_english": "Gasoline prices may fall back to 7 yuan per liter",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sports trivia that sparks curiosity; explains a common confusion for Chinese audiences.",
-      "share_angle": "Clarify the difference between UK, Great Britain, and England in sports contexts.",
+      "why_hot": "Potential drop in gasoline prices directly affects household budgets, a livelihood issue.",
+      "share_angle": "Explain the reasons behind the price drop and its impact on daily life.",
       "keywords": [
-        "World Cup",
-        "England",
-        "UK",
-        "sports terminology"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "全球算力版图被中国小城改写",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Small Chinese City Reshapes Global Computing Power Map",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Technology and economic development; highlights China's rise in computing infrastructure.",
-      "share_angle": "Profile the city (e.g., Gui'an or similar) and its role in data centers and AI.",
-      "keywords": [
-        "computing power",
-        "data center",
-        "small city",
-        "technology"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "万存一年利息仅9500元",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Annual Interest on 10,000 Yuan Deposit Falls to 9,500 Yuan",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Personal finance concern; reflects low interest rates and economic trends.",
-      "share_angle": "Explain why bank interest rates are dropping and what alternatives exist for savers.",
-      "keywords": [
-        "interest rate",
-        "savings",
-        "bank",
+        "gasoline price",
+        "livelihood",
         "economy"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "梅西将成首位出战六届世界杯的球员",
+      "rank": 5,
+      "chinese_topic": "人造谣“有人驾车抢女学生”被拘",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Messi Set to Become First Player to Appear in Six World Cups",
+      "official_english": "Rumor-monger detained for false claim of 'car abduction of female student'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Historic sports milestone; appeals to global football fans.",
-      "share_angle": "Highlight Messi's career longevity and the significance of this record.",
+      "why_hot": "Rumor caused public panic; detention highlights consequences of spreading false information.",
+      "share_angle": "Discuss the dangers of online rumors and legal consequences.",
       "keywords": [
-        "Messi",
-        "World Cup",
-        "record",
-        "football"
+        "rumor",
+        "detention",
+        "public safety"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "岁女孩误把10厘米肿瘤当正常发育",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Girl mistook 10cm tumor for normal growth",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Health scare story raises awareness about pediatric tumor symptoms and medical check-ups.",
+      "share_angle": "Highlight the importance of early detection and regular health checks for children.",
+      "keywords": [
+        "tumor",
+        "health awareness",
+        "children"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "男子养309条蟒蛇 案值超3000万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Man kept 309 pythons worth over 30 million yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Illegal wildlife trade case with huge scale shocks the public and highlights enforcement.",
+      "share_angle": "Explain the legal and ecological issues around illegal wildlife trade.",
+      "keywords": [
+        "pythons",
+        "wildlife crime",
+        "illegal trade"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "造谣“上海地铁顶部坠落”者被拘",
+      "chinese_topic": "真的会出事！出门前请检查这根线",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor Spreader Detained for False Shanghai Metro Ceiling Collapse Claim",
+      "official_english": "Safety warning: Check this cord before leaving home",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public safety and misinformation; shows legal consequences of spreading rumors.",
-      "share_angle": "Discuss China's laws against online rumors and how to verify information.",
+      "why_hot": "Viral safety tip about a common household hazard resonates widely.",
+      "share_angle": "Share practical safety advice that could prevent accidents.",
       "keywords": [
-        "rumor",
-        "Shanghai Metro",
-        "detention",
-        "misinformation"
+        "safety",
+        "household hazard",
+        "prevention"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-06-18",
-  "updated_at": "2026-06-18T04:59:39+00:00",
+  "updated_at": "2026-06-18T15:49:00+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "万亿 埋进地下",
+      "chinese_topic": "当利率“1字头” 我们的钱该放哪",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Trillions Buried Underground: China's Massive Infrastructure Investment",
+      "official_english": "Where to put your money when interest rates hit 1%",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Discusses massive government investment in underground infrastructure, sparking public interest in economic stimulus and urban development.",
-      "share_angle": "Explain how trillions of yuan are being invested in underground projects like pipelines and subways, and what it means for the economy.",
+      "why_hot": "Interest rates falling to 1% range sparks public discussion on personal finance and investment strategies.",
+      "share_angle": "Explain the impact of low interest rates on savings and investments, and offer tips for Chinese households.",
       "keywords": [
-        "infrastructure",
-        "investment",
-        "economy"
+        "interest rates",
+        "personal finance",
+        "investment"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "国内油价将调整",
+      "chinese_topic": "让AI走进千家万户",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Domestic Oil Prices to Be Adjusted",
+      "official_english": "Bringing AI into every home",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Oil price adjustments directly affect millions of drivers and households, making it a high-interest livelihood topic.",
-      "share_angle": "Break down the factors behind the price change and its impact on daily life and transportation costs.",
+      "why_hot": "AI普及话题持续升温，反映公众对技术融入日常生活的期待与讨论。",
+      "share_angle": "Highlight recent AI consumer products and policy pushes for AI accessibility in China.",
       "keywords": [
-        "oil prices",
-        "livelihood",
-        "economy"
+        "AI",
+        "smart home",
+        "technology"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "这场丰收保卫战是如何打赢的",
+      "chinese_topic": "中国男足何时进世界杯？刘建宏发声",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How the Harvest Defense Battle Was Won",
+      "official_english": "When will China men's football enter the World Cup? Liu Jianhong speaks out",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Highlights agricultural resilience and food security, a topic of national importance and public interest.",
-      "share_angle": "Tell the story of how farmers and scientists overcame challenges to ensure a good harvest, emphasizing food security.",
+      "why_hot": "知名评论员刘建宏的言论再次引发对中国男足世界杯前景的讨论。",
+      "share_angle": "Discuss the challenges and hopes for Chinese football's World Cup qualification.",
       "keywords": [
-        "agriculture",
-        "food security",
-        "harvest"
+        "Chinese football",
+        "World Cup",
+        "Liu Jianhong"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "韦东奕获奖",
+      "chinese_topic": "日本焚烧炉中炼出7000多克黄金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wei Dongyi Wins Award",
+      "official_english": "Japan recovers over 7,000 grams of gold from incinerators",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Wei Dongyi is a renowned mathematician; his award inspires interest in science and education.",
-      "share_angle": "Profile Wei Dongyi's achievements and the significance of his award for Chinese mathematics.",
+      "why_hot": "日本从垃圾焚烧炉中提取黄金的新闻引发对资源回收和城市矿山的关注。",
+      "share_angle": "Explore urban mining and e-waste recycling innovations in Japan.",
       "keywords": [
-        "mathematics",
-        "award",
-        "education"
+        "gold recovery",
+        "urban mining",
+        "Japan"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "美国通胀又爆了",
+      "chinese_topic": "纸尿裤检出甲酰胺 要不要带孩子检查",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US Inflation Surges Again",
+      "official_english": "Formamide detected in diapers: Should children be tested?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "US inflation has global economic implications, affecting trade, investment, and consumer prices worldwide.",
-      "share_angle": "Explain the causes of the latest US inflation spike and its potential impact on global markets and China.",
+      "why_hot": "纸尿裤安全事件引发家长对婴幼儿产品安全的担忧。",
+      "share_angle": "Explain formamide risks and provide guidance on product safety checks.",
       "keywords": [
-        "inflation",
-        "US economy",
-        "global impact"
+        "diapers",
+        "formamide",
+        "child safety"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "美团被曝有偿搜集友商“黑料”",
+      "chinese_topic": "这座城市每6个人就有1个是老板",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Meituan Exposed for Paid Collection of Rivals' Negative Information",
+      "official_english": "In this city, 1 in 6 people is a boss",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Involves business ethics and competition in the tech industry, a topic of public concern.",
-      "share_angle": "Discuss the allegations against Meituan and the broader issue of competitive practices in China's tech sector.",
+      "why_hot": "某城市高创业率数据引发对地方经济活力的讨论。",
+      "share_angle": "Profile the city's entrepreneurial ecosystem and what drives its high business density.",
       "keywords": [
-        "Meituan",
-        "business ethics",
-        "competition"
+        "entrepreneurship",
+        "city economy",
+        "business"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "多款纸尿裤被曝检出有毒物质",
+      "chinese_topic": "外交部回应新加坡播出揭秘731纪录片",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple Diaper Brands Found to Contain Toxic Substances",
+      "official_english": "Foreign Ministry responds to Singapore airing documentary on Unit 731",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Directly affects consumer safety, especially for parents of infants, sparking widespread concern.",
-      "share_angle": "Report on the findings, which brands are affected, and what parents should do to ensure safety.",
+      "why_hot": "新加坡播出731部队纪录片引发国际关注，外交部回应体现历史态度。",
+      "share_angle": "Discuss the historical significance and China's stance on wartime atrocities.",
       "keywords": [
-        "consumer safety",
-        "diapers",
-        "toxic substances"
+        "Unit 731",
+        "documentary",
+        "foreign ministry"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "中国预制房火到海外 可卖超百万美金",
+      "chinese_topic": "屈原其实不姓屈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Prefabricated Houses Go Viral Overseas, Selling for Over $1 Million",
+      "official_english": "Qu Yuan's surname was not actually Qu",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Showcases Chinese innovation in construction and its global appeal, a positive economic and technology story.",
-      "share_angle": "Explore how Chinese prefab homes are gaining popularity abroad, their features, and what drives the high price.",
+      "why_hot": "端午节期间关于屈原姓氏的冷知识引发文化讨论。",
+      "share_angle": "Explain the historical naming conventions and the story behind Qu Yuan's real surname.",
       "keywords": [
-        "prefabricated houses",
-        "exports",
-        "innovation"
+        "Qu Yuan",
+        "Dragon Boat Festival",
+        "history"
       ]
     }
   ]

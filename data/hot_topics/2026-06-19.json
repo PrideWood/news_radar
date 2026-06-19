@@ -1,142 +1,158 @@
 {
   "date": "2026-06-19",
-  "updated_at": "2026-06-19T05:21:29+00:00",
+  "updated_at": "2026-06-19T15:38:02+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "多名学生违背张桂梅忠告回到大山",
+      "chinese_topic": "中方对澳大利亚进口牛肉加征55%关税",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Students Return to Mountains Despite Zhang Guimei's Advice",
+      "official_english": "China Imposes 55% Tariff on Australian Beef Imports",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Zhang Guimei, a renowned educator, had advised students to stay out of the mountains for better opportunities, but many chose to return, sparking debate on education and rural development.",
-      "share_angle": "Discuss the tension between personal choice and societal expectations in rural education.",
+      "why_hot": "Trade tensions escalate as China slaps a steep tariff on Australian beef, impacting global trade dynamics.",
+      "share_angle": "Explain the reasons behind the tariff and its implications for consumers and international relations.",
       "keywords": [
-        "Zhang Guimei",
-        "rural education",
-        "mountain students"
+        "China",
+        "Australia",
+        "tariff",
+        "beef",
+        "trade"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "端午节最硬核的“龙舟”竞渡来了",
+      "chinese_topic": "日本宣布：签证费涨到5倍",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Dragon Boat Festival: The Most Hardcore Dragon Boat Race Arrives",
+      "official_english": "Japan Announces Fivefold Increase in Visa Fees",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Dragon Boat Festival traditions are celebrated nationwide, and this year's races are particularly intense, drawing public interest.",
-      "share_angle": "Explore the cultural significance and modern adaptations of dragon boat racing.",
+      "why_hot": "Japan's visa fee hike affects millions of travelers, sparking discussions on travel costs and bilateral relations.",
+      "share_angle": "Break down the new visa fees and what they mean for tourists, students, and business travelers.",
       "keywords": [
-        "Dragon Boat Festival",
-        "dragon boat race",
-        "Chinese tradition"
+        "Japan",
+        "visa",
+        "fee increase",
+        "travel",
+        "policy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "世界杯开赛后最疯狂一战诞生",
+      "chinese_topic": "在太空健身是什么体验",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Most Thrilling Match Since World Cup Kickoff",
+      "official_english": "What Is It Like to Exercise in Space?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A World Cup match with dramatic twists captivated global audiences, becoming a trending topic.",
-      "share_angle": "Analyze the game's key moments and its impact on the tournament.",
+      "why_hot": "Space exploration fascinates the public; insights into astronauts' fitness routines are both educational and inspiring.",
+      "share_angle": "Describe the unique challenges and equipment used for exercising in microgravity.",
       "keywords": [
-        "World Cup",
-        "thrilling match",
-        "football"
+        "space",
+        "exercise",
+        "astronaut",
+        "fitness",
+        "microgravity"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "缅甸总统在上海感叹中国太发达了",
+      "chinese_topic": "套餐杀熟引热议 三大运营商为何沉默",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Myanmar President in Shanghai: 'China Is So Developed'",
+      "official_english": "Price Discrimination in Mobile Plans Sparks Outrage; Why Are Major Carriers Silent?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A foreign leader's praise of China's development in Shanghai highlights China's global image and economic progress.",
-      "share_angle": "Discuss China's urban development and international perceptions.",
+      "why_hot": "Consumers accuse telecom giants of charging loyal customers more, raising concerns about fairness and regulation.",
+      "share_angle": "Explain the concept of 'price discrimination' and how it affects consumers, plus the regulatory landscape.",
       "keywords": [
-        "Myanmar President",
-        "Shanghai",
-        "China development"
+        "telecom",
+        "price discrimination",
+        "consumer rights",
+        "mobile plans",
+        "China"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "工信部辟谣8家车企被撤销资质",
+      "chinese_topic": "中国在为台岛以东海域国土规划做准备",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Ministry of Industry and Information Technology Denies Rumor of 8 Automakers' Qualification Revocation",
+      "official_english": "China Prepares Territorial Planning for Waters East of Taiwan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Rumors about automakers losing qualifications caused market concern, and official clarification was needed.",
-      "share_angle": "Explain the importance of verifying industry rumors and the role of regulatory bodies.",
+      "why_hot": "Territorial planning in sensitive waters signals strategic moves, drawing international attention.",
+      "share_angle": "Discuss the geopolitical context and what this planning entails for regional stability.",
       "keywords": [
-        "MIIT",
-        "automaker qualification",
-        "rumor debunk"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "莫斯科遭2年来最大规模无人机袭击",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Moscow Hit by Largest Drone Attack in Two Years",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A significant drone attack on Moscow raises geopolitical tensions and security concerns.",
-      "share_angle": "Provide context on the conflict and implications for urban warfare.",
-      "keywords": [
-        "Moscow",
-        "drone attack",
+        "China",
+        "Taiwan",
+        "territorial planning",
+        "East China Sea",
         "geopolitics"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "瑞士外交部证实美伊会谈取消",
+      "rank": 6,
+      "chinese_topic": "春秋航空日本飞机在哈尔滨机场重着陆",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Swiss Foreign Ministry Confirms Cancellation of US-Iran Talks",
+      "official_english": "Spring Airlines Japan Flight Makes Hard Landing at Harbin Airport",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The cancellation of US-Iran talks mediated by Switzerland signals diplomatic tensions.",
-      "share_angle": "Analyze the reasons and potential impact on international relations.",
+      "why_hot": "Aviation incidents raise safety concerns; passengers and crew details are closely watched.",
+      "share_angle": "Report on the incident, safety protocols, and investigation updates.",
       "keywords": [
-        "US-Iran talks",
-        "Switzerland",
-        "diplomacy"
+        "Spring Airlines",
+        "hard landing",
+        "Harbin",
+        "aviation safety",
+        "Japan"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "伊朗足协正式投诉美国",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Iran Football Federation Formally Complains to US",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Sports and politics intersect as Iran challenges US actions, possibly related to World Cup or sanctions.",
+      "share_angle": "Explain the context of the complaint and its potential impact on international sports diplomacy.",
+      "keywords": [
+        "Iran",
+        "US",
+        "football",
+        "complaint",
+        "sports diplomacy"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "卖不完的粽子都去哪儿了",
+      "chinese_topic": "喝雄黄酒杀菌？这些端午谣言别信",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Where Do Unsold Zongzi Go?",
+      "official_english": "Drinking Realgar Wine to Kill Germs? Don't Fall for These Dragon Boat Festival Myths",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "After Dragon Boat Festival, the fate of unsold zongzi (rice dumplings) raises food waste and logistics questions.",
-      "share_angle": "Discuss food waste solutions and post-holiday supply chain management.",
+      "why_hot": "During Dragon Boat Festival, health myths circulate; debunking them protects public health.",
+      "share_angle": "Fact-check common Dragon Boat Festival health claims and provide science-based advice.",
       "keywords": [
-        "zongzi",
-        "food waste",
-        "Dragon Boat Festival"
+        "Dragon Boat Festival",
+        "realgar wine",
+        "myths",
+        "health",
+        "fact-check"
       ]
     }
   ]

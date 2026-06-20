@@ -1,142 +1,142 @@
 {
   "date": "2026-06-20",
-  "updated_at": "2026-06-20T04:38:42+00:00",
+  "updated_at": "2026-06-20T14:25:23+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "秒破门！本届世界杯最快进球刷新",
+      "chinese_topic": "重温总书记吟诵过的屈原名句",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fastest Goal in World Cup History Scored in Seconds",
+      "official_english": "Revisiting Qu Yuan's famous lines recited by President Xi",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup excitement with a record-breaking moment",
-      "share_angle": "Explain the context of the fastest goal and its impact on the match",
+      "why_hot": "Dragon Boat Festival context and cultural reverence for Qu Yuan, amplified by presidential reference.",
+      "share_angle": "Explore the cultural significance of Qu Yuan's poetry and how it resonates with modern Chinese values.",
       "keywords": [
-        "World Cup",
-        "fastest goal",
-        "record"
+        "Qu Yuan",
+        "Dragon Boat Festival",
+        "Chinese poetry"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "世界杯韩国还没出局 但转播商危险了",
+      "chinese_topic": "AI短剧“买脸” 每张脸500元一年",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "South Korea Still in World Cup, but Broadcasters Face Crisis",
+      "official_english": "AI short dramas 'buy faces' at 500 yuan per face per year",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Combines sports suspense with business implications",
-      "share_angle": "Discuss the financial risks for broadcasters and the team's performance",
+      "why_hot": "Raises ethical and legal questions about AI-generated content using real people's likenesses without consent.",
+      "share_angle": "Discuss the implications of AI 'face rental' for privacy, copyright, and the future of digital identity.",
       "keywords": [
-        "World Cup",
-        "South Korea",
-        "broadcasting crisis"
+        "AI",
+        "face rental",
+        "privacy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "赛龙舟 “夯”爆了",
+      "chinese_topic": "多元体验助力服务消费提质升级",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Dragon Boat Festival Races Go Viral",
+      "official_english": "Diverse experiences boost quality and upgrade of service consumption",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cultural tradition gaining massive online attention",
-      "share_angle": "Highlight the cultural significance and modern popularity of dragon boat racing",
+      "why_hot": "Reflects China's economic shift toward service-oriented consumption and consumer experience.",
+      "share_angle": "Explain how diverse service experiences are driving China's consumption upgrade and economic transformation.",
       "keywords": [
-        "Dragon Boat Festival",
-        "dragon boat racing",
-        "cultural tradition"
+        "service consumption",
+        "economic upgrade",
+        "consumer experience"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "深圳机场“We are sorry”引热议",
+      "chinese_topic": "专家解读“时隔44年试射洲际导弹”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shenzhen Airport's 'We Are Sorry' Message Sparks Debate",
+      "official_english": "Experts interpret 'first ICBM test launch in 44 years'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public apology from a major airport raises questions about service",
-      "share_angle": "Analyze the incident and public reaction to airport apologies",
+      "why_hot": "Rare military test sparks discussion on China's strategic capabilities and global security.",
+      "share_angle": "Break down the strategic significance of China's ICBM test and expert analyses on its implications.",
       "keywords": [
-        "Shenzhen Airport",
-        "apology",
-        "public debate"
+        "ICBM",
+        "military test",
+        "strategic deterrence"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "世界杯史上第一张“捂嘴红牌”来了",
+      "chinese_topic": "伊朗军方宣布关闭霍尔木兹海峡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First 'Muzzle Red Card' in World Cup History Issued",
+      "official_english": "Iranian military announces closure of Strait of Hormuz",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Unprecedented disciplinary action sparks controversy",
-      "share_angle": "Explain the rule and the incident that led to the red card",
+      "why_hot": "Major geopolitical event affecting global oil supply and regional stability.",
+      "share_angle": "Analyze the potential impact of the Strait of Hormuz closure on global energy markets and international relations.",
       "keywords": [
-        "World Cup",
-        "red card",
-        "controversy"
+        "Strait of Hormuz",
+        "Iran",
+        "oil prices"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "中考考点外 怀孕6个月老师来送考",
+      "chinese_topic": "马宁将主哨 中国足球迎历史性一刻",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Pregnant Teacher Cheers on Students at High School Entrance Exam",
+      "official_english": "Ma Ning to referee historic moment for Chinese football",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heartwarming story during exam season resonates with many",
-      "share_angle": "Share the touching story and discuss teacher dedication",
+      "why_hot": "Chinese referee selected for a major international match, a milestone for Chinese football.",
+      "share_angle": "Highlight Ma Ning's journey and what this means for the development of Chinese football refereeing.",
       "keywords": [
-        "teacher dedication",
-        "high school exam",
-        "heartwarming"
+        "Ma Ning",
+        "Chinese football",
+        "referee"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "杭州“疯狂倒水”？气象局：假的",
+      "chinese_topic": "多名中国公民在缅甸被捕 总领馆提醒",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Hangzhou 'Crazy Rainfall' Rumor Denied by Weather Bureau",
+      "official_english": "Multiple Chinese citizens arrested in Myanmar; consulate issues reminder",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Misinformation about extreme weather quickly corrected",
-      "share_angle": "Discuss the importance of verifying weather information and the role of official sources",
+      "why_hot": "Consular protection and safety of Chinese nationals abroad is a public concern.",
+      "share_angle": "Discuss the risks for Chinese citizens abroad and the role of consular services in such situations.",
       "keywords": [
-        "Hangzhou",
-        "weather rumor",
-        "misinformation"
+        "Myanmar",
+        "Chinese citizens",
+        "consular protection"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "大众汽车集团将削减约5万个岗位",
+      "chinese_topic": "向司机退费1.2亿教训的不只是货拉拉",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Volkswagen Group to Cut About 50,000 Jobs",
+      "official_english": "Refunding 120 million yuan to drivers is a lesson not just for Huolala",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major job cuts at a global automaker signal industry shifts",
-      "share_angle": "Explain the reasons behind the cuts and implications for the auto industry",
+      "why_hot": "Highlights regulatory scrutiny and platform-labor relations in the gig economy.",
+      "share_angle": "Examine the broader implications for gig economy platforms and worker rights in China.",
       "keywords": [
-        "Volkswagen",
-        "job cuts",
-        "auto industry"
+        "gig economy",
+        "driver rights",
+        "Huolala"
       ]
     }
   ]

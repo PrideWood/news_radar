@@ -1,142 +1,142 @@
 {
   "date": "2026-06-21",
-  "updated_at": "2026-06-21T05:16:57+00:00",
+  "updated_at": "2026-06-21T14:29:00+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "中国最贵药物降价140万元",
+      "chinese_topic": "塔克拉玛干沙漠边缘地带现洪水",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's most expensive drug sees price cut of 1.4 million yuan",
+      "official_english": "Flooding Reported at Edge of Taklamakan Desert",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The significant price reduction of a life-saving drug directly impacts patient affordability and public health, sparking widespread discussion.",
-      "share_angle": "Explain how the price cut improves access to treatment and what it means for the pharmaceutical industry.",
+      "why_hot": "Extreme weather event in a typically arid region sparks curiosity and concern about climate change.",
+      "share_angle": "Explain the science behind rare desert flooding and its implications for climate patterns.",
       "keywords": [
-        "drug price",
-        "healthcare",
-        "China"
+        "Taklamakan Desert",
+        "flooding",
+        "extreme weather"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "蔡磊发布《倒计时》演讲",
+      "chinese_topic": "多预警齐发！大暴雨特大暴雨来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cai Lei delivers 'Countdown' speech",
+      "official_english": "Multiple Alerts Issued as Heavy Rainstorms Approach",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cai Lei, a prominent ALS patient and advocate, inspires many with his resilience and call for rare disease research.",
-      "share_angle": "Highlight his advocacy for ALS research and the emotional impact of his speech.",
+      "why_hot": "Severe weather warnings directly affect public safety and daily life across large regions.",
+      "share_angle": "Break down the warning system and offer practical safety tips during extreme rainfall.",
       "keywords": [
-        "ALS",
-        "rare disease",
-        "inspiration"
+        "heavy rain",
+        "weather alert",
+        "safety tips"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "女子用AI写3000字股市谣言被罚",
+      "chinese_topic": "梅雨季来了 请查收你的应对攻略",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman fined for using AI to write 3,000-character stock market rumor",
+      "official_english": "Plum Rain Season Arrives: A Survival Guide",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Combines AI misuse, financial regulation, and legal consequences, raising awareness about AI-generated misinformation.",
-      "share_angle": "Discuss the legal and ethical implications of AI-generated fake news in financial markets.",
+      "why_hot": "Annual monsoon season impacts millions; practical advice is highly sought after.",
+      "share_angle": "Explain the cultural and meteorological significance of plum rain season and share tips.",
       "keywords": [
-        "AI",
-        "misinformation",
-        "stock market"
+        "plum rain",
+        "monsoon",
+        "survival guide"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "日本游客为免票全文背诵《岳阳楼记》",
+      "chinese_topic": "岁脑死亡男子接受猪肝猪双肾移植",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japanese tourist recites full text of 'Yueyang Tower' for free ticket",
+      "official_english": "Brain-Dead Man Receives Pig Liver and Kidney Transplants",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A cultural exchange story that highlights the appeal of Chinese classical literature and tourism.",
-      "share_angle": "Explore how cultural heritage can bridge international relations and boost tourism.",
+      "why_hot": "Breakthrough in xenotransplantation raises ethical and medical questions.",
+      "share_angle": "Discuss the science and ethics of animal-to-human organ transplants.",
       "keywords": [
-        "cultural exchange",
-        "tourism",
-        "Chinese literature"
+        "xenotransplantation",
+        "organ transplant",
+        "medical ethics"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "磷酸铁锂价格翻倍 硫磺价格飙涨167%",
+      "chinese_topic": "中国男篮91-81击败澳大利亚",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lithium iron phosphate price doubles, sulfur price surges 167%",
+      "official_english": "China Men's Basketball Team Defeats Australia 91-81",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Rising raw material costs affect industries from batteries to agriculture, impacting consumers and supply chains.",
-      "share_angle": "Explain the causes and downstream effects of these price hikes on everyday products.",
+      "why_hot": "National team victory in international competition boosts sports pride.",
+      "share_angle": "Highlight key players and what this win means for Chinese basketball.",
       "keywords": [
-        "commodity prices",
-        "lithium",
-        "sulfur"
+        "China basketball",
+        "Australia",
+        "sports victory"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "人形机器人登山时表示想自己走",
+      "chinese_topic": "“职业本科无法考研”不实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Humanoid robot says it wants to walk on its own during mountain climb",
+      "official_english": "Rumor Debunked: Vocational Bachelor's Degree Holders Can Apply for Graduate Studies",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A lighthearted yet thought-provoking demonstration of AI autonomy and robotics progress.",
-      "share_angle": "Discuss the implications of robots expressing preferences and the future of human-robot interaction.",
+      "why_hot": "Misinformation about education pathways causes widespread anxiety among students.",
+      "share_angle": "Clarify the policy and explain the value of vocational education in China.",
       "keywords": [
-        "robot",
-        "AI",
-        "autonomy"
+        "vocational education",
+        "graduate studies",
+        "misinformation"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "国乒连续两站0冠",
+      "chinese_topic": "世界杯官方发土味喜报祝贺中国裁判",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China table tennis team goes two consecutive tournaments without a title",
+      "official_english": "World Cup Officially Congratulates Chinese Referees with Cheesy Poster",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A rare slump for the dominant Chinese table tennis team sparks discussion about competition and team dynamics.",
-      "share_angle": "Analyze the reasons behind the unexpected losses and what it means for the sport.",
+      "why_hot": "Lighthearted cultural moment as Chinese referees gain international recognition.",
+      "share_angle": "Discuss the role of Chinese referees in global sports and the viral poster.",
       "keywords": [
-        "table tennis",
-        "China",
-        "sports"
+        "World Cup",
+        "Chinese referees",
+        "viral"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "三品牌再回应纸尿裤甲酰胺事件",
+      "chinese_topic": "火箭军雷雨天导弹发射训练画面公布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Three diaper brands respond again to formamide controversy",
+      "official_english": "PLA Rocket Force Releases Footage of Missile Launch Training in Thunderstorm",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumer safety concerns over harmful chemicals in baby products drive public scrutiny and brand accountability.",
-      "share_angle": "Explain the health risks of formamide and how consumers can make informed choices.",
+      "why_hot": "Rare glimpse into military training under extreme conditions sparks national pride.",
+      "share_angle": "Explain the significance of all-weather training for China's missile forces.",
       "keywords": [
-        "consumer safety",
-        "baby products",
-        "formamide"
+        "Rocket Force",
+        "missile training",
+        "military"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-06-23",
-  "updated_at": "2026-06-23T04:18:06+00:00",
+  "updated_at": "2026-06-23T15:20:16+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "今起多地高考成绩陆续公布",
+      "chinese_topic": "“这里是立规矩的地方”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "College entrance exam results released in multiple regions",
+      "official_english": "This is a place to set rules",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Annual high-stakes event affecting millions of students and families; results determine university admissions.",
-      "share_angle": "Explain the gaokao system, its importance, and how results are used for admissions.",
+      "why_hot": "A quote from a leader emphasizing rule of law, widely shared on social media.",
+      "share_angle": "Discuss the importance of rule of law in China's governance.",
       "keywords": [
-        "gaokao",
-        "college entrance exam",
-        "education"
+        "rule of law",
+        "governance",
+        "China"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "重磅举措发布 让外资“不见外”",
+      "chinese_topic": "“你只是高考完了 不是家里发财了”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Major measures announced to make foreign investment feel at home",
+      "official_english": "You just finished Gaokao, your family didn't get rich",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New policies to attract foreign investment signal China's economic openness and impact global business.",
-      "share_angle": "Break down the new measures and what they mean for foreign companies in China.",
+      "why_hot": "A viral reminder to students not to overspend after exams, resonating with many families.",
+      "share_angle": "Explore the financial pressures and expectations on Chinese students post-Gaokao.",
       "keywords": [
-        "foreign investment",
-        "economic policy",
-        "China economy"
+        "Gaokao",
+        "student spending",
+        "family finance"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "国际金价“高台跳水” 金饰价格降了",
+      "chinese_topic": "被骂了十年的48队世界杯 突然变香了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "International gold prices plunge, jewelry prices drop",
+      "official_english": "48-team World Cup, criticized for a decade, suddenly becomes popular",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Gold price volatility affects investors and consumers; price drop sparks buying interest.",
-      "share_angle": "Explain reasons behind gold price drop and its impact on consumers and investors.",
+      "why_hot": "FIFA's expansion to 48 teams was long criticized but now fans see benefits.",
+      "share_angle": "Analyze the changing perception of the expanded World Cup format.",
       "keywords": [
-        "gold price",
-        "investment",
-        "economy"
+        "World Cup",
+        "FIFA",
+        "sports expansion"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "世界杯首个爆款竟然是根头绳",
+      "chinese_topic": "这些投档录取问题 志愿填报前必看",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup's first viral hit is a hair tie",
+      "official_english": "Key admission issues to know before filling in college preferences",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Unexpected cultural phenomenon during World Cup; combines sports, fashion, and social media.",
-      "share_angle": "How a simple hair tie became a symbol of the World Cup and what it says about fan culture.",
+      "why_hot": "Gaokao results are out, students and parents urgently need guidance on college applications.",
+      "share_angle": "Provide tips for navigating the Chinese college admission system.",
       "keywords": [
-        "World Cup",
-        "viral",
-        "fan culture"
+        "Gaokao",
+        "college admission",
+        "education"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "姆巴佩世界波",
+      "chinese_topic": "网警查处编造传播涉农网络谣言案",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Mbappé scores stunning goal",
+      "official_english": "Cyber police investigate case of fabricating and spreading agricultural rumors online",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Mbappé's spectacular goal highlights World Cup excitement and his star power.",
-      "share_angle": "Showcase the goal and discuss Mbappé's impact on the tournament.",
+      "why_hot": "Highlights efforts to combat misinformation affecting rural areas.",
+      "share_angle": "Discuss the impact of online rumors on agriculture and rural communities.",
       "keywords": [
-        "Mbappé",
-        "World Cup",
-        "football"
+        "cyber police",
+        "rumors",
+        "agriculture"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "充电宝打火机车钥匙都成偷拍利器了",
+      "chinese_topic": "小米电视就误报“北京地震”预警致歉",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Power banks, lighters, car keys become tools for covert filming",
+      "official_english": "Xiaomi TV apologizes for falsely reporting 'Beijing earthquake' alert",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Privacy concerns as everyday objects are weaponized for voyeurism; sparks public debate on surveillance.",
-      "share_angle": "Discuss the rise of hidden cameras and how to protect personal privacy in public spaces.",
+      "why_hot": "A false earthquake alert caused panic; Xiaomi's apology draws attention to tech reliability.",
+      "share_angle": "Examine the challenges of emergency alert systems and public trust.",
       "keywords": [
-        "privacy",
-        "hidden camera",
-        "surveillance"
+        "Xiaomi",
+        "earthquake alert",
+        "technology"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "男子16万多购入路虎 购置税或翻倍",
+      "chinese_topic": "中国男篮热身赛险胜荷兰 杨瀚森7分",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man buys Land Rover for 160,000 yuan, purchase tax may double",
+      "official_english": "Chinese men's basketball team narrowly beats Netherlands in warm-up; Yang Hansen scores 7",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Tax policy confusion and consumer rights issue; highlights complexity of vehicle taxation.",
-      "share_angle": "Explain how vehicle purchase tax works and what consumers should watch out for.",
+      "why_hot": "Basketball fans follow the national team's preparation for upcoming tournaments.",
+      "share_angle": "Review the team's performance and prospects for international competitions.",
       "keywords": [
-        "car tax",
-        "consumer rights",
-        "Land Rover"
+        "Chinese basketball",
+        "warm-up",
+        "Yang Hansen"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "南华禅寺辟谣“售卖祈福套餐”",
+      "chinese_topic": "合资燃油车大幅降价仍滞销",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Nanhua Temple denies selling prayer packages",
+      "official_english": "Joint-venture fuel vehicles see sharp price cuts but still struggle to sell",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Religious institution refutes commercial exploitation rumors; touches on faith and consumerism.",
-      "share_angle": "Discuss the balance between religious practice and commercialization in China.",
+      "why_hot": "Reflects the declining demand for traditional fuel cars amid EV rise.",
+      "share_angle": "Analyze the shift in China's auto market towards electric vehicles.",
       "keywords": [
-        "Nanhua Temple",
-        "rumor",
-        "religion"
+        "fuel vehicles",
+        "price cuts",
+        "EV market"
       ]
     }
   ]

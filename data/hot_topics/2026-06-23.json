@@ -1,142 +1,142 @@
 {
   "date": "2026-06-23",
-  "updated_at": "2026-06-22T17:10:26+00:00",
+  "updated_at": "2026-06-23T04:18:06+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "世界杯：阿根廷vs奥地利",
+      "chinese_topic": "今起多地高考成绩陆续公布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup: Argentina vs Austria",
+      "official_english": "College entrance exam results released in multiple regions",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup match attracts global attention; Argentina is a top team.",
-      "share_angle": "Preview key players and tactics for the match.",
+      "why_hot": "Annual high-stakes event affecting millions of students and families; results determine university admissions.",
+      "share_angle": "Explain the gaokao system, its importance, and how results are used for admissions.",
       "keywords": [
-        "World Cup",
-        "Argentina",
-        "Austria"
+        "gaokao",
+        "college entrance exam",
+        "education"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "端午节假期666.7万人次出入境",
+      "chinese_topic": "重磅举措发布 让外资“不见外”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Dragon Boat Festival holiday sees 6.667 million border crossings",
+      "official_english": "Major measures announced to make foreign investment feel at home",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Post-pandemic travel recovery indicator; holiday travel data.",
-      "share_angle": "Compare with pre-pandemic travel numbers and economic impact.",
+      "why_hot": "New policies to attract foreign investment signal China's economic openness and impact global business.",
+      "share_angle": "Break down the new measures and what they mean for foreign companies in China.",
       "keywords": [
-        "Dragon Boat Festival",
-        "travel",
-        "border crossings"
+        "foreign investment",
+        "economic policy",
+        "China economy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "日方飞机两次干扰中方正常科考",
+      "chinese_topic": "国际金价“高台跳水” 金饰价格降了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japanese aircraft twice disrupts Chinese scientific research",
+      "official_english": "International gold prices plunge, jewelry prices drop",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sino-Japan tensions; scientific sovereignty issue.",
-      "share_angle": "Explain the context of maritime scientific research and international law.",
+      "why_hot": "Gold price volatility affects investors and consumers; price drop sparks buying interest.",
+      "share_angle": "Explain reasons behind gold price drop and its impact on consumers and investors.",
       "keywords": [
-        "Japan",
-        "scientific research",
-        "disruption"
+        "gold price",
+        "investment",
+        "economy"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "降价也卖不动 合资燃油车撤出门店",
+      "chinese_topic": "世界杯首个爆款竟然是根头绳",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Joint-venture fuel vehicles withdraw from dealerships despite price cuts",
+      "official_english": "World Cup's first viral hit is a hair tie",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "EV competition reshaping auto market; traditional automakers struggle.",
-      "share_angle": "Analyze the decline of joint-venture fuel cars and rise of Chinese EVs.",
+      "why_hot": "Unexpected cultural phenomenon during World Cup; combines sports, fashion, and social media.",
+      "share_angle": "How a simple hair tie became a symbol of the World Cup and what it says about fan culture.",
       "keywords": [
-        "fuel vehicles",
-        "price cuts",
-        "EV competition"
+        "World Cup",
+        "viral",
+        "fan culture"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "渐冻症患者用脑机接口说出近200万字",
+      "chinese_topic": "姆巴佩世界波",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "ALS patient uses brain-computer interface to communicate nearly 2 million words",
+      "official_english": "Mbappé scores stunning goal",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Breakthrough in BCI technology; hope for disabled patients.",
-      "share_angle": "Explain how BCI works and its potential for neurodegenerative diseases.",
+      "why_hot": "Mbappé's spectacular goal highlights World Cup excitement and his star power.",
+      "share_angle": "Showcase the goal and discuss Mbappé's impact on the tournament.",
       "keywords": [
-        "ALS",
-        "brain-computer interface",
-        "communication"
+        "Mbappé",
+        "World Cup",
+        "football"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "《一九四二》豆瓣评分从6.1上涨至8.3",
+      "chinese_topic": "充电宝打火机车钥匙都成偷拍利器了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Film 'Back to 1942' Douban rating rises from 6.1 to 8.3",
+      "official_english": "Power banks, lighters, car keys become tools for covert filming",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Re-evaluation of historical film; online discussion of famine history.",
-      "share_angle": "Discuss why audiences are re-rating the film and its historical context.",
+      "why_hot": "Privacy concerns as everyday objects are weaponized for voyeurism; sparks public debate on surveillance.",
+      "share_angle": "Discuss the rise of hidden cameras and how to protect personal privacy in public spaces.",
       "keywords": [
-        "Back to 1942",
-        "Douban rating",
-        "historical film"
+        "privacy",
+        "hidden camera",
+        "surveillance"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "“熊猫债”火了",
+      "chinese_topic": "男子16万多购入路虎 购置税或翻倍",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'Panda bonds' gain popularity",
+      "official_english": "Man buys Land Rover for 160,000 yuan, purchase tax may double",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's financial market opening; foreign issuers raise yuan funds.",
-      "share_angle": "Explain what panda bonds are and why they are surging.",
+      "why_hot": "Tax policy confusion and consumer rights issue; highlights complexity of vehicle taxation.",
+      "share_angle": "Explain how vehicle purchase tax works and what consumers should watch out for.",
       "keywords": [
-        "panda bonds",
-        "yuan",
-        "financial market"
+        "car tax",
+        "consumer rights",
+        "Land Rover"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "高速路 “龟速” 行驶也是违法",
+      "chinese_topic": "南华禅寺辟谣“售卖祈福套餐”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Driving too slow on highways is also illegal",
+      "official_english": "Nanhua Temple denies selling prayer packages",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Traffic safety awareness; common misconception clarified.",
-      "share_angle": "Highlight traffic rules and safety tips for highway driving.",
+      "why_hot": "Religious institution refutes commercial exploitation rumors; touches on faith and consumerism.",
+      "share_angle": "Discuss the balance between religious practice and commercialization in China.",
       "keywords": [
-        "highway",
-        "slow driving",
-        "traffic law"
+        "Nanhua Temple",
+        "rumor",
+        "religion"
       ]
     }
   ]

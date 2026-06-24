@@ -1,142 +1,142 @@
 {
   "date": "2026-06-24",
-  "updated_at": "2026-06-24T04:22:41+00:00",
+  "updated_at": "2026-06-24T14:50:36+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "把权力关进制度笼子",
+      "chinese_topic": "两册流失海外《永乐大典》终于回家",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Power must be confined in the cage of institutional checks",
+      "official_english": "Two lost volumes of Yongle Encyclopedia return to China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A widely discussed political slogan emphasizing anti-corruption and institutional reform, resonating with public demand for transparency.",
-      "share_angle": "Explain the meaning and significance of this phrase in China's governance context.",
+      "why_hot": "Cultural relic repatriation resonates with national pride and heritage protection.",
+      "share_angle": "Explain the historical significance of the Yongle Encyclopedia and the efforts to recover lost cultural artifacts.",
       "keywords": [
-        "anti-corruption",
-        "institutional reform",
-        "governance"
+        "Yongle Encyclopedia",
+        "cultural repatriation",
+        "Chinese heritage"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "公交车上座率越来越低",
+      "chinese_topic": "“双一流”高校扩招！投向这些领域",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Declining bus occupancy rates reflect changing travel habits",
+      "official_english": "Double First-Class universities expand enrollment in key fields",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects a shift in urban mobility as more people use private cars or ride-hailing, raising questions about public transport sustainability.",
-      "share_angle": "Discuss the reasons behind declining bus ridership and implications for urban planning.",
+      "why_hot": "Education policy directly affects millions of students and families.",
+      "share_angle": "Break down which fields are prioritized and what this means for students and the job market.",
       "keywords": [
-        "public transport",
-        "urban mobility",
-        "travel habits"
+        "Double First-Class",
+        "university expansion",
+        "education policy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "最想报考的专业出现了",
+      "chinese_topic": "河南2026年高考分数线公布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Most sought-after college majors emerge during application season",
+      "official_english": "Henan releases 2026 college entrance exam score thresholds",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "During college application season, students and parents discuss popular majors based on job prospects and personal interest.",
-      "share_angle": "Highlight trending majors and what they say about China's economic and tech priorities.",
+      "why_hot": "Annual high-stakes exam results spark widespread discussion.",
+      "share_angle": "Compare with previous years and other provinces; explain the gaokao system.",
       "keywords": [
-        "college majors",
-        "career prospects",
-        "education"
+        "gaokao",
+        "Henan",
+        "college entrance exam"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "中国汽车保有量达到3.7亿辆",
+      "chinese_topic": "“神秘的东方力量”再现世界杯赛场",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's car ownership reaches 370 million units",
+      "official_english": "Mysterious Eastern power reappears at World Cup",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A milestone in automotive industry, reflecting economic growth and challenges in traffic and emissions.",
-      "share_angle": "Analyze the impact of soaring car ownership on infrastructure, environment, and the EV market.",
+      "why_hot": "Combines sports, culture, and curiosity about Chinese traditions.",
+      "share_angle": "Explore what 'mysterious Eastern power' refers to (e.g., cupping, acupuncture) and its global reception.",
       "keywords": [
-        "car ownership",
-        "automotive industry",
-        "environment"
+        "World Cup",
+        "Chinese traditions",
+        "sports culture"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "亚洲首富公开叫板世界首富",
+      "chinese_topic": "亿万年张掖丹霞靠人工染色系谣言",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Asia's richest man challenges world's richest man publicly",
+      "official_english": "Rumor: Zhangye Danxia landform artificially colored; authorities deny",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A high-profile business rivalry between billionaires captures public attention and sparks debate on wealth and competition.",
-      "share_angle": "Explore the context and implications of this billionaire feud for global business.",
+      "why_hot": "Natural wonder preservation and misinformation correction.",
+      "share_angle": "Explain the geology of Danxia landforms and how to identify fake news about natural sites.",
       "keywords": [
-        "billionaire rivalry",
-        "wealth",
-        "business competition"
+        "Zhangye Danxia",
+        "rumor debunking",
+        "geology"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "高考查分",
+      "chinese_topic": "卖了500万“神药”出厂价仅几毛钱",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gaokao results released: students check scores",
+      "official_english": "Miracle drug sold for 5 million yuan has factory price of just a few jiao",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Annual national college entrance exam results day, a major life event for millions of students and families.",
-      "share_angle": "Cover the emotional reactions and social media trends around gaokao score release.",
+      "why_hot": "Exposes healthcare pricing scandals and consumer protection issues.",
+      "share_angle": "Discuss the markup chain in pharmaceuticals and regulatory challenges.",
       "keywords": [
-        "gaokao",
-        "college entrance exam",
-        "education"
+        "pharmaceutical pricing",
+        "consumer protection",
+        "healthcare scandal"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "立陶宛暂停与台当局合作",
+      "chinese_topic": "中国银行回应逃税23.67亿：推进整改",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lithuania suspends cooperation with Taiwan authorities",
+      "official_english": "Bank of China responds to tax evasion allegations of 2.367 billion yuan, pledges rectification",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A geopolitical development affecting cross-strait relations and international diplomacy.",
-      "share_angle": "Explain the significance of Lithuania's decision and its impact on China-Taiwan relations.",
+      "why_hot": "Major financial institution tax issue raises public concern over corporate accountability.",
+      "share_angle": "Explain the tax evasion case and its implications for financial regulation.",
       "keywords": [
-        "Lithuania",
-        "Taiwan",
-        "diplomacy"
+        "Bank of China",
+        "tax evasion",
+        "financial regulation"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "日元沦为“全球最弱货币”",
+      "chinese_topic": "世界杯正在变成一道数学题",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yen becomes the world's weakest currency",
+      "official_english": "World Cup is turning into a math problem",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sharp depreciation of the yen affects global markets and Chinese exports, sparking economic discussions.",
-      "share_angle": "Analyze causes and consequences of yen weakness for China and global economy.",
+      "why_hot": "Engages sports fans with analytical and statistical angles.",
+      "share_angle": "Discuss how data analytics and probability are changing sports strategy and fan engagement.",
       "keywords": [
-        "yen depreciation",
-        "currency",
-        "global economy"
+        "World Cup",
+        "data analytics",
+        "sports statistics"
       ]
     }
   ]

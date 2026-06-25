@@ -1,142 +1,142 @@
 {
   "date": "2026-06-25",
-  "updated_at": "2026-06-25T04:21:50+00:00",
+  "updated_at": "2026-06-25T14:54:03+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "各地高考分数线汇总",
+      "chinese_topic": "中国又瞄准一个万亿级风口",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "College entrance exam score cutoffs released across China",
+      "official_english": "China Targets Another Trillion-Yuan Industry",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Annual Gaokao results trigger nationwide discussion on education and future opportunities.",
-      "share_angle": "Compare provincial cutoffs and explain how Gaokao shapes Chinese students' lives.",
+      "why_hot": "Highlights a major economic opportunity, sparking discussion on future growth sectors.",
+      "share_angle": "Explain what the trillion-yuan opportunity is and why it matters for China's economy.",
       "keywords": [
-        "Gaokao",
-        "college entrance exam",
-        "score cutoff"
+        "economy",
+        "trillion-yuan",
+        "industry"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "中国在黄岩岛首次发现罕见蓝洞",
+      "chinese_topic": "高考分数线全部公布！汇总来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rare blue hole discovered for first time in Huangyan Island",
+      "official_english": "College Entrance Exam Score Cutoffs Released Nationwide",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Scientific discovery in disputed waters sparks national pride and curiosity.",
-      "share_angle": "Explain what a blue hole is and its significance for marine science.",
+      "why_hot": "Annual event affecting millions of students and families; comprehensive summary draws wide attention.",
+      "share_angle": "Summarize key trends in cutoff scores across provinces and what they mean for students.",
       "keywords": [
-        "Huangyan Island",
-        "blue hole",
-        "marine discovery"
+        "gaokao",
+        "cutoff",
+        "education"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "面对“打平即出线” 韩国队又输了",
+      "chinese_topic": "你对AI脸产生生理性厌恶了吗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "South Korea loses again despite needing only a draw to advance",
+      "official_english": "Do You Feel Physical Disgust Toward AI Faces?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup drama with South Korea's repeated failure under pressure.",
-      "share_angle": "Analyze the psychology of 'must-win' matches in football.",
+      "why_hot": "Explores the uncanny valley effect in AI-generated faces, a trending tech-psychology topic.",
+      "share_angle": "Discuss the science behind why some people find AI faces unsettling and its implications.",
       "keywords": [
-        "World Cup",
-        "South Korea",
-        "football"
+        "AI",
+        "uncanny valley",
+        "psychology"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "如何更好填报高考志愿",
+      "chinese_topic": "看绿色农业链如何变废为宝",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Tips for filling out Gaokao志愿 (college application preferences)",
+      "official_english": "How Green Agriculture Turns Waste into Treasure",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Practical guidance for millions of students and parents post-results.",
-      "share_angle": "Offer strategies for choosing majors and universities in China.",
+      "why_hot": "Showcases sustainable agriculture innovations, aligning with environmental and food security interests.",
+      "share_angle": "Explain the process and benefits of converting agricultural waste into valuable resources.",
       "keywords": [
-        "Gaokao",
-        "college application",
-        "career advice"
+        "green agriculture",
+        "sustainability",
+        "waste-to-resource"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "不是日本相机坏了 是中国航母太快了",
+      "chinese_topic": "黄金回到“8”字头 实探金店",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese aircraft carrier speed surprises Japanese camera operators",
+      "official_english": "Gold Price Returns to 800 Yuan per Gram: A Visit to Jewelry Stores",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Humorous viral moment highlighting China's naval progress.",
-      "share_angle": "Discuss the symbolism of China's carrier capabilities and regional reactions.",
+      "why_hot": "Gold price fluctuations directly impact consumers and investors, driving on-the-ground reporting.",
+      "share_angle": "Analyze reasons behind the gold price rebound and what it means for buyers.",
       "keywords": [
-        "aircraft carrier",
-        "China navy",
-        "Japan"
+        "gold",
+        "price",
+        "investment"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "委内瑞拉进入全国紧急状态",
+      "chinese_topic": "美光科技市值首超Meta",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Venezuela declares nationwide state of emergency",
+      "official_english": "Micron Technology Market Cap Surpasses Meta for First Time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "International crisis with implications for global politics and oil markets.",
-      "share_angle": "Explain the background and potential impact on China-Venezuela relations.",
+      "why_hot": "Signals a shift in tech market leadership, highlighting semiconductor industry growth.",
+      "share_angle": "Explain why Micron's market cap exceeded Meta's and what it indicates about tech trends.",
       "keywords": [
-        "Venezuela",
-        "state of emergency",
-        "crisis"
+        "Micron",
+        "market cap",
+        "semiconductor"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "“草莓是最脏的水果”系误区",
+      "chinese_topic": "世界杯套餐3块薯饼500元人民币",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Myth debunked: Strawberries are not the 'dirtiest' fruit",
+      "official_english": "World Cup Meal Deal: 3 Hash Browns for 500 Yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Food safety myth-busting resonates with health-conscious public.",
-      "share_angle": "Explain pesticide residue testing and how to wash fruits properly.",
+      "why_hot": "High price sparks debate on inflation and event-related pricing, with broad consumer interest.",
+      "share_angle": "Compare the cost to typical meals and discuss the economics of event pricing.",
       "keywords": [
-        "strawberry",
-        "food safety",
-        "myth"
+        "World Cup",
+        "pricing",
+        "consumer"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "WPS会员套路曝光",
+      "chinese_topic": "日本主帅森保一的数学时刻又到了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "WPS membership subscription tactics exposed",
+      "official_english": "Japan Coach Hajime Moriyasu's Math Moment Arrives Again",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumer rights issue as users complain about hidden fees and auto-renewal.",
-      "share_angle": "Discuss software subscription models and consumer protection in China.",
+      "why_hot": "Sports fans engage with tactical analysis and probability discussions around World Cup qualification.",
+      "share_angle": "Break down the mathematical scenarios for Japan's World Cup advancement and fan reactions.",
       "keywords": [
-        "WPS",
-        "subscription",
-        "consumer rights"
+        "World Cup",
+        "Japan",
+        "qualification"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-06-26",
-  "updated_at": "2026-06-26T04:37:55+00:00",
+  "updated_at": "2026-06-26T14:42:11+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "总书记田间地头话农桑",
+      "chinese_topic": "“国补”继续 第三批资金已下达",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "President Xi Jinping Discusses Agriculture in the Fields",
+      "official_english": "Third Batch of National Subsidy Funds Released",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects leadership focus on agriculture and rural development, a key public interest topic.",
-      "share_angle": "Explain how this signals policy priorities for food security and rural revitalization.",
+      "why_hot": "Government subsidy continuation directly affects consumer spending and economic recovery, a topic of broad public interest.",
+      "share_angle": "Explain how the subsidy program works and its impact on everyday purchases like electronics and home appliances.",
       "keywords": [
-        "Xi Jinping",
-        "agriculture",
-        "rural development"
+        "subsidy",
+        "economy",
+        "consumer"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "金价跌回3字头 半年回撤30%",
+      "chinese_topic": "微信朋友圈互删清空对方全部痕迹",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gold Price Drops to 300 Yuan per Gram, 30% Retreat in Six Months",
+      "official_english": "WeChat Moments Mutual Deletion Erases All Traces",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Significant economic indicator affecting investors and consumers.",
-      "share_angle": "Analyze reasons behind gold price drop and implications for global markets.",
+      "why_hot": "Privacy and social media management are highly relatable; users debate the pros and cons of this feature.",
+      "share_angle": "Discuss the cultural implications of digital friendship and privacy in China's most popular social app.",
       "keywords": [
-        "gold price",
-        "investment",
-        "economic trend"
+        "WeChat",
+        "privacy",
+        "social media"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "看绿色农业链如何变废为宝",
+      "chinese_topic": "姆巴佩与哈兰德世界杯将首次对决",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "International Group Praises Green Revival",
-      "official_english_source": "China Daily",
-      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f2701a3108bc8c6721a16.html",
-      "why_hot": "Highlights sustainable agriculture innovations, aligning with environmental goals.",
-      "share_angle": "Showcase how agricultural waste is turned into resources, with global recognition.",
+      "official_english": "Mbappé and Haaland Set for First World Cup Showdown",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Two of football's biggest stars facing off in the World Cup generates massive sports fan excitement.",
+      "share_angle": "Compare their playing styles and what this matchup means for the tournament.",
       "keywords": [
-        "green agriculture",
-        "sustainability",
-        "waste to wealth"
+        "World Cup",
+        "football",
+        "Mbappé"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "先高考再中考的初三女生高考614分",
+      "chinese_topic": "高校录取通知书集体回归一页纸",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Junior High School Girl Scores 614 in Gaokao Before Zhongkao",
+      "official_english": "University Admission Letters Return to Single-Page Format",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Inspiring education story about a prodigy student, resonates with exam-focused culture.",
-      "share_angle": "Discuss the pressure and flexibility in China's education system through this case.",
+      "why_hot": "Education reform and nostalgia collide as universities simplify admission letters, sparking discussion on tradition vs. modernity.",
+      "share_angle": "Explore the history of Chinese admission letters and what this change says about current education trends.",
       "keywords": [
-        "Gaokao",
         "education",
-        "prodigy"
+        "admission",
+        "tradition"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "考生拿下全国唯一数学满分被清华录取",
+      "chinese_topic": "法国人热到不提环保了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Student with Only Perfect Math Score in Gaokao Admitted to Tsinghua",
+      "official_english": "French Too Hot to Talk About Environmental Protection",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Exceptional academic achievement, highlights talent and competition in higher education.",
-      "share_angle": "Explore what it takes to achieve a perfect score and the path to top universities.",
+      "why_hot": "Heatwave in France challenges environmental priorities, highlighting the tension between climate action and immediate comfort.",
+      "share_angle": "Discuss how extreme weather affects public opinion on climate policies globally.",
       "keywords": [
-        "Gaokao",
-        "Tsinghua",
-        "math"
+        "climate",
+        "heatwave",
+        "France"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "大量日本民众冒雨在首相官邸前抗议",
+      "chinese_topic": "日股大跌韩股熔断",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Large Crowd Protests in Front of Japanese Prime Minister's Residence in Rain",
+      "official_english": "Japan Stocks Plunge, South Korea Triggers Circuit Breaker",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "International political event with public sentiment, relevant to global affairs.",
-      "share_angle": "Explain the context of protests and what they mean for Japan's domestic politics.",
+      "why_hot": "Financial market turmoil in Asia raises concerns about global economic stability and investor sentiment.",
+      "share_angle": "Explain the causes and potential ripple effects of the market drops on global economy.",
       "keywords": [
+        "stock market",
         "Japan",
-        "protest",
-        "politics"
+        "South Korea"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "亲历日本7.2级地震的中国游客住14楼",
+      "chinese_topic": "初中学历女生因面试走红 现状曝光",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Tourist Experiences 7.2-Magnitude Earthquake in Japan, Staying on 14th Floor",
+      "official_english": "Middle School-Educated Woman Goes Viral for Interview, Current Status Revealed",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Natural disaster with personal story, raises awareness about travel safety.",
-      "share_angle": "Share survival tips and earthquake preparedness for travelers.",
+      "why_hot": "Story of a low-education individual succeeding against odds resonates with many, sparking debate on education and opportunity.",
+      "share_angle": "Discuss the role of education in career success and the viral nature of inspirational stories.",
       "keywords": [
-        "earthquake",
-        "Japan",
-        "travel safety"
+        "education",
+        "viral",
+        "opportunity"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "年轻人为何爱上18年前的《潜伏》",
+      "chinese_topic": "果园密密麻麻立满监控 当地回应",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Young People Are Falling for 18-Year-Old Drama 'Lurk'",
+      "official_english": "Orchard Filled with Surveillance Cameras, Local Authorities Respond",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cultural phenomenon showing enduring appeal of classic spy drama among youth.",
-      "share_angle": "Analyze the elements that make older shows resonate with new generations.",
+      "why_hot": "Privacy concerns in rural areas and the extent of surveillance spark public debate on security vs. privacy.",
+      "share_angle": "Examine the balance between agricultural security and individual privacy in China's surveillance landscape.",
       "keywords": [
-        "Lurk",
-        "TV drama",
-        "cultural trend"
+        "surveillance",
+        "privacy",
+        "agriculture"
       ]
     }
   ]

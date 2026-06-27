@@ -1,142 +1,142 @@
 {
   "date": "2026-06-27",
-  "updated_at": "2026-06-27T04:14:04+00:00",
+  "updated_at": "2026-06-27T14:02:04+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "本周中国多领域解锁硬核成就",
+      "chinese_topic": "巴黎极端高温一日超50人死亡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China achieves multiple hardcore accomplishments across various fields this week",
+      "official_english": "Paris extreme heat kills over 50 in one day",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Highlights China's recent technological and scientific progress, generating national pride.",
-      "share_angle": "Summarize key achievements from the week, focusing on technology and science.",
+      "why_hot": "Extreme weather events are globally concerning; high death toll raises alarm about climate change and urban heat resilience.",
+      "share_angle": "Discuss heatwave preparedness and the broader implications of climate change on public health.",
       "keywords": [
-        "China",
-        "achievements",
-        "technology"
+        "Paris heatwave",
+        "extreme weather",
+        "climate change"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "男生考703分也烦恼：上北大还是清华",
+      "chinese_topic": "志愿填报必看！高校人才培养四大趋势",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Student scoring 703 in college entrance exam torn between Peking and Tsinghua",
+      "official_english": "Four major trends in university talent cultivation for college application season",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Relatable and aspirational story during college application season.",
-      "share_angle": "Discuss the pressure and privilege of top scorers in China's education system.",
+      "why_hot": "College application season in China; parents and students seek guidance on future education paths.",
+      "share_angle": "Explain the trends and how they reflect changes in China's higher education and job market.",
       "keywords": [
-        "gaokao",
-        "Peking University",
-        "Tsinghua University"
+        "college application",
+        "education trends",
+        "talent cultivation"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "母亲残疾父亲务农 河南女孩高考699分",
+      "chinese_topic": "轰6k与俄图95在日本海上空同框",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Henan girl from poor family scores 699 in college entrance exam",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Inspirational story of overcoming adversity through education.",
-      "share_angle": "Highlight the role of education in social mobility and the challenges faced by rural students.",
+      "official_english": "Beijing, Moscow drill for potential missile warfare",
+      "official_english_source": "China Daily",
+      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f25bda3108bc8c6721a0b.html",
+      "why_hot": "Joint military drills between China and Russia draw international attention amid regional tensions.",
+      "share_angle": "Analyze the strategic significance of Sino-Russian military cooperation in the Asia-Pacific.",
       "keywords": [
-        "gaokao",
-        "rural education",
-        "inspiration"
+        "China Russia drill",
+        "H-6K",
+        "Sea of Japan"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "浙大学生畅聊志愿填报并送祝福",
+      "chinese_topic": "俄罗斯计划在月球表面建核电站",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhejiang University students discuss college application and send blessings",
+      "official_english": "Russia plans to build nuclear power plant on lunar surface",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Timely advice for high school graduates during application season.",
-      "share_angle": "Share tips from university students on choosing majors and adjusting to college life.",
+      "why_hot": "Space exploration and nuclear energy are high-interest topics; Russia's lunar ambitions spark debate.",
+      "share_angle": "Explore the feasibility and implications of nuclear power on the Moon for future space missions.",
       "keywords": [
-        "college application",
-        "Zhejiang University",
-        "advice"
+        "Russia",
+        "lunar nuclear plant",
+        "space exploration"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“变电站电磁辐射会致癌”不实",
+      "chinese_topic": "存储芯片大涨 苹果美光打口水战",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that substation electromagnetic radiation causes cancer is false",
+      "official_english": "Memory chip prices surge as Apple and Micron engage in war of words",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Addresses a common public health misconception, relevant to daily life.",
-      "share_angle": "Explain the science behind electromagnetic fields and why the claim is unfounded.",
+      "why_hot": "Tech industry rivalry and chip market dynamics affect global supply chains and consumers.",
+      "share_angle": "Break down the dispute and its impact on the semiconductor industry and device prices.",
       "keywords": [
-        "electromagnetic radiation",
-        "myth",
-        "public health"
+        "memory chip",
+        "Apple",
+        "Micron"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "天下苦话费贵久矣",
+      "chinese_topic": "世界杯32强已定28席",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Public complains about high telecom fees for a long time",
+      "official_english": "World Cup 2026: 28 of 32 spots confirmed",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Widespread consumer dissatisfaction with telecom pricing.",
-      "share_angle": "Discuss the debate over telecom fees in China and compare with international rates.",
+      "why_hot": "World Cup qualification is a major sports event; fans follow team progress closely.",
+      "share_angle": "Highlight the qualified teams and remaining spots, and discuss potential matchups.",
       "keywords": [
-        "telecom fees",
-        "consumer rights",
-        "China"
+        "World Cup 2026",
+        "qualification",
+        "football"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "网民公然侮辱张桂梅校长被行拘",
+      "chinese_topic": "北大哲学系主任毕业致辞火了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Netizen detained for publicly insulting principal Zhang Guimei",
+      "official_english": "Peking University philosophy department dean's graduation speech goes viral",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Involves a revered educator and sparks debate on online speech and respect.",
-      "share_angle": "Profile Zhang Guimei's contributions and discuss the legal consequences of online harassment.",
+      "why_hot": "Inspirational speeches resonate widely; philosophy insights appeal to broader audience.",
+      "share_angle": "Summarize key messages from the speech and why they resonate with graduates and the public.",
       "keywords": [
-        "Zhang Guimei",
-        "online insult",
-        "detention"
+        "Peking University",
+        "graduation speech",
+        "philosophy"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "网友反馈戒烟后“长出头发”",
+      "chinese_topic": "佛得角足协感谢中国：计划安排友谊赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Netizens report hair regrowth after quitting smoking",
+      "official_english": "Cape Verde Football Federation thanks China, plans friendly match",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Viral anecdote linking smoking cessation to hair growth, generating curiosity.",
-      "share_angle": "Explore the scientific plausibility and encourage healthy habits.",
+      "why_hot": "Sports diplomacy and international relations; China's role in global football development.",
+      "share_angle": "Discuss the significance of China's sports cooperation with African nations.",
       "keywords": [
-        "smoking cessation",
-        "hair growth",
-        "health"
+        "Cape Verde",
+        "China",
+        "friendly match"
       ]
     }
   ]

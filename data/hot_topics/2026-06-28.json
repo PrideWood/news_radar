@@ -1,142 +1,142 @@
 {
   "date": "2026-06-28",
-  "updated_at": "2026-06-28T04:47:37+00:00",
+  "updated_at": "2026-06-28T14:08:42+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "中国密集开展周边外交展现睦邻之道",
+      "chinese_topic": "中国避暑神器在欧洲卖爆了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China intensifies neighborhood diplomacy to demonstrate good-neighborliness",
+      "official_english": "Chinese Cooling Gadgets Become Best-Sellers in Europe",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's active diplomatic engagements with neighboring countries reflect its foreign policy priorities and generate public interest in international relations.",
-      "share_angle": "Explain how China's recent diplomatic moves aim to strengthen regional ties and what this means for global geopolitics.",
+      "why_hot": "Heatwave in Europe drives demand for affordable Chinese cooling products, showcasing Chinese manufacturing and export trends.",
+      "share_angle": "How Chinese innovation is helping Europeans beat the heat, and what it says about global trade.",
       "keywords": [
-        "China diplomacy",
-        "neighborhood",
-        "foreign policy"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "世界杯32强全部出炉",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "All 32 teams for the World Cup confirmed",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The World Cup is a global sporting event that captures worldwide attention, and the finalization of teams is a major milestone.",
-      "share_angle": "Break down the qualified teams, highlight surprises and key storylines, and discuss the tournament's global impact.",
-      "keywords": [
-        "World Cup",
-        "32 teams",
-        "football"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "“人造太阳”取得重要突破",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's 'artificial sun' achieves major breakthrough",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Nuclear fusion research is a cutting-edge scientific field with potential to revolutionize energy, and Chinese progress attracts global interest.",
-      "share_angle": "Explain what the breakthrough means for fusion energy development and its significance for clean energy future.",
-      "keywords": [
-        "artificial sun",
-        "nuclear fusion",
-        "energy breakthrough"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "德国人为抢中国空调开始氪金了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Germans start paying premium for Chinese air conditioners amid heatwave",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Combines a relatable consumer trend with climate change and international trade, sparking curiosity and discussion.",
-      "share_angle": "Discuss the heatwave in Europe, the demand for cooling solutions, and how Chinese products are filling the gap.",
-      "keywords": [
-        "air conditioner",
-        "Germany",
+        "cooling gadgets",
+        "export",
         "heatwave"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "伊朗：打击8处美军设施",
+      "rank": 2,
+      "chinese_topic": "未来5年 充电供热供暖将有大变化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Iran says it struck 8 US military facilities",
+      "official_english": "Major Changes Expected in Electric Charging and Heating in Next 5 Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Military tensions in the Middle East have global implications and are closely watched by international audiences.",
-      "share_angle": "Provide context on Iran-US tensions, the reported strikes, and potential consequences for regional stability.",
+      "why_hot": "Policy announcement on energy infrastructure upgrades affects millions of households and EV users.",
+      "share_angle": "What China's new energy plan means for your home heating and electric car charging.",
       "keywords": [
+        "energy policy",
+        "electric heating",
+        "infrastructure"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "人民日报：伊朗队昂着头告别世界杯",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Iran Team Holds Head High in World Cup Exit: People's Daily",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Respectful coverage of Iran's performance resonates with sportsmanship and international solidarity.",
+      "share_angle": "Why Iran's World Cup exit is being celebrated as a moral victory, and what it says about sportsmanship.",
+      "keywords": [
+        "World Cup",
         "Iran",
-        "US military",
-        "Middle East tensions"
+        "sportsmanship"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "小学生叠纸青蛙跳2.52米 创世界纪录",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Primary School Student Sets World Record with Paper Frog Jump of 2.52 Meters",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Wholesome achievement combines creativity, STEM, and record-breaking, inspiring young minds.",
+      "share_angle": "How a simple paper frog taught a child physics and earned a world record.",
+      "keywords": [
+        "world record",
+        "paper frog",
+        "STEM"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "全网“最幸福”专业找到了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Internet Discovers the 'Happiest' College Major",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Viral discussion about career satisfaction and education choices resonates with students and parents.",
+      "share_angle": "Which college major leads to the happiest career? Insights from Chinese netizens.",
+      "keywords": [
+        "college major",
+        "happiness",
+        "career"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "三战高考女孩查分大哭看哭网友",
+      "chinese_topic": "香港航天员黎家盈带招牌笑容工作",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Girl who took gaokao three times breaks down in tears after checking scores, moves netizens",
+      "official_english": "Hong Kong Astronaut Li Jiaying Works with Signature Smile",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Gaokao is a high-stakes exam in China, and stories of perseverance resonate deeply with the public.",
-      "share_angle": "Highlight the pressure of China's college entrance exam and the emotional journey of students who overcome repeated attempts.",
+      "why_hot": "First Hong Kong astronaut's positive image inspires national pride and interest in space program.",
+      "share_angle": "Meet the Hong Kong astronaut who is winning hearts with her smile and dedication to space exploration.",
       "keywords": [
-        "gaokao",
-        "perseverance",
-        "exam pressure"
+        "Hong Kong astronaut",
+        "space",
+        "inspiration"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "热浪下的德国：没有空调的夏天之困",
+      "chinese_topic": "国乒男单资格赛全员出局",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Germany under heatwave: the struggle of a summer without air conditioning",
+      "official_english": "Chinese Men's Table Tennis Singles All Eliminated in Qualifiers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Climate change impacts daily life, and the contrast between Germany's low AC adoption and rising temperatures is newsworthy.",
-      "share_angle": "Explore why Germany has low air conditioning usage, how the heatwave affects people, and what adaptations are emerging.",
+      "why_hot": "Unexpected early exit of dominant Chinese team sparks discussion on competition and pressure.",
+      "share_angle": "What the shocking exit of China's table tennis stars tells us about sports unpredictability.",
       "keywords": [
-        "heatwave",
-        "Germany",
-        "air conditioning"
+        "table tennis",
+        "upset",
+        "qualifiers"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "彝族姑娘查分后喂猪 心仪大学回应了",
+      "chinese_topic": "曾挑衅中国的立陶宛“生变”了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yi ethnic girl feeds pigs after checking exam scores; dream university responds",
+      "official_english": "Lithuania, Which Once Provoked China, Sees Changes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heartwarming story combining rural life, ethnic culture, and educational aspirations, appealing to a wide audience.",
-      "share_angle": "Tell the story of the Yi girl's daily life and her university dream, highlighting educational opportunities in rural China.",
+      "why_hot": "Geopolitical shift involving Lithuania's stance on China-Taiwan relations draws public attention.",
+      "share_angle": "Why Lithuania's changing position on China matters for international relations.",
       "keywords": [
-        "Yi ethnic",
-        "gaokao",
-        "rural education"
+        "Lithuania",
+        "geopolitics",
+        "Taiwan"
       ]
     }
   ]

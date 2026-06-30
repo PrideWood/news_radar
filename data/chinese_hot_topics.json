@@ -1,142 +1,142 @@
 {
   "date": "2026-06-30",
-  "updated_at": "2026-06-30T04:22:15+00:00",
+  "updated_at": "2026-06-30T14:37:47+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "教育部披露：高考生篡改7名同学志愿",
+      "chinese_topic": "中共中央政治局召开会议",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education Ministry Reveals: College Entrance Exam Student Altered 7 Classmates' Volunteer Applications",
+      "official_english": "Politburo of the CPC Central Committee holds a meeting",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A shocking case of exam fraud involving a student tampering with peers' college application choices, sparking widespread concern about education ethics and cybersecurity.",
-      "share_angle": "Discuss the implications for exam security and the need for stronger safeguards in China's college admission system.",
+      "why_hot": "The Politburo meeting sets the policy direction for the country, attracting widespread attention.",
+      "share_angle": "Explain the key decisions and their impact on people's daily lives.",
       "keywords": [
-        "education",
-        "exam fraud",
-        "college admission"
+        "Politburo",
+        "CPC",
+        "policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "全网说丑的格力玫瑰空调卖了5万台",
+      "chinese_topic": "德国队已原地解散",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gree's 'Rose Air Conditioner' Criticized as Ugly Yet Sells 50,000 Units",
+      "official_english": "Germany national football team disbands immediately",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A product widely mocked for its design achieves surprising sales, highlighting the gap between online opinion and consumer behavior.",
-      "share_angle": "Analyze the disconnect between social media criticism and actual market performance, and what it says about consumer psychology.",
+      "why_hot": "Germany's early exit from the World Cup shocked fans, leading to team dissolution.",
+      "share_angle": "Discuss the reasons behind Germany's performance and the future of the team.",
       "keywords": [
-        "consumer behavior",
-        "product design",
-        "social media"
+        "Germany",
+        "World Cup",
+        "football"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "人民锐评：网红不能困在无底线逐利里",
+      "chinese_topic": "西瓜价格大跳水",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily Commentary: Influencers Should Not Be Trapped in Unprincipled Profit-Seeking",
+      "official_english": "Watermelon prices plunge sharply",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Official media criticizes the trend of influencers prioritizing profit over ethics, resonating with public frustration over online misconduct.",
-      "share_angle": "Explore the regulatory and ethical challenges in China's influencer economy, and how content creators can balance profit and responsibility.",
+      "why_hot": "Summer fruit prices dropping benefits consumers but hurts farmers.",
+      "share_angle": "Analyze the market factors causing the price drop and its impact on agriculture.",
       "keywords": [
-        "influencer economy",
-        "ethics",
-        "regulation"
+        "watermelon",
+        "price",
+        "agriculture"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "中国共产党党员总数达10128.6万名",
+      "chinese_topic": "@高考考生 这些骗局要当心",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Total Number of CPC Members Reaches 101.286 Million",
+      "official_english": "College entrance exam candidates beware of these scams",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Release of updated party membership statistics ahead of a major anniversary, reflecting organizational growth.",
-      "share_angle": "Contextualize the scale of the CPC membership and its implications for governance and social influence.",
+      "why_hot": "Post-exam period is prime time for fraud targeting students and parents.",
+      "share_angle": "List common scams and provide tips to avoid them.",
       "keywords": [
-        "CPC",
-        "membership",
-        "statistics"
+        "gaokao",
+        "scam",
+        "alert"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "马耳他亲吻象塌了 中国男子被砸身亡",
+      "chinese_topic": "沃尔玛、永辉、小象超市抽检沦陷",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Man Killed by Collapsing 'Kissing Elephant' Sculpture in Malta",
+      "official_english": "Walmart, Yonghui, and Ele.me supermarkets fail spot checks",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A tragic accident involving a Chinese tourist abroad raises questions about public safety and infrastructure maintenance.",
-      "share_angle": "Discuss the importance of safety standards for public art and tourist attractions, and the response from authorities.",
+      "why_hot": "Food safety concerns at major retailers alarm the public.",
+      "share_angle": "Explain the findings and what consumers should watch out for.",
       "keywords": [
-        "public safety",
-        "tourism",
-        "accident"
+        "food safety",
+        "supermarket",
+        "inspection"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "泰山景区建135公里刀片刺绳隔离网",
+      "chinese_topic": "国务院：探索延长义务教育年限",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Mount Tai Scenic Area Installs 135 km of Razor Wire Fencing",
+      "official_english": "State Council explores extending compulsory education years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Controversial installation of razor wire at a famous UNESCO site sparks debate over conservation versus accessibility.",
-      "share_angle": "Examine the balance between protecting natural heritage and maintaining public access, and alternative solutions.",
+      "why_hot": "Education reform directly affects millions of families and students.",
+      "share_angle": "Discuss the potential benefits and challenges of extending compulsory education.",
       "keywords": [
-        "Mount Tai",
-        "conservation",
-        "tourism"
+        "education",
+        "compulsory",
+        "reform"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "家长集体带孩子在马路上打羽毛球",
+      "chinese_topic": "豪车跳水致二手车大降价：保时捷15万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Parents Take Children to Play Badminton on Road, Sparking Safety Concerns",
+      "official_english": "Luxury car prices plunge, used Porsche sells for 150,000 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Viral video of parents and children playing on a busy road highlights lack of safe recreational spaces and parental judgment.",
-      "share_angle": "Discuss urban planning and the need for more public sports facilities, as well as road safety education.",
+      "why_hot": "Sharp price drops in luxury cars make them more accessible to average consumers.",
+      "share_angle": "Analyze the reasons behind the price drop and what it means for the car market.",
       "keywords": [
-        "road safety",
-        "urban planning",
-        "parenting"
+        "luxury car",
+        "price drop",
+        "used car"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "“大睡特睡”能修复大脑？谣言",
+      "chinese_topic": "中山大学万余名毕业生8秒自助拨穗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim That 'Sleeping Heavily' Repairs Brain Debunked as Rumor",
+      "official_english": "Sun Yat-sen University graduates use 8-second self-service tassel turning",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A popular health myth is debunked, reflecting public interest in neuroscience and sleep science.",
-      "share_angle": "Explain the science of sleep and brain repair, and how to identify health misinformation online.",
+      "why_hot": "Innovative graduation ceremony format sparks discussion on efficiency and tradition.",
+      "share_angle": "Explore how technology is changing traditional ceremonies and student reactions.",
       "keywords": [
-        "health myth",
-        "sleep science",
-        "misinformation"
+        "graduation",
+        "innovation",
+        "university"
       ]
     }
   ]

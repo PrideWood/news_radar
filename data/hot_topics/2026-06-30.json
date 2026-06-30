@@ -1,142 +1,142 @@
 {
   "date": "2026-06-30",
-  "updated_at": "2026-06-29T16:08:26+00:00",
+  "updated_at": "2026-06-30T04:22:15+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "一切民族英雄都是中华民族的脊梁",
+      "chinese_topic": "教育部披露：高考生篡改7名同学志愿",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "All national heroes are the backbone of the Chinese nation",
+      "official_english": "Education Ministry Reveals: College Entrance Exam Student Altered 7 Classmates' Volunteer Applications",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A patriotic sentiment widely shared on social media, often tied to commemorative events or national pride.",
-      "share_angle": "Explain the cultural significance of hero worship in China and how it reflects collective memory.",
+      "why_hot": "A shocking case of exam fraud involving a student tampering with peers' college application choices, sparking widespread concern about education ethics and cybersecurity.",
+      "share_angle": "Discuss the implications for exam security and the need for stronger safeguards in China's college admission system.",
       "keywords": [
-        "national heroes",
-        "patriotism",
-        "Chinese spirit"
+        "education",
+        "exam fraud",
+        "college admission"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "美团、淘宝闪购、京东外卖达成共识",
+      "chinese_topic": "全网说丑的格力玫瑰空调卖了5万台",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Meituan, Taobao Flash Sale, and JD Delivery reach consensus",
+      "official_english": "Gree's 'Rose Air Conditioner' Criticized as Ugly Yet Sells 50,000 Units",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major food delivery platforms reportedly agreeing on industry standards affects millions of users and workers.",
-      "share_angle": "Discuss implications for gig economy workers, pricing, and competition in China's delivery market.",
+      "why_hot": "A product widely mocked for its design achieves surprising sales, highlighting the gap between online opinion and consumer behavior.",
+      "share_angle": "Analyze the disconnect between social media criticism and actual market performance, and what it says about consumer psychology.",
       "keywords": [
-        "food delivery",
-        "platform economy",
-        "gig workers"
+        "consumer behavior",
+        "product design",
+        "social media"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "俄乌双方伤亡近180万人",
+      "chinese_topic": "人民锐评：网红不能困在无底线逐利里",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Russia-Ukraine war casualties approach 1.8 million",
+      "official_english": "People's Daily Commentary: Influencers Should Not Be Trapped in Unprincipled Profit-Seeking",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Staggering casualty figures from the ongoing conflict draw global attention and concern.",
-      "share_angle": "Provide context on the human cost of war and the challenges of verifying numbers.",
+      "why_hot": "Official media criticizes the trend of influencers prioritizing profit over ethics, resonating with public frustration over online misconduct.",
+      "share_angle": "Explore the regulatory and ethical challenges in China's influencer economy, and how content creators can balance profit and responsibility.",
       "keywords": [
-        "Russia-Ukraine war",
-        "casualties",
-        "humanitarian crisis"
+        "influencer economy",
+        "ethics",
+        "regulation"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "月1日起 一批新规即将落地",
+      "chinese_topic": "中国共产党党员总数达10128.6万名",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New regulations to take effect from July 1",
+      "official_english": "Total Number of CPC Members Reaches 101.286 Million",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New laws and policies directly impact daily life, from finance to healthcare.",
-      "share_angle": "Summarize key changes and their practical effects on citizens and businesses.",
+      "why_hot": "Release of updated party membership statistics ahead of a major anniversary, reflecting organizational growth.",
+      "share_angle": "Contextualize the scale of the CPC membership and its implications for governance and social influence.",
       "keywords": [
-        "new regulations",
-        "policy changes",
-        "China law"
+        "CPC",
+        "membership",
+        "statistics"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "世界杯：巴西vs日本",
+      "chinese_topic": "马耳他亲吻象塌了 中国男子被砸身亡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup: Brazil vs Japan",
+      "official_english": "Chinese Man Killed by Collapsing 'Kissing Elephant' Sculpture in Malta",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A high-profile World Cup match generates excitement among football fans worldwide.",
-      "share_angle": "Preview the match, key players, and what's at stake for both teams.",
+      "why_hot": "A tragic accident involving a Chinese tourist abroad raises questions about public safety and infrastructure maintenance.",
+      "share_angle": "Discuss the importance of safety standards for public art and tourist attractions, and the response from authorities.",
       "keywords": [
-        "World Cup",
-        "Brazil",
-        "Japan"
+        "public safety",
+        "tourism",
+        "accident"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "又一家县级医院关停门诊输液大厅",
+      "chinese_topic": "泰山景区建135公里刀片刺绳隔离网",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Another county hospital closes outpatient infusion hall",
+      "official_english": "Mount Tai Scenic Area Installs 135 km of Razor Wire Fencing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects ongoing efforts to curb overuse of IV treatments and reform primary healthcare.",
-      "share_angle": "Explain the rationale behind reducing unnecessary IV drips and its impact on patient care.",
+      "why_hot": "Controversial installation of razor wire at a famous UNESCO site sparks debate over conservation versus accessibility.",
+      "share_angle": "Examine the balance between protecting natural heritage and maintaining public access, and alternative solutions.",
       "keywords": [
-        "healthcare reform",
-        "IV overuse",
-        "county hospital"
+        "Mount Tai",
+        "conservation",
+        "tourism"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "酒店推行“24小时退房”引热议",
+      "chinese_topic": "家长集体带孩子在马路上打羽毛球",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Hotels adopt '24-hour checkout' policy sparking debate",
+      "official_english": "Parents Take Children to Play Badminton on Road, Sparking Safety Concerns",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A shift from fixed checkout times to flexible 24-hour stays challenges industry norms.",
-      "share_angle": "Discuss pros and cons for consumers and hotel operators, and potential industry-wide changes.",
+      "why_hot": "Viral video of parents and children playing on a busy road highlights lack of safe recreational spaces and parental judgment.",
+      "share_angle": "Discuss urban planning and the need for more public sports facilities, as well as road safety education.",
       "keywords": [
-        "hotel policy",
-        "24-hour checkout",
-        "consumer rights"
+        "road safety",
+        "urban planning",
+        "parenting"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "中国18岁小将再现一投夺冠",
+      "chinese_topic": "“大睡特睡”能修复大脑？谣言",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese 18-year-old wins gold with final throw",
+      "official_english": "Claim That 'Sleeping Heavily' Repairs Brain Debunked as Rumor",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A young athlete's dramatic victory in a field event inspires national pride and highlights emerging talent.",
-      "share_angle": "Profile the athlete and the significance of the win in the context of China's sports development.",
+      "why_hot": "A popular health myth is debunked, reflecting public interest in neuroscience and sleep science.",
+      "share_angle": "Explain the science of sleep and brain repair, and how to identify health misinformation online.",
       "keywords": [
-        "Chinese athlete",
-        "gold medal",
-        "field event"
+        "health myth",
+        "sleep science",
+        "misinformation"
       ]
     }
   ]

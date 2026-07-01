@@ -1,142 +1,142 @@
 {
   "date": "2026-07-01",
-  "updated_at": "2026-07-01T04:51:21+00:00",
+  "updated_at": "2026-07-01T14:54:08+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "习近平为“七一勋章”获得者颁授勋章",
+      "chinese_topic": "A股交易新规下周一正式施行",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping presents July 1 Medal to recipients",
+      "official_english": "New A-Share Trading Rules to Take Effect Next Monday",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Annual ceremony honoring outstanding Party members, a major political event on July 1.",
-      "share_angle": "Explain the significance of the July 1 Medal and profiles of notable recipients.",
+      "why_hot": "New trading rules directly affect millions of retail investors, sparking widespread discussion on potential market impact.",
+      "share_angle": "Explain the key changes in the new rules and how they aim to stabilize the market.",
       "keywords": [
-        "Xi Jinping",
-        "July 1 Medal",
-        "Party ceremony"
+        "A股",
+        "交易新规",
+        "股市"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "李家超检阅纪律部队前紧握夫人手",
+      "chinese_topic": "湖南一地试点：小学入学可直升高中",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "John Lee holds wife's hand tightly before inspecting disciplinary forces",
+      "official_english": "Hunan Pilot: Primary School Students Can Directly Enter High School",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Hong Kong leader's affectionate gesture during a formal event sparked public discussion.",
-      "share_angle": "Discuss the human side of political figures and Hong Kong's July 1 celebrations.",
+      "why_hot": "A radical education reform proposal that could reshape the schooling path, drawing intense debate among parents and educators.",
+      "share_angle": "Discuss the pros and cons of the pilot program and its implications for China's education system.",
       "keywords": [
-        "John Lee",
-        "Hong Kong",
-        "July 1"
+        "教育",
+        "直升",
+        "湖南试点"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "卢卡申科出席儿子北大毕业典礼",
+      "chinese_topic": "初中生沉迷折纸近十年作品惊艳网友",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lukashenko attends son's graduation ceremony at Peking University",
+      "official_english": "Middle School Student's Decade-Long Origami Passion Wows Netizens",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Belarusian president's personal visit to a top Chinese university highlights educational ties.",
-      "share_angle": "Explore international student experiences and China-Belarus relations.",
+      "why_hot": "A heartwarming story of dedication and creativity that resonates with people seeking positive content.",
+      "share_angle": "Highlight the student's journey and the educational value of nurturing hobbies.",
       "keywords": [
-        "Lukashenko",
-        "Peking University",
-        "graduation"
+        "折纸",
+        "初中生",
+        "创意"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "上海1份番茄炒蛋卖520元 厨师回应",
+      "chinese_topic": "电动汽车“最严国标”来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shanghai restaurant charges 520 yuan for tomato and egg stir-fry; chef responds",
+      "official_english": "China's Strictest National Standards for Electric Vehicles Released",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Extreme pricing of a common dish sparks debate on food costs and luxury dining.",
-      "share_angle": "Analyze the economics of luxury dining and consumer reactions in China.",
+      "why_hot": "New safety and performance standards for EVs affect the entire industry and consumer choices.",
+      "share_angle": "Break down the key requirements and what they mean for EV manufacturers and buyers.",
       "keywords": [
-        "tomato and egg",
-        "520 yuan",
-        "luxury dining"
+        "电动汽车",
+        "国标",
+        "安全"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "机器人伴侣订单破1万 仅限成人购买",
+      "chinese_topic": "金价创13年来最大季度跌幅",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Robot companion orders exceed 10,000; adult-only purchase",
+      "official_english": "Gold Prices Post Biggest Quarterly Drop in 13 Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Rapid adoption of AI companion robots raises ethical and social questions.",
-      "share_angle": "Discuss the technology behind robot companions and societal implications.",
+      "why_hot": "Significant gold price movement impacts investors and signals broader economic trends.",
+      "share_angle": "Analyze the reasons behind the drop and its implications for global markets.",
       "keywords": [
-        "robot companion",
-        "AI",
-        "adult-only"
+        "金价",
+        "跌幅",
+        "经济"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "多地乡镇理发店被英国公司起诉侵权",
+      "chinese_topic": "微信转账误转他人 法院判了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple rural barbershops sued by UK company for trademark infringement",
+      "official_english": "Court Rules on WeChat Transfer Sent to Wrong Person",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Small businesses face legal action from foreign corporation, highlighting IP challenges.",
-      "share_angle": "Examine trademark disputes between global brands and local shops in China.",
+      "why_hot": "A common digital payment mishap with a legal ruling that provides guidance for similar disputes.",
+      "share_angle": "Explain the legal principles and practical tips to avoid such errors.",
       "keywords": [
-        "barbershop",
-        "trademark infringement",
-        "UK company"
+        "微信转账",
+        "误转",
+        "法院判决"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "高温之下 中国空调何以热销欧洲",
+      "chinese_topic": "世界杯：英格兰vs刚果金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Chinese air conditioners are selling well in Europe amid heatwave",
+      "official_english": "World Cup: England vs. DR Congo",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heatwave drives demand for Chinese-made ACs, reflecting trade and climate trends.",
-      "share_angle": "Discuss China's manufacturing competitiveness and climate change impacts.",
+      "why_hot": "A major World Cup match draws global attention and national pride.",
+      "share_angle": "Preview the match, key players, and what's at stake for both teams.",
       "keywords": [
-        "air conditioner",
-        "Europe",
-        "heatwave"
+        "世界杯",
+        "英格兰",
+        "刚果金"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "美国宇航员出舱7小时 完成太空行走",
+      "chinese_topic": "今年中国首个台风来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US astronauts complete 7-hour spacewalk",
+      "official_english": "China's First Typhoon of the Year Arrives",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Space exploration milestone captures public interest in science and technology.",
-      "share_angle": "Compare US and Chinese space programs and the future of spacewalks.",
+      "why_hot": "Typhoon season begins, affecting millions and prompting disaster preparedness discussions.",
+      "share_angle": "Report on the typhoon's path, intensity, and safety measures.",
       "keywords": [
-        "spacewalk",
-        "NASA",
-        "astronaut"
+        "台风",
+        "天气",
+        "防灾"
       ]
     }
   ]

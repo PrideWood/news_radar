@@ -1,142 +1,142 @@
 {
   "date": "2026-07-02",
-  "updated_at": "2026-07-02T04:18:57+00:00",
+  "updated_at": "2026-07-02T14:24:47+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "致敬英雄 接续奋斗",
+      "chinese_topic": "庆祝建党105周年大会温暖瞬间",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Memorial Day a time to 'remember', 'inspire'",
-      "official_english_source": "China Daily",
-      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f252ca3108bc8c6721a01.html",
-      "why_hot": "National sentiment and collective memory, likely related to a commemorative event or anniversary.",
-      "share_angle": "Explain the significance of this memorial day and how it inspires national unity and progress.",
+      "official_english": "Warm moments at the 105th anniversary celebration of the founding of the Communist Party of China",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Major political anniversary with emotional resonance",
+      "share_angle": "Highlight the human stories and unity behind the ceremony",
       "keywords": [
-        "memorial",
-        "heroes",
-        "national spirit"
+        "CPC",
+        "anniversary",
+        "unity"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "二手豪车大降价 车商：同行改干烧烤",
+      "chinese_topic": "几十年后城市有多热？中国气象局预判",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "China Meteorological Administration predicts urban heat trends in coming decades",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects economic downturn and changing consumer behavior; luxury car market slump.",
-      "share_angle": "Discuss the economic signals behind luxury car price drops and what it means for the broader economy.",
+      "why_hot": "Climate change concern directly affecting daily life",
+      "share_angle": "Explain the science and implications for city planning",
       "keywords": [
-        "luxury cars",
-        "price drop",
-        "economy"
+        "climate",
+        "urban heat",
+        "prediction"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "比利时内讧时对手都来劝架了",
+      "chinese_topic": "各地多措并举助推高质量发展",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Multiple measures across regions boost high-quality development",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup drama; internal conflict within Belgian team during match, unusual sportsmanship.",
-      "share_angle": "Highlight the sportsmanship and the lighter side of World Cup tensions.",
+      "why_hot": "National economic strategy with local implementation stories",
+      "share_angle": "Showcase innovative policies and their impact",
       "keywords": [
-        "Belgium",
-        "World Cup",
-        "sportsmanship"
+        "economy",
+        "development",
+        "policy"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "中国经济驰而不息的底气所在",
+      "chinese_topic": "AI演员已经能演出情绪变化了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "AI actors can now perform emotional changes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Official narrative on economic resilience; public interest in economic outlook.",
-      "share_angle": "Break down the key factors underpinning China's economic resilience.",
+      "why_hot": "Breakthrough in AI and entertainment intersection",
+      "share_angle": "Discuss the technology and its implications for film industry",
       "keywords": [
-        "China economy",
-        "resilience",
-        "growth"
+        "AI",
+        "acting",
+        "emotion"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "清华门前一张父女合影里彩蛋藏了17年",
+      "chinese_topic": "“深圳全域开放无人驾驶”系误读",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Shenzhen's full-area autonomous driving opening is a misinterpretation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heartwarming human-interest story; hidden detail in old photo goes viral.",
-      "share_angle": "Tell the story of the photo and the 'Easter egg' that was discovered 17 years later.",
+      "why_hot": "Misinformation correction about a major tech policy",
+      "share_angle": "Clarify the actual policy and its significance",
       "keywords": [
-        "Tsinghua",
-        "father-daughter",
-        "viral photo"
+        "autonomous driving",
+        "Shenzhen",
+        "misinformation"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "泰山景区回应修建刀片刺绳隔离网",
+      "chinese_topic": "吐鲁番火焰山地表温度飙至84℃",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Surface temperature at Turpan's Flaming Mountain soars to 84°C",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public concern over safety measures at famous scenic spot; tourism and environment.",
-      "share_angle": "Explain the rationale behind the installation and the public reaction.",
+      "why_hot": "Extreme weather record with travel and climate angles",
+      "share_angle": "Explain the phenomenon and its relation to global warming",
       "keywords": [
-        "Mount Tai",
-        "safety",
-        "tourism"
+        "heatwave",
+        "Turpan",
+        "record"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "世界杯三个东道主全部晋级16强",
+      "chinese_topic": "多地停运、停航 台风来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Multiple regions suspend transport and flights as typhoon approaches",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup milestone; all three host nations advance, a rare feat.",
-      "share_angle": "Analyze the performance of the host nations and the significance of this achievement.",
+      "why_hot": "Immediate public safety concern affecting millions",
+      "share_angle": "Provide safety tips and explain typhoon preparedness",
       "keywords": [
-        "World Cup",
-        "hosts",
-        "round of 16"
+        "typhoon",
+        "transport",
+        "safety"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "日本市民大排长龙买中国相机",
+      "chinese_topic": "出现性能下降问题 DeepSeek回应",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "DeepSeek responds to performance degradation issues",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese products gaining popularity abroad; tech and trade interest.",
-      "share_angle": "Discuss the rise of Chinese camera brands in the Japanese market and what it says about global tech trends.",
+      "why_hot": "Tech reliability concern for a popular AI service",
+      "share_angle": "Discuss the challenges of scaling AI services",
       "keywords": [
-        "Chinese cameras",
-        "Japan",
-        "tech exports"
+        "DeepSeek",
+        "AI",
+        "performance"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-07-03",
-  "updated_at": "2026-07-03T04:05:13+00:00",
+  "updated_at": "2026-07-03T14:28:12+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "教育部开通高校学生资助热线",
+      "chinese_topic": "台风来袭 全场景防御指南请收好",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education, health fees among key concerns",
-      "official_english_source": "China Daily",
-      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html",
-      "why_hot": "Education policy directly affects millions of students and families, especially financial support for higher education.",
-      "share_angle": "Explain how the hotline works and what it means for students from low-income backgrounds.",
+      "official_english": "Typhoon Approaching: Comprehensive Defense Guide Released",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Typhoon season is active, and the public urgently needs safety information.",
+      "share_angle": "Explain the science behind typhoons and practical safety tips for different scenarios.",
       "keywords": [
-        "education",
-        "financial aid",
-        "hotline"
+        "typhoon",
+        "safety",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "C罗点球破门！葡萄牙2-1克罗地亚",
+      "chinese_topic": "河南部分西瓜价格跌至1毛多一斤",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Watermelon Prices in Henan Drop to Below 0.1 Yuan per Jin",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup match with dramatic moments and star player Ronaldo scoring his first knockout goal.",
-      "share_angle": "Highlight the emotional rollercoaster and significance of Ronaldo's goal.",
+      "why_hot": "Extremely low prices reflect agricultural market fluctuations and farmer distress.",
+      "share_angle": "Discuss factors behind price collapse and impact on farmers and consumers.",
       "keywords": [
-        "World Cup",
-        "Ronaldo",
-        "Portugal"
+        "watermelon",
+        "price drop",
+        "agriculture"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "王楚钦无缘8强",
+      "chinese_topic": "教育部：坚决杜绝用手机布置作业",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Ministry of Education: Firmly Prohibit Assigning Homework via Mobile Phones",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese table tennis star unexpectedly eliminated, sparking discussion about national team performance.",
-      "share_angle": "Analyze the upset and its implications for Chinese table tennis.",
+      "why_hot": "Education policy directly affects students and parents, sparking debate on screen time.",
+      "share_angle": "Analyze the rationale, challenges, and potential effects on students' digital habits.",
       "keywords": [
-        "table tennis",
-        "Wang Chuqin",
-        "upset"
+        "education",
+        "homework",
+        "mobile phone ban"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "委内瑞拉震区几乎所有官员遇难",
+      "chinese_topic": "未来5年普通高中扩招",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Regular High Schools to Expand Enrollment Over Next Five Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major natural disaster with tragic loss of local leadership, raising questions about governance and recovery.",
-      "share_angle": "Discuss the challenges of disaster response when local officials are wiped out.",
+      "why_hot": "Major education reform affecting millions of families and the vocational track.",
+      "share_angle": "Explain the policy shift and its implications for students and the education system.",
       "keywords": [
-        "Venezuela",
-        "earthquake",
-        "officials"
+        "high school",
+        "enrollment expansion",
+        "education reform"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "女子自费装“电梯”给全楼用遭抵制",
+      "chinese_topic": "刷新年内最大降幅！今晚油价下调",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Record Fuel Price Cut This Year: Oil Prices to Drop Tonight",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Community conflict over altruistic act highlights tensions in urban shared spaces.",
-      "share_angle": "Explore the social dynamics and legal aspects of private installations in public housing.",
+      "why_hot": "Fuel prices directly impact daily commuting and logistics costs.",
+      "share_angle": "Break down the reasons for the price cut and its economic ripple effects.",
       "keywords": [
-        "community",
-        "elevator",
-        "dispute"
+        "fuel price",
+        "price cut",
+        "economy"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "中央巡查组：再不治理迟早出大事",
+      "chinese_topic": "中国男篮73比92不敌日本男篮",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "China Men's Basketball Loses 73-92 to Japan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Central inspection team's warning about environmental or safety issues signals high-level concern.",
-      "share_angle": "Explain the role of central inspections and what this warning means for local governance.",
+      "why_hot": "Loss to regional rival sparks discussion on team performance and development.",
+      "share_angle": "Analyze the game and broader trends in Asian basketball competitiveness.",
       "keywords": [
-        "inspection",
-        "governance",
-        "warning"
+        "basketball",
+        "China vs Japan",
+        "sports"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "爸爸带弱视儿子徒步2年改善视力",
+      "chinese_topic": "LV老花被指模仿中国唐代宝相花",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "LV Monogram Allegedly Copies Tang Dynasty Baoxiang Flower Pattern",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Inspiring story of parental dedication and alternative therapy for vision improvement.",
-      "share_angle": "Highlight the science behind outdoor activity and vision health, and the emotional bond.",
+      "why_hot": "Cultural appropriation debate between a global luxury brand and Chinese heritage.",
+      "share_angle": "Explore the historical pattern and the controversy over intellectual property.",
       "keywords": [
-        "parenting",
-        "vision",
-        "hiking"
+        "LV",
+        "cultural appropriation",
+        "Tang dynasty"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "上海程序员拍下“银河落九天”",
+      "chinese_topic": "试验列车撞人致11死2伤 调查报告公布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Investigation Report Released on Test Train Accident That Killed 11 and Injured 2",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Stunning photo of Milky Way over Shanghai combines technology, nature, and urban life.",
-      "share_angle": "Discuss how light pollution affects stargazing and the photographer's technique.",
+      "why_hot": "Major safety incident with public concern over railway safety and accountability.",
+      "share_angle": "Summarize key findings and discuss implications for rail safety protocols.",
       "keywords": [
-        "photography",
-        "Milky Way",
-        "Shanghai"
+        "train accident",
+        "safety",
+        "investigation"
       ]
     }
   ]

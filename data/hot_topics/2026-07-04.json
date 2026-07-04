@@ -1,142 +1,142 @@
 {
   "date": "2026-07-04",
-  "updated_at": "2026-07-04T03:58:28+00:00",
+  "updated_at": "2026-07-04T13:53:13+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "中国银行重启5年期大额存单",
+      "chinese_topic": "庆祝中国共产党成立105周年大会侧记",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Bank of China Resumes 5-Year Large-Denomination Certificates of Deposit",
+      "official_english": "Side Notes on the Celebration of the 105th Anniversary of the Founding of the Communist Party of China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Financial product changes affect personal savings and investment decisions, sparking public interest.",
-      "share_angle": "Explain what large-denomination CDs are and why the restart matters for savers.",
+      "why_hot": "Major political anniversary event, widely covered and discussed.",
+      "share_angle": "Explain the significance of the 105th anniversary and key messages from the celebration.",
       "keywords": [
-        "Bank of China",
-        "CD",
-        "savings"
+        "CPC",
+        "anniversary",
+        "celebration"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "各地多举措防御台风",
+      "chinese_topic": "佛得角再次感谢中国：帮我们圆梦",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple Measures Taken Across Regions to Defend Against Typhoon",
+      "official_english": "Cape Verde Thanks China Again: Helping Us Realize Our Dream",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon season directly impacts millions, with disaster preparedness a key public concern.",
-      "share_angle": "Highlight how Chinese cities prepare for typhoons and what residents should know.",
+      "why_hot": "International cooperation story with emotional resonance.",
+      "share_angle": "Highlight China's role in helping Cape Verde achieve a dream, possibly related to sports or infrastructure.",
       "keywords": [
-        "typhoon",
-        "disaster preparedness",
-        "China"
+        "Cape Verde",
+        "China",
+        "gratitude"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "中央巡查组厉声质问：你们上去过吗",
+      "chinese_topic": "日本首次公布跟踪中国航母视频",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Central Inspection Team Sternly Asks: 'Have You Been Up There?'",
+      "official_english": "Japan Releases First Video Tracking Chinese Aircraft Carrier",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Inspection team's tough questioning reflects anti-corruption and accountability efforts, resonating with public.",
-      "share_angle": "Explain the role of central inspection teams in China's governance and why this moment went viral.",
+      "why_hot": "Military and geopolitical tension, rare footage release.",
+      "share_angle": "Discuss the implications of Japan's tracking and the state of China-Japan relations.",
       "keywords": [
-        "inspection",
-        "accountability",
-        "governance"
+        "Japan",
+        "aircraft carrier",
+        "military"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "阿根廷3比2艰难战胜佛得角",
+      "chinese_topic": "中小学生暑期安全提示请收好",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Argentina Edges Cape Verde 3-2 in Thrilling World Cup Match",
+      "official_english": "Summer Safety Tips for Primary and Secondary School Students",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup match with underdog Cape Verde nearly upsetting Argentina captivated global audience.",
-      "share_angle": "Break down the game's key moments and why Cape Verde's performance was historic.",
+      "why_hot": "Public service announcement with high relevance to families.",
+      "share_angle": "Summarize key safety tips and why they are important during summer break.",
       "keywords": [
-        "World Cup",
-        "Argentina",
-        "Cape Verde"
+        "summer safety",
+        "students",
+        "tips"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "佛得角门将沃齐尼亚已成超级网红",
+      "chinese_topic": "到底是谁取消了有线耳机",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cape Verde Goalkeeper Vozinha Becomes Internet Sensation",
+      "official_english": "Who Really Canceled the Wired Earphone?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Underdog goalkeeper's heroic performance and backstory made him a viral star.",
-      "share_angle": "Tell the story of Vozinha's rise from obscurity to World Cup fame.",
+      "why_hot": "Tech trend debate, consumer frustration with missing headphone jacks.",
+      "share_angle": "Trace the history of the headphone jack removal and discuss consumer choice.",
       "keywords": [
-        "Vozinha",
-        "Cape Verde",
-        "goalkeeper"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "某学院毕业后可直接进胖东来系谣言",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor Debunked: No Direct Employment at Pangdonglai After Graduation from Certain College",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Misinformation about job guarantees affects students and parents, prompting official clarification.",
-      "share_angle": "Discuss how to verify education-related rumors and the impact of fake news on career choices.",
-      "keywords": [
-        "rumor",
-        "employment",
-        "education"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "同学被嘲“穿假鞋” 班主任严肃教育",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Teacher Gives Serious Lesson After Student Mocked for Wearing Fake Shoes",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "School bullying and materialism in education spark widespread discussion on values.",
-      "share_angle": "Explore how schools handle bullying and teach respect regardless of material possessions.",
-      "keywords": [
-        "bullying",
-        "education",
-        "values"
+        "wired earphones",
+        "headphone jack",
+        "tech trend"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "中国船员在被韩海警扣押期间死亡",
+      "chinese_topic": "普京首次承认俄罗斯缺油",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Fisherman Dies While Detained by South Korean Coast Guard",
+      "official_english": "Putin Acknowledges Russia's Oil Shortage for the First Time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Death of a Chinese citizen abroad raises diplomatic and legal concerns, drawing public attention.",
-      "share_angle": "Summarize the incident and the diplomatic response, emphasizing the need for fair treatment.",
+      "why_hot": "Major geopolitical and economic news from a top oil producer.",
+      "share_angle": "Explain the context and potential global impact of Russia's oil shortage.",
       "keywords": [
-        "fisherman",
-        "South Korea",
-        "detention"
+        "Putin",
+        "Russia",
+        "oil shortage"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "宁夏辟谣“硒砂瓜滞销烂市”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Ningxia Refutes Rumor of 'Selenium Melon Glut and Rotting'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Agricultural rumor debunking, affects farmers and consumers.",
+      "share_angle": "Discuss how rumors can harm agricultural markets and the importance of official clarification.",
+      "keywords": [
+        "Ningxia",
+        "rumor",
+        "agriculture"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "多省献血量还在降 血站寻找下一袋血",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Blood Donation Volumes Continue to Drop in Multiple Provinces; Blood Stations Seek Next Bag",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Public health concern, urgent call for blood donations.",
+      "share_angle": "Highlight the blood shortage crisis and encourage donation, explaining why it matters.",
+      "keywords": [
+        "blood donation",
+        "shortage",
+        "public health"
       ]
     }
   ]

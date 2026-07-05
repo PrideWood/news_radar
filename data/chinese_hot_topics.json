@@ -1,142 +1,142 @@
 {
   "date": "2026-07-05",
-  "updated_at": "2026-07-05T04:17:32+00:00",
+  "updated_at": "2026-07-05T14:01:05+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "“人造太阳”时间表更新",
+      "chinese_topic": "“东风快递”送达画面曝光",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China updates timeline for 'artificial sun' fusion reactor",
+      "official_english": "China's DF-41 ICBM delivery footage revealed",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's nuclear fusion project, the 'artificial sun,' has a new timeline, sparking interest in clean energy breakthroughs.",
-      "share_angle": "Explain what the 'artificial sun' is and why its updated timeline matters for global clean energy.",
+      "why_hot": "Footage of China's strategic missile delivery sparks national pride and defense discussion.",
+      "share_angle": "Explain the significance of the DF-41 and its role in China's nuclear deterrence.",
       "keywords": [
-        "artificial sun",
-        "nuclear fusion",
-        "clean energy"
+        "DF-41",
+        "ICBM",
+        "military"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "为找稀土 日本开始拆空调了",
+      "chinese_topic": "中国制造如何为欧洲降温",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japan dismantles air conditioners to recover rare earth elements",
+      "official_english": "How Chinese manufacturing helps cool Europe",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Japan's move to extract rare earths from old air conditioners highlights supply chain concerns and recycling innovation.",
-      "share_angle": "Discuss the global rare earth supply chain and how recycling electronics can reduce dependency.",
+      "why_hot": "Heatwave in Europe drives demand for Chinese air conditioners and cooling products.",
+      "share_angle": "Discuss the global impact of Chinese manufacturing on climate adaptation.",
       "keywords": [
-        "rare earth",
-        "recycling",
-        "supply chain"
+        "manufacturing",
+        "heatwave",
+        "exports"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "人民日报：自动续费的坑平台得填",
+      "chinese_topic": "房子刚卖出就遇拆迁 能反悔吗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily: Platforms must fix auto-renewal traps",
+      "official_english": "Can you cancel a home sale if the house is soon to be demolished?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "State media criticizes auto-renewal practices, pushing for consumer protection reforms.",
-      "share_angle": "Explain how auto-renewal subscriptions work and what regulations are being proposed.",
+      "why_hot": "Legal gray area around property rights and demolition compensation sparks public debate.",
+      "share_angle": "Explain Chinese property laws and buyer/seller rights in such scenarios.",
       "keywords": [
-        "auto-renewal",
-        "consumer rights",
-        "subscription"
+        "property",
+        "demolition",
+        "legal"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "河南西瓜滞销 瓜农：1瓶水能换3个瓜",
+      "chinese_topic": "浮夸的图书腰封该退场了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Watermelon glut in Henan: farmers swap 3 melons for 1 bottle of water",
+      "official_english": "Time to retire exaggerated book waistbands",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe oversupply of watermelons in Henan leads to distress sales, highlighting agricultural market challenges.",
-      "share_angle": "Discuss the causes of agricultural gluts and potential solutions like better logistics and processing.",
+      "why_hot": "Criticism of misleading book marketing on waistbands gains traction among readers.",
+      "share_angle": "Discuss the culture of book marketing and its impact on readers' trust.",
       "keywords": [
-        "watermelon",
-        "agriculture",
-        "oversupply"
+        "books",
+        "marketing",
+        "publishing"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "配音从业者几乎成为“免费劳动力”",
+      "chinese_topic": "U17国足3比0胜澳大利亚",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Voice actors in China face exploitation as 'free labor'",
+      "official_english": "China U17 football team beats Australia 3-0",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Voice actors report low pay and poor conditions, sparking debate about labor rights in the gig economy.",
-      "share_angle": "Explore the working conditions of voice actors and the impact of AI on the industry.",
+      "why_hot": "Rare victory for Chinese youth football against a strong opponent boosts national pride.",
+      "share_angle": "Highlight the potential of China's youth football development.",
       "keywords": [
-        "voice acting",
-        "labor rights",
-        "gig economy"
+        "football",
+        "U17",
+        "victory"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "金价结束四周连跌",
+      "chinese_topic": "硬盘一天三个价 电脑价格突然暴涨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gold prices end four-week losing streak",
+      "official_english": "Hard drive prices fluctuate wildly, computer prices surge",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Gold prices rebound after a month of decline, attracting investor attention amid economic uncertainty.",
-      "share_angle": "Explain factors influencing gold prices and what the rebound means for investors.",
+      "why_hot": "Supply chain issues and demand spikes cause volatile hardware prices, affecting consumers.",
+      "share_angle": "Analyze the reasons behind the price surge and its impact on consumers and businesses.",
       "keywords": [
-        "gold",
-        "investment",
-        "economy"
+        "hardware",
+        "price",
+        "supply chain"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "中气爱：超强台风巴威很可能登陆",
+      "chinese_topic": "广州辟谣征集解禁摩托意见",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Super typhoon Bavi likely to make landfall, warns Chinese weather service",
+      "official_english": "Guangzhou denies soliciting opinions on lifting motorcycle ban",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A powerful typhoon threatens China, prompting public concern and disaster preparedness discussions.",
-      "share_angle": "Describe the typhoon's projected path and how China prepares for extreme weather events.",
+      "why_hot": "Rumors of motorcycle ban lift cause public discussion on urban mobility and safety.",
+      "share_angle": "Explain the history of motorcycle bans in Chinese cities and current debates.",
       "keywords": [
-        "typhoon",
-        "Bavi",
-        "disaster preparedness"
+        "motorcycle",
+        "ban",
+        "Guangzhou"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "王曼昱蒯曼击败日本组合夺冠",
+      "chinese_topic": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Manyu and Kuai Man defeat Japanese pair to win title",
+      "official_english": "AI says wild mushroom is safe, 9-year-old hospitalized for 8 days after eating",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese table tennis duo wins a major title, celebrating national sports achievement.",
-      "share_angle": "Highlight the match and the significance of China's dominance in table tennis.",
+      "why_hot": "AI misidentification leads to poisoning, raising concerns about AI reliability in daily life.",
+      "share_angle": "Discuss the risks of relying on AI for safety-critical information and the need for regulation.",
       "keywords": [
-        "table tennis",
-        "Wang Manyu",
-        "Kuai Man"
+        "AI",
+        "mushroom",
+        "safety"
       ]
     }
   ]

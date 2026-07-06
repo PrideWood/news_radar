@@ -1,142 +1,142 @@
 {
   "date": "2026-07-06",
-  "updated_at": "2026-07-06T04:36:22+00:00",
+  "updated_at": "2026-07-06T15:52:35+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "工业游撬动三千亿元新赛道",
+      "chinese_topic": "广西南宁洪涝灾害已致2人死亡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Industrial tourism opens up a new track worth 300 billion yuan",
+      "official_english": "Flooding in Nanning, Guangxi Claims 2 Lives",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Industrial tourism is emerging as a significant economic driver, sparking public interest in how factories and industrial sites are transformed into tourist attractions.",
-      "share_angle": "Explore how industrial tourism is creating a 300-billion-yuan market and what it means for local economies and travelers.",
+      "why_hot": "Severe flooding in Guangxi has caused casualties and widespread damage, drawing national attention to disaster response.",
+      "share_angle": "Explain the causes and impact of the flooding, and how local authorities are responding.",
       "keywords": [
-        "industrial tourism",
-        "economic growth",
-        "new track"
+        "flooding",
+        "Guangxi",
+        "casualties"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "万元机器人伴侣续航撑不过一晚",
+      "chinese_topic": "多地紧急响应全力防汛抢险",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "10,000-yuan robot companion battery can't last a night",
+      "official_english": "Multiple Regions Activate Emergency Flood Control and Rescue Operations",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High price but poor battery life of robot companions sparks debate on tech maturity and consumer expectations.",
-      "share_angle": "Discuss the gap between promise and reality in consumer robotics, and what it reveals about the industry's challenges.",
+      "why_hot": "Multiple provinces are mobilizing resources to combat severe flooding, reflecting the scale of the disaster.",
+      "share_angle": "Discuss the coordinated flood response across China and the challenges faced.",
       "keywords": [
-        "robot companion",
-        "battery life",
-        "consumer tech"
+        "flood control",
+        "emergency response",
+        "disaster relief"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "患者控诉每天要早起等医生查房",
+      "chinese_topic": "直径1000公里超强台风逼近或直扑浙江",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Patients complain about having to wake up early to wait for doctor rounds",
+      "official_english": "Super Typhoon with 1,000-km Diameter Approaching Zhejiang",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Patient experience in hospitals becomes a hot topic, highlighting systemic issues in healthcare scheduling.",
-      "share_angle": "Examine the tension between medical routines and patient comfort, and potential reforms in hospital management.",
+      "why_hot": "A massive super typhoon threatens China's eastern coast, prompting widespread concern and preparations.",
+      "share_angle": "Explain the science behind super typhoons and the potential impact on Zhejiang.",
       "keywords": [
-        "patient rights",
-        "hospital routine",
-        "healthcare reform"
+        "super typhoon",
+        "Zhejiang",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "老板守着冰柜叹气：雪糕怎么没人吃",
+      "chinese_topic": "不到2年 中国再向太平洋发射战略导弹",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shop owners sigh over unsold ice cream: why aren't people eating ice cream?",
+      "official_english": "China Launches Strategic Missile into Pacific for Second Time in Under Two Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects changing consumer habits and economic pressures on small businesses.",
-      "share_angle": "Analyze the decline in ice cream sales as a window into shifting consumer preferences and retail challenges.",
+      "why_hot": "China's missile test into the Pacific has strategic implications and draws international attention.",
+      "share_angle": "Discuss the significance of the missile test and its context in global security.",
       "keywords": [
-        "ice cream sales",
-        "consumer behavior",
-        "small business"
+        "missile test",
+        "Pacific",
+        "strategic"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "青海省博：观音像底部TCL字样系报纸",
+      "chinese_topic": "世界杯“最贵”的一场较量来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Qinghai Provincial Museum: 'TCL' on bottom of Guanyin statue is from newspaper",
+      "official_english": "World Cup's 'Most Expensive' Match Approaches",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A museum artifact with a modern brand logo goes viral, raising questions about conservation and authenticity.",
-      "share_angle": "Delve into the story behind the 'TCL' Guanyin statue and what it says about artifact restoration and public curiosity.",
+      "why_hot": "A high-stakes World Cup match with top players generates massive fan interest.",
+      "share_angle": "Preview the match and explain why it's considered the 'most expensive' in terms of player value.",
       "keywords": [
-        "museum",
-        "artifact",
-        "TCL"
+        "World Cup",
+        "football",
+        "high-value match"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "“欧洲热浪”烤化红绿灯？假的",
+      "chinese_topic": "北京空中出现巨幕雨幡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'European heatwave melts traffic lights' claim debunked",
+      "official_english": "Giant Rain Curtain Appears in Beijing Sky",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Misinformation about extreme weather spreads quickly, prompting fact-checking and discussion on climate change.",
-      "share_angle": "Highlight the importance of verifying viral claims and the real impacts of heatwaves versus exaggerated stories.",
+      "why_hot": "A rare meteorological phenomenon in Beijing captivates residents and goes viral online.",
+      "share_angle": "Explain what a rain curtain is and the weather conditions that create it.",
       "keywords": [
-        "heatwave",
-        "misinformation",
-        "fact-check"
+        "rain curtain",
+        "Beijing",
+        "weather phenomenon"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "四川7月5日地震为汶川余震",
+      "chinese_topic": "男子在自家酒楼旁开“一元饭堂”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "July 5 Sichuan earthquake identified as aftershock of 2008 Wenchuan quake",
+      "official_english": "Man Opens 'One-Yuan Canteen' Next to His Restaurant",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A reminder of the long-term seismic activity in Sichuan, sparking public concern and scientific discussion.",
-      "share_angle": "Explain the science of aftershocks and why a quake 18 years later is still considered part of the Wenchuan sequence.",
+      "why_hot": "A heartwarming story of a man providing affordable meals to the needy resonates with the public.",
+      "share_angle": "Highlight the social impact and the man's motivation behind the initiative.",
       "keywords": [
-        "Sichuan earthquake",
-        "aftershock",
-        "Wenchuan"
+        "charity",
+        "affordable meals",
+        "social good"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "地球连续24小时地磁暴",
+      "chinese_topic": "惊艳！北京雨后再现双彩虹",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Earth experiences 24-hour continuous geomagnetic storm",
+      "official_english": "Stunning Double Rainbow Appears Over Beijing After Rain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A prolonged geomagnetic storm captures public imagination and raises awareness of space weather effects.",
-      "share_angle": "Discuss what causes geomagnetic storms, their potential impacts on technology, and how they are monitored.",
+      "why_hot": "A beautiful double rainbow after rain brings joy and awe to Beijing residents.",
+      "share_angle": "Explain the science of double rainbows and share the visual spectacle.",
       "keywords": [
-        "geomagnetic storm",
-        "space weather",
-        "Earth"
+        "double rainbow",
+        "Beijing",
+        "weather"
       ]
     }
   ]

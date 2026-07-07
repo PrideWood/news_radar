@@ -1,142 +1,142 @@
 {
   "date": "2026-07-07",
-  "updated_at": "2026-07-07T04:14:17+00:00",
+  "updated_at": "2026-07-07T15:08:00+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "两部门预拨1.6亿元支持防汛防台工作",
+      "chinese_topic": "“这是中国第二次拯救世界经济”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Two Ministries Allocate 160 Million Yuan for Flood and Typhoon Prevention",
+      "official_english": "China's Role in Rescuing the Global Economy: A Second Time?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Government emergency funding for natural disaster response directly affects public safety and livelihood.",
-      "share_angle": "Explain how China's disaster relief system works and the scale of this allocation.",
+      "why_hot": "Discussion on China's economic stimulus measures and their global impact.",
+      "share_angle": "Explain how China's economic policies are influencing global recovery.",
       "keywords": [
-        "flood prevention",
-        "typhoon",
-        "emergency funding"
+        "China",
+        "economy",
+        "global recovery"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "甘肃陇南滑坡33人被埋 已救出17人",
+      "chinese_topic": "湖北龙卷风亲历者：父母被卷到高空",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Landslide in Longnan, Gansu Buries 33, 17 Rescued",
+      "official_english": "Hubei Tornado Survivor Recalls Parents Being Swept into the Air",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major geological disaster with ongoing rescue operations, high public concern for victims.",
-      "share_angle": "Update on rescue efforts and geological disaster preparedness in mountainous regions.",
+      "why_hot": "Personal accounts of a severe tornado in Hubei province.",
+      "share_angle": "Highlight the human impact and weather safety awareness.",
       "keywords": [
-        "landslide",
-        "Gansu",
-        "rescue"
+        "tornado",
+        "Hubei",
+        "survivor"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "广西55条河流超警戒水位",
+      "chinese_topic": "强对流天气如何避险？紧急提示",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "55 Rivers in Guangxi Exceed Warning Levels",
+      "official_english": "How to Stay Safe During Severe Convective Weather: Emergency Tips",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe flooding affecting large population, immediate threat to life and property.",
-      "share_angle": "Explain the flood situation and how communities are coping.",
+      "why_hot": "Public interest in safety measures amid recent severe weather.",
+      "share_angle": "Provide practical safety tips for severe weather events.",
       "keywords": [
-        "flood",
-        "Guangxi",
-        "river warning"
+        "severe weather",
+        "safety",
+        "emergency"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "超强台风“巴威”要来了",
+      "chinese_topic": "广西因灾死亡6人失联11人",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Super Typhoon Bavi Approaching",
+      "official_english": "Guangxi Disaster: 6 Dead, 11 Missing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Extreme weather event with potential for widespread damage, public urgency.",
-      "share_angle": "Discuss typhoon preparedness and the science behind storm intensity.",
+      "why_hot": "Casualties from floods or storms in Guangxi.",
+      "share_angle": "Report on disaster response and missing persons search.",
       "keywords": [
-        "typhoon",
-        "Bavi",
-        "weather warning"
+        "Guangxi",
+        "disaster",
+        "casualties"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“超强台风巴威风力18级”不实",
+      "chinese_topic": "超强台风“巴威”直径已1300公里",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor: 'Super Typhoon Bavi with Category 18 Winds' Debunked",
+      "official_english": "Super Typhoon Bavi Reaches 1,300 km in Diameter",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Misinformation about typhoon intensity causes panic; official clarification needed.",
-      "share_angle": "Highlight the importance of verifying weather information from official sources.",
+      "why_hot": "Concern over a massive typhoon approaching.",
+      "share_angle": "Explain typhoon scale and potential impact on East Asia.",
       "keywords": [
-        "typhoon rumor",
-        "misinformation",
+        "typhoon",
+        "Bavi",
         "weather"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "比利时官方嘲讽美国",
+      "chinese_topic": "跌个不停！美股半导体连跌第四天",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Belgian Officials Mock US After World Cup Victory",
+      "official_english": "US Semiconductor Stocks Fall for Fourth Consecutive Day",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "International sports rivalry and diplomatic banter attract global attention.",
-      "share_angle": "Analyze the cultural and political context of the mockery.",
+      "why_hot": "Global market concerns over tech sector downturn.",
+      "share_angle": "Analyze reasons behind the semiconductor sell-off.",
       "keywords": [
-        "Belgium",
-        "US",
-        "World Cup"
+        "semiconductor",
+        "stock market",
+        "US"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "世界杯8强已定6席",
+      "chinese_topic": "网友喊话微信：赶紧出临时好友功能",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup Quarterfinalists: 6 of 8 Spots Confirmed",
+      "official_english": "Netizens Urge WeChat to Introduce Temporary Friends Feature",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major sports event updates, high engagement from football fans.",
-      "share_angle": "Recap the matches that determined the quarterfinalists.",
+      "why_hot": "User demand for privacy and convenience in social apps.",
+      "share_angle": "Discuss the need for temporary contacts in messaging apps.",
       "keywords": [
-        "World Cup",
-        "quarterfinals",
-        "football"
+        "WeChat",
+        "temporary friends",
+        "feature request"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "LV被指垄断中国古纹样",
+      "chinese_topic": "国际奥委会暂时解除对俄奥委会的禁赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Louis Vuitton Accused of Monopolizing Chinese Traditional Patterns",
+      "official_english": "IOC Temporarily Lifts Suspension of Russian Olympic Committee",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cultural heritage and intellectual property controversy involving a global brand.",
-      "share_angle": "Discuss the debate over cultural appropriation and trademarking traditional designs.",
+      "why_hot": "Major sports policy change affecting international competitions.",
+      "share_angle": "Explain implications for upcoming Olympics and Russian athletes.",
       "keywords": [
-        "Louis Vuitton",
-        "Chinese patterns",
-        "cultural heritage"
+        "IOC",
+        "Russia",
+        "suspension"
       ]
     }
   ]

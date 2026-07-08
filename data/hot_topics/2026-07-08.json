@@ -1,142 +1,142 @@
 {
   "date": "2026-07-08",
-  "updated_at": "2026-07-08T03:39:46+00:00",
+  "updated_at": "2026-07-08T14:34:25+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "盯紧压实责任全力抢险救援",
+      "chinese_topic": "习近平勉励广大科技工作者",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Emergency rescue efforts intensified with strict accountability",
+      "official_english": "Xi Jinping encourages science and technology workers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Multiple natural disasters (floods, landslides, earthquake) have struck China, prompting nationwide attention on rescue operations and government response.",
-      "share_angle": "Explain how China coordinates disaster response across provinces, highlighting the scale of recent emergencies.",
+      "why_hot": "President Xi's remarks on science and technology innovation resonate with national development goals.",
+      "share_angle": "Explain how China is prioritizing tech innovation and what it means for global competition.",
       "keywords": [
-        "disaster relief",
-        "emergency response",
-        "China floods"
+        "Xi Jinping",
+        "science and technology",
+        "innovation"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "世界杯8强出炉",
+      "chinese_topic": "超强台风巴威即将进入48小时警戒线",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup quarterfinals set after dramatic matches",
+      "official_english": "Super Typhoon Bavi to enter 48-hour warning zone",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The World Cup is a global event; the quarterfinal lineup is a major talking point, especially after Argentina's comeback and Egypt's controversy.",
-      "share_angle": "Break down the quarterfinal matchups and key storylines, including Argentina vs. Egypt fallout.",
+      "why_hot": "Typhoon Bavi is a severe weather event threatening coastal areas, prompting public concern.",
+      "share_angle": "Discuss typhoon preparedness and the science behind storm tracking.",
       "keywords": [
-        "World Cup",
-        "quarterfinals",
-        "Argentina"
+        "Typhoon Bavi",
+        "disaster preparedness",
+        "weather"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "暴雨+强对流双预警齐发",
+      "chinese_topic": "欧洲热哭 忙坏义乌",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China issues dual alerts for heavy rain and severe convective weather",
+      "official_english": "Europe's heatwave boosts orders for Yiwu's cooling products",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe weather warnings affect millions, with potential for flooding and disruption across multiple regions.",
-      "share_angle": "Explain the science behind dual alerts and how citizens can prepare for extreme weather.",
+      "why_hot": "The heatwave in Europe drives demand for Chinese-made cooling products, highlighting global supply chain links.",
+      "share_angle": "Show how climate events affect global trade and small businesses in China.",
       "keywords": [
-        "heavy rain",
-        "severe weather",
-        "China weather alert"
+        "heatwave",
+        "Yiwu",
+        "global trade"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "四川宜宾市高县再次发生5.0级地震",
+      "chinese_topic": "救命药从24元涨到600元还买不到",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Magnitude 5.0 earthquake strikes Gaoxian, Yibin, Sichuan",
+      "official_english": "Life-saving drug price surges from 24 yuan to 600 yuan, still in shortage",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Aftershocks in a region already hit by disasters raise concerns about building safety and relief efforts.",
-      "share_angle": "Discuss earthquake preparedness in Sichuan and the challenges of sequential natural disasters.",
+      "why_hot": "Sharp price increase and shortage of essential medicine spark public anger and concern over healthcare affordability.",
+      "share_angle": "Discuss drug pricing issues and healthcare access in China.",
       "keywords": [
-        "earthquake",
-        "Sichuan",
-        "disaster preparedness"
+        "drug price",
+        "shortage",
+        "healthcare"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "甘肃陇南滑坡致21人遇难",
+      "chinese_topic": "中国“预制房”全球爆单",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Landslide in Longnan, Gansu kills 21",
+      "official_english": "China's prefabricated houses see global orders surge",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A tragic landslide with significant casualties highlights the impact of heavy rain on mountainous regions.",
-      "share_angle": "Examine the causes of landslides in China and how communities can mitigate risks.",
+      "why_hot": "Prefabricated houses from China are in high demand globally, reflecting a trend in affordable housing solutions.",
+      "share_angle": "Explore how Chinese manufacturing is meeting global housing needs with innovative construction.",
       "keywords": [
-        "landslide",
-        "Gansu",
-        "casualties"
+        "prefabricated houses",
+        "exports",
+        "housing"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "陈立泉、贲德获国家最高科学技术奖",
+      "chinese_topic": "韦东奕获国家自然科学奖二等奖",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chen Liquan and Ben De receive China's top science and technology award",
+      "official_english": "Wei Dongyi wins second prize of National Natural Science Award",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The highest national honor in science recognizes contributions in energy and radar technology, inspiring public interest.",
-      "share_angle": "Profile the laureates and their breakthroughs in lithium batteries and radar systems.",
+      "why_hot": "Wei Dongyi, a renowned mathematician, receives national recognition, inspiring interest in science.",
+      "share_angle": "Highlight the achievements of young Chinese scientists and the importance of basic research.",
       "keywords": [
-        "science award",
-        "Chen Liquan",
-        "technology"
+        "Wei Dongyi",
+        "National Natural Science Award",
+        "mathematics"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "埃及足协正式申诉 要求调查主裁判",
+      "chinese_topic": "网传“百色严重洪灾”视频为拼接",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Egyptian Football Association files official complaint over referee in World Cup match",
+      "official_english": "Rumor: 'Severe flood in Baise' video is fabricated",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Controversial refereeing decisions in a high-stakes World Cup match spark debate about fairness and FIFA's role.",
-      "share_angle": "Summarize the controversy and explain the申诉 process in international football.",
+      "why_hot": "Misinformation about a natural disaster spreads online, prompting official clarification.",
+      "share_angle": "Discuss the importance of verifying information during disasters and how to spot fake news.",
       "keywords": [
-        "World Cup controversy",
-        "Egypt",
-        "referee complaint"
+        "flood",
+        "misinformation",
+        "fact-checking"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "挪威首相最新涉华表态",
+      "chinese_topic": "特朗普称“今夜可能再打伊朗”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Norwegian Prime Minister's latest remarks on China",
+      "official_english": "Trump says 'may strike Iran again tonight'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "International relations with Nordic countries are of interest; the statement may signal shifts in trade or diplomacy.",
-      "share_angle": "Analyze the context of Norway-China relations and what the PM's comments mean for bilateral ties.",
+      "why_hot": "Trump's statement raises tensions in the Middle East, drawing global attention.",
+      "share_angle": "Analyze the implications of US-Iran tensions and potential impact on global stability.",
       "keywords": [
-        "Norway",
-        "China relations",
-        "diplomacy"
+        "Trump",
+        "Iran",
+        "Middle East tensions"
       ]
     }
   ]

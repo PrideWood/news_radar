@@ -1,142 +1,142 @@
 {
   "date": "2026-07-09",
-  "updated_at": "2026-07-09T04:15:26+00:00",
+  "updated_at": "2026-07-09T15:30:11+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "向着建成科技强国的目标坚定迈进",
+      "chinese_topic": "以科技创新支撑和引领中国式现代化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Steadfastly Advances Toward Becoming a Science and Technology Powerhouse",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Official statement on national science and technology strategy, reflecting China's ambition to lead in innovation.",
-      "share_angle": "Explain China's roadmap to becoming a tech superpower and its global implications.",
+      "official_english": "More military technologies targeted for civilian sector to boost economy",
+      "official_english_source": "China Daily",
+      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f2514a3108bc8c67219fb.html",
+      "why_hot": "High-level policy direction emphasizing technology as driver of modernization, widely discussed.",
+      "share_angle": "Explain how China is leveraging tech innovation for economic and social progress.",
       "keywords": [
-        "science and technology",
-        "national strategy",
-        "innovation"
+        "tech innovation",
+        "modernization",
+        "China policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "台风巴威可能正面登陆",
+      "chinese_topic": "多地打破医保户籍限制",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Bavi May Make Direct Landfall",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Public safety concern as a strong typhoon approaches, prompting widespread attention and preparedness.",
-      "share_angle": "Discuss typhoon preparedness and the science behind tracking storms.",
+      "official_english": "Education, health fees among key concerns",
+      "official_english_source": "China Daily",
+      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html",
+      "why_hot": "Healthcare reform directly affects millions; removing residency restrictions is a major step.",
+      "share_angle": "Discuss the impact of removing hukou barriers on healthcare access.",
       "keywords": [
-        "typhoon",
-        "landfall",
-        "disaster preparedness"
+        "healthcare",
+        "hukou reform",
+        "social welfare"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "新华社：国足成绩再不好 也不能造谣",
+      "chinese_topic": "河南造出全球最大培育钻石",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xinhua: No Excuse for Rumors Even if National Football Team Performs Poorly",
+      "official_english": "Suggested wording",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Official media condemns misinformation about the national football team, highlighting media ethics.",
-      "share_angle": "Explore the balance between criticism and rumor in sports journalism.",
+      "why_hot": "Technological breakthrough in lab-grown diamonds, showcasing industrial capability.",
+      "share_angle": "Explore the science and market implications of the world's largest lab-grown diamond.",
       "keywords": [
-        "football",
-        "rumors",
-        "media ethics"
+        "lab-grown diamond",
+        "Henan",
+        "technology"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "台风来临 请备好这份避险指南",
+      "chinese_topic": "洪灾后 务必注意这9件事",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Approaching: Prepare This Safety Guide",
+      "official_english": "Suggested wording",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Practical safety information during typhoon season, widely shared for public awareness.",
-      "share_angle": "Provide actionable tips for typhoon safety and explain why preparation matters.",
+      "why_hot": "Practical safety tips after floods, highly relevant to affected regions.",
+      "share_angle": "Provide a concise guide on post-flood health and safety measures.",
       "keywords": [
-        "typhoon",
-        "safety guide",
-        "preparedness"
+        "flood safety",
+        "public health",
+        "disaster response"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "雷军正式公布小米汽车新系列",
+      "chinese_topic": "台风巴威云系足以覆盖四五个省份",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lei Jun Officially Unveils New Xiaomi EV Series",
+      "official_english": "Suggested wording",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major tech company entering the EV market, generating buzz about product specs and competition.",
-      "share_angle": "Analyze Xiaomi's strategy in the EV market and its potential impact on the industry.",
+      "why_hot": "Typhoon Bavi is a major weather event affecting multiple provinces.",
+      "share_angle": "Explain the scale and potential impact of Typhoon Bavi.",
       "keywords": [
-        "Xiaomi",
-        "electric vehicle",
-        "Lei Jun"
+        "Typhoon Bavi",
+        "weather",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "村民在养猪场旁挖出1400年前佛首",
+      "chinese_topic": "条蛇“越狱”背后的广西蛇产业",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Villagers Unearth 1,400-Year-Old Buddha Head Near Pig Farm",
+      "official_english": "Suggested wording",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Archaeological discovery blending everyday life with ancient history, sparking curiosity.",
-      "share_angle": "Discuss the significance of the find and how such discoveries are handled.",
+      "why_hot": "Snake escape incident highlights the scale and regulation of snake farming in Guangxi.",
+      "share_angle": "Discuss the snake farming industry and its environmental/economic aspects.",
       "keywords": [
-        "archaeology",
-        "Buddha head",
-        "cultural relic"
+        "snake farming",
+        "Guangxi",
+        "wildlife trade"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "中方代表：反对一切冲突中的性暴力",
+      "chinese_topic": "哈兰德全网征集中国旅行攻略",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Representative: Oppose All Forms of Sexual Violence in Conflict",
+      "official_english": "Suggested wording",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's stance on a global human rights issue, relevant to international diplomacy.",
-      "share_angle": "Explain China's position on conflict-related sexual violence and its diplomatic context.",
+      "why_hot": "Football star Erling Haaland asking for China travel tips sparks cross-cultural interest.",
+      "share_angle": "Highlight China's tourism appeal through a celebrity lens.",
       "keywords": [
-        "sexual violence",
-        "conflict",
-        "human rights"
+        "Haaland",
+        "China travel",
+        "sports celebrity"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "养“光伏羊”每年收入近10万元",
+      "chinese_topic": "美特战分队现身台岛 新动向很危险",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Raising 'Solar Sheep' Yields Nearly 100,000 Yuan Annual Income",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Innovative combination of solar energy and agriculture boosting rural incomes, inspiring sustainable practices.",
-      "share_angle": "Showcase how agrivoltaics is transforming livelihoods in rural China.",
+      "official_english": "Taiwan's New Party vows to help improve relations",
+      "official_english_source": "China Daily",
+      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f23eba3108bc8c67219f0.html",
+      "why_hot": "Sensitive geopolitical issue regarding US military presence in Taiwan.",
+      "share_angle": "Explain the implications of US special forces in Taiwan for cross-strait relations.",
       "keywords": [
-        "solar sheep",
-        "agrivoltaics",
-        "rural income"
+        "Taiwan",
+        "US military",
+        "geopolitics"
       ]
     }
   ]

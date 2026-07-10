@@ -1,142 +1,142 @@
 {
   "date": "2026-07-10",
-  "updated_at": "2026-07-10T04:10:05+00:00",
+  "updated_at": "2026-07-10T14:47:36+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "关键攻坚期的一次科技盛会",
+      "chinese_topic": "习近平同纳米比亚总统恩代特瓦会谈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A Major Science and Technology Conference During a Critical Period",
+      "official_english": "Xi Jinping Holds Talks with Namibian President Nangolo Mbumba",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-level tech conference signals policy direction and innovation priorities.",
-      "share_angle": "Explain the significance of this tech conference for China's development goals.",
+      "why_hot": "High-level diplomatic engagement between China and Namibia, reflecting China's foreign policy priorities in Africa.",
+      "share_angle": "Explain the significance of China-Namibia relations and what the talks signal for China-Africa cooperation.",
       "keywords": [
-        "technology",
-        "conference",
-        "innovation"
+        "Xi Jinping",
+        "Namibia",
+        "diplomacy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "台风“巴威”预计登陆时间地点",
+      "chinese_topic": "台风“巴威”实时路径",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Bavi: Expected Landfall Time and Location",
+      "official_english": "Typhoon Bavi: Real-Time Tracking",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon approaching, public concerned about safety and preparedness.",
-      "share_angle": "Update on Typhoon Bavi's path and impact on eastern China.",
+      "why_hot": "Typhoon Bavi is approaching China, causing widespread concern and preparations.",
+      "share_angle": "Discuss the science of typhoon tracking and the impact of extreme weather on coastal communities.",
       "keywords": [
-        "typhoon",
+        "Typhoon Bavi",
         "weather",
         "disaster preparedness"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "台风+暴雨+强对流天气 三预警齐发",
+      "chinese_topic": "浙江温岭金沙滩掀起数层楼高巨浪",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Triple Alerts Issued: Typhoon, Heavy Rain, and Severe Convective Weather",
+      "official_english": "Giant Waves Hit Wenling's Golden Beach, Reaching Several Stories High",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Multiple weather warnings indicate severe conditions affecting millions.",
-      "share_angle": "Explain the triple weather alerts and what they mean for residents.",
+      "why_hot": "Dramatic footage of typhoon-induced waves draws public attention to the storm's severity.",
+      "share_angle": "Highlight the power of nature and the importance of coastal safety during typhoons.",
       "keywords": [
-        "weather alert",
-        "typhoon",
-        "heavy rain"
+        "Wenling",
+        "giant waves",
+        "typhoon"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "原则上无人机不许吊人但人民大于原则",
+      "chinese_topic": "台风来袭！请收好这份法律小贴士",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Drones Banned for Carrying People, but People Come First",
+      "official_english": "Typhoon Approaching: Legal Tips for Residents",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Debate over drone regulations vs. emergency rescues highlights flexibility.",
-      "share_angle": "Discuss the balance between safety rules and humanitarian needs.",
+      "why_hot": "Practical legal advice during natural disasters resonates with the public.",
+      "share_angle": "Explain how legal frameworks protect citizens during emergencies and what rights they have.",
       "keywords": [
-        "drone",
-        "regulation",
-        "rescue"
+        "typhoon",
+        "legal tips",
+        "public safety"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“我们为什么不爱接电话了”",
+      "chinese_topic": "暴雨橙色预警：京津冀等10省市大暴雨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Don't We Like Answering Phone Calls Anymore?",
+      "official_english": "Orange Alert for Heavy Rain: Torrential Downpours Expected in 10 Provinces Including Beijing-Tianjin-Hebei",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Relatable social phenomenon about communication habits in digital age.",
-      "share_angle": "Explore the cultural shift from voice calls to text and its implications.",
+      "why_hot": "Severe weather warning affecting major economic regions sparks public concern.",
+      "share_angle": "Discuss China's weather warning system and how cities prepare for extreme rainfall.",
       "keywords": [
-        "communication",
-        "phone calls",
-        "social change"
+        "orange alert",
+        "heavy rain",
+        "Beijing-Tianjin-Hebei"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "微信红包转账有新变化",
+      "chinese_topic": "中国对氦气临时禁止出口",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "WeChat Red Packets and Transfers See New Changes",
+      "official_english": "China Imposes Temporary Ban on Helium Exports",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "WeChat payment changes affect millions of users daily.",
-      "share_angle": "Summarize the new WeChat payment rules and user reactions.",
+      "why_hot": "Helium is critical for many industries; export ban raises economic and supply chain questions.",
+      "share_angle": "Explain why helium is important, China's role in global supply, and the impact of the ban.",
       "keywords": [
-        "WeChat",
-        "payment",
-        "digital wallet"
+        "helium",
+        "export ban",
+        "supply chain"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "“精装修的家一夜变毛坯”",
+      "chinese_topic": "长沙一医院一周收治75名胰腺炎患者",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fully Furnished Home Turns Bare Overnight",
+      "official_english": "Hospital in Changsha Treats 75 Pancreatitis Patients in One Week",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Housing quality dispute resonates with many homeowners.",
-      "share_angle": "Discuss the issue of substandard decoration in new homes and consumer rights.",
+      "why_hot": "Unusually high number of cases sparks health concerns and discussion about causes.",
+      "share_angle": "Explore possible reasons for the spike, such as diet or lifestyle, and prevention tips.",
       "keywords": [
-        "housing",
-        "quality",
-        "consumer rights"
+        "pancreatitis",
+        "Changsha",
+        "health alert"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "姆巴佩刷新世界杯8大纪录",
+      "chinese_topic": "白发与癌症有一个意想不到的关联",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Mbappé Breaks 8 World Cup Records",
+      "official_english": "Unexpected Link Between Gray Hair and Cancer Discovered",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup excitement and star player achievements.",
-      "share_angle": "Highlight Mbappé's record-breaking performance and its significance.",
+      "why_hot": "Scientific finding that connects aging signs to disease risk intrigues the public.",
+      "share_angle": "Summarize the research and explain the biological mechanism in simple terms.",
       "keywords": [
-        "World Cup",
-        "Mbappé",
-        "records"
+        "gray hair",
+        "cancer",
+        "research"
       ]
     }
   ]

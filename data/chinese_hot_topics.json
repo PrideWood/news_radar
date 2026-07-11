@@ -1,142 +1,142 @@
 {
   "date": "2026-07-11",
-  "updated_at": "2026-07-11T03:37:19+00:00",
+  "updated_at": "2026-07-11T13:46:23+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "巴威再度增强为强台风级 最新路径",
+      "chinese_topic": "最新研判！台风巴威登陆时间或提前",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Bavi Intensifies to Severe Typhoon, Latest Path",
+      "official_english": "Typhoon Bavi Landfall May Be Earlier Than Expected: Latest Forecast",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon Bavi is strengthening and approaching China, causing widespread concern about its path and impact.",
-      "share_angle": "Explain how typhoons are tracked and what 'severe typhoon' means for coastal areas.",
+      "why_hot": "Typhoon Bavi is approaching China, and the public is concerned about its potential impact.",
+      "share_angle": "Explain how typhoon forecasts work and what precautions are being taken.",
       "keywords": [
         "Typhoon Bavi",
-        "severe typhoon",
-        "path forecast"
+        "landfall",
+        "forecast"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "今年首个暴雨红色预警",
+      "chinese_topic": "北京暴雨红色预警",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Issues First Red Alert for Heavy Rain of the Year",
+      "official_english": "Beijing Issues Red Alert for Heavy Rain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The highest-level rain warning signals extreme weather and potential disasters.",
-      "share_angle": "Break down China's color-coded weather warning system and what a red alert means for daily life.",
+      "why_hot": "Beijing issued its highest rain alert, affecting millions and disrupting daily life.",
+      "share_angle": "Discuss urban flood response and climate adaptation in megacities.",
       "keywords": [
+        "Beijing",
         "red alert",
-        "heavy rain",
-        "weather warning"
+        "heavy rain"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "浙江海边已掀起10多米巨浪",
+      "chinese_topic": "教育部：“教师全面硕士化”系谣言",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Giant Waves Over 10 Meters Hit Zhejiang Coast",
+      "official_english": "Ministry of Education: Rumor That All Teachers Must Have Master's Degrees",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Visual evidence of Typhoon Bavi's power, alarming coastal residents.",
-      "share_angle": "Show how typhoon waves are measured and the risks they pose to coastal communities.",
+      "why_hot": "A viral rumor about teacher qualification requirements was officially debunked.",
+      "share_angle": "Clarify China's actual teacher education policies and the importance of fact-checking.",
       "keywords": [
-        "giant waves",
-        "Zhejiang",
-        "typhoon impact"
+        "teacher",
+        "master's degree",
+        "rumor"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "如何“顶格”应对台风巴威",
+      "chinese_topic": "日本可回收火箭着陆成功 仅飞11米",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How to Implement Top-Level Response to Typhoon Bavi",
+      "official_english": "Japan's Reusable Rocket Successfully Lands After 11-Meter Flight",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public seeks guidance on emergency preparedness for the approaching typhoon.",
-      "share_angle": "Summarize official emergency response measures and practical tips for residents.",
+      "why_hot": "Japan's small step in reusable rocket technology sparks interest in space race.",
+      "share_angle": "Compare global reusable rocket efforts and what this means for space access.",
       "keywords": [
-        "emergency response",
-        "typhoon preparedness",
-        "public safety"
+        "Japan",
+        "reusable rocket",
+        "space"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "为什么不能用炸弹摧毁台风",
+      "chinese_topic": "哈兰德PK凯恩 世一锋终极对决",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Can't We Use Bombs to Destroy a Typhoon?",
+      "official_english": "Haaland vs Kane: Clash of the World's Top Strikers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A curious question that sparks scientific discussion about weather control.",
-      "share_angle": "Explain the science behind typhoon energy and why human intervention is futile.",
+      "why_hot": "A highly anticipated football match between two superstar strikers.",
+      "share_angle": "Analyze their playing styles and what makes them elite.",
       "keywords": [
-        "typhoon science",
-        "weather control",
-        "myth busting"
+        "Haaland",
+        "Kane",
+        "football"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "瓜农2200斤西瓜收瓜贩仅出价20元",
+      "chinese_topic": "浙江惊现“台风霞”粉紫色天空",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Watermelon Farmer Offered Only 20 Yuan for 2,200 Jin of Watermelons",
+      "official_english": "Pink-Purple Sky Over Zhejiang Before Typhoon Bavi",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Highlights the plight of farmers and price manipulation in agricultural markets.",
-      "share_angle": "Discuss the challenges faced by small farmers and the need for fair trade practices.",
+      "why_hot": "A rare and beautiful sky phenomenon before a typhoon went viral.",
+      "share_angle": "Explain the science behind 'typhoon glow' and its visual effects.",
       "keywords": [
-        "farmer",
-        "watermelon",
-        "price manipulation"
+        "typhoon",
+        "sky",
+        "phenomenon"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "《功夫女足》上映 AI预测总票房超10亿",
+      "chinese_topic": "长沙霸占车位公职人员被停职",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Kung Fu Women's Football Released, AI Predicts Box Office Over 1 Billion Yuan",
+      "official_english": "Public Official Suspended for Illegally Occupying Parking Space in Changsha",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A new film combining sports and comedy, with AI predicting huge success.",
-      "share_angle": "Explore how AI is used to predict movie box office and the film's cultural significance.",
+      "why_hot": "A public official's misconduct sparked public outrage and swift disciplinary action.",
+      "share_angle": "Discuss social fairness and accountability of public servants.",
       "keywords": [
-        "Kung Fu Women's Football",
-        "AI prediction",
-        "box office"
+        "Changsha",
+        "parking",
+        "public official"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "“我也是第一次用无人机运人”",
+      "chinese_topic": "大雨中吃盒饭的消防员找到了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First Time Using a Drone to Transport a Person",
+      "official_english": "Firefighters Eating Boxed Meals in Heavy Rain Found and Praised",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A novel application of drone technology that captures public imagination.",
-      "share_angle": "Discuss the potential and challenges of drone-based human transport.",
+      "why_hot": "A heartwarming story of firefighters working in harsh conditions resonated with netizens.",
+      "share_angle": "Highlight the dedication of emergency workers during extreme weather.",
       "keywords": [
-        "drone",
-        "human transport",
-        "technology"
+        "firefighter",
+        "rain",
+        "dedication"
       ]
     }
   ]

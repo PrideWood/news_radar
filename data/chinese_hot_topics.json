@@ -1,142 +1,142 @@
 {
   "date": "2026-07-12",
-  "updated_at": "2026-07-12T03:51:35+00:00",
+  "updated_at": "2026-07-12T13:48:07+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "为建设科技强国多立新功",
+      "chinese_topic": "自主创新 科技工作者大有作为",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Striving to Build a Strong Science and Technology Nation",
+      "official_english": "Independent innovation: science and technology workers have great potential",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects national emphasis on technological self-reliance and innovation, resonating with public interest in science and technology development.",
-      "share_angle": "Explain China's push for tech independence and how it impacts global tech competition.",
+      "why_hot": "Highlights China's push for self-reliance in technology, resonating with national pride and innovation discourse.",
+      "share_angle": "Explain how Chinese tech workers are driving innovation in key sectors like AI and semiconductors.",
       "keywords": [
-        "science and technology",
         "innovation",
-        "China"
+        "technology",
+        "self-reliance"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "台风侵袭下700多棵树被连根拔起",
+      "chinese_topic": "台风巴威风力持续减小 最新预测",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Uproots Over 700 Trees",
+      "official_english": "Typhoon Bavi weakens: latest forecast",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon Bavi caused severe damage, with dramatic visuals of uprooted trees capturing public attention.",
-      "share_angle": "Discuss the impact of extreme weather events and climate change, using the typhoon as a case study.",
+      "why_hot": "Typhoon Bavi is affecting millions, with public concern about its path and intensity.",
+      "share_angle": "Discuss how China's meteorological technology tracks and predicts typhoons, and safety measures.",
       "keywords": [
         "typhoon",
-        "extreme weather",
-        "climate change"
+        "weather forecast",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "阿根廷3比1战胜瑞士",
+      "chinese_topic": "副局长买10亿Token手搓防汛APP",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Argentina Defeats Switzerland 3-1",
+      "official_english": "Deputy director buys 1 billion tokens to build flood control app by hand",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup match result generates excitement among football fans.",
-      "share_angle": "Analyze Argentina's performance and key moments in the match.",
+      "why_hot": "Unusual story of a government official using personal funds and blockchain tokens to create a public service app.",
+      "share_angle": "Explore the intersection of blockchain, public service, and individual initiative in China.",
       "keywords": [
-        "Argentina",
-        "Switzerland",
-        "World Cup"
+        "blockchain",
+        "flood control",
+        "public service"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "遭遇强降雨有关险情如何避险自救",
+      "chinese_topic": "防汛防台风 各部门这样部署",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How to Avoid Danger and Self-Rescue During Heavy Rainfall",
+      "official_english": "Flood and typhoon prevention: departments deploy measures",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public service information during typhoon season, highly relevant for safety.",
-      "share_angle": "Provide practical tips for staying safe during floods and heavy rain.",
+      "why_hot": "Government response to Typhoon Bavi, showing coordination and public safety efforts.",
+      "share_angle": "Detail China's multi-agency disaster response system and its effectiveness.",
       "keywords": [
-        "heavy rainfall",
-        "safety",
-        "self-rescue"
+        "flood prevention",
+        "typhoon response",
+        "government coordination"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "巨型“抽水机”深入内陆 暴雨如注",
+      "chinese_topic": "新能源车平均车龄仅1.8年",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Giant 'Water Pump' Typhoon Brings Torrential Rain Inland",
+      "official_english": "Average age of new energy vehicles only 1.8 years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Vivid description of typhoon Bavi's impact, highlighting extreme rainfall.",
-      "share_angle": "Explain how typhoons transport moisture inland and the resulting flood risks.",
+      "why_hot": "Reflects rapid growth and turnover in China's NEV market, with implications for sustainability.",
+      "share_angle": "Analyze why NEVs are replaced so quickly and what it means for the environment and industry.",
       "keywords": [
-        "typhoon",
-        "rainfall",
-        "flood"
+        "new energy vehicles",
+        "EV market",
+        "sustainability"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "江苏多地：在家宅一天 尽量别点外卖",
+      "chinese_topic": "小鹏X9集体趴窝 疑因高温",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple Cities in Jiangsu Advise Staying Home and Avoiding Takeout",
+      "official_english": "Xpeng X9 vehicles malfunction en masse, suspected due to high temperature",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Government advisory during typhoon to ensure public safety, sparks discussion on delivery worker safety.",
-      "share_angle": "Discuss the balance between public safety and the gig economy during disasters.",
+      "why_hot": "High-profile EV brand facing quality concerns, sparking debate on EV reliability in extreme weather.",
+      "share_angle": "Discuss challenges of EV battery performance in heat and how manufacturers are addressing them.",
       "keywords": [
-        "Jiangsu",
-        "typhoon",
-        "takeout"
+        "Xpeng",
+        "EV malfunction",
+        "heat impact"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "无人机吊起2人神图系AI合成",
+      "chinese_topic": "樊振东武磊将解说世界杯决赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Viral Image of Drone Lifting Two People Revealed as AI-Generated",
+      "official_english": "Fan Zhendong and Wu Lei to commentate on World Cup final",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI-generated image goes viral, raising awareness about deepfakes and misinformation.",
-      "share_angle": "Explore the implications of AI-generated content and how to spot fakes.",
+      "why_hot": "Cross-sport star power: table tennis champion and football star team up for World Cup commentary.",
+      "share_angle": "Highlight how Chinese athletes are expanding their influence beyond their sports.",
       "keywords": [
-        "AI",
-        "deepfake",
-        "misinformation"
+        "World Cup",
+        "commentary",
+        "Chinese athletes"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "上半年电视剧收视率排名出炉",
+      "chinese_topic": "北京上演绝美晚霞 颜值“爆表”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First Half of Year TV Drama Ratings Rankings Released",
+      "official_english": "Beijing treats residents to stunning sunset",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public interest in popular TV shows and entertainment trends.",
-      "share_angle": "Highlight top-rated dramas and discuss what makes them popular.",
+      "why_hot": "Beautiful natural phenomenon shared widely on social media, offering a positive distraction.",
+      "share_angle": "Use as a lead-in to discuss air quality improvements in Beijing or simply share the beauty.",
       "keywords": [
-        "TV drama",
-        "ratings",
-        "entertainment"
+        "Beijing",
+        "sunset",
+        "air quality"
       ]
     }
   ]

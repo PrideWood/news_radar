@@ -1,142 +1,142 @@
 {
   "date": "2026-07-13",
-  "updated_at": "2026-07-13T03:54:11+00:00",
+  "updated_at": "2026-07-13T14:54:55+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "沈阳今日全市停课停工",
+      "chinese_topic": "习近平将出席世界人工智能大会开幕式",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shenyang Suspends Classes and Work Due to Severe Weather",
+      "official_english": "Xi Jinping to Attend Opening Ceremony of World Artificial Intelligence Conference",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe weather prompts citywide emergency measures, affecting millions.",
-      "share_angle": "Explain how Chinese cities respond to extreme weather with swift public safety measures.",
+      "why_hot": "President Xi's attendance signals high-level government support for AI development, a key tech and economic priority.",
+      "share_angle": "China's AI ambitions: President Xi to open major AI conference, highlighting national strategy.",
       "keywords": [
-        "Shenyang",
-        "severe weather",
-        "emergency response"
+        "Xi Jinping",
+        "World AI Conference",
+        "artificial intelligence"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "中国首个禁售燃油车省份确认",
+      "chinese_topic": "台风巴威远程发威",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's First Province Confirms Ban on Gasoline Vehicle Sales",
+      "official_english": "Typhoon Bavi Brings Heavy Rain and Strong Winds",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major policy shift in China's push for electric vehicles and carbon neutrality.",
-      "share_angle": "Discuss the implications for the auto industry and environment.",
+      "why_hot": "Typhoon Bavi is affecting large areas, causing public concern about safety and disruptions.",
+      "share_angle": "Typhoon Bavi hits: How China prepares for extreme weather events.",
       "keywords": [
-        "electric vehicles",
-        "fuel vehicle ban",
-        "China policy"
+        "Typhoon Bavi",
+        "weather",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "巴威远程攻击 东北暴雨大暴雨",
+      "chinese_topic": "未来五年 这样提高国民健康水平",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Bavi Brings Heavy Rain to Northeast China",
+      "official_english": "China Unveils Five-Year Plan to Improve National Health",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon Bavi causes widespread flooding and damage in the region.",
-      "share_angle": "Explain the science behind typhoons and their increasing intensity.",
+      "why_hot": "Health is a top public concern; the five-year plan outlines concrete measures for healthcare improvement.",
+      "share_angle": "China's health roadmap: What the new five-year plan means for citizens.",
       "keywords": [
-        "Typhoon Bavi",
-        "Northeast China",
-        "flooding"
+        "health plan",
+        "five-year plan",
+        "public health"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "如何防范山洪、泥石流等次生灾害",
+      "chinese_topic": "人均日通话降至8.7分钟",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How to Prevent Secondary Disasters Like Flash Floods and Mudslides",
+      "official_english": "Average Daily Phone Call Duration Drops to 8.7 Minutes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public seeks safety tips amid ongoing severe weather.",
-      "share_angle": "Provide practical disaster preparedness advice for viewers.",
+      "why_hot": "Reflects changing communication habits with rise of messaging apps, sparking discussion on social connectivity.",
+      "share_angle": "Are we talking less? China's daily call time hits new low.",
       "keywords": [
-        "disaster prevention",
-        "flash floods",
-        "mudslides"
+        "phone calls",
+        "communication",
+        "social media"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "上海300多株倒伏树木一夜清零",
+      "chinese_topic": "净网：严打编造传播涉汛等涉灾谣言",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shanghai Clears Over 300 Fallen Trees Overnight After Storm",
+      "official_english": "China Cracks Down on Disaster-Related Rumors Online",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Efficient urban management response to storm damage impresses public.",
-      "share_angle": "Highlight the efficiency of Chinese city management in crisis.",
+      "why_hot": "Typhoon season increases rumor risks; government action to ensure accurate information is widely supported.",
+      "share_angle": "Fighting fake news: China targets disaster rumors during typhoon season.",
       "keywords": [
-        "Shanghai",
-        "urban management",
-        "storm response"
+        "rumor",
+        "disinformation",
+        "cyber cleanup"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "大众计划削减50%车型减产100万辆",
+      "chinese_topic": "中山大学：222人取消录取资格",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Volkswagen Plans to Cut 50% of Models, Reduce Production by 1 Million Vehicles",
+      "official_english": "Sun Yat-sen University Revokes Admission of 222 Students",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major restructuring in global auto industry amid EV transition.",
-      "share_angle": "Analyze the impact on global auto market and Chinese manufacturers.",
+      "why_hot": "High-profile university admission scandal raises questions about fairness and integrity in education.",
+      "share_angle": "Admission revoked: What happened at Sun Yat-sen University?",
       "keywords": [
-        "Volkswagen",
-        "auto industry",
-        "production cut"
+        "university admission",
+        "education",
+        "scandal"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "中国游客在韩国救下一车人",
+      "chinese_topic": "长鑫近2万员工每人或可分超百万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Tourist Rescues Group in South Korea",
+      "official_english": "ChangXin Memory Technologies May Distribute Over 1 Million Yuan Per Employee",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Acts of heroism by Chinese citizens abroad generate national pride.",
-      "share_angle": "Share a positive story of cross-border kindness and bravery.",
+      "why_hot": "Massive employee bonus highlights success of Chinese semiconductor company, sparking discussion on tech industry wealth.",
+      "share_angle": "Chipmaker's windfall: ChangXin employees could get million-yuan bonuses.",
       "keywords": [
-        "Chinese tourist",
-        "heroism",
-        "South Korea"
+        "ChangXin",
+        "semiconductor",
+        "employee bonus"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "《功夫女足》票房破5亿",
+      "chinese_topic": "海南将禁售燃油车 释放什么信号",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Kung Fu Women's Football' Box Office Surpasses 500 Million Yuan",
+      "official_english": "Hainan to Ban Sales of Gasoline Cars: What Signal Does It Send?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese film combines sports and martial arts, resonating with audiences.",
-      "share_angle": "Discuss the rise of women's sports films in China.",
+      "why_hot": "First province to ban fuel cars signals China's aggressive push for electric vehicles and green energy.",
+      "share_angle": "China's first fuel car ban: Hainan leads the way to an electric future.",
       "keywords": [
-        "Kung Fu Women's Football",
-        "box office",
-        "Chinese film"
+        "Hainan",
+        "fuel car ban",
+        "electric vehicles"
       ]
     }
   ]

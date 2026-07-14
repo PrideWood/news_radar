@@ -1,6 +1,13 @@
 {
   "digests": [
     {
+      "date": "2026-07-14",
+      "file": "data/hot_topics/2026-07-14.json",
+      "title": "Domestic Hot Topics - 2026-07-14",
+      "item_count": 8,
+      "updated_at": "2026-07-14T03:28:38+00:00"
+    },
+    {
       "date": "2026-07-13",
       "file": "data/hot_topics/2026-07-13.json",
       "title": "Domestic Hot Topics - 2026-07-13",

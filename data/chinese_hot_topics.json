@@ -1,142 +1,142 @@
 {
   "date": "2026-07-14",
-  "updated_at": "2026-07-14T03:28:38+00:00",
+  "updated_at": "2026-07-14T14:06:06+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "习近平将出席世界人工智能大会开幕式",
+      "chinese_topic": "多省开始“抢”老人",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping to Attend Opening Ceremony of World Artificial Intelligence Conference",
+      "official_english": "Multiple provinces start 'grabbing' elderly residents",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "President Xi's attendance signals high-level support for AI development, a key technology and economic driver.",
-      "share_angle": "Explain China's AI ambitions and global implications of this high-profile event.",
+      "why_hot": "Reflects competition among provinces to attract elderly population amid aging crisis, sparking discussion on pension policies.",
+      "share_angle": "Explain the policy incentives and demographic challenges behind this trend.",
       "keywords": [
-        "Xi Jinping",
-        "World AI Conference",
-        "artificial intelligence"
+        "aging population",
+        "pension policy",
+        "elderly care"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "事关收入假期等 未来5年有这些变化",
+      "chinese_topic": "专家：比亚迪不是车企",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education, health fees among key concerns",
-      "official_english_source": "China Daily",
-      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html",
-      "why_hot": "Policy changes on income and holidays directly affect people's livelihood, sparking widespread discussion.",
-      "share_angle": "Break down the key policy shifts and their impact on everyday life.",
+      "official_english": "Expert: BYD is not just an automaker",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Highlights BYD's transformation into a tech and energy company, challenging traditional perceptions.",
+      "share_angle": "Discuss BYD's diversification into batteries, semiconductors, and energy storage.",
       "keywords": [
-        "income",
-        "holidays",
-        "policy changes"
+        "BYD",
+        "technology",
+        "diversification"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "超250万人请愿将阿根廷逐出世界杯",
+      "chinese_topic": "未来5年消费“路线图”来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Over 2.5 Million Sign Petition to Expel Argentina from World Cup",
+      "official_english": "China unveils consumption roadmap for next five years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup controversy combines sports passion with global petition culture.",
-      "share_angle": "Explain the petition's background and what it says about fan sentiment and FIFA rules.",
+      "why_hot": "Government plan to boost domestic consumption, affecting economic outlook and consumer behavior.",
+      "share_angle": "Break down key targets and sectors (e.g., digital, green consumption).",
       "keywords": [
-        "Argentina",
-        "World Cup",
-        "petition"
+        "consumption",
+        "economic plan",
+        "domestic demand"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "国产“三蹦子”在佛得角走红",
+      "chinese_topic": "世界杯半决赛：法国vs西班牙",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese-Made Three-Wheelers Go Viral in Cape Verde",
+      "official_english": "World Cup semifinal: France vs Spain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A lighthearted story about Chinese exports gaining popularity abroad, reflecting economic and cultural exchange.",
-      "share_angle": "How a humble vehicle became a symbol of China-Africa trade and innovation.",
+      "why_hot": "Major sports event drawing global attention; Chinese fans discuss match predictions.",
+      "share_angle": "Preview the match, key players, and historical rivalry.",
       "keywords": [
-        "three-wheeler",
-        "Cape Verde",
-        "Chinese export"
+        "World Cup",
+        "France",
+        "Spain"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "台风过境 烟台海蛎子用麻袋装",
+      "chinese_topic": "AI生成图片被评摄影一等奖 官方通报",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Leaves Yantai Oysters in Bags",
+      "official_english": "AI-generated image wins photography award; official investigation launched",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon aftermath with a quirky local angle—oysters washed ashore—combines weather news and human interest.",
-      "share_angle": "Climate change and extreme weather's impact on coastal communities, with a surprising twist.",
+      "why_hot": "Raises ethical questions about AI in art and competition rules.",
+      "share_angle": "Discuss the controversy and implications for creative industries.",
       "keywords": [
-        "typhoon",
-        "Yantai",
-        "oysters"
+        "AI art",
+        "photography",
+        "ethics"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "海南禁售燃油车之后下一个是谁",
+      "chinese_topic": "DeepSeek梁文锋成AI公司新首富",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Hainan Bans Sale of Fuel Vehicles; Which Province Next?",
+      "official_english": "DeepSeek founder Liang Wenfeng becomes new AI billionaire",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Environmental policy with national implications—Hainan's ban could set a precedent for other regions.",
-      "share_angle": "China's push for electric vehicles and what it means for consumers and the auto industry.",
+      "why_hot": "Reflects China's AI boom and wealth creation in tech startups.",
+      "share_angle": "Profile Liang Wenfeng and DeepSeek's rise in AI.",
       "keywords": [
-        "Hainan",
-        "fuel vehicle ban",
-        "electric vehicles"
+        "DeepSeek",
+        "AI",
+        "billionaire"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "总理座谈会于东来等8人成“座上宾”",
+      "chinese_topic": "美股开盘：AI硬件股上涨 IBM跌22%",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Premier's Symposium Invites 8 Entrepreneurs Including Yu Donglai",
+      "official_english": "US stocks open: AI hardware stocks rise, IBM drops 22%",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Premier Li Qiang's symposium with entrepreneurs signals government focus on private sector and economic recovery.",
-      "share_angle": "Who are these entrepreneurs and what does their presence say about China's economic priorities?",
+      "why_hot": "Significant market movements affecting global tech investors.",
+      "share_angle": "Analyze reasons behind IBM's plunge and AI hardware rally.",
       "keywords": [
-        "Premier Li Qiang",
-        "symposium",
-        "entrepreneurs"
+        "stock market",
+        "AI hardware",
+        "IBM"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "世界杯最疯狂的生意 1年暴涨300倍",
+      "chinese_topic": "排污口成戏水地 志愿者：这是冲马桶水",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World Cup's Craziest Business: 300x Growth in One Year",
+      "official_english": "Drainage outlet becomes swimming spot; volunteer says it's toilet flush water",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A business story tied to the World Cup, highlighting entrepreneurial opportunities and market trends.",
-      "share_angle": "What product or service saw such explosive growth and what does it reveal about fan culture?",
+      "why_hot": "Exposes environmental pollution and public health risks, sparking outrage.",
+      "share_angle": "Highlight water pollution issues and volunteer efforts.",
       "keywords": [
-        "World Cup",
-        "business",
-        "growth"
+        "pollution",
+        "environment",
+        "public health"
       ]
     }
   ]

@@ -1,142 +1,145 @@
 {
   "date": "2026-07-15",
-  "updated_at": "2026-07-15T03:28:24+00:00",
+  "updated_at": "2026-07-15T14:03:00+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "上半年中国GDP同比增长4.7%",
+      "chinese_topic": "习近平在上海考察",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's GDP grows 4.7% in first half of 2026",
+      "official_english": "Xi Jinping inspects Shanghai",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Key economic indicator released, reflecting national economic performance.",
-      "share_angle": "Explain what the GDP growth means for ordinary people and global economy.",
+      "why_hot": "Presidential inspection tours signal policy priorities and attract nationwide attention.",
+      "share_angle": "What Xi's Shanghai visit reveals about China's economic and innovation focus.",
       "keywords": [
-        "GDP",
-        "China economy",
-        "economic growth"
+        "Xi Jinping",
+        "Shanghai",
+        "inspection"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "暴雨、高温、强对流三预警齐发",
+      "chinese_topic": "国台办回应“10至20年间逐渐统一”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China issues triple alerts for rain, heat, and severe convection",
+      "official_english": "Taiwan Affairs Office responds to 'gradual reunification within 10-20 years'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe weather warnings affect large population; public safety concern.",
-      "share_angle": "How to stay safe during extreme weather; climate change context.",
+      "why_hot": "Cross-strait relations are a perennial hot topic; official response draws intense discussion.",
+      "share_angle": "Understanding the official stance on Taiwan reunification timeline.",
       "keywords": [
-        "weather alert",
-        "heavy rain",
-        "heatwave"
+        "Taiwan",
+        "reunification",
+        "Taiwan Affairs Office"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "今日入伏！今年“三伏”40天",
+      "chinese_topic": "二季度GDP增长4.3% 怎么看",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China enters 'Sanfu' dog days of summer, lasting 40 days",
+      "official_english": "China's Q2 GDP grows 4.3%: analysis",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Traditional seasonal marker; health tips and cultural interest.",
-      "share_angle": "Explain the Chinese traditional calendar and health practices during Sanfu.",
+      "why_hot": "GDP data directly impacts public perception of economic health and policy direction.",
+      "share_angle": "Breaking down China's Q2 GDP growth and what it means for the economy.",
       "keywords": [
-        "Sanfu",
-        "dog days",
-        "summer solstice"
+        "GDP",
+        "Q2",
+        "economic growth"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "西北大学通报：贾浅浅硕士学位被撤销",
+      "chinese_topic": "安理会通过决议 中俄投了弃权票",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Northwest University revokes Jia Qianqian's master's degree",
+      "official_english": "UN Security Council passes resolution; China and Russia abstain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Academic integrity case involving a well-known figure; public interest in fairness.",
-      "share_angle": "Discuss academic integrity and consequences of misconduct in China.",
+      "why_hot": "UNSC votes with major power abstentions signal geopolitical tensions.",
+      "share_angle": "Why China and Russia abstained from the latest UN Security Council resolution.",
       "keywords": [
-        "academic misconduct",
-        "Jia Qianqian",
-        "degree revocation"
+        "UN Security Council",
+        "China",
+        "Russia",
+        "abstain"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "守护公民个人身份信息安全",
+      "chinese_topic": "有200台小米设备的“米粉”心凉了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Safeguarding citizens' personal identity information security",
+      "official_english": "Xiaomi fan with 200 devices feels let down",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Growing concern over data breaches and privacy protection.",
-      "share_angle": "Tips to protect personal information; recent regulations in China.",
+      "why_hot": "Tech brand loyalty and user experience issues resonate widely.",
+      "share_angle": "The story behind a superfan's disappointment with Xiaomi's ecosystem.",
       "keywords": [
-        "data privacy",
-        "identity theft",
-        "cybersecurity"
+        "Xiaomi",
+        "fan",
+        "ecosystem"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "“明珠七号”邮轮侧翻 造价过亿",
+      "chinese_topic": "家长月薪3500元请大学生暑假带娃",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Luxury cruise ship 'Mingzhu No.7' capsizes, cost over 100 million yuan",
+      "official_english": "Parent with monthly salary of 3,500 yuan hires college student for summer childcare",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major maritime accident; questions about safety and economic loss.",
-      "share_angle": "Investigate possible causes and implications for shipbuilding industry.",
+      "why_hot": "Reflects real-life economic pressures and the gig economy in childcare.",
+      "share_angle": "The economics of summer childcare for low-income families in China.",
       "keywords": [
-        "ship capsizing",
-        "maritime accident",
-        "Mingzhu No.7"
+        "childcare",
+        "summer",
+        "college student",
+        "salary"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "法国队淘汰 马克龙发声",
+      "chinese_topic": "世界杯：英格兰vs阿根廷",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "France eliminated from World Cup; Macron reacts",
+      "official_english": "World Cup: England vs Argentina",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major sports event; French president's reaction adds political angle.",
-      "share_angle": "Analyze France's performance and the political response.",
+      "why_hot": "High-profile World Cup match draws massive global and domestic interest.",
+      "share_angle": "Preview and analysis of the England-Argentina World Cup clash.",
       "keywords": [
-        "France",
         "World Cup",
-        "Macron"
+        "England",
+        "Argentina"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "男子168万拍下“乾隆梅瓶”仅值250元",
+      "chinese_topic": "高考678分男生暑假跟着父亲跑货车",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man wins auction for 'Qianlong vase' at 1.68 million yuan, appraised at 250 yuan",
+      "official_english": "Student with 678 on gaokao spends summer driving truck with father",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Auction fraud story; highlights risks in antique collecting.",
-      "share_angle": "Warn about auction scams and how to verify antiques.",
+      "why_hot": "Inspirational story combining academic success with family values and hard work.",
+      "share_angle": "A top gaokao scorer's humble summer job highlights resilience and family bonds.",
       "keywords": [
-        "auction fraud",
-        "antique",
-        "Qianlong vase"
+        "gaokao",
+        "truck driver",
+        "summer job",
+        "family"
       ]
     }
   ]

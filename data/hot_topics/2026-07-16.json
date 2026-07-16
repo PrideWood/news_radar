@@ -1,142 +1,158 @@
 {
   "date": "2026-07-16",
-  "updated_at": "2026-07-16T03:32:35+00:00",
+  "updated_at": "2026-07-16T14:14:43+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "做好人工智能“年轻的事业”",
+      "chinese_topic": "生娃基本不花钱 28个省份安排上了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Focuses on AI as a 'Young Cause' to Nurture Talent",
+      "official_english": "28 provinces offer free childbirth services",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI development is a national priority; the phrase 'young cause' highlights education and future talent.",
-      "share_angle": "How China is investing in young AI talent and what it means for global tech competition.",
+      "why_hot": "Reflects China's push to boost birth rates by reducing childbirth costs, a major livelihood concern.",
+      "share_angle": "Explain the policy details and its potential impact on fertility rates.",
       "keywords": [
-        "AI",
-        "talent",
-        "education"
+        "childbirth",
+        "free",
+        "provinces",
+        "China",
+        "fertility"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "全球人工智能 进入“上海时间”",
+      "chinese_topic": "世界杯冠军奖金5000万美元 历史最高",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Global AI Enters 'Shanghai Time' as Major Conference Kicks Off",
+      "official_english": "World Cup winner to receive record $50 million prize",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Shanghai hosts a major AI event, drawing global attention to China's AI ambitions.",
-      "share_angle": "What the Shanghai AI conference reveals about China's role in global AI governance.",
+      "why_hot": "World Cup final approaching; record prize money sparks global interest.",
+      "share_angle": "Compare with previous World Cup prizes and discuss the economics of football.",
       "keywords": [
-        "AI",
-        "Shanghai",
-        "conference"
+        "World Cup",
+        "prize money",
+        "record",
+        "football",
+        "FIFA"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "日韩股市集体大跌",
+      "chinese_topic": "realme暂停中国市场业务",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japan and South Korea Stock Markets Plunge Sharply",
+      "official_english": "Realme suspends business operations in China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Market turmoil in Asia affects global economic sentiment.",
-      "share_angle": "Why Japan and South Korea markets are falling and what it signals for the global economy.",
+      "why_hot": "Major smartphone brand exiting China market signals intense competition.",
+      "share_angle": "Analyze reasons behind Realme's exit and implications for Chinese smartphone market.",
       "keywords": [
-        "stock market",
-        "Japan",
-        "South Korea"
+        "Realme",
+        "smartphone",
+        "China",
+        "market exit",
+        "competition"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "日系车拥抱中国技术",
+      "chinese_topic": "砸穿美民宅陨石携带外星生命催化剂",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japanese Automakers Embrace Chinese Technology for EVs",
+      "official_english": "Meteorite that crashed through US house may carry alien life catalysts",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Shift in auto industry dynamics as Japanese brands adopt Chinese tech.",
-      "share_angle": "How Chinese EV technology is becoming indispensable to global automakers.",
+      "why_hot": "Combines space science and alien life speculation, capturing public imagination.",
+      "share_angle": "Explain what 'alien life catalysts' are and the scientific significance of the meteorite.",
       "keywords": [
-        "automotive",
-        "EV",
-        "China-Japan"
+        "meteorite",
+        "alien life",
+        "catalyst",
+        "space",
+        "science"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "九寨沟辟谣湖水靠染色变蓝",
+      "chinese_topic": "碳酸饮料卖不动了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Jiuzhaigou Refutes Rumor That Lake Water Is Dyed Blue",
+      "official_english": "Carbonated drink sales decline in China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Tourism and environmental misinformation sparks public concern.",
-      "share_angle": "Why Jiuzhaigou's lakes are naturally blue and how to combat travel misinformation.",
+      "why_hot": "Reflects changing consumer health awareness and market trends.",
+      "share_angle": "Discuss health concerns driving decline and rise of alternative beverages.",
       "keywords": [
-        "Jiuzhaigou",
-        "environment",
-        "rumor"
+        "carbonated drinks",
+        "sales decline",
+        "health",
+        "China",
+        "beverage market"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "美军对驶往伊朗油轮射“地狱火”导弹",
+      "chinese_topic": "河南洛阳暴雨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US Fires Hellfire Missile at Oil Tanker Bound for Iran",
+      "official_english": "Heavy rain hits Luoyang, Henan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Escalation in Middle East tensions affects global oil markets.",
-      "share_angle": "What the US strike on an Iran-bound tanker means for oil prices and regional stability.",
+      "why_hot": "Severe weather event affecting a major city, public safety concern.",
+      "share_angle": "Report on rainfall intensity, impact on residents, and disaster response.",
       "keywords": [
-        "US",
-        "Iran",
-        "oil"
+        "Luoyang",
+        "heavy rain",
+        "flood",
+        "Henan",
+        "weather"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "四川宝兴县交通事故致6死11伤",
+      "chinese_topic": "德国主持人说辱华词语引众怒",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Traffic Accident in Baoxing County, Sichuan Leaves 6 Dead, 11 Injured",
+      "official_english": "German TV host sparks outrage with anti-China slur",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major road safety incident draws attention to traffic regulations.",
-      "share_angle": "Lessons from a tragic accident: road safety in mountainous regions.",
+      "why_hot": "Involves cross-cultural sensitivity and international relations.",
+      "share_angle": "Explain the context of the slur and reactions from Chinese netizens and officials.",
       "keywords": [
-        "traffic accident",
-        "Sichuan",
-        "safety"
+        "Germany",
+        "TV host",
+        "slur",
+        "China",
+        "outrage"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "女孩发烧3天以为感冒 确诊脑炎",
+      "chinese_topic": "LV母公司掌门人被责令补税1.74亿元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Girl Diagnosed with Encephalitis After Mistaking Fever for Cold",
+      "official_english": "LVMH chairman ordered to pay 174 million yuan in back taxes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health awareness story that resonates with parents and general public.",
-      "share_angle": "Why persistent fever should not be ignored: signs of encephalitis.",
+      "why_hot": "High-profile tax enforcement case involving luxury goods giant.",
+      "share_angle": "Discuss tax compliance for multinationals and implications for luxury market.",
       "keywords": [
-        "health",
-        "encephalitis",
-        "awareness"
+        "LVMH",
+        "tax",
+        "back taxes",
+        "China",
+        "luxury"
       ]
     }
   ]

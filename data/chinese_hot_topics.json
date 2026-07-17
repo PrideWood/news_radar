@@ -1,142 +1,142 @@
 {
   "date": "2026-07-17",
-  "updated_at": "2026-07-17T03:33:22+00:00",
+  "updated_at": "2026-07-17T13:57:55+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "把老百姓关切的事一件一件办好",
+      "chinese_topic": "重庆山体崩塌救援面临三大困难",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Addressing People's Concerns One by One",
+      "official_english": "Rescue Efforts for Chongqing Landslide Face Three Major Challenges",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects government's commitment to public welfare, resonates widely.",
-      "share_angle": "How China's leadership prioritizes grassroots issues.",
+      "why_hot": "Natural disaster rescue updates attract public concern for safety and emergency response.",
+      "share_angle": "Explain the rescue challenges and how authorities are responding.",
       "keywords": [
-        "public welfare",
-        "governance",
-        "people's livelihood"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "机票销量暴涨1240% 来中国避暑火了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Flight Bookings Surge 1240% as China Becomes Top Summer Destination",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Travel boom driven by China's appeal as a cool summer escape.",
-      "share_angle": "China's tourism recovery and global interest.",
-      "keywords": [
-        "travel",
-        "tourism",
-        "summer destination"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "中国经济正在悄悄转型",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's Economy Undergoing Quiet Transformation",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Economic shift from manufacturing to high-tech and services.",
-      "share_angle": "Key trends in China's economic restructuring.",
-      "keywords": [
-        "economy",
-        "transformation",
-        "high-tech"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "重庆发生山体垮塌 有人员被埋",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Landslide in Chongqing Buries People, Rescue Underway",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Natural disaster with potential casualties, public concern.",
-      "share_angle": "Emergency response and geological risks in mountainous areas.",
-      "keywords": [
-        "landslide",
         "Chongqing",
+        "landslide",
         "rescue"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "国内芯片龙头办公室遭韩国检方搜查",
+      "rank": 2,
+      "chinese_topic": "微信又出新功能：已经玩嗨了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Chip Giant's Office Raided by South Korean Prosecutors",
+      "official_english": "WeChat Launches New Feature: Users Are Excited",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-stakes tech rivalry and legal cross-border issues.",
-      "share_angle": "Implications for China's semiconductor industry.",
+      "why_hot": "WeChat updates often go viral due to its massive user base and daily utility.",
+      "share_angle": "Showcase the new feature and discuss its potential impact on social interaction.",
       "keywords": [
-        "semiconductor",
-        "legal dispute",
-        "technology"
+        "WeChat",
+        "new feature",
+        "social media"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "这场大会让上海变成“未来城”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Shanghai Transforms into 'Future City' with Major Conference",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Tech or innovation conferences in Shanghai draw global attention to urban development.",
+      "share_angle": "Highlight futuristic technologies or policies showcased at the conference.",
+      "keywords": [
+        "Shanghai",
+        "future city",
+        "conference"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "将任英国新首相的伯纳姆是谁",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Who Is Burnham, the Incoming UK Prime Minister?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "International political leadership changes spark curiosity about foreign leaders.",
+      "share_angle": "Provide a profile of Burnham and his policy positions.",
+      "keywords": [
+        "UK",
+        "Prime Minister",
+        "Burnham"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "一文看懂国家网络身份认证使用场景",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Understanding National Online Identity Authentication: Use Cases Explained",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Digital identity systems affect privacy and convenience, a hot topic in tech policy.",
+      "share_angle": "Break down how the system works and what it means for users.",
+      "keywords": [
+        "online identity",
+        "authentication",
+        "privacy"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "气象台不敢报40℃？权威回应",
+      "chinese_topic": "北京举报“幽灵外卖”最高奖励100万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Weather Bureau Denies Hiding 40°C Temperatures",
+      "official_english": "Beijing Offers Up to 1 Million Yuan Reward for Reporting 'Ghost' Food Delivery Outlets",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heatwave skepticism and transparency in weather reporting.",
-      "share_angle": "How China communicates extreme weather data.",
+      "why_hot": "Food safety and regulatory crackdowns resonate with public health concerns.",
+      "share_angle": "Explain what 'ghost kitchens' are and how the reward system aims to improve safety.",
       "keywords": [
-        "heatwave",
-        "weather",
-        "transparency"
+        "Beijing",
+        "food delivery",
+        "safety"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "外露式、半隐藏门把手“集体回归”",
+      "chinese_topic": "气象台不敢报40℃？真相来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Exposed and Semi-Hidden Door Handles Make a Comeback in Cars",
+      "official_english": "Are Weather Stations Afraid to Report 40°C? The Truth Revealed",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Trend reversal in automotive design, practical vs. aesthetic.",
-      "share_angle": "Why carmakers are ditching flush handles.",
+      "why_hot": "Extreme heat and public trust in official data are timely concerns.",
+      "share_angle": "Clarify the science behind temperature reporting and address misconceptions.",
       "keywords": [
-        "automotive",
-        "design",
-        "door handles"
+        "temperature",
+        "weather",
+        "heatwave"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "“成都青龙湖放生3000条蛇”不实",
+      "chinese_topic": "西班牙21世纪四进决赛全夺冠",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor of Releasing 3,000 Snakes in Chengdu's Qinglong Lake Debunked",
+      "official_english": "Spain Wins All Four Finals in the 21st Century",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Viral misinformation causes public panic, authorities clarify.",
-      "share_angle": "How false news spreads and how officials respond.",
+      "why_hot": "Sports achievements inspire national pride and global interest.",
+      "share_angle": "Highlight Spain's dominance in a particular sport and its historical context.",
       "keywords": [
-        "rumor",
-        "misinformation",
-        "public safety"
+        "Spain",
+        "championship",
+        "sports"
       ]
     }
   ]

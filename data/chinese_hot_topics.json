@@ -1,142 +1,142 @@
 {
   "date": "2026-07-18",
-  "updated_at": "2026-07-18T03:26:21+00:00",
+  "updated_at": "2026-07-18T13:41:23+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "共奏人工智能发展全球合作的交响",
+      "chinese_topic": "辽宁抚顺明天全市停课",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China calls for global cooperation on AI development",
+      "official_english": "Fushun, Liaoning Suspends Classes Citywide Tomorrow",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI is a hot global topic; China's stance on international cooperation attracts attention.",
-      "share_angle": "Explain China's vision for global AI collaboration and its implications.",
+      "why_hot": "Sudden citywide school closure raises public concern about possible severe weather or emergency.",
+      "share_angle": "Explain the likely reasons behind the closure and how local authorities communicate emergency measures.",
       "keywords": [
-        "AI",
-        "global cooperation",
-        "China"
+        "Fushun",
+        "school closure",
+        "emergency"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "锂电池要和成品油一样交消费税了",
+      "chinese_topic": "放弃日本后 澳洲人正疯狂涌向中国",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lithium batteries to be subject to consumption tax like refined oil products",
+      "official_english": "Australians Flock to China After Shifting Away from Japan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Affects EV industry and consumer costs; policy change sparks debate.",
-      "share_angle": "Discuss the impact of new tax on EV adoption and battery industry.",
+      "why_hot": "Reflects a shift in international tourism patterns and China's growing appeal as a destination.",
+      "share_angle": "Discuss factors driving Australian tourists to choose China over Japan, including visa policies and travel trends.",
       "keywords": [
-        "lithium battery",
-        "consumption tax",
-        "EV"
+        "Australia",
+        "tourism",
+        "China travel"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "重庆山体崩塌最大山石相当于1栋楼",
+      "chinese_topic": "一组图看未来五年你的城市怎么变",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Massive rockslide in Chongqing: largest boulder the size of a building",
+      "official_english": "See How Your City Will Change in the Next Five Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Natural disaster with dramatic visuals; public concern for safety.",
-      "share_angle": "Cover the event and geological risks in mountainous regions.",
+      "why_hot": "Visualized urban planning content sparks public interest in future development and personal relevance.",
+      "share_angle": "Highlight key urban planning trends in China and how they affect residents' daily lives.",
       "keywords": [
-        "Chongqing",
-        "rockslide",
-        "natural disaster"
+        "urban planning",
+        "future city",
+        "development"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "气象台不敢报40℃？真相来了",
+      "chinese_topic": "一文告诉你未成年人如何申网号、网证",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Weather stations afraid to report 40°C? The truth revealed",
+      "official_english": "Guide: How Minors Can Apply for Online ID and Digital Certificate",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heatwave skepticism; public trust in official data.",
-      "share_angle": "Explain how temperature readings work and address public doubts.",
+      "why_hot": "New digital identity regulations for minors generate widespread discussion on privacy and convenience.",
+      "share_angle": "Explain the new online ID system for minors and its implications for internet safety and regulation.",
       "keywords": [
-        "heatwave",
-        "temperature reporting",
-        "weather"
+        "minor",
+        "online ID",
+        "digital certificate"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "高端白酒3天卖了1年的量 店员报警",
+      "chinese_topic": "“莎头”组合出战半决赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Premium liquor sells annual volume in 3 days; store staff calls police",
+      "official_english": "Sun Yingsha and Wang Chuqin to Compete in Semifinals",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Unusual buying frenzy; hints at speculation or panic buying.",
-      "share_angle": "Analyze the reasons behind the rush and market implications.",
+      "why_hot": "Popular table tennis mixed doubles pair advances, drawing fan excitement and national pride.",
+      "share_angle": "Profile the duo's journey and the significance of their matches in the context of Chinese table tennis.",
       "keywords": [
-        "baijiu",
-        "panic buying",
-        "speculation"
+        "Sun Yingsha",
+        "Wang Chuqin",
+        "table tennis"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "清华“一页纸”录取通知书长这样",
+      "chinese_topic": "保安8战清华上岸 正备战哈佛博士",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Tsinghua University unveils 'one-page' admission letter",
+      "official_english": "Security Guard Admitted to Tsinghua After 8 Attempts, Now Aiming for Harvard PhD",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Innovative design; education-related and visually appealing.",
-      "share_angle": "Showcase the minimalist design and its symbolic meaning.",
+      "why_hot": "Inspirational story of perseverance and self-improvement resonates widely on social media.",
+      "share_angle": "Tell the story of his academic journey and discuss the broader theme of lifelong learning in China.",
       "keywords": [
+        "perseverance",
         "Tsinghua",
-        "admission letter",
-        "design"
+        "Harvard"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "AI能终结癌症吗",
+      "chinese_topic": "世界杯：法国vs英格兰",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Can AI end cancer?",
+      "official_english": "World Cup: France vs England",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI in healthcare is a trending topic; hope and hype coexist.",
-      "share_angle": "Discuss current AI applications in cancer research and limitations.",
+      "why_hot": "High-profile World Cup match attracts massive global and domestic audience.",
+      "share_angle": "Preview the match, key players, and what's at stake for both teams.",
       "keywords": [
-        "AI",
-        "cancer",
-        "healthcare"
+        "World Cup",
+        "France",
+        "England"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "大热天的 世界杯球员为啥非穿长袜",
+      "chinese_topic": "事关医务人员 未来5年有这些变化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why do World Cup players wear long socks in hot weather?",
+      "official_english": "Medical Staff to See Major Changes in Next Five Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "World Cup season; curious sports trivia engages fans.",
-      "share_angle": "Explain the functional reasons behind long socks in football.",
+      "why_hot": "Policy changes affecting healthcare workers directly impact public health system and professional welfare.",
+      "share_angle": "Summarize the planned reforms for medical personnel and their potential impact on healthcare quality.",
       "keywords": [
-        "World Cup",
-        "socks",
-        "sports gear"
+        "medical staff",
+        "healthcare reform",
+        "policy"
       ]
     }
   ]

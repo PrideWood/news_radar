@@ -1,142 +1,142 @@
 {
   "date": "2026-07-19",
-  "updated_at": "2026-07-19T03:47:39+00:00",
+  "updated_at": "2026-07-19T13:45:02+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "携手推动人工智能向上向善造福人类",
+      "chinese_topic": "坚持开放共赢 驱动创新发展",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Jointly Promote AI for Good and Benefit Humanity",
+      "official_english": "China Vows to Pursue Openness and Win-Win Cooperation to Drive Innovation-Driven Development",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI ethics and governance are global hot topics; China's stance attracts international attention.",
-      "share_angle": "Explain China's call for responsible AI development and its implications for global tech governance.",
+      "why_hot": "Official policy direction signals China's commitment to global cooperation and innovation, a key public-interest topic.",
+      "share_angle": "Explain how China's open-door policy and innovation drive impact global tech and trade.",
       "keywords": [
-        "AI",
-        "ethics",
-        "China"
+        "openness",
+        "innovation",
+        "China policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "本周中国硬核成果密集上新",
+      "chinese_topic": "马龙许昕3比0横扫对手夺冠",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's Hardcore Achievements Unveiled This Week",
+      "official_english": "Ma Long and Xu Xin Win Table Tennis Doubles Title with 3-0 Sweep",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Showcases China's rapid technological progress, boosting national pride.",
-      "share_angle": "Highlight key breakthroughs in science and tech from the past week.",
+      "why_hot": "Veteran table tennis stars dominate, sparking discussions about China's national team depth.",
+      "share_angle": "Highlight the duo's legacy and what it means for the future of Chinese table tennis.",
       "keywords": [
-        "technology",
-        "innovation",
-        "China"
+        "Ma Long",
+        "Xu Xin",
+        "table tennis"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "新能源营运车被曝集中出现电芯鼓包",
+      "chinese_topic": "多队球衣已打折 国足球衣仍105美元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New Energy Commercial Vehicles Report Widespread Battery Cell Swelling",
+      "official_english": "World Cup Jerseys on Sale, but China National Team Jersey Still Priced at $105",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Safety concerns in NEVs affect public trust and industry regulation.",
-      "share_angle": "Discuss battery safety issues in electric vehicles and their impact on consumers.",
+      "why_hot": "Contrast between discounted jerseys of other teams and high price of Chinese team jersey sparks debate on value and performance.",
+      "share_angle": "Discuss the economics of sports merchandise and fan expectations.",
       "keywords": [
-        "NEV",
-        "battery",
-        "safety"
+        "jersey price",
+        "China football",
+        "World Cup"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "宜家集中出售8座商场：已全面清空",
+      "chinese_topic": "新动能的三张“新面孔”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "IKEA Sells Eight Malls in China, Fully Divested",
+      "official_english": "Three New Faces of China's New Growth Drivers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major retail strategy shift signals changes in China's consumer market.",
-      "share_angle": "Analyze IKEA's exit from mall ownership and what it means for retail real estate.",
+      "why_hot": "Explores emerging industries driving China's economy, relevant to tech and economic trends.",
+      "share_angle": "Break down the three sectors (e.g., AI, green energy, biotech) and their global impact.",
       "keywords": [
-        "IKEA",
-        "retail",
-        "China"
+        "new growth drivers",
+        "China economy",
+        "emerging industries"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“高考估分715查分299”？警方通报",
+      "chinese_topic": "上海暴雨如注",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Police Report on Viral Claim of Gaokao Score 715 vs 299",
+      "official_english": "Heavy Rain Hits Shanghai, Causing Disruptions",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Gaokao is a high-stakes exam; misinformation causes public concern.",
-      "share_angle": "Explain the incident and the importance of verifying exam results.",
+      "why_hot": "Extreme weather event affecting millions, raising awareness about climate resilience.",
+      "share_angle": "Discuss urban flooding challenges and climate adaptation measures in megacities.",
       "keywords": [
-        "Gaokao",
-        "misinformation",
-        "police"
+        "Shanghai",
+        "heavy rain",
+        "urban flooding"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "父亲让15岁儿子帮工 老板被罚5000",
+      "chinese_topic": "一年超8万家面包店关停",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Father Hires 15-Year-Old Son, Employer Fined 5,000 Yuan",
+      "official_english": "Over 80,000 Bakeries Closed in China in One Year",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Child labor law enforcement sparks debate on family businesses.",
-      "share_angle": "Discuss child labor laws and the balance between family help and legal compliance.",
+      "why_hot": "Signals economic pressure on small businesses and changing consumer habits.",
+      "share_angle": "Analyze the reasons behind the bakery closures and what it says about China's retail economy.",
       "keywords": [
-        "child labor",
-        "law",
-        "China"
+        "bakery closures",
+        "small business",
+        "China economy"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "泰总理夜游成都边走边吃冰淇淋",
+      "chinese_topic": "马来西亚宣布驱逐所有以色列人",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Thai Prime Minister Visits Chengdu, Eats Ice Cream While Strolling",
+      "official_english": "Malaysia Announces Expulsion of All Israeli Nationals",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Lighthearted diplomatic moment boosts cultural exchange and tourism.",
-      "share_angle": "Show how informal diplomacy can enhance bilateral relations.",
+      "why_hot": "Major diplomatic move with regional implications, generating international discussion.",
+      "share_angle": "Explain the context and potential consequences for Middle East and Southeast Asia relations.",
       "keywords": [
-        "Thailand",
-        "diplomacy",
-        "Chengdu"
+        "Malaysia",
+        "Israel",
+        "expulsion"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "使馆提醒在阿中国公民理性观看世界杯",
+      "chinese_topic": "世界杯决赛观赛指南来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Embassy Advises Citizens in Argentina to Watch World Cup Rationally",
+      "official_english": "World Cup Final Viewing Guide Released",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Safety advisory for overseas Chinese during major sporting event.",
-      "share_angle": "Highlight consular protection and responsible fan behavior abroad.",
+      "why_hot": "World Cup final anticipation, practical information for global audience.",
+      "share_angle": "Provide key details about the final match and how to watch, plus cultural insights.",
       "keywords": [
-        "World Cup",
-        "Argentina",
-        "safety"
+        "World Cup final",
+        "viewing guide",
+        "Spain vs Argentina"
       ]
     }
   ]

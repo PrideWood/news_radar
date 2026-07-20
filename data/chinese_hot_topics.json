@@ -1,152 +1,142 @@
 {
   "date": "2026-07-20",
-  "updated_at": "2026-07-20T03:59:11+00:00",
+  "updated_at": "2026-07-20T14:27:37+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "西班牙加时1-0阿根廷 夺世界杯冠军",
+      "chinese_topic": "今天为什么需要世界人工智能大会",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Spain beats Argentina 1-0 in extra time to win World Cup",
+      "official_english": "Why the World AI Conference Matters Today",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "2026 World Cup final result, a major sports event drawing global attention.",
-      "share_angle": "Explain the match highlights and Spain's victory in extra time.",
+      "why_hot": "AI development is a global focus, and the conference highlights China's role in AI governance and innovation.",
+      "share_angle": "Explain the significance of the World AI Conference for global tech cooperation and ethical AI.",
       "keywords": [
-        "World Cup",
-        "Spain",
-        "Argentina",
-        "final"
+        "AI",
+        "World AI Conference",
+        "technology"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "读懂2026上半年中国经济成绩单",
+      "chinese_topic": "西班牙世界杯夺冠 义乌人忙晕了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Understanding China's economic performance in first half of 2026",
+      "official_english": "Spain Wins World Cup, Yiwu Manufacturers Busy",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Official economic data release, key for understanding national trends.",
-      "share_angle": "Break down key indicators and what they mean for the public.",
+      "why_hot": "Spain's World Cup victory triggers massive demand for merchandise from Yiwu, China's small-commodity hub.",
+      "share_angle": "Show how a global sports event impacts Chinese manufacturing and supply chains.",
       "keywords": [
-        "China economy",
-        "GDP",
-        "2026",
-        "economic data"
+        "World Cup",
+        "Yiwu",
+        "manufacturing"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "年世界杯3国举办6国办赛",
+      "chinese_topic": "三万斤西瓜成本近8000元仅能卖6000元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "2026 World Cup co-hosted by 3 countries across 6 venues",
+      "official_english": "Watermelon Farmers Face Losses as Costs Exceed Sales",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Unique multi-country hosting format for the World Cup.",
-      "share_angle": "Explain the logistics and significance of the 3-nation hosting.",
+      "why_hot": "Reflects agricultural price volatility and farmer income challenges, a livelihood concern.",
+      "share_angle": "Discuss the economics of small-scale farming and market fluctuations in China.",
       "keywords": [
-        "World Cup",
-        "2026",
-        "co-host",
-        "USA",
-        "Canada",
-        "Mexico"
+        "agriculture",
+        "farmer income",
+        "price"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "西班牙阿根廷赛后冲突原因",
+      "chinese_topic": "菲方围顶冲撞中方巡逻艇并恶意攻击",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Post-match clash between Spain and Argentina: causes",
+      "official_english": "Philippine Vessels Ram Chinese Patrol Boats in Malicious Attack",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Post-match altercation adds drama to the World Cup final.",
-      "share_angle": "Summarize reported causes without speculation.",
+      "why_hot": "Escalating maritime dispute in the South China Sea, drawing public attention to national sovereignty.",
+      "share_angle": "Provide context on the South China Sea tensions and China's response.",
       "keywords": [
-        "Spain",
-        "Argentina",
-        "clash",
-        "World Cup final"
+        "South China Sea",
+        "maritime dispute",
+        "Philippines"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "姆巴佩10球夺金靴奖",
+      "chinese_topic": "中方警告日方：将付出沉重代价",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Mbappé wins Golden Boot with 10 goals",
+      "official_english": "China Warns Japan: Will Pay Heavy Price",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Individual achievement in World Cup, star player performance.",
-      "share_angle": "Highlight Mbappé's goal-scoring feat and its significance.",
+      "why_hot": "Strong diplomatic language signals heightened tensions between China and Japan.",
+      "share_angle": "Explain the background of China-Japan friction and potential implications.",
       "keywords": [
-        "Mbappé",
-        "Golden Boot",
-        "World Cup",
-        "goals"
+        "China-Japan",
+        "diplomacy",
+        "warning"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "柬政府不吃压力：台湾是中国的一个省",
+      "chinese_topic": "“冥界之花”现身四川盐源",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cambodia reaffirms Taiwan is a province of China",
+      "official_english": "Rare 'Ghost Plant' Discovered in Sichuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "International stance on Taiwan, relevant to geopolitics.",
-      "share_angle": "Explain Cambodia's position and its implications.",
+      "why_hot": "Rare plant discovery sparks curiosity about biodiversity and natural wonders.",
+      "share_angle": "Introduce the 'ghost plant' (Monotropa uniflora) and its ecological significance.",
       "keywords": [
-        "Cambodia",
-        "Taiwan",
-        "One China",
-        "diplomacy"
+        "rare plant",
+        "biodiversity",
+        "Sichuan"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "重庆山体崩塌现场降暴雨",
+      "chinese_topic": "西班牙夺冠庆典喷泉坍塌13岁男孩身亡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Heavy rain complicates landslide rescue in Chongqing",
+      "official_english": "Spain Victory Celebration Turns Tragic: Fountain Collapse Kills 13-Year-Old",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Natural disaster affecting public safety, rescue efforts ongoing.",
-      "share_angle": "Report on the situation and response without graphic details.",
+      "why_hot": "Tragic accident during a joyous event raises questions about crowd safety and infrastructure.",
+      "share_angle": "Discuss the importance of safety measures in large public celebrations.",
       "keywords": [
-        "Chongqing",
-        "landslide",
-        "heavy rain",
-        "rescue"
+        "Spain",
+        "accident",
+        "safety"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "于东来“反向砍价”意外带火一个村",
+      "chinese_topic": "洞洞鞋为什么会伤害你的脚",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yu Donglai's 'reverse bargaining' unexpectedly boosts a village",
+      "official_english": "Why Crocs Can Harm Your Feet",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heartwarming social story about a business figure helping a village.",
-      "share_angle": "Share the story of how a simple act created positive impact.",
+      "why_hot": "Health concern about popular footwear sparks discussion on ergonomics and consumer awareness.",
+      "share_angle": "Explain the potential foot health issues from wearing Crocs and how to choose proper footwear.",
       "keywords": [
-        "Yu Donglai",
-        "reverse bargaining",
-        "village",
-        "social good"
+        "Crocs",
+        "foot health",
+        "ergonomics"
       ]
     }
   ]

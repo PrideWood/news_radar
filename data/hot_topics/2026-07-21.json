@@ -1,121 +1,36 @@
 {
   "date": "2026-07-21",
-  "updated_at": "2026-07-21T03:39:26+00:00",
+  "updated_at": "2026-07-21T14:14:15+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "鼓励包容并蓄 促进文明互鉴",
+      "chinese_topic": "亿上班族迎利好",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Encourage Inclusiveness and Promote Mutual Learning Among Civilizations",
+      "official_english": "Hundreds of millions of office workers receive favorable policies",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects China's official stance on cultural exchange and global cooperation, resonating with current diplomatic narratives.",
-      "share_angle": "Explain how this principle applies to everyday cross-cultural interactions and its significance in global affairs.",
+      "why_hot": "Widespread impact on working population, likely related to tax, social security, or labor policy changes.",
+      "share_angle": "Explain the specific policy changes and how they benefit ordinary employees.",
       "keywords": [
-        "cultural exchange",
-        "inclusiveness",
-        "civilization"
+        "office workers",
+        "policy",
+        "benefits"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "女生高考684分花3000元咨询进双非",
+      "chinese_topic": "BBA集体降价 销售：价格还能谈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Student with 684 Gaokao Score Spends 3,000 Yuan on Admission Consultation for Non-Top-Tier University",
+      "official_english": "BBA (BMW, Benz, Audi) collectively cut prices; sales say prices negotiable",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Highlights the intense competition and anxiety around Gaokao admissions, sparking debate on education equity and consultation services.",
-      "share_angle": "Discuss the pressures of Gaokao and the rise of admission consulting services in China.",
-      "keywords": [
-        "Gaokao",
-        "admission consultation",
-        "education"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "西班牙夺冠狂欢震动地震仪",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Spain's Championship Celebrations Shake Seismographs",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A quirky and viral story showing how fan celebrations were so intense they registered on seismic equipment.",
-      "share_angle": "A lighthearted look at how sports celebrations can have unexpected scientific effects.",
-      "keywords": [
-        "Spain",
-        "championship",
-        "seismograph"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "中国制造加速涌现“新”力量",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Made in China Accelerates the Emergence of 'New' Forces",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Showcases China's manufacturing upgrade and innovation, a key economic narrative.",
-      "share_angle": "Highlight examples of new technologies and products driving China's manufacturing transformation.",
-      "keywords": [
-        "manufacturing",
-        "innovation",
-        "Made in China"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "卖一辆10万元新车仅赚1500元",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Selling a 100,000 Yuan New Car Yields Only 1,500 Yuan Profit",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Reveals thin profit margins in the auto industry, sparking discussion on market competition and business sustainability.",
-      "share_angle": "Analyze the economics of car sales and what it means for consumers and manufacturers.",
-      "keywords": [
-        "auto industry",
-        "profit margin",
-        "car sales"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "科创50涨超6% 芯片股领涨",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "STAR 50 Index Surges Over 6%, Chip Stocks Lead Gains",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Reflects strong investor interest in tech and semiconductor sectors, a hot topic in financial markets.",
-      "share_angle": "Explain the significance of the STAR 50 index and the chip sector's performance for China's tech ambitions.",
-      "keywords": [
-        "STAR 50",
-        "chip stocks",
-        "stock market"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "BBA今年集体大降价",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "BBA (BMW, Benz, Audi) Slash Prices Significantly This Year",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Major price cuts by luxury car brands signal intense competition and changing market dynamics.",
-      "share_angle": "Discuss the reasons behind the price war and its impact on the luxury car market in China.",
+      "why_hot": "Major luxury car brands slashing prices signals market shift and consumer opportunity.",
+      "share_angle": "Analyze reasons behind price cuts (competition, EV transition) and what it means for car buyers.",
       "keywords": [
         "BBA",
         "price cut",
@@ -123,20 +38,105 @@
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "乒超禁用外协强制U19",
+      "rank": 3,
+      "chinese_topic": "中国科技这3组数字真提气",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Table Tennis Super League Bans Foreign Players, Mandates Under-19 Rule",
+      "official_english": "Three sets of numbers show China's tech achievements are inspiring",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A significant policy change in Chinese table tennis, affecting player development and league competitiveness.",
-      "share_angle": "Explore the rationale behind the new rules and their potential impact on the sport.",
+      "why_hot": "Positive news about China's technological progress boosts national pride and interest.",
+      "share_angle": "Break down the three key metrics (e.g., R&D spending, patent filings, output) and their global context.",
       "keywords": [
-        "table tennis",
-        "foreign players",
-        "U19 rule"
+        "technology",
+        "achievements",
+        "China"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "热热热！这些地方热到凌晨不下线",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Scorching heat: Some areas remain hot until early morning",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Extreme heatwave affecting daily life, health, and energy consumption.",
+      "share_angle": "Discuss heatwave causes, health tips, and urban adaptation measures.",
+      "keywords": [
+        "heatwave",
+        "health",
+        "climate"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "台风“红霞”要来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Typhoon 'Hongxia' approaching",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Natural disaster alert affecting millions, with potential for severe weather.",
+      "share_angle": "Track typhoon path, preparedness measures, and impact on transportation and daily life.",
+      "keywords": [
+        "typhoon",
+        "disaster",
+        "preparedness"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "中方紧急召见菲驻华大使",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China summons Philippine ambassador over urgent matter",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Diplomatic tension with the Philippines, likely related to South China Sea disputes.",
+      "share_angle": "Explain the context of the summons and implications for bilateral relations.",
+      "keywords": [
+        "diplomacy",
+        "Philippines",
+        "South China Sea"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "中国数学家王虹邓煜有望斩获最高奖项",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese mathematicians Wang Hong and Deng Yu expected to win top award",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Recognition of Chinese talent in mathematics, a source of national pride.",
+      "share_angle": "Profile the mathematicians and their contributions, and explain the significance of the award.",
+      "keywords": [
+        "mathematics",
+        "award",
+        "Chinese scientists"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "云南普洱5.0级地震",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "5.0-magnitude earthquake hits Pu'er, Yunnan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Natural disaster causing concern for safety and potential damage.",
+      "share_angle": "Report on earthquake details, response efforts, and safety tips.",
+      "keywords": [
+        "earthquake",
+        "Yunnan",
+        "disaster response"
       ]
     }
   ]

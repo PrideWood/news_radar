@@ -480,6 +480,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2126043.html",
       "title": "ローソン、ゴーストレストランを香川・徳島・島根・鳥取で開始"
     },
+    "2834a1cebf2fab1dd580": {
+      "first_seen": "2026-07-22",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news052.html",
+      "title": "LINEヤフー、「Yahoo!天気」などで生成AI活用「天気コーデ」提供開始 外出先の天気や気温に応じた服装を画像で"
+    },
     "2894be05fd3d8a397ca4": {
       "first_seen": "2026-06-24",
       "link": "https://gigazine.net/news/20260624-mistral-ocr-4",
@@ -814,6 +819,11 @@
       "first_seen": "2026-06-21",
       "link": "http://www3.nhk.or.jp/news/html/20260621/k10015155621000.html",
       "title": "東北北部が梅雨入り 北海道除く全地域が梅雨入り 備え再確認を"
+    },
+    "41b8894e5aa38bd6b076": {
+      "first_seen": "2026-07-22",
+      "link": "https://www.watch.impress.co.jp/docs/news/2126810.html",
+      "title": "青山、ビジネス向け「空調ウエア」 ファン稼働時の膨らみ抑制"
     },
     "41d02c56de90719c8d21": {
       "first_seen": "2026-06-12",
@@ -1675,6 +1685,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2120510.html",
       "title": "パスポート発行、7月1日から値下げ 10年旅券8900円に"
     },
+    "87d621e378a054610923": {
+      "first_seen": "2026-07-22",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news078.html",
+      "title": "痛いの痛いの、なぜ“飛んでいく”？ 「さすると痛みが引く」仕組み、九州大が解明"
+    },
     "8857f7ba58179d4b2005": {
       "first_seen": "2026-07-08",
       "link": "https://gigazine.net/news/20260708-personality-trait-who-live-100",
@@ -1734,6 +1749,11 @@
       "first_seen": "2026-07-03",
       "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168271000.html",
       "title": "昨年度の税収 84兆2000億円程度 過去最高を更新"
+    },
+    "8d2b17a39354fbd3c071": {
+      "first_seen": "2026-07-22",
+      "link": "https://gigazine.net/news/20260722-firefox-153",
+      "title": "「Firefox 153」正式版リリース、ウェブページのQRコード生成やPDF結合に対応"
     },
     "8d4c7705d966cf7ec193": {
       "first_seen": "2026-07-01",
@@ -2000,6 +2020,11 @@
       "link": "https://gigazine.net/news/20260619-matsuya-matsunoya-shkmeruli",
       "title": "松屋のニンニクメニュー「シュクメルリ」を豚カツにぶっかけた「シュクメルリロースかつ」＆チキンカツにぶっかけた「シュクメルリジャンボチキンかつ」試食レビュー"
     },
+    "a10b1d57027a69ed9ec8": {
+      "first_seen": "2026-07-22",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入"
+    },
     "a15bafbd6481037de90b": {
       "first_seen": "2026-06-19",
       "link": "https://gigazine.net/news/20260619-game-dev-dont-merge-files",
@@ -2169,6 +2194,11 @@
       "first_seen": "2026-06-17",
       "link": "https://www.watch.impress.co.jp/docs/news/2117818.html",
       "title": "ゆうちょ銀、ATM引き出し上限を引き下げ 200万→50万"
+    },
+    "af729f10c7ea47fc3eeb": {
+      "first_seen": "2026-07-22",
+      "link": "https://gigazine.net/news/20260722-pumpkin-peel-packaging-food-fresh",
+      "title": "捨てられる「カボチャの皮」を使ってプラスチックより高機能な食品包装を作ることに九州大学が成功"
     },
     "af7f9fde932896363804": {
       "first_seen": "2026-07-21",
@@ -2355,6 +2385,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2606/22/news043.html",
       "title": "「出世できても断りたい」 管理職を避ける若手IT人材たち……上司には言えないむき出しのホンネ"
     },
+    "bca6a7ed910da1c3c83e": {
+      "first_seen": "2026-07-22",
+      "link": "https://gigazine.net/news/20260722-qwen-image-3",
+      "title": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに"
+    },
     "bd652f220275823712fc": {
       "first_seen": "2026-06-19",
       "link": "https://gigazine.net/news/20260620-kindle-scribe-writing",
@@ -2409,6 +2444,11 @@
       "first_seen": "2026-06-13",
       "link": "https://www.watch.impress.co.jp/docs/news/2116896.html",
       "title": "“信号が少ない”コースを選べるランニングアプリ「Run Supporter」"
+    },
+    "c49ef45d0bdf8ab00ffa": {
+      "first_seen": "2026-07-22",
+      "link": "https://www.watch.impress.co.jp/docs/series/yoshimura/2125838.html",
+      "title": "【文具知新】進化系クリップボード3選 縦横兼用・二つ折りなど多彩なワザが光る!"
     },
     "c4f047d2ae45d2506a5e": {
       "first_seen": "2026-06-27",

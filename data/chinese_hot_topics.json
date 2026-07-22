@@ -1,142 +1,142 @@
 {
   "date": "2026-07-22",
-  "updated_at": "2026-07-22T03:39:44+00:00",
+  "updated_at": "2026-07-22T14:17:23+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "习近平瞩望的“人民城市”",
+      "chinese_topic": "今年国家级气象站出现首个50℃",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping's Vision of 'People's City'",
+      "official_english": "First 50°C Recorded at National Weather Station This Year",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "President Xi's concept of people-centered urban development resonates widely, reflecting public expectations for better city governance.",
-      "share_angle": "Explain the 'People's City' concept and its implications for urban planning and residents' quality of life.",
+      "why_hot": "Extreme heat event sparks public concern over climate change and heatwave impacts.",
+      "share_angle": "Explain the science behind extreme temperatures and what it means for daily life and policy.",
       "keywords": [
-        "Xi Jinping",
-        "people's city",
-        "urban development"
+        "extreme heat",
+        "climate change",
+        "weather record"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "巨浪击沉游轮游客漂流5小时 有人吓吐",
+      "chinese_topic": "全国就业公共服务地图来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Giant Waves Sink Cruise Ship, Tourists Drift for 5 Hours",
+      "official_english": "National Employment Public Service Map Launched",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Dramatic maritime accident with survival story captures public attention and raises safety concerns.",
-      "share_angle": "Discuss cruise safety measures and survival tips in emergencies.",
+      "why_hot": "New government service aims to help job seekers find opportunities, reflecting employment concerns.",
+      "share_angle": "Show how the map works and its potential impact on job hunting in China.",
       "keywords": [
-        "cruise ship",
-        "waves",
-        "rescue"
+        "employment",
+        "public service",
+        "job map"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "未来五年坐火车有这些变化",
+      "chinese_topic": "国务院批复 超7万亿元大产业来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Train Travel Changes in the Next Five Years",
+      "official_english": "State Council Approves Mega Industry Worth Over 7 Trillion Yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Railway development plans directly affect millions of travelers, sparking interest in future improvements.",
-      "share_angle": "Highlight key upgrades: speed, comfort, coverage, and ticketing reforms.",
+      "why_hot": "Major economic policy move signals government focus on strategic industries.",
+      "share_angle": "Break down which industry is involved and what it means for China's economy.",
       "keywords": [
-        "railway",
-        "travel",
-        "infrastructure"
+        "State Council",
+        "industry policy",
+        "economic stimulus"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "“中药首富”马兴田夫妇被判赔14亿",
+      "chinese_topic": "哈工大学生研制紫丁香三号成功发射",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Traditional Chinese Medicine Tycoon Ma Xingtian and Wife Ordered to Pay 1.4 Billion Yuan in Compensation",
+      "official_english": "HIT Students' Satellite 'Lilac-3' Successfully Launched",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-profile legal case involving a former billionaire and traditional medicine industry raises discussions on corporate accountability.",
-      "share_angle": "Analyze the implications for the TCM industry and investor protection.",
+      "why_hot": "Student-led satellite project showcases China's youth innovation in aerospace.",
+      "share_angle": "Highlight the achievement and how it inspires STEM education.",
       "keywords": [
-        "Ma Xingtian",
-        "traditional Chinese medicine",
-        "compensation"
+        "satellite",
+        "student innovation",
+        "aerospace"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "这些充电习惯正悄悄缩短手机寿命",
+      "chinese_topic": "同款鞋耐克官方店比经销商贵400元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "These Charging Habits Are Quietly Shortening Your Phone's Lifespan",
+      "official_english": "Same Nike Shoes: Official Store 400 Yuan More Expensive Than Dealers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Practical tech tip that resonates with smartphone users seeking to extend device longevity.",
-      "share_angle": "List common mistakes and best practices for battery care.",
+      "why_hot": "Price disparity sparks consumer discussion on brand pricing strategies.",
+      "share_angle": "Analyze why official stores charge more and what it reveals about retail dynamics.",
       "keywords": [
-        "charging",
-        "battery",
-        "smartphone"
+        "Nike",
+        "price comparison",
+        "consumer rights"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "全国最后一位长征女红军王全英逝世",
+      "chinese_topic": "“导游行业已死”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Last Female Red Army Veteran of the Long March, Wang Quanying, Passes Away",
+      "official_english": "Tour Guide Industry 'Dead'? Industry Voices Concern",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Historical figure's passing marks the end of an era, evoking national remembrance and respect.",
-      "share_angle": "Honor her legacy and the history of the Long March.",
+      "why_hot": "Post-pandemic tourism recovery challenges and changing travel habits hit tour guides hard.",
+      "share_angle": "Explore the reasons behind the claim and the future of travel services.",
       "keywords": [
-        "Long March",
-        "Red Army",
-        "veteran"
+        "tour guide",
+        "tourism industry",
+        "post-pandemic"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "“按骑手学历收配送费”系谣言",
+      "chinese_topic": "免打孔单杠已成家庭隐形杀手",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor: Delivery Fees Based on Rider Education Level Debunked",
+      "official_english": "No-Drill Pull-Up Bars Become Hidden Home Hazards",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Misinformation about delivery fees caused public concern; clarification restores trust.",
-      "share_angle": "Explain how to identify and debunk similar rumors.",
+      "why_hot": "Safety warnings about popular home fitness equipment go viral.",
+      "share_angle": "Explain the risks and how to use such equipment safely.",
       "keywords": [
-        "rumor",
-        "delivery",
-        "education"
+        "home fitness",
+        "safety hazard",
+        "pull-up bar"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "“非洲手机之王”涨价 销量下滑",
+      "chinese_topic": "教师反映陪餐制度占用午休时间",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'King of African Phones' Raises Prices, Sales Decline",
+      "official_english": "Teachers Complain Meal Supervision Policy Cuts Into Lunch Breaks",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Business case of a Chinese brand dominating African market facing challenges, relevant to global trade.",
-      "share_angle": "Discuss pricing strategy and market adaptation in emerging economies.",
+      "why_hot": "Education policy implementation sparks debate on teacher workload.",
+      "share_angle": "Discuss the balance between student safety and teacher well-being.",
       "keywords": [
-        "Africa",
-        "smartphone",
-        "sales"
+        "teacher workload",
+        "school policy",
+        "meal supervision"
       ]
     }
   ]

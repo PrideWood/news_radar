@@ -1,61 +1,79 @@
 {
   "date": "2026-07-23",
-  "updated_at": "2026-07-23T03:39:32+00:00",
+  "updated_at": "2026-07-23T14:25:39+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "总书记为基础教育高质量发展指明方向",
+      "chinese_topic": "中国籍数学家首次获得菲尔兹奖",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "President Xi Jinping Points Direction for High-Quality Development of Basic Education",
+      "official_english": "Chinese Mathematicians Win Fields Medal for First Time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "President Xi's directive on basic education is a major policy signal, sparking widespread discussion on education reform.",
-      "share_angle": "Explain the key points of Xi's directive and its implications for China's education system.",
+      "why_hot": "Historic achievement: Chinese mathematicians Wang Hong and Deng Yu jointly awarded the Fields Medal, a first for China.",
+      "share_angle": "Explain the significance of the Fields Medal and the inspiring stories of the winners.",
       "keywords": [
-        "education",
-        "Xi Jinping",
-        "basic education"
+        "Fields Medal",
+        "Chinese mathematicians",
+        "Wang Hong",
+        "Deng Yu"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "中国“芯片刻刀”终于出鞘",
+      "chinese_topic": "推进基础教育扩优提质",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's 'Chip Carving Knife' Finally Unveiled",
+      "official_english": "China to Expand and Improve Basic Education",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Breakthrough in semiconductor manufacturing equipment, crucial for China's chip self-sufficiency.",
-      "share_angle": "Explain the significance of this tool for China's semiconductor industry and global tech competition.",
+      "why_hot": "Government policy announcement on improving basic education quality and equity.",
+      "share_angle": "Break down the key measures and their potential impact on students and families.",
       "keywords": [
-        "semiconductor",
-        "chip",
-        "technology"
+        "basic education",
+        "education reform",
+        "China policy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "OpenAI模型失控闯祸 中国大模型救场",
+      "chinese_topic": "未来5年我们的出行将有新变化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "OpenAI Model Malfunctions, Chinese Large Model Steps In",
+      "official_english": "Transportation Changes Expected in Next Five Years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Highlights AI safety concerns and showcases China's AI capabilities in a real-world incident.",
-      "share_angle": "Discuss AI safety and the role of Chinese AI models in mitigating risks.",
+      "why_hot": "New transportation development plan affecting daily commute and travel.",
+      "share_angle": "Highlight upcoming innovations in public transit, EV infrastructure, and smart roads.",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "large model"
+        "transportation",
+        "future mobility",
+        "China infrastructure"
       ]
     },
     {
       "rank": 4,
+      "chinese_topic": "多地发钱奖励结婚",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple Regions Offer Cash Incentives for Marriage",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Local governments introduce marriage subsidies to boost birth rates.",
+      "share_angle": "Discuss the policy rationale and public reactions to financial incentives for marriage.",
+      "keywords": [
+        "marriage incentives",
+        "birth rate",
+        "China demographics"
+      ]
+    },
+    {
+      "rank": 5,
       "chinese_topic": "净网：网警发20起涉汛涉灾谣言案例",
       "platform": "Baidu",
       "heat": "hot",
@@ -63,80 +81,63 @@
       "official_english": "Cyber Police Release 20 Cases of Flood-Related Rumors",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Crackdown on disaster-related misinformation, relevant to public safety and information integrity.",
-      "share_angle": "Explain the types of rumors and the importance of verifying information during disasters.",
+      "why_hot": "Authorities crack down on disaster misinformation during flood season.",
+      "share_angle": "Explain how to identify fake news and the legal consequences of spreading rumors.",
       "keywords": [
-        "rumor",
-        "flood",
+        "rumor debunking",
+        "flood season",
         "cyber police"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "中国数学家冲击菲尔兹奖 研究了啥",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Mathematician Contends for Fields Medal: What Did He Study?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Fields Medal is top honor in mathematics; Chinese mathematician's potential win sparks national pride.",
-      "share_angle": "Simplify the mathematician's research and its impact on the field.",
-      "keywords": [
-        "mathematics",
-        "Fields Medal",
-        "Chinese mathematician"
-      ]
-    },
-    {
       "rank": 6,
-      "chinese_topic": "新能源车跨境自驾遭远程锁车30小时",
+      "chinese_topic": "人社部亮出社保“家底”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New Energy Vehicle Cross-Border Road Trip Hit by 30-Hour Remote Lock",
+      "official_english": "Ministry of Human Resources and Social Security Discloses Social Security Fund Details",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Raises concerns about EV remote control and cross-border usage rights.",
-      "share_angle": "Discuss the implications of remote vehicle control and consumer rights.",
+      "why_hot": "Transparency report on China's social security fund balance and sustainability.",
+      "share_angle": "Summarize key figures and what they mean for pension and healthcare benefits.",
       "keywords": [
-        "EV",
-        "remote lock",
-        "cross-border"
+        "social security",
+        "pension fund",
+        "China finance"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "多款高端手机涨价超1000元",
+      "chinese_topic": "中国男足身陷 “死亡之组”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple High-End Phone Prices Rise Over 1,000 Yuan",
+      "official_english": "Chinese Men's Football Team Lands in 'Group of Death'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Price hikes affect consumers directly, reflecting supply chain and inflation pressures.",
-      "share_angle": "Analyze reasons behind price increases and impact on consumer behavior.",
+      "why_hot": "World Cup qualifying draw places China in a tough group.",
+      "share_angle": "Analyze the group opponents and China's chances of advancing.",
       "keywords": [
-        "smartphone",
-        "price hike",
-        "consumer"
+        "Chinese football",
+        "World Cup qualifiers",
+        "group of death"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "日媒揭露731部队罪行",
+      "chinese_topic": "韩国赠还中国一对清代石狮",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japanese Media Exposes Crimes of Unit 731",
+      "official_english": "South Korea Returns Pair of Qing Dynasty Stone Lions to China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Historical war crimes resurface, prompting reflection on wartime atrocities and justice.",
-      "share_angle": "Summarize the new revelations and their historical significance.",
+      "why_hot": "Cultural repatriation event strengthens bilateral ties.",
+      "share_angle": "Tell the story of the stone lions and the significance of cultural heritage return.",
       "keywords": [
-        "Unit 731",
-        "war crimes",
-        "history"
+        "cultural repatriation",
+        "Qing Dynasty",
+        "China-South Korea"
       ]
     }
   ]

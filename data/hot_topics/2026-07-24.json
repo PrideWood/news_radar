@@ -1,142 +1,142 @@
 {
   "date": "2026-07-24",
-  "updated_at": "2026-07-24T03:38:25+00:00",
+  "updated_at": "2026-07-24T14:04:44+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "不断开创基础教育高质量发展新局面",
+      "chinese_topic": "因地制宜走出高质量发展之路",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education, health fees among key concerns",
-      "official_english_source": "China Daily",
-      "official_english_url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html",
-      "why_hot": "Education policy is a perennial public concern; this topic signals potential reforms in basic education quality.",
-      "share_angle": "Explain China's push for high-quality basic education and what it means for students and parents.",
+      "official_english": "Tailored Approaches to High-Quality Development",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Reflects China's strategic economic direction, resonating with public interest in regional development.",
+      "share_angle": "Explain how different regions leverage local strengths for growth, with examples from recent policies.",
       "keywords": [
-        "education reform",
-        "basic education",
-        "China education"
+        "high-quality development",
+        "regional economy",
+        "China policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "中国汽车加速全球化布局",
+      "chinese_topic": "证监会原副主席方星海被查",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Former CSRC Vice Chairman Fang Xinghai Under Investigation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese automakers are expanding overseas, a key economic and industrial trend.",
-      "share_angle": "Discuss how Chinese car brands are going global and the challenges they face.",
+      "why_hot": "High-profile anti-corruption case in financial regulation, drawing attention to market integrity.",
+      "share_angle": "Discuss implications for China's financial markets and anti-corruption efforts.",
       "keywords": [
-        "Chinese auto industry",
-        "global expansion",
-        "EV exports"
+        "Fang Xinghai",
+        "CSRC",
+        "corruption investigation"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "故宫下周一免费开放",
+      "chinese_topic": "月26日广东省内铁路全线停运",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Guangdong Railway Services Suspended on July 26",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Free admission to the Forbidden City attracts huge public interest and tourism discussion.",
-      "share_angle": "Highlight the cultural significance and practical tips for visiting the Palace Museum for free.",
+      "why_hot": "Major transport disruption affecting millions, likely due to typhoon or maintenance.",
+      "share_angle": "Explain the reason (typhoon Red Alert) and impact on travel, with safety tips.",
       "keywords": [
-        "Forbidden City",
-        "free admission",
-        "cultural tourism"
+        "Guangdong railway",
+        "suspension",
+        "typhoon"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "工龄有多值钱",
+      "chinese_topic": "一组数据感受中国经济强劲动能",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Data Shows Strong Momentum of China's Economy",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Workers are curious about how seniority affects salary, benefits, and pensions.",
-      "share_angle": "Break down how seniority pay works in China and its impact on workers' livelihoods.",
+      "why_hot": "Positive economic indicators boost confidence amid global uncertainties.",
+      "share_angle": "Highlight key metrics like GDP, trade, and consumption, with visual data.",
       "keywords": [
-        "seniority pay",
-        "work benefits",
-        "China labor"
+        "China economy",
+        "economic data",
+        "growth momentum"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "下铺空间是否公用 12306回应",
+      "chinese_topic": "长鑫科技一签能赚多少",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "How Much Can You Earn from Changxin Technology IPO?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A common travel etiquette debate on trains, with official response from China Railway.",
-      "share_angle": "Explain the rules and etiquette for using lower berth space on Chinese trains.",
+      "why_hot": "IPO of a major semiconductor company sparks retail investor interest.",
+      "share_angle": "Explain IPO subscription process and potential returns, with risk warnings.",
       "keywords": [
-        "train etiquette",
-        "12306",
-        "China railway"
+        "Changxin Technology",
+        "IPO",
+        "semiconductor"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "药监局发新规 吃完感冒灵不能开车了",
+      "chinese_topic": "中国卖不动的车在欧洲上了销量榜",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Chinese Cars Unsold at Home Top European Sales Charts",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New drug safety regulation directly affects daily life and driving safety.",
-      "share_angle": "Summarize the new rule and its implications for drivers who take cold medicine.",
+      "why_hot": "Contrast between domestic and overseas market performance highlights global trade dynamics.",
+      "share_angle": "Analyze why certain Chinese models succeed in Europe, covering quality, price, and brand perception.",
       "keywords": [
-        "drug driving",
-        "cold medicine",
-        "China regulation"
+        "Chinese cars",
+        "Europe sales",
+        "auto industry"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "四预警齐发！台风红霞将登陆",
+      "chinese_topic": "全球第一个 老挝彻底禁售燃油新车",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Laos Becomes First Country to Ban New Gasoline Car Sales",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe weather warnings affect millions; public safety is a top concern.",
-      "share_angle": "Report on Typhoon Hongxia's expected impact and safety precautions.",
+      "why_hot": "Landmark environmental policy from a developing nation, inspiring global EV transition.",
+      "share_angle": "Discuss Laos' motivation, feasibility, and implications for EV adoption in Southeast Asia.",
       "keywords": [
-        "typhoon",
-        "weather warning",
-        "disaster preparedness"
+        "Laos",
+        "gasoline car ban",
+        "electric vehicles"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "王楚钦带队冲乒超两连胜",
+      "chinese_topic": "大叔跳江救的女娃今年考上北大了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Suggested wording",
+      "official_english": "Girl Rescued from River by Uncle Admitted to Peking University",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Table tennis superstar Wang Chuqin leads his team; sports fans are engaged.",
-      "share_angle": "Highlight the excitement of the Chinese Table Tennis Super League and Wang's performance.",
+      "why_hot": "Heartwarming story of gratitude and academic success, resonating with positive values.",
+      "share_angle": "Share the story as a feel-good human interest piece, highlighting kindness and perseverance.",
       "keywords": [
-        "Wang Chuqin",
-        "table tennis",
-        "CTTSL"
+        "rescue",
+        "Peking University",
+        "human interest"
       ]
     }
   ]

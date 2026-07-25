@@ -1,142 +1,142 @@
 {
   "date": "2026-07-25",
-  "updated_at": "2026-07-25T11:21:11+00:00",
+  "updated_at": "2026-07-25T13:55:55+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
-    {
-      "rank": 1,
-      "chinese_topic": "台风红霞出现眼壁",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Hongxia develops eyewall as it approaches southern China",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Typhoon Hongxia is strengthening and threatening coastal areas, with multiple cities issuing emergency responses.",
-      "share_angle": "Explain how typhoons form eyewalls and what this means for intensity, plus compare to past typhoons.",
-      "keywords": [
-        "Typhoon Hongxia",
-        "eyewall",
-        "China weather"
-      ]
-    },
     {
       "rank": 2,
       "chinese_topic": "王小洪会见FBI局长帕特尔",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Minister Wang Xiaohong meets FBI Director Kash Patel",
+      "official_english": "China's Minister of Public Security Wang Xiaohong Meets with FBI Director Patel",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-level law enforcement meeting between China and the US signals potential cooperation or tension.",
-      "share_angle": "Discuss the significance of the meeting amid US-China relations and topics like cybercrime.",
+      "why_hot": "High-level law enforcement dialogue between China and the US draws public attention amid bilateral tensions.",
+      "share_angle": "Explain the significance of the meeting for international cooperation against cybercrime and transnational crime.",
       "keywords": [
-        "Wang Xiaohong",
-        "FBI",
-        "US-China relations"
+        "China-US relations",
+        "law enforcement",
+        "FBI"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "大学副教授被举报18年前“高考移民”",
+      "chinese_topic": "上百斤重水泥柱被巨浪拍断冲上岸",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Associate professor accused of 'Gaokao immigration' 18 years ago",
+      "official_english": "Huge Concrete Pillar Snapped by Giant Waves and Washed Ashore",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A whistleblower case involving academic fraud and the national college entrance exam system.",
-      "share_angle": "Explore the concept of 'Gaokao immigration' and how such cases could affect academic integrity.",
+      "why_hot": "Striking visual of extreme coastal erosion sparks discussion on climate change and infrastructure resilience.",
+      "share_angle": "Highlight the science of wave energy and the need for climate-adapted coastal defenses.",
       "keywords": [
-        "Gaokao immigration",
-        "academic fraud",
-        "China education"
+        "extreme weather",
+        "coastal erosion",
+        "climate change"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "女装退货率达80% 责任不在消费者",
+      "chinese_topic": "景德镇用小写的c惊艳全球",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Women's clothing return rate hits 80% – consumers not to blame",
+      "official_english": "Jingdezhen Wows the World with Lowercase 'c' Logo for Porcelain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High return rates in online fashion highlight issues of sizing, quality, and seller practices.",
-      "share_angle": "Discuss the economics of e-commerce returns and potential solutions like better sizing guides.",
+      "why_hot": "A branding innovation for China's historic porcelain capital goes viral, blending tradition with modern design.",
+      "share_angle": "Explain how cultural heritage can be revitalized through creative marketing.",
       "keywords": [
-        "return rate",
-        "women's clothing",
-        "e-commerce China"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "携程为何挨了最重的罚",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Ctrip received a record fine",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Ctrip (Trip.com) was heavily fined for market violations, sparking debate on platform regulation.",
-      "share_angle": "Explain the antitrust or consumer protection issues behind the fine and implications for Big Tech.",
-      "keywords": [
-        "Ctrip",
-        "fine",
-        "platform regulation"
+        "Jingdezhen",
+        "porcelain",
+        "cultural branding"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "被闪电击中继续飞 中国火箭有多硬核",
+      "chinese_topic": "小龙虾价格腰斩 全国每人5斤才能吃完",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese rocket continues flight after being struck by lightning – how resilient is it?",
+      "official_english": "Crayfish Prices Halved; Nation Would Need 5 Jin Per Person to Finish Supply",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A rocket survived a lightning strike, showcasing China's aerospace engineering capabilities.",
-      "share_angle": "Break down the technology that protects rockets from lightning and compare with global standards.",
+      "why_hot": "Sharp drop in crayfish price due to oversupply reflects agricultural market dynamics and consumer trends.",
+      "share_angle": "Discuss the supply chain and seasonal factors behind the price crash.",
       "keywords": [
-        "rocket",
-        "lightning strike",
-        "China space"
+        "crayfish",
+        "price drop",
+        "agriculture"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "王楚钦梁靖崑领衔对阵向鹏薛飞",
+      "chinese_topic": "重庆警方打掉境内外电诈团伙198个",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Chuqin and Liang Jingkun lead against Xiang Peng and Xue Fei",
+      "official_english": "Chongqing Police Bust 198 Domestic and International Telecom Fraud Gangs",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A high-profile table tennis match between top Chinese players attracts sports fans.",
-      "share_angle": "Highlight the rivalry or team dynamics and explain why these players are important.",
+      "why_hot": "Major crackdown on cross-border telecom fraud highlights ongoing public safety concerns.",
+      "share_angle": "Explain how such fraud operations work and tips for the public to avoid scams.",
       "keywords": [
-        "table tennis",
-        "Wang Chuqin",
-        "Liang Jingkun"
+        "telecom fraud",
+        "police",
+        "cross-border crime"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "儿子游戏成瘾 父亲起诉4家游戏公司",
+      "chinese_topic": "广东多地宣布“五停”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Father sues four game companies over son's gaming addiction",
+      "official_english": "Multiple Cities in Guangdong Issue 'Five Stops' Emergency Order",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A lawsuit against game companies reflects growing concerns about gaming addiction among minors.",
-      "share_angle": "Discuss legal responsibility of game companies and China's regulations on minors' gaming time.",
+      "why_hot": "Severe weather prompts emergency measures affecting millions; relevant to public safety and disaster response.",
+      "share_angle": "Explain what 'five stops' means and how it helps mitigate typhoon damage.",
       "keywords": [
-        "gaming addiction",
-        "lawsuit",
-        "China minors"
+        "Guangdong",
+        "typhoon",
+        "emergency response"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "中国女排0比3土耳其女排止步四强",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese Women's Volleyball Team Loses 0-3 to Turkey, Eliminated in Semifinals",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A disappointing result for the popular national team; sparks discussion on team performance and future prospects.",
+      "share_angle": "Analyze the match and discuss the team's rebuilding phase after veteran retirements.",
+      "keywords": [
+        "Chinese women's volleyball",
+        "Turkey",
+        "VNL"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "专家辟谣“乳状云预示龙卷风”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Expert Debunks Rumor That Mammatus Clouds Predict Tornadoes",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Viral weather photos spark misinformation; expert clarification helps public understand cloud science.",
+      "share_angle": "Explain what mammatus clouds actually indicate and how to distinguish weather myths from facts.",
+      "keywords": [
+        "mammatus clouds",
+        "tornado",
+        "science communication"
       ]
     }
   ]

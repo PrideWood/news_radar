@@ -48,11 +48,16 @@ jobs:
           echo "Generating digest for ${digest_date} (${TZ})"
           if [ -f "digests/${digest_date}.md" ]; then
             echo "Digest for ${digest_date} already exists; updating Chinese hot topics and Japanese recommendations only."
-            python scripts/generate_digest.py --date "${digest_date}" --topics-only
-            python scripts/generate_digest.py --date "${digest_date}" --japanese-only
-            test -s "data/chinese_hot_topics.json"
-            test -s "japanese_digests/${digest_date}.md"
-            test -s "data/japanese_digests_index.json"
+            # These are supplementary refreshes. Their sources can be temporarily
+            # unavailable, and Japanese items can legitimately all be deduplicated
+            # after an earlier same-day run. Keep the last successful output rather
+            # than failing the whole scheduled digest job in either case.
+            if ! python scripts/generate_digest.py --date "${digest_date}" --topics-only; then
+              echo "Warning: hot-topic refresh failed; retaining the previous output."
+            fi
+            if ! python scripts/generate_digest.py --date "${digest_date}" --japanese-only; then
+              echo "Warning: Japanese refresh failed; retaining the previous output."
+            fi
             exit 0
           fi
           python scripts/generate_digest.py --date "${digest_date}"

@@ -160,6 +160,11 @@
       "link": "https://gigazine.net/news/20260724-japanese-interpersonal-distance",
       "title": "日本人のパーソナルスペースは広め、イタリア人との比較実験で判明"
     },
+    "0f47c05a068fe221519d": {
+      "first_seen": "2026-07-25",
+      "link": "https://www.watch.impress.co.jp/docs/news/2127751.html",
+      "title": "大阪万博「いのちの未来」が東京・高輪に 夏休みの知的体験「いのちの未来+」開幕"
+    },
     "0fb8d28e52b34f1e35c2": {
       "first_seen": "2026-06-19",
       "link": "https://gigazine.net/news/20260619-world-cup-ball-trionda",
@@ -895,6 +900,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/03/news139.html",
       "title": "講談社、「はたらく細胞」著者に謝罪 監修体制や作画環境「適切に履行できず」 本人のX投稿受け"
     },
+    "48f8e335544862fb815e": {
+      "first_seen": "2026-07-25",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/24/news098.html",
+      "title": "仕事外のネット利用「平日4時間以上」で抑うつ傾向 富山大が調査"
+    },
     "492a16bf6a03272a05d8": {
       "first_seen": "2026-07-04",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2120723.html",
@@ -949,6 +959,11 @@
       "first_seen": "2026-06-21",
       "link": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan",
       "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK"
+    },
+    "4d3eede8a4b1107e9f50": {
+      "first_seen": "2026-07-25",
+      "link": "https://www.watch.impress.co.jp/docs/news/2127836.html",
+      "title": "Fable 5に迫る性能、価格は半額 「Claude Opus 5」公開"
     },
     "4d94ea1fc9b200ec3887": {
       "first_seen": "2026-06-26",
@@ -1089,6 +1104,11 @@
       "first_seen": "2026-06-13",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2115178.html",
       "title": "【いつモノコト】出力がリアルタイムで分かるアンカーの高性能USB充電器"
+    },
+    "5a43094e758cc2eebe07": {
+      "first_seen": "2026-07-25",
+      "link": "https://gigazine.net/news/20260725-helping-read-boost",
+      "title": "友達の読書を手伝うことが子どもたちの学力向上につながるとの研究結果"
     },
     "5ad2b8121189f1e60f14": {
       "first_seen": "2026-06-17",
@@ -1354,6 +1374,11 @@
       "first_seen": "2026-07-16",
       "link": "https://www.watch.impress.co.jp/docs/news/2125791.html",
       "title": "サントリー、ジハンピ対応自販機が21万台突破 3本無料は9月末で終了"
+    },
+    "6b07f0cc92f389f2b280": {
+      "first_seen": "2026-07-25",
+      "link": "https://gigazine.net/news/20260724-mitsuya-cider-tropical-mix",
+      "title": "トロピカルなパインの風味にブラッドオレンジのさっぱりした酸味で暑い日にゴクゴク飲みたくなる「三ツ矢トロピカルMix」試飲レビュー"
     },
     "6b2d6b8d5bcc76fe6c87": {
       "first_seen": "2026-07-16",
@@ -2115,6 +2140,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
       "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入"
     },
+    "a146f8afda91540d97a7": {
+      "first_seen": "2026-07-25",
+      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185701000.html",
+      "title": "5日連続「酷暑日」で最長に 26日も各地猛暑予想 熱中症対策を"
+    },
     "a15bafbd6481037de90b": {
       "first_seen": "2026-06-19",
       "link": "https://gigazine.net/news/20260619-game-dev-dont-merge-files",
@@ -2155,10 +2185,20 @@
       "link": "https://gigazine.net/news/20260721-music-piracy",
       "title": "音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る"
     },
+    "a431111c482149eb8f42": {
+      "first_seen": "2026-07-25",
+      "link": "https://gigazine.net/news/20260725-offline-translator",
+      "title": "無料・無制限でPDF・画像・EPUB・テキストファイル・音声とカメラ入力をスマホでオフライン翻訳できる「Offline Translator」、60言語に対応し日本語の縦書きもOK"
+    },
     "a44749ab193f654d04b1": {
       "first_seen": "2026-06-30",
       "link": "https://gigazine.net/news/20260630-brain2qwerty-v2-meta",
       "title": "手術不要で脳活動から文章を読み取るAIモデル「Brain2Qwerty v2」がMetaによって開発される"
+    },
+    "a488576b84b719adbd8b": {
+      "first_seen": "2026-07-25",
+      "link": "https://www.watch.impress.co.jp/docs/news/2127828.html",
+      "title": "米国にはオープンなAIモデルが必要 MSやNVIDIAらが拙速な規制に反対声明"
     },
     "a58cbab7d8b45bafb306": {
       "first_seen": "2026-07-06",

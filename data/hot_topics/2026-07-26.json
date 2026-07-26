@@ -1,152 +1,142 @@
 {
   "date": "2026-07-26",
-  "updated_at": "2026-07-26T03:51:35+00:00",
+  "updated_at": "2026-07-26T13:48:10+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "台风红霞为今年来登陆中国最强台风",
+      "chinese_topic": "总书记心系“中华瑰宝”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Hongxia Becomes Strongest Typhoon to Hit China This Year",
+      "official_english": "President Xi Jinping expresses care for China's cultural treasures",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon Hongxia made landfall in Guangdong, causing severe damage and widespread concern for public safety.",
-      "share_angle": "Explain the impact of climate change on typhoon intensity and provide safety tips.",
+      "why_hot": "High-profile expression of leadership's commitment to cultural heritage resonates with public.",
+      "share_angle": "Explain what '中华瑰宝' refers to and why this matters for cultural preservation.",
       "keywords": [
-        "Typhoon Hongxia",
-        "strongest typhoon",
-        "landfall",
-        "Guangdong",
-        "safety"
+        "Xi Jinping",
+        "cultural heritage",
+        "China"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "平均每天减少22所小学",
+      "chinese_topic": "甘肃省委书记省长赶赴山洪现场",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rural School Consolidation: Average 22 Primary Schools Close Daily in China",
+      "official_english": "Gansu provincial party secretary and governor rush to flash flood site",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects the ongoing decline in rural school numbers due to urbanization and demographic shifts, sparking debate over education equity.",
-      "share_angle": "Discuss the reasons behind school closures and their impact on rural education and communities.",
+      "why_hot": "Natural disaster response draws attention as officials personally lead rescue efforts.",
+      "share_angle": "Compare with flood responses in other regions and discuss China's emergency management.",
       "keywords": [
-        "primary school closures",
-        "rural education",
-        "urbanization",
-        "demographic decline"
+        "Gansu",
+        "flash flood",
+        "disaster response"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "女孩正颌手术被做反 当地卫健委介入",
+      "chinese_topic": "这些“双非”院校分数线超985",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Orthognathic Surgery Error: Wrong Procedure Performed, Health Commission Investigates",
+      "official_english": "Non-985 and non-211 universities surpass 985 institutions in admission score thresholds",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A medical error during orthognathic surgery has drawn public outrage and raised concerns about patient safety and regulatory oversight.",
-      "share_angle": "Highlight the importance of second opinions and verifying medical credentials before elective surgery.",
+      "why_hot": "Highlights shifting perceptions of university prestige and quality education access.",
+      "share_angle": "Discuss the implications for China's higher education landscape and student choices.",
       "keywords": [
-        "medical error",
-        "orthognathic surgery",
-        "health commission",
-        "patient safety"
+        "college admissions",
+        "985",
+        "higher education"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "省份上半年GDP公布 6省位次变了",
+      "chinese_topic": "除了中式清凉 欧洲游客还看中很多",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First Half GDP Rankings Released: Six Provinces Shift Positions",
+      "official_english": "European tourists attracted to more than just Chinese summer escapes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The reshuffling of provincial GDP rankings indicates shifting economic dynamics and regional development trends.",
-      "share_angle": "Analyze which provinces moved up or down and the economic factors behind the changes.",
+      "why_hot": "Reflects growing European interest in Chinese tourism beyond traditional attractions.",
+      "share_angle": "Analyze what European tourists value in China and the impact on local tourism.",
       "keywords": [
-        "GDP rankings",
-        "provincial economy",
-        "economic growth",
-        "regional development"
+        "tourism",
+        "European tourists",
+        "China travel"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "人民日报：“小字陷阱”何以一再上演",
+      "chinese_topic": "奇瑞董事长：我们不再参加内卷",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily: Why Do 'Small Print Traps' Keep Appearing?",
+      "official_english": "Chery chairman: We will no longer participate in involution",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumers frequently fall victim to hidden terms in contracts and advertisements, prompting official criticism and calls for regulation.",
-      "share_angle": "Educate viewers on how to spot and avoid common 'small print' traps in daily transactions.",
+      "why_hot": "Top auto executive publicly rejects cutthroat competition, sparking debate on industry excess.",
+      "share_angle": "Explain 'involution' in business context and what it means for China's auto market.",
       "keywords": [
-        "small print",
-        "consumer protection",
-        "People's Daily",
-        "contract traps"
+        "Chery",
+        "involution",
+        "automotive industry"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "罗永浩痛批电视“长辈模式”难用",
+      "chinese_topic": "九寨沟突发泥石流 大批游客滞留",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Luo Yonghao Criticizes TV 'Elderly Mode' as User-Unfriendly",
+      "official_english": "Mudslide hits Jiuzhaigou, leaving tourists stranded",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A prominent entrepreneur's complaint about the poor usability of TV's elderly-focused interface highlights broader issues in tech accessibility for seniors.",
-      "share_angle": "Discuss the challenges elderly people face with smart devices and how technology can be more inclusive.",
+      "why_hot": "Popular scenic area hit by natural disaster, affecting many travelers during peak season.",
+      "share_angle": "Discuss travel safety measures and how tourists are being assisted.",
       "keywords": [
-        "elderly mode",
-        "TV usability",
-        "Luo Yonghao",
-        "tech accessibility"
+        "Jiuzhaigou",
+        "mudslide",
+        "tourist stranded"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "乒超王楚钦率队冲5连胜",
+      "chinese_topic": "仅剩4年 吸烟率如何再降3.2%",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Chuqin Leads Team to Fifth Consecutive Win in Table Tennis Super League",
+      "official_english": "With only four years left, how to reduce smoking rate by 3.2%?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Top table tennis player Wang Chuqin's dominant performance in the league excites fans and showcases high-level competition.",
-      "share_angle": "Profile Wang Chuqin's career and explain the structure of China's Table Tennis Super League.",
+      "why_hot": "China's smoking reduction target faces tight deadline, prompting public health discussion.",
+      "share_angle": "Evaluate current anti-smoking policies and challenges to meet the goal.",
       "keywords": [
-        "Wang Chuqin",
-        "Table Tennis Super League",
-        "consecutive wins",
-        "sports"
+        "smoking rate",
+        "public health",
+        "China target"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "特朗普下令暂停空袭伊朗",
+      "chinese_topic": "长鑫科技员工：上市和我们没啥关系",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Trump Orders Halt to Airstrikes on Iran",
+      "official_english": "CXMT employees say IPO has little to do with them",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The sudden order to stop airstrikes on Iran raises questions about US foreign policy and Middle East tensions.",
-      "share_angle": "Break down the context of US-Iran relations and the implications of this decision.",
+      "why_hot": "Tech IPO sparks interest, but employees downplay personal benefits, reflecting corporate culture.",
+      "share_angle": "Explore the gap between corporate milestones and employee sentiment in Chinese tech firms.",
       "keywords": [
-        "Trump",
-        "airstrikes halt",
-        "Iran",
-        "Middle East",
-        "foreign policy"
+        "CXMT",
+        "IPO",
+        "employee sentiment"
       ]
     }
   ]

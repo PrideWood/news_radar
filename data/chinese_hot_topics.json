@@ -1,142 +1,158 @@
 {
   "date": "2026-07-27",
-  "updated_at": "2026-07-27T03:58:58+00:00",
+  "updated_at": "2026-07-27T15:07:14+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "长鑫科技上市 成A股市值最高公司",
+      "chinese_topic": "钱学森“灵境”预言照进现实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "CXMT (ChangXin Memory Technologies) goes public, becomes highest market cap on A-share market",
+      "official_english": "Qian Xuesen's 'Lingjing' Prophecy Becomes Reality: The Metaverse Vision Comes True",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major tech IPO marks milestone for Chinese semiconductor industry and stock market",
-      "share_angle": "Explain significance of CXMT listing for chip self-sufficiency and market trends",
+      "why_hot": "The prediction by renowned Chinese scientist Qian Xuesen about a virtual-reality concept he called 'Lingjing' (spiritual realm) is now materializing with advances in metaverse and VR technologies, sparking national pride and tech discussions.",
+      "share_angle": "How a 1990s vision by China's rocket scientist aligns with today's metaverse boom, and what it means for China's tech future.",
       "keywords": [
-        "CXMT IPO",
-        "A-share market cap",
-        "semiconductor"
+        "Qian Xuesen",
+        "Lingjing",
+        "metaverse",
+        "VR",
+        "technology prophecy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "一组数据读懂中国硬核经济满满亮点",
+      "chinese_topic": "中国入境游何以“圈粉”世界",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Data shows highlights of China's resilient economy",
+      "official_english": "China's Inbound Tourism Wins Hearts Worldwide: What Makes It So Attractive?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Government-released economic data indicates strong recovery, sparking public discussion",
-      "share_angle": "Break down key economic indicators and what they mean for ordinary people",
+      "why_hot": "China's tourism recovery and innovative travel experiences are drawing international visitors, with discussions on cultural immersion and policy convenience driving interest.",
+      "share_angle": "Explore the factors behind China's surging inbound tourism, from visa policies to unique cultural offerings, and its impact on global travel trends.",
       "keywords": [
-        "China economy",
-        "economic data",
-        "recovery"
+        "inbound tourism",
+        "China travel",
+        "cultural tourism",
+        "visa policy",
+        "travel recovery"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "重庆山体崩塌救援发现中巴车残骸",
+      "chinese_topic": "美光科技总市值跌破万亿美元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rescuers discover minibus wreckage in Chongqing landslide",
+      "official_english": "Micron Technology's Market Cap Falls Below $1 Trillion",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Landslide disaster with potential casualties draws national attention to rescue efforts",
-      "share_angle": "Focus on rescue operations and disaster preparedness, avoid graphic details",
+      "why_hot": "Micron's stock decline reflects broader semiconductor industry challenges, including supply chain issues and geopolitical tensions, drawing attention from investors and tech observers.",
+      "share_angle": "Analyze the reasons behind Micron's valuation drop and what it signals for the global chip market and US-China tech competition.",
       "keywords": [
-        "Chongqing landslide",
-        "rescue",
-        "minibus wreckage"
+        "Micron",
+        "market cap",
+        "semiconductor",
+        "stock decline",
+        "chip industry"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "胸牌暗藏摄像头公然售卖",
+      "chinese_topic": "九寨沟发布门票售罄通告",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Hidden cameras in badge holders sold openly",
+      "official_english": "Jiuzhaigou National Park Announces Sold-Out Tickets Amid Peak Season",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Privacy concern over easily available spy devices causes public outrage",
-      "share_angle": "Discuss legality and risks of hidden cameras, offer safety tips",
+      "why_hot": "Jiuzhaigou's popularity soars as travel rebounds, leading to full bookings and highlighting the resurgence of domestic tourism in China.",
+      "share_angle": "The story of Jiuzhaigou's sold-out tickets as a microcosm of China's tourism boom, and tips for travelers seeking alternatives.",
       "keywords": [
-        "hidden camera",
-        "privacy",
-        "spy device"
+        "Jiuzhaigou",
+        "sold out",
+        "tourism boom",
+        "domestic travel",
+        "scenic spots"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "隔夜西瓜吃1口有8400个细菌不属实",
+      "chinese_topic": "好好做次肠镜真能降低结直肠癌风险",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that overnight watermelon has 8,400 bacteria per bite is false",
+      "official_english": "Proper Colonoscopy Can Significantly Reduce Colorectal Cancer Risk",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Viral food safety myth debunked by experts, clarifying common misconception",
-      "share_angle": "Explain how to safely store leftover watermelon and fact-check viral health claims",
+      "why_hot": "Health experts emphasize the life-saving benefits of colonoscopy screening, sparking public discussion on preventive healthcare and cancer awareness.",
+      "share_angle": "Debunking myths about colonoscopy: Why this uncomfortable procedure is a powerful tool against one of the most preventable cancers.",
       "keywords": [
-        "food safety",
-        "watermelon",
-        "myth debunked"
+        "colonoscopy",
+        "colorectal cancer",
+        "prevention",
+        "health screening",
+        "public health"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "存款过万一定要办纸质存单吗",
+      "chinese_topic": "河南回应三支一扶成绩争议：全面调查",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Should you get a paper certificate for deposits over 10,000 yuan?",
+      "official_english": "Henan Launches Full Investigation into 'Three Supports and One Assistance' Exam Score Dispute",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Financial literacy topic goes viral as people debate digital vs paper banking",
-      "share_angle": "Compare pros and cons of paper deposit slips and digital records for average savers",
+      "why_hot": "A controversy over exam results for a grassroots recruitment program sparks calls for transparency, reflecting public concern over educational fairness.",
+      "share_angle": "The 'Three Supports and One Assistance' program's role in rural development and why the score dispute matters for China's education equity.",
       "keywords": [
-        "deposit certificate",
-        "financial literacy",
-        "banking"
+        "Henan",
+        "exam dispute",
+        "Three Supports and One Assistance",
+        "education fairness",
+        "investigation"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "元五金店挤满年轻人",
+      "chinese_topic": "中国男篮再胜喀麦隆 四国赛三战全胜",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Young people flock to 5-yuan hardware stores",
+      "official_english": "Chinese Men's Basketball Team Defeats Cameroon Again, Sweeps Four-Nation Tournament",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Trend of budget shopping among youth reflects changing consumption habits",
-      "share_angle": "Analyze rise of 'value-for-money' culture and its impact on retail",
+      "why_hot": "China's basketball team extends winning streak, boosting national pride and generating excitement ahead of international competitions.",
+      "share_angle": "Key takeaways from China's dominant performance and what it means for their upcoming FIBA World Cup preparations.",
       "keywords": [
-        "budget shopping",
-        "youth consumption",
-        "5-yuan store"
+        "Chinese basketball",
+        "Cameroon",
+        "four-nation tournament",
+        "winning streak",
+        "sports"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "有毒养生神药曝光后 亳州成立调查组",
+      "chinese_topic": "苹果总市值超越英伟达重返全球第一",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Bozhou investigates after toxic health supplements exposed",
+      "official_english": "Apple Overtakes Nvidia to Regain World's Most Valuable Company Title",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health scam involving toxic 'miracle' supplements prompts official probe",
-      "share_angle": "Highlight dangers of unregulated health products and how to identify scams",
+      "why_hot": "Apple's market cap surge past Nvidia highlights shifting investor sentiment in tech, with AI and product cycle optimism driving the rally.",
+      "share_angle": "The battle for the world's most valuable company: How Apple's resilience and Nvidia's volatility reflect broader tech market dynamics.",
       "keywords": [
-        "health scam",
-        "toxic supplements",
-        "Bozhou investigation"
+        "Apple",
+        "Nvidia",
+        "market cap",
+        "stock market",
+        "tech giants"
       ]
     }
   ]

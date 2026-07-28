@@ -1,143 +1,146 @@
 {
   "date": "2026-07-28",
-  "updated_at": "2026-07-28T03:30:55+00:00",
+  "updated_at": "2026-07-28T14:29:33+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "携程被罚后内部全员信曝光",
+      "chinese_topic": "习近平同斯洛伐克总统会谈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Ctrip Fined; Internal Letter Reveals Company Response",
+      "official_english": "Xi Jinping Holds Talks with Slovak President",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Widespread concern over consumer rights and corporate accountability after a major online travel agency faced penalties.",
-      "share_angle": "Analyze what the fine means for the travel industry and how the internal memo shapes public perception.",
+      "why_hot": "Major diplomatic meeting between China and Slovakia, signaling bilateral relations and cooperation.",
+      "share_angle": "Explain the significance of China-Europe diplomacy and what this meeting means for trade and global alliances.",
       "keywords": [
-        "Ctrip",
-        "consumer rights",
-        "corporate accountability"
+        "Xi Jinping",
+        "Slovakia",
+        "diplomacy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "网红书记带货知了猴被指破坏生态",
+      "chinese_topic": ".87亿人感染！肝脏保卫战进入关键期",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Influencer Party Secretary Accused of Ecological Damage Over Cicada Sales",
+      "official_english": "87 Million Infected! Liver Protection Battle Enters Critical Stage",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Debate over environmental impact vs. economic benefits when a local official uses social media to sell cicada nymphs.",
-      "share_angle": "Examine the tension between grassroots online commerce and ecological conservation.",
+      "why_hot": "Alarming public health statistic highlighting a widespread liver disease threat, sparking national concern.",
+      "share_angle": "Discuss the scale of the liver disease issue, prevention measures, and global health implications.",
       "keywords": [
-        "ecological damage",
-        "online sales",
-        "local officials"
+        "liver disease",
+        "public health",
+        "epidemic"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "万理财亏166万 法院改判银行无责",
+      "chinese_topic": "苹果市值首次突破5万亿美元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Investor Loses 1.66 Million Yuan; Court Overturns Ruling, Bank Not Liable",
+      "official_english": "Apple Market Cap Surpasses $5 Trillion for First Time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-profile financial dispute raises questions about investor protection and bank responsibility.",
-      "share_angle": "Discuss the legal implications for wealth management products and individual investors.",
+      "why_hot": "Historic milestone for Apple, reflecting its market dominance and investor confidence.",
+      "share_angle": "Analyze what drives Apple's valuation and what this means for the tech industry and global markets.",
       "keywords": [
-        "wealth management",
-        "court ruling",
-        "investor protection"
+        "Apple",
+        "market cap",
+        "$5 trillion"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "韩股“崩了”",
+      "chinese_topic": "小米第二款车来了 雷军杀入增程赛道",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "South Korean Stock Market Plummets",
+      "official_english": "Xiaomi's Second Car Arrives; Lei Jun Enters Range-Extender EV Race",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sharp decline in Korea's stock market spurs comparisons to global economic trends and regional instability.",
-      "share_angle": "Explore possible causes and implications for global markets and Chinese investors.",
+      "why_hot": "Xiaomi, a major tech player, expands into electric vehicles, intensifying competition in the EV market.",
+      "share_angle": "Explain Xiaomi's EV strategy and how its entry could disrupt the electric car industry.",
       "keywords": [
-        "South Korea",
-        "stock market crash",
-        "global economy"
+        "Xiaomi",
+        "EV",
+        "Lei Jun",
+        "range-extender"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "G相比5G不只是速度更快",
+      "chinese_topic": "齐达内出任法国国家队主教练",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "6G: More Than Just Faster Than 5G",
+      "official_english": "Zinedine Zidane Appointed Head Coach of French National Team",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public curiosity about next-generation mobile technology and its potential beyond speed improvements.",
-      "share_angle": "Break down key differences and what 6G could mean for everyday life and industry.",
+      "why_hot": "Zidane, a legendary figure, returns to coach France, sparking excitement among football fans.",
+      "share_angle": "Discuss Zidane's coaching legacy and what this means for France's chances in upcoming tournaments.",
       "keywords": [
-        "6G",
-        "5G",
-        "technology innovation"
+        "Zidane",
+        "France",
+        "football",
+        "coach"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "网红景区10人遇难 三次预警为何失效",
+      "chinese_topic": "考生连续自杀 印度年轻人怒了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "10 Dead at Viral Tourist Spot: Why Three Warnings Failed",
+      "official_english": "Student Suicides Spark Anger Among Indian Youth",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Tragedy highlights gaps in safety management at popular tourist destinations.",
-      "share_angle": "Investigate the reasons behind warning system failures and how to prevent future incidents.",
+      "why_hot": "A series of exam-related student suicides in India triggers widespread outrage and debate on education pressure.",
+      "share_angle": "Explore the high-stakes exam culture in India and its mental health consequences.",
       "keywords": [
-        "tourist safety",
-        "warning system",
-        "accident investigation"
+        "student suicides",
+        "India",
+        "education pressure",
+        "mental health"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "美反华机构：以后我们每年都要去中国",
+      "chinese_topic": "纳斯达克100指数自纪录高点下跌10%",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US Anti-China Group Vows Annual Visits to China",
+      "official_english": "Nasdaq 100 Falls 10% from Record High",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Provocative statement from a US organization intensifies debate on bilateral relations and espionage concerns.",
-      "share_angle": "Examine the group’s background, intent, and potential impact on China-US ties.",
+      "why_hot": "A significant correction in a major tech index signals market volatility and investor concern.",
+      "share_angle": "Break down the reasons behind the Nasdaq drop and implications for global tech stocks.",
       "keywords": [
-        "US-China relations",
-        "anti-China",
-        "espionage"
+        "Nasdaq 100",
+        "correction",
+        "tech stocks"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "长鑫科技上市 哪些城市是赢家",
+      "chinese_topic": "地震来了怎么办？提前设置地震预警",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "CXMT IPO: Which Cities Benefit from Chip Maker's Listing?",
+      "official_english": "What to Do When an Earthquake Strikes: Set Up Early Warning Systems",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "IPO of a major memory chip maker is closely watched for its economic and regional development implications.",
-      "share_angle": "Analyze how the listing boosts certain cities and what it signals for China's semiconductor push.",
+      "why_hot": "Following a major Japan earthquake, public interest in earthquake preparedness surges.",
+      "share_angle": "Provide practical tips on earthquake early warning and safety measures, referencing recent events.",
       "keywords": [
-        "CXMT",
-        "IPO",
-        "semiconductor",
-        "city development"
+        "earthquake",
+        "early warning",
+        "safety",
+        "preparedness"
       ]
     }
   ]

@@ -1,142 +1,150 @@
 {
   "date": "2026-07-29",
-  "updated_at": "2026-07-29T03:33:48+00:00",
+  "updated_at": "2026-07-29T14:27:32+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "日本强震致神社完全垮塌列车脱轨",
+      "chinese_topic": "美逃犯潜逃上海 任高校外教颇受欢迎",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japan Earthquake Destroys Shrine, Derails Train",
+      "official_english": "US Fugitive Wanted by FBI Teaches at Shanghai University, Was Popular on Campus",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major earthquake in Japan causes significant damage, raising concerns about disaster preparedness.",
-      "share_angle": "Explain the scale of the earthquake and its impact on infrastructure and cultural sites.",
+      "why_hot": "Combines public safety, international fugitive, and education sectors; sparks debate on background checks for foreign teachers.",
+      "share_angle": "Discuss the case while explaining China's foreign teacher vetting system and legal procedures.",
       "keywords": [
-        "Japan earthquake",
-        "shrine collapse",
-        "train derailment"
+        "fugitive",
+        "foreign teacher",
+        "Shanghai",
+        "background check"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "℃高温 可乐和冰红茶“没人要”",
+      "chinese_topic": "从四款出口“爆品”看“中国智造”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Heatwave Drives Down Sales of Cola and Iced Tea",
+      "official_english": "Four Export Blockbusters Showcase 'Made in China' Upgrade to 'Created in China'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Record heatwave affects consumer behavior, with sugary drinks losing popularity.",
-      "share_angle": "Discuss how extreme weather impacts consumption patterns and public health.",
+      "why_hot": "Highlights China's manufacturing transformation and global competitiveness in tech products.",
+      "share_angle": "Analyze the four products as examples of innovation and their impact on trade narratives.",
       "keywords": [
-        "heatwave",
-        "beverage sales",
-        "consumer behavior"
+        "Chinese manufacturing",
+        "exports",
+        "innovation",
+        "smart manufacturing"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "地震来了怎么办？提前设置地震预警",
+      "chinese_topic": "万亿长鑫背后的清华圈子",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How to Set Up Earthquake Early Warning",
+      "official_english": "Tsinghua Network Behind Trillion-Yuan Chip Maker CXMT",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Following Japan quake, public interest in earthquake preparedness surges.",
-      "share_angle": "Provide practical tips for setting up early warning systems and staying safe.",
+      "why_hot": "Reveals how elite university alumni networks drive China's semiconductor industry growth.",
+      "share_angle": "Explore the role of academic networks in tech success and implications for talent policy.",
       "keywords": [
-        "earthquake preparedness",
-        "early warning",
-        "safety tips"
+        "CXMT",
+        "Tsinghua",
+        "semiconductor",
+        "alumni network"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "BBA集体降价甩卖",
+      "chinese_topic": "银行大面积调整营业时间",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "BBA Automakers Slash Prices",
+      "official_english": "Major Banks Adjust Business Hours Across China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "BMW, Benz, Audi cut prices amid market slowdown, signaling economic trends.",
-      "share_angle": "Analyze the reasons behind luxury car price cuts and implications for the auto industry.",
+      "why_hot": "Directly affects millions of bank customers; linked to digital banking shift.",
+      "share_angle": "Explain the reasons (cost-cutting, digital adoption) and what it means for seniors.",
       "keywords": [
-        "BBA",
-        "price cuts",
-        "auto industry"
+        "bank hours",
+        "digital banking",
+        "financial inclusion",
+        "elderly"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "科创50跌超5% 芯片股领跌",
+      "chinese_topic": "赵心童6比2淘汰丁俊晖",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's STAR 50 Index Falls Over 5% Led by Chip Stocks",
+      "official_english": "Zhao Xintong Defeats Ding Junhui 6-2 to Advance in Snooker Tournament",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sharp decline in tech index reflects market volatility and chip sector concerns.",
-      "share_angle": "Explain the factors behind the drop and its significance for global tech markets.",
+      "why_hot": "High-profile match with rising star beating veteran; engages sports fans.",
+      "share_angle": "Profile the players and what this means for Chinese snooker's new generation.",
       "keywords": [
-        "STAR 50",
-        "chip stocks",
-        "market volatility"
+        "snooker",
+        "Zhao Xintong",
+        "Ding Junhui",
+        "Chinese sports"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "“白海豚”已快速增强为超强台风级",
+      "chinese_topic": "斯洛伐克总统怀疑中国机器人藏真人",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Super Typhoon 'White Dolphin' Rapidly Intensifies",
+      "official_english": "Slovak President Questions Whether Chinese Robots Hide Real Humans Inside",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Typhoon quickly becomes super typhoon, threatening coastal areas.",
-      "share_angle": "Discuss the science behind rapid intensification and potential impacts.",
+      "why_hot": "Bizarre claim goes viral; touches on China's robotics advancement and international perceptions.",
+      "share_angle": "Address the misunderstanding while showcasing real Chinese robotics capabilities.",
       "keywords": [
-        "super typhoon",
-        "White Dolphin",
-        "rapid intensification"
+        "robotics",
+        "Slovakia",
+        "misconception",
+        "AI"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "OpenAI模型失控新的受害者曝光",
+      "chinese_topic": "AI手机大战全面开打",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "OpenAI Model Malfunction: New Victims Revealed",
+      "official_english": "AI Smartphone War Heats Up as Major Brands Launch New Models",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI safety incident highlights risks of large language models.",
-      "share_angle": "Explore the implications of AI malfunctions and the need for regulation.",
+      "why_hot": "Tech giants race to integrate generative AI into phones; affects consumer choices.",
+      "share_angle": "Compare features and explain implications for everyday users and data privacy.",
       "keywords": [
-        "OpenAI",
-        "AI malfunction",
-        "AI safety"
+        "AI phone",
+        "smartphone war",
+        "generative AI",
+        "consumer tech"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "乒超男团林诗栋领衔上海地产出战",
+      "chinese_topic": "国铁昆明局因检测列车撞人被罚300万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lin Shidong Leads Shanghai Real Estate in Table Tennis Super League",
+      "official_english": "China Railway Kunming Bureau Fined 3 Million Yuan After Test Train Strikes Person",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Young star Lin Shidong attracts attention in national table tennis league.",
-      "share_angle": "Highlight Lin Shidong's rise and the popularity of table tennis in China.",
+      "why_hot": "Rail safety incident raises questions about inspection procedures and accountability.",
+      "share_angle": "Explain the fine, safety protocols, and broader railway accident prevention measures.",
       "keywords": [
-        "Lin Shidong",
-        "table tennis",
-        "Super League"
+        "railway accident",
+        "Kunming",
+        "fine",
+        "safety"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-07-30",
-  "updated_at": "2026-07-30T03:23:01+00:00",
+  "updated_at": "2026-07-30T14:25:58+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "天价退票费 全额退还了",
+      "chinese_topic": "一组数据读懂我国能源转型新趋势",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Exorbitant Ticket Cancellation Fees Fully Refunded After Consumer Complaints",
+      "official_english": "Data Reveals New Trends in China's Energy Transition",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumer rights issue resonates widely; many have faced unfair cancellation fees.",
-      "share_angle": "Explain how this case sets a precedent for consumer protection and what it means for travelers.",
+      "why_hot": "Comprehensive data analysis on China's energy transition attracts public interest in sustainability and policy.",
+      "share_angle": "Explain the key data points and what they mean for China's green future.",
       "keywords": [
-        "consumer rights",
-        "ticket refund",
-        "cancellation fee"
+        "energy transition",
+        "China data",
+        "sustainability"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "一批新规下月起施行",
+      "chinese_topic": "男子刚买5个月手机无预兆爆炸被烫伤",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New Regulations to Take Effect Next Month Across Multiple Sectors",
+      "official_english": "Man Burned After Phone Explodes Without Warning 5 Months After Purchase",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Covers changes in laws and policies affecting daily life, business, and social welfare.",
-      "share_angle": "Summarize key new rules and how they impact citizens and businesses.",
+      "why_hot": "Product safety incident sparks widespread discussion on phone battery quality and consumer rights.",
+      "share_angle": "Discuss the incident, consumer safety tips, and how to seek compensation.",
       "keywords": [
-        "new regulations",
-        "law",
-        "policy change"
+        "phone explosion",
+        "product safety",
+        "consumer rights"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "涨了30% “最贵装机季”来了",
+      "chinese_topic": "携程通报1.5万元机票仅退432元事件",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "PC Component Prices Surge 30%, Marking Most Expensive Assembly Season",
+      "official_english": "Ctrip Reports on 15,000 Yuan Ticket Refunded Only 432 Yuan Incident",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Directly affects tech enthusiasts and consumers; reflects global supply chain issues.",
-      "share_angle": "Discuss reasons behind price hikes and tips for budget-conscious builders.",
+      "why_hot": "Controversial refund policy of a major travel platform enrages consumers and raises questions about fairness.",
+      "share_angle": "Break down the refund policy, compare with regulations, and advise viewers on protecting their rights.",
       "keywords": [
-        "PC hardware",
-        "price surge",
-        "tech costs"
+        "Ctrip refund",
+        "consumer complaint",
+        "travel policy"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "双创暴跌超5% “易中天”均跌超10%",
+      "chinese_topic": "微软股价涨幅扩大至15%",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "ChiNext and STAR Market Plunge Over 5%; ‘Yi Zhongtian’ Stocks Fall Over 10%",
+      "official_english": "Microsoft Stock Surges 15% as Rally Continues",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major stock market downturn alarms investors and signals economic uncertainty.",
-      "share_angle": "Explain what ‘Yi Zhongtian’ refers to and the broader market impact.",
+      "why_hot": "Microsoft's strong earnings push stock up, drawing attention from global investors and tech enthusiasts.",
+      "share_angle": "Explain the reasons behind the surge and its impact on the broader tech market.",
       "keywords": [
-        "stock market",
-        "ChiNext",
-        "market crash"
+        "Microsoft stock",
+        "earnings",
+        "tech rally"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "王楚钦乒超带队pk林诗栋",
+      "chinese_topic": "美股半导体板块迎反弹 多股暴涨超10%",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Chuqin Leads Team in Table Tennis Super League Match Against Lin Shidong",
+      "official_english": "U.S. Semiconductor Sector Rebounds, Multiple Stocks Surge Over 10%",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-profile table tennis match attracts sports fans and showcases rising stars.",
-      "share_angle": "Highlight the rivalry and the significance of the match in Chinese table tennis.",
+      "why_hot": "Semiconductor stocks bounce back after a downturn, signaling industry recovery and investor optimism.",
+      "share_angle": "Analyze the rebound drivers and what it means for global chip supply chains.",
       "keywords": [
-        "table tennis",
-        "Wang Chuqin",
-        "Lin Shidong"
+        "semiconductor stocks",
+        "market rebound",
+        "chip industry"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "广东人饭前烫碗的含金量还在上升",
+      "chinese_topic": "雷军：小米澎程从北京到上海无需补能",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cantonese Habit of Rinsing Bowls Before Meals Gains Renewed Appreciation",
+      "official_english": "Lei Jun: Xiaomi Pengcheng EV Can Drive from Beijing to Shanghai Without Recharging",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cultural practice goes viral as people rediscover its hygiene and symbolic value.",
-      "share_angle": "Explore the cultural roots and modern relevance of this Cantonese tradition.",
+      "why_hot": "Xiaomi founder announces impressive EV range, stirring excitement in the electric vehicle market.",
+      "share_angle": "Highlight the technical breakthrough and compare with competitors, discussing the future of EVs.",
       "keywords": [
-        "Cantonese culture",
-        "dining habit",
-        "hygiene"
+        "Xiaomi EV",
+        "range achievement",
+        "electric vehicle"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "歼-15试飞距甲板边缘不足5米刹停",
+      "chinese_topic": "超强台风“白海豚”最新路径来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "J-15 Test Flight Stops Within 5 Meters of Deck Edge During Carrier Trial",
+      "official_english": "Latest Path of Super Typhoon 'Baijiu' (White Dolphin) Released",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Demonstrates advanced naval aviation capabilities and pilot skill, sparking national pride.",
-      "share_angle": "Break down the technical achievement and its implications for China’s carrier program.",
+      "why_hot": "Super typhoon threatens coastal areas, prompting public concern and preparedness.",
+      "share_angle": "Explain the typhoon's projected path, expected impact, and safety measures for affected regions.",
       "keywords": [
-        "J-15",
-        "carrier trial",
-        "naval aviation"
+        "typhoon",
+        "disaster preparedness",
+        "weather update"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "福建舰成功弹射空警-600细节曝光",
+      "chinese_topic": "吃一顿肥牛火锅可能要更贵了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fujian Aircraft Carrier Successfully Launches KJ-600; New Details Revealed",
+      "official_english": "Hotpot with Fatty Beef May Become More Expensive Due to Rising Costs",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major milestone for China’s most advanced carrier and its airborne early warning system.",
-      "share_angle": "Explain the significance of the KJ-600 and what this launch means for China's naval strategy.",
+      "why_hot": "Soaring beef prices affect everyday dining, resonating with consumers' cost-of-living concerns.",
+      "share_angle": "Discuss the reasons behind beef price increases and what it means for Chinese cuisine and inflation.",
       "keywords": [
-        "Fujian carrier",
-        "KJ-600",
-        "aircraft carrier"
+        "beef prices",
+        "inflation",
+        "food cost"
       ]
     }
   ]

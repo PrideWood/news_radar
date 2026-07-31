@@ -1,142 +1,142 @@
 {
   "date": "2026-07-31",
-  "updated_at": "2026-07-31T03:48:55+00:00",
+  "updated_at": "2026-07-31T14:29:24+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "看下半年经济工作着力点",
+      "chinese_topic": "台风白海豚已达17级 可能直奔中国",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Economic focus points for the second half of the year under review",
+      "official_english": "Typhoon Dolphin has reached wind level 17 and may head straight for China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "It signals the direction of economic policy for the rest of the year, a key concern for markets and households.",
-      "share_angle": "Explain policy terms simply and connect the economic agenda to everyday spending and jobs.",
+      "why_hot": "A powerful typhoon is being closely tracked because of its potential impact on China, triggering public concern about safety and preparation.",
+      "share_angle": "Explain how typhoon strength is measured in China and what people in coastal provinces should watch for.",
       "keywords": [
-        "economy",
-        "policy",
-        "second half"
+        "Typhoon Dolphin",
+        "China weather",
+        "storm preparedness"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "新一轮油价调整今晚开启",
+      "chinese_topic": "下半年经济工作发力方向划重点",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New round of fuel price adjustment begins tonight",
+      "official_english": "Key priorities for China's economic work in the second half of the year",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Fuel prices affect daily costs for drivers and the logistics chain, so changes are widely noticed.",
-      "share_angle": "Walk through how China prices fuel and what the adjustment means for commuters and businesses.",
+      "why_hot": "The policy tone for the second half of the year shapes expectations for growth, jobs, and consumption, so the topic drew wide discussion.",
+      "share_angle": "Sort through the announced priorities and explain what they signal for households and businesses.",
       "keywords": [
-        "fuel price",
-        "oil adjustment",
-        "consumers"
+        "China economy",
+        "policy priorities",
+        "H2 2026"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "8月一批新规将实施",
+      "chinese_topic": "民宿老板快被这个暑期熬垮了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New batch of regulations takes effect in August",
+      "official_english": "Homestay owners say this summer season is wearing them down",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New rules affect many areas of daily life, and people quickly want to know what is changing.",
-      "share_angle": "Summarize the general areas of the new rules without speculating on unlisted details.",
+      "why_hot": "During the summer travel peak, many small homestay operators are describing intense pressure, prompting discussion about tourism and small businesses.",
+      "share_angle": "Use their experience as a window into the economics of running a small hospitality business in China.",
       "keywords": [
-        "new regulations",
-        "August",
-        "policy"
+        "homestay",
+        "summer travel",
+        "small business"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "开学三件套卖不动了？有老板愁坏",
+      "chinese_topic": "取消午休4点下班你同意吗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Back-to-school 'three-piece set' sales slump worries shop owners",
+      "official_english": "Would you support canceling the lunch break and leaving at 4 p.m.?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Back-to-school shopping is a seasonal test of consumer demand and small retail performance.",
-      "share_angle": "Discuss changing back-to-school habits and what weak sales say about consumer behavior.",
+      "why_hot": "The idea of trading a lunch break for an earlier finish touched off debate about productivity, rest, and workplace culture in China.",
+      "share_angle": "Use the proposal as a gateway to compare Chinese work schedules with flexible-hour practices elsewhere.",
       "keywords": [
-        "back-to-school",
-        "retail",
-        "consumers"
+        "work schedule",
+        "lunch break",
+        "work-life balance"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "1.55升“哑铃矿泉水”火了 单瓶8元",
+      "chinese_topic": "国家电网原董事长辛保安被查",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "1.55-liter 'dumbbell water' becomes a hit at 8 yuan per bottle",
+      "official_english": "Former State Grid Chairman Xin Bao'an placed under investigation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The unusual bottle design and relatively high price quickly triggered online debates about product marketing.",
-      "share_angle": "Use the viral bottle as a case study in novelty packaging, pricing, and social media exposure.",
+      "why_hot": "News of an investigation into a former top executive of State Grid, a major state-owned utility, drew attention to energy-sector governance.",
+      "share_angle": "Explain the significance of State Grid and how such official investigations are typically announced.",
       "keywords": [
-        "dumbbell water",
-        "viral product",
-        "marketing"
+        "State Grid",
+        "Xin Bao'an",
+        "anti-corruption"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "长期炎症是癌症的“帮凶”",
+      "chinese_topic": "今后借钱必须明码标价",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chronic inflammation seen as a 'helper' of cancer",
+      "official_english": "From now on, borrowing money must be clearly priced",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cancer prevention is a top health concern, and the link with long-term inflammation is easy to grasp.",
-      "share_angle": "Break down the science of acute versus chronic inflammation and why persistent inflammation matters.",
+      "why_hot": "The topic signals possible new rules on transparent loan pricing, which directly affects consumers and the financial sector.",
+      "share_angle": "Explain what 'clear pricing' for lending means and how it could change the way loans are advertised.",
       "keywords": [
-        "inflammation",
-        "cancer",
-        "health"
+        "loan pricing",
+        "consumer finance",
+        "financial regulation"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "长鑫科技市值突破4万亿",
+      "chinese_topic": "中国最高薪本科专业易主",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Changxin Technology market value exceeds 4 trillion yuan",
+      "official_english": "China's highest-paid undergraduate major has a new leader",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A chip company reaching a 4-trillion-yuan market value is a milestone for China's semiconductor sector.",
-      "share_angle": "Give context on Changxin Technology's role in memory chips and why the milestone matters.",
+      "why_hot": "New salary data for college majors draws attention from students and parents deciding on education and career paths.",
+      "share_angle": "Explore what the changing salary ranking says about job-market demand and how students choose majors.",
       "keywords": [
-        "Changxin Technology",
-        "market value",
-        "semiconductors"
+        "highest-paid major",
+        "undergraduate degrees",
+        "job market"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "韩股涨熔断了",
+      "chinese_topic": "吴宜泽无缘斯诺克上海大师赛决赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "South Korean stocks hit circuit breaker on sharp gains",
+      "official_english": "Wu Yize misses out on the final of the Shanghai Masters snooker tournament",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An upside circuit breaker is rare and points to unusually strong market sentiment.",
-      "share_angle": "Explain how trading halts work and why a surge-driven halt is different from a decline-driven one.",
+      "why_hot": "A young Chinese player's near-miss at a home tournament generated encouragement and disappointment among sports fans.",
+      "share_angle": "Recap Wu Yize's run in the tournament and look at China's growing presence in international snooker.",
       "keywords": [
-        "South Korea",
-        "stock market",
-        "circuit breaker"
+        "Wu Yize",
+        "Shanghai Masters",
+        "snooker"
       ]
     }
   ]

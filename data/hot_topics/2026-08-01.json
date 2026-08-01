@@ -1,149 +1,142 @@
 {
   "date": "2026-08-01",
-  "updated_at": "2026-08-01T03:48:26+00:00",
+  "updated_at": "2026-08-01T13:47:18+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "警方对捐日本侵华罪证少年启动保护",
+      "chinese_topic": "这四个字读懂上半年中国经济",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Police offer protection to teenager who donated evidence of Japanese wartime atrocities",
+      "official_english": "Four Chinese characters explain China's first-half economic performance",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A teenager's act of preserving wartime evidence touched a nerve, and police protection added a layer of social concern.",
-      "share_angle": "Pitch it as a story of civic courage and legal protection: one teenager's evidence donation, and why the state stepped in.",
+      "why_hot": "State media often distills complex economic data into a memorable four-character phrase, and people are eager to understand how the first half of the year went at a glance.",
+      "share_angle": "Explain the four-character summary behind the H1 data and what it means for jobs, prices, and business confidence.",
       "keywords": [
-        "wartime evidence",
-        "child protection",
-        "historical memory"
+        "China economy",
+        "H1 data",
+        "policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "航空公司不满携程返还天价退票费",
+      "chinese_topic": "江苏一小区集中供冷 不开空调25℃",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Airlines unhappy with Ctrip for refunding high ticket-cancellation fees",
+      "official_english": "Jiangsu residential community uses central cooling to stay at 25°C without air conditioners",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ticket refund disputes directly affect travelers, especially when sky-high fees are involved.",
-      "share_angle": "Explain how airline fees and online travel agency refund policies work, using this case as a concrete example.",
+      "why_hot": "A residential project offering central cooling without personal AC units is unusual in China's hot summer and quickly became a talking point about urban climate solutions.",
+      "share_angle": "Break down how district cooling works, its energy trade-offs, and whether it could be expanded to other cities.",
       "keywords": [
-        "airlines",
-        "Ctrip",
-        "refunds",
-        "consumer rights"
+        "central cooling",
+        "Jiangsu",
+        "urban living"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "省份经济“半年报”出炉",
+      "chinese_topic": "“年龄不是免罪金牌”新规发布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Provincial half-year economic reports released",
+      "official_english": "New regulation makes clear that age is not a legal 'free pass'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Half-year provincial GDP data signal regional economic trends and are widely watched by businesses and the public.",
-      "share_angle": "Give viewers a concise rundown of China's provincial economic results and what they reveal about the national economy.",
+      "why_hot": "The vivid phrase 'age is not a free pass' taps into public concern about legal fairness, accountability, and how rules apply to different age groups.",
+      "share_angle": "Explain the new rule's purpose and scope, using only official legal documents, and discuss how netizens are reacting.",
       "keywords": [
-        "provincial economy",
-        "half-year report",
-        "GDP",
-        "regional development"
+        "rule of law",
+        "age",
+        "legal accountability"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "硅谷与华尔街争抢20多岁数学天才",
+      "chinese_topic": "农民误信AI致百亩芝麻全毁",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Silicon Valley and Wall Street compete for math prodigy in his 20s",
+      "official_english": "Farmer loses 100 mu of sesame crop after trusting AI-generated advice",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The global battle for young talent speaks to tech competition and mathematics education.",
-      "share_angle": "Use the story to discuss the growing importance of mathematics in AI and finance, plus the global race for rare talent.",
+      "why_hot": "This story mixes the AI boom with farming risks, leaving people both amazed and worried about how quickly a farmer's livelihood could be hurt by unverified digital guidance.",
+      "share_angle": "Use it to discuss digital literacy, the limits of AI in agriculture, and the need for verification systems.",
       "keywords": [
-        "mathematics",
-        "talent competition",
-        "Silicon Valley",
-        "Wall Street"
+        "AI",
+        "farming",
+        "digital literacy"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "中方为何在此时位黄岩岛开展演训",
+      "chinese_topic": "西北师范大学手写录取通知书引热议",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China explains timing of military drills near Huangyan Island",
+      "official_english": "Northwest Normal University's handwritten admission letters spark online discussion",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Military activity near Huangyan Island attracts international attention, and the explanation of timing is newsworthy.",
-      "share_angle": "Frame it as an explainer: the possible geopolitical and legal reasons behind the timing of Chinese drills.",
+      "why_hot": "Handwritten admission letters are a rare touch in the digital age; the debate is about tradition, effort, and whether such personal gestures still matter to incoming students.",
+      "share_angle": "Show how universities use personalized letters to preserve culture and build identity, and explore the wider reaction.",
       "keywords": [
-        "Huangyan Island",
-        "military drills",
-        "geopolitics",
-        "China"
+        "university",
+        "admission letters",
+        "tradition"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "安徽淮北室外温度83°C？不实",
+      "chinese_topic": "赵心童vs威尔逊",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claims of 83°C outdoor temperature in Huaibei, Anhui, debunked",
+      "official_english": "Zhao Xintong vs Wilson",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "False temperature claims spread quickly in a hot summer; fact-checking helps counter misinformation.",
-      "share_angle": "Use it as a media-literacy moment: teach viewers how to verify extreme-weather claims before sharing.",
+      "why_hot": "Zhao Xintong is a high-profile Chinese snooker player, so his match against Wilson draws both dedicated sports fans and casual viewers.",
+      "share_angle": "Give a quick context of the match, the players' recent form, and why it matters for Chinese snooker fans.",
       "keywords": [
-        "weather",
-        "misinformation",
-        "fact-check",
-        "Huaibei"
+        "Zhao Xintong",
+        "snooker",
+        "Wilson"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "这2个习惯正在偷走你的视力",
+      "chinese_topic": "全家频繁生病 揭开墙布全屋发霉",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Two habits that are quietly harming your eyesight",
+      "official_english": "Family's recurring illnesses traced to mold hidden behind wall covering",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Eye health is a universal concern, especially with increased screen time.",
-      "share_angle": "Present the two habits as practical tips, and connect them to eye-health science and screen-time culture.",
+      "why_hot": "A family repeatedly getting sick is a relatable health scare; discovering mold hidden behind wall fabric triggers worries about indoor air quality and housing conditions.",
+      "share_angle": "Explain how mold can affect health and what tenants and homeowners should check in humid seasons.",
       "keywords": [
-        "eye health",
-        "vision",
-        "screen time",
-        "health tips"
+        "mold",
+        "indoor health",
+        "housing"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "五台山多人遭雷击：眼前一白就倒了",
+      "chinese_topic": "大学生找暑假工变家教 老板孩子崩溃",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Several people struck by lightning at Mount Wutai",
+      "official_english": "College student's summer job as tutor leaves boss's child distraught",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Lightning accidents are rare but dramatic; safety awareness in extreme weather is the key takeaway.",
-      "share_angle": "Share safety reminders about thunderstorms in mountain areas, and what to do if caught outdoors.",
+      "why_hot": "The contrast of a college student trying to find a summer job and ending up as the boss's child's tutor is funny and relatable during summer vacation.",
+      "share_angle": "Use it to talk about China's summer job market, tutoring culture, and the awkward boss-employee dynamic.",
       "keywords": [
-        "lightning",
-        "Mount Wutai",
-        "safety",
-        "extreme weather"
+        "summer jobs",
+        "tutoring",
+        "humor"
       ]
     }
   ]

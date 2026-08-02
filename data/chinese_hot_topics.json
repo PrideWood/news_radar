@@ -1,142 +1,150 @@
 {
   "date": "2026-08-02",
-  "updated_at": "2026-08-02T03:49:58+00:00",
+  "updated_at": "2026-08-02T13:48:15+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "中国“科技游”圈粉外国游客",
+      "chinese_topic": "公积金10万亿账户迎来全面激活",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's 'tech tourism' wins over foreign tourists",
+      "official_english": "China's 10-trillion-yuan housing provident fund accounts to be fully activated",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Combines China's technological progress with the travel boom, showing a new side of the country to international visitors.",
-      "share_angle": "Explain how science parks, smart-city demonstrations and tech museums are becoming travel highlights.",
+      "why_hot": "The housing provident fund touches the daily finances of many employees, so 'full activation' of a 10-trillion-yuan pool is a major livelihood topic.",
+      "share_angle": "Explain the housing provident fund in simple terms and why the news matters; emphasize that exact policy implementation is not yet fully known.",
       "keywords": [
-        "tech tourism",
-        "foreign tourists",
-        "China travel"
+        "housing provident fund",
+        "housing policy",
+        "China economy",
+        "livelihood"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "小米多款手机今起正式涨价",
+      "chinese_topic": "为卖腊肉花10万请明星带货只卖出1单",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xiaomi raises prices on multiple phone models from today",
+      "official_english": "Merchant spends 100,000 yuan on celebrity livestream endorsement, sells only one order of cured meat",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A direct consumer-price change from a major smartphone maker that affects everyday buyers.",
-      "share_angle": "Discuss why phone prices are rising, from component costs to exchange rates and market strategy.",
+      "why_hot": "The story is a vivid example of the gap between celebrity marketing fees and actual sales, which many small merchants can relate to.",
+      "share_angle": "Use the preserved-meat case to explain how livestream endorsements are priced and why merchants need to evaluate return on investment carefully.",
       "keywords": [
-        "Xiaomi",
-        "phone prices",
-        "consumer electronics"
+        "livestream commerce",
+        "celebrity endorsement",
+        "small business",
+        "e-commerce"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "电动汽车开了5年 电池应该在啥水平",
+      "chinese_topic": "暑期档电影票房破71亿",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What should an EV battery's health be after five years?",
+      "official_english": "China's summer box office surpasses 7.1 billion yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Drivers worry about battery life and replacement costs as more EVs age beyond five years.",
-      "share_angle": "Break down battery degradation, warranty expectations and what 'healthy' really means for used EVs.",
+      "why_hot": "Summer box office numbers are a quick snapshot of cultural consumption and consumer confidence; passing 7.1 billion yuan gives film fans and industry analysts a lot to discuss.",
+      "share_angle": "Present the milestone and connect it to how China's film market is performing this season, without speculating on specific movie earnings beyond the headline.",
       "keywords": [
-        "EV battery",
-        "battery health",
-        "electric vehicles"
+        "box office",
+        "summer movie season",
+        "Chinese cinema",
+        "consumer spending"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "甘肃渭源县重大山洪灾害致25人死亡",
+      "chinese_topic": "外国游客为什么集体“奔县”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fatal flash floods in Weiyuan County, Gansu, kill 25",
+      "official_english": "Why foreign tourists are flocking to China's county towns",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A deadly natural disaster with a confirmed toll, prompting concern over flood prevention and emergency response.",
-      "share_angle": "Explain the regional flood risk and what such disasters mean for rural safety and climate resilience.",
+      "why_hot": "The idea of international tourists 'flocking to counties' reverses the usual big-city travel image and is exciting for local tourism.",
+      "share_angle": "Analyze why foreign visitors may be choosing county-level destinations, from cultural authenticity to affordability, and what it means for local economies.",
       "keywords": [
-        "Gansu floods",
-        "flash flood",
-        "disaster response"
+        "inbound tourism",
+        "county towns",
+        "travel trend",
+        "local culture"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "四大行5年期大额存单集体回归",
+      "chinese_topic": "每天都要“喝两杯”的人后来怎样了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Big four banks bring back five-year large-denomination certificates of deposit",
+      "official_english": "What happens to people who have a few drinks every day",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A notable shift in bank deposit products that affects savers looking for stable returns.",
-      "share_angle": "Why long-term CDs are returning and what it signals about interest-rate expectations and savings behavior.",
+      "why_hot": "The question speaks to a widespread habit and a common health worry, making it a relatable topic for many readers.",
+      "share_angle": "Use the search question as an entry point to discuss balanced health information, while reminding viewers to seek professional advice for their own habits.",
       "keywords": [
-        "big four banks",
-        "certificates of deposit",
-        "savings"
+        "alcohol",
+        "health",
+        "daily drinking",
+        "lifestyle"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "省长到镇政府突击检查",
+      "chinese_topic": "小孩哥淡然回复：坐公交就能走出大山",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Provincial governor conducts unannounced inspection at township government",
+      "official_english": "Boy calmly says you can leave the mountains by bus",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Unannounced official inspections draw public attention to grassroots governance and accountability.",
-      "share_angle": "How spot checks are used to improve local administration and what the public can learn from them.",
+      "why_hot": "A child's simple, composed answer about leaving mountain villages is winning hearts online and opening conversations about rural life.",
+      "share_angle": "Share the emotional story while using it as a window into rural education, infrastructure, and the resilience of children in remote areas.",
       "keywords": [
-        "unannounced inspection",
-        "local government",
-        "accountability"
+        "education",
+        "rural China",
+        "resilience",
+        "youth"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "网传成都三岔湖水干了 当地辟谣",
+      "chinese_topic": "“共享儿女”“外包儿女”服务兴起",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor that Chengdu's Sancha Lake dried up debunked by local authorities",
+      "official_english": "'Shared children' and 'outsourced children' services gain popularity",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral environmental rumor triggers public concern until local officials step in to correct the record.",
-      "share_angle": "How misinformation about water bodies spreads and why verification matters before sharing.",
+      "why_hot": "New services that call themselves 'shared children' or 'outsourced children' are drawing attention as China's elderly population grows and family caregiving patterns change.",
+      "share_angle": "Explain the concept, the social need behind it, and the ethical and social questions around paid companionship for the elderly.",
       "keywords": [
-        "Sancha Lake",
-        "rumor debunked",
-        "environment"
+        "elder care",
+        "aging society",
+        "paid companionship",
+        "family bonds"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "郑钦文赛季第6次一轮游 本人回应",
+      "chinese_topic": "华为半导体首席科学家罕见露面",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zheng Qinwen responds after sixth first-round exit of the season",
+      "official_english": "Huawei chief semiconductor scientist makes rare public appearance",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top Chinese tennis player's repeated early exits stir discussion about form, pressure and expectations.",
-      "share_angle": "Explain the context of her season and why athletes sometimes struggle despite high rankings.",
+      "why_hot": "Huawei is at the center of global chip debates, so a rare public appearance by its chief semiconductor scientist naturally attracts attention to China's semiconductor push.",
+      "share_angle": "Frame it as a signal of Huawei's continued focus on chip technology, but stay with what is known from the headline and avoid inventing announcements.",
       "keywords": [
-        "Zheng Qinwen",
-        "tennis",
-        "first-round exit"
+        "Huawei",
+        "semiconductor",
+        "chip technology",
+        "technology leadership"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-08-03",
-  "updated_at": "2026-08-03T03:52:06+00:00",
+  "updated_at": "2026-08-03T15:11:07+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "微信一项能力升级 关键时刻能救命",
+      "chinese_topic": "含糖碳酸饮料大势已去",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "WeChat upgrades a feature that could save lives in critical moments",
+      "official_english": "Sugary carbonated drinks lose ground as consumer tastes shift",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Users noticed WeChat rolled out an upgraded safety-related capability, and with flood-season emergencies in mind, the life-saving angle sparked wide discussion.",
-      "share_angle": "Explain the feature and how to use it, plus broader tips for emergency communication.",
+      "why_hot": "Trending as reports and discussions point to a broad consumer turn away from sugary sodas amid health concerns.",
+      "share_angle": "Use the decline of sugary carbonated drinks to explain China's health-conscious consumer shift and what it means for beverage brands.",
       "keywords": [
-        "WeChat",
-        "emergency",
-        "safety"
+        "sugary drinks",
+        "consumer health",
+        "beverage industry"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "近120万辆特斯拉汽车遭调查",
+      "chinese_topic": "DeepSeek 斩杀线",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Nearly 1.2 million Tesla vehicles under investigation",
+      "official_english": "DeepSeek 'kill line' sparks talk about AI model competition",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A large-scale safety investigation involving Tesla attracts global attention and raises questions about driver-assistance technology.",
-      "share_angle": "Break down what the investigation reportedly covers and what it means for EV owners.",
+      "why_hot": "DeepSeek is a major AI name in China, and the phrase 'kill line' is circulating as a vivid way to describe a competitive threshold in model performance.",
+      "share_angle": "Break down the gaming-inspired 'kill line' metaphor and how it frames DeepSeek's position in global AI development.",
       "keywords": [
-        "Tesla",
-        "investigation",
-        "EV safety"
+        "DeepSeek",
+        "AI competition",
+        "tech buzzword"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "福建漳州通报抗生素牛蛙：全面核查",
+      "chinese_topic": "穿山跨海的“黄金大外环”要来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhangzhou, Fujian announces full investigation into antibiotic bullfrog sales",
+      "official_english": "Mountain- and sea-crossing 'Golden Outer Ring' transport corridor on the way",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reports of antibiotic-tainted bullfrogs and long-stored frozen products reignited food safety concerns, prompting an official response.",
-      "share_angle": "Summarize the official probe and practical tips for buying and storing frozen food.",
+      "why_hot": "Infrastructure projects that connect regions and shorten travel times consistently draw public excitement in China.",
+      "share_angle": "Highlight the engineering and regional connectivity story behind the 'Golden Outer Ring' as a symbol of infrastructure progress.",
       "keywords": [
-        "food safety",
-        "antibiotics",
-        "bullfrog"
+        "Golden Outer Ring",
+        "infrastructure",
+        "transport"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "汛期来袭 这5类谣言千万别相信",
+      "chinese_topic": "员工泡水2小时捞手机获表扬无奖励",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Don't believe these 5 types of rumors during flood season",
+      "official_english": "Employee praised but not rewarded after two-hour search for phone in water",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "With heavy rains and floods in many areas, debunking misinformation becomes a public safety priority.",
-      "share_angle": "List the rumor categories and guide viewers to verified disaster information.",
+      "why_hot": "The incident has triggered online debate about whether praise is enough when workers go beyond their duties.",
+      "share_angle": "Ask a simple question: should extraordinary effort be rewarded, not just praised? Frame it as a workplace rights conversation.",
       "keywords": [
-        "flood season",
-        "rumors",
-        "public safety"
+        "workplace culture",
+        "employee recognition",
+        "labor rights"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“交个停车费 顺带被办了个套餐”",
+      "chinese_topic": "U17国足开门红 压哨绝杀阿森纳U17",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Paying for parking saddles drivers with an unwanted mobile plan",
+      "official_english": "China U17 football team opens with stoppage-time winner against Arsenal U17",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumers complain that parking payment unexpectedly enrolled them in telecom packages, adding to worries about hidden charges and data use.",
-      "share_angle": "Explain how the alleged scheme works and how consumers can check and dispute unwanted charges.",
+      "why_hot": "Young Chinese footballers beating a development side of a famous English club makes for a feel-good sports moment.",
+      "share_angle": "Use the late winner to talk about youth football development in China and how such results inspire young players.",
       "keywords": [
-        "consumer rights",
-        "parking",
-        "telecom scam"
+        "China U17",
+        "football",
+        "Arsenal U17"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "赛里木湖自驾按人收费改按车收费",
+      "chinese_topic": "美国制裁洽洽瓜子思念水饺 网友调侃",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Sayram Lake switches self-drive fee from per person to per vehicle",
+      "official_english": "US sanctions on Chinese snack brands Qiaqia and Synear draw online mockery",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A change in entrance fees for self-driving tourists at a scenic lake in Xinjiang triggered debate about fairness, family travel costs, and scenic-area pricing.",
-      "share_angle": "Compare the old and new pricing and discuss what it means for different types of travelers.",
+      "why_hot": "Sanctions against familiar everyday food brands feel absurd to many Chinese internet users, so the news trended with humorous reactions.",
+      "share_angle": "Explain why the sanctions target consumer food brands and how Chinese netizens respond with irony rather than panic.",
       "keywords": [
-        "Sayram Lake",
-        "travel fees",
-        "self-driving"
+        "US sanctions",
+        "Qiaqia",
+        "Synear"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "吴清：积极支持内地企业在香港上市",
+      "chinese_topic": "国家博物馆声明：从未授权馆外扫码",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China securities regulator vows support for mainland companies listing in Hong Kong",
+      "official_english": "National Museum of China says it never authorized off-site QR code scanning",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top securities regulator's remarks on supporting mainland enterprises' Hong Kong listings drew attention from investors and financial markets.",
-      "share_angle": "Explain the statement and its potential impact on cross-border listings and market sentiment.",
+      "why_hot": "Visitors are concerned about scams and unauthorized services near a major cultural institution, making the official warning widely shared.",
+      "share_angle": "Turn the statement into a practical alert about QR code safety at tourist and cultural sites.",
       "keywords": [
-        "Hong Kong",
-        "stock market",
-        "mainland enterprises"
+        "National Museum of China",
+        "QR code scam",
+        "public warning"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "“李鬼”们别再硬蹭“国字头”了",
+      "chinese_topic": "青岛火车站好多人拖着铁桶扎啤返乡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fake organizations warned not to misuse 'national' names",
+      "official_english": "Travelers carry kegs of draft beer home from Qingdao railway station",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Authorities are cracking down on impostors who use official-sounding 'national' names to deceive the public, echoing wider concerns about counterfeits.",
-      "share_angle": "Show how to spot fake 'national' organizations and verify official bodies.",
+      "why_hot": "A summer travel ritual in beer-loving Qingdao catches attention for its lively and slightly humorous visual of people hauling beer home.",
+      "share_angle": "Show a slice of Chinese summer life and local beer culture; it is a light, visual story for an international audience.",
       "keywords": [
-        "fake organizations",
-        "regulation",
-        "consumer protection"
+        "Qingdao",
+        "draft beer",
+        "summer travel"
       ]
     }
   ]

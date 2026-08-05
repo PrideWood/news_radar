@@ -1,149 +1,143 @@
 {
   "date": "2026-08-05",
-  "updated_at": "2026-08-05T03:30:35+00:00",
+  "updated_at": "2026-08-05T14:27:53+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "DeepSeek重启融资 投前估值5000亿元",
+      "chinese_topic": "中国经济展现强大韧性和活力",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek resumes fundraising at 500 billion yuan pre-money valuation",
+      "official_english": "Chinese economy demonstrates strong resilience and vitality",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A leading Chinese AI startup raising new capital at a reported 500 billion yuan valuation shows how much investor confidence remains in the country's large-model race.",
-      "share_angle": "Explain what a pre-money valuation means and use DeepSeek as a window into China's AI funding boom.",
+      "why_hot": "This phrase is trending as a broad official statement about the Chinese economy's performance amid global uncertainty.",
+      "share_angle": "Explain what 'resilience and vitality' means in policy terms and what economic indicators audiences can watch.",
       "keywords": [
-        "DeepSeek",
-        "AI",
-        "fundraising",
-        "valuation"
+        "China economy",
+        "resilience",
+        "economic policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "多地出新政“抢”3.2亿老年人",
+      "chinese_topic": "反制美国！中方公布5项措施",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Local governments roll out new policies to attract and serve China's 320 million elderly",
+      "official_english": "China announces five countermeasures against US",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "With 320 million elderly citizens, local governments across China are competing through new policies to improve elderly care and tap into the silver economy.",
-      "share_angle": "Frame aging as a policy opportunity rather than a burden, and highlight the social and economic innovations behind the 'talent war' for retirees.",
+      "why_hot": "China-US trade tensions are a major issue, and any concrete countermeasure list quickly becomes a top topic.",
+      "share_angle": "Summarize the diplomatic context and what 'countermeasures' usually mean, while noting that specific measures need to be confirmed from official reporting.",
       "keywords": [
-        "elderly care",
-        "aging society",
-        "silver economy"
+        "China-US",
+        "countermeasures",
+        "trade"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "创新药凭什么成中国新名片",
+      "chinese_topic": "华为发布新款折叠电脑售价24999元起",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why innovative drugs are becoming China's new calling card",
+      "official_english": "Huawei launches new foldable computer priced from 24,999 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's biopharmaceutical industry is increasingly known for original R&D instead of generics, making innovative drugs a source of national pride and economic focus.",
-      "share_angle": "Break down the pipeline from lab to market and explain how policy, capital, and talent are turning drugs into an export-grade business card.",
+      "why_hot": "A major tech launch from Huawei is drawing attention for its premium price and foldable form factor.",
+      "share_angle": "Break down the product category and what a 24,999 yuan foldable PC signals for the laptop market.",
       "keywords": [
-        "innovative drugs",
-        "biotech",
-        "pharmaceutical R&D",
-        "Made in China"
+        "Huawei",
+        "foldable PC",
+        "tech launch"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "台风白海豚体型堪比东北三省",
+      "chinese_topic": "高温热浪来袭 这些地方需注意",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Dolphin's size is comparable to China's three northeastern provinces",
+      "official_english": "Heatwave hits; these areas need to be vigilant",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A vivid size comparison helps people grasp a typhoon's massive footprint and raises awareness about storm preparation.",
-      "share_angle": "Use the size comparison as a science-communication hook to teach how typhoons are measured and how to read official warnings.",
+      "why_hot": "Summer heat waves directly affect daily life, and people are sharing which regions need precautions.",
+      "share_angle": "Give practical safety information for locals and travelers, and explain how heatwave warnings are issued.",
       "keywords": [
-        "Typhoon Dolphin",
-        "weather forecast",
-        "typhoon size",
-        "disaster preparedness"
+        "heatwave",
+        "summer",
+        "safety"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "多中国游客被拒登机 泰国机场致歉",
+      "chinese_topic": "四预警齐发！双台风影响多个海域",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Thai airport apologizes after Chinese tourists denied boarding",
+      "official_english": "Four alerts issued as twin typhoons affect multiple sea areas",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A consumer-rights dispute abroad quickly resonates with Chinese travelers and raises questions about airport and airline service standards.",
-      "share_angle": "Explain what travelers can do when denied boarding and why destination apologies matter for tourism relations.",
+      "why_hot": "Four weather warnings at once naturally raises public concern because of the potential impact of twin typhoons.",
+      "share_angle": "Explain the difference between the warnings and why marine areas are especially affected.",
       "keywords": [
-        "Chinese tourists",
-        "Thailand airport",
-        "denied boarding",
-        "consumer rights"
+        "typhoon",
+        "weather warning",
+        "marine area"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "亲人离世家人不知存款在哪 怎么办",
+      "chinese_topic": "河南试行周五半天+周末+年假模式",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What to do when a relative dies and family members cannot find their bank savings",
+      "official_english": "Henan pilots 'Friday half-day + weekend + annual leave' schedule",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Many families face the practical and emotional problem of locating a deceased relative's assets, especially in the digital banking age.",
-      "share_angle": "Provide a clear public-service explainer on legal procedures for inheriting and withdrawing deposits when account details are unknown.",
+      "why_hot": "A trial work-leave arrangement in Henan is prompting discussion about work-life balance.",
+      "share_angle": "Compare this pilot with existing leave policies and what it could mean for workers and tourism.",
       "keywords": [
-        "inheritance",
-        "bank deposits",
-        "probate",
-        "financial literacy"
+        "Henan",
+        "work-life balance",
+        "leave policy"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "女子带10岁儿子从成都坐火车去意大利",
+      "chinese_topic": "王艺迪逆转伊藤美诚 狂轰11-1",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman travels by train from Chengdu to Italy with her 10-year-old son",
+      "official_english": "Wang Yidi stuns Mima Ito in comeback with dominant 11-1 game",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An adventurous mother-and-son rail journey across Eurasia inspires curiosity about long-distance train travel and alternative ways to see the world.",
-      "share_angle": "Map the possible route and discuss how slow travel can be an educational experience for children.",
+      "why_hot": "Table tennis matchups between China and Japan always draw wide attention, especially a dramatic comeback.",
+      "share_angle": "Highlight the scoreline and what this result means in the China-Japan table tennis rivalry.",
       "keywords": [
-        "Chengdu to Italy",
-        "train travel",
-        "family trip",
-        "Eurasia rail"
+        "Wang Yidi",
+        "Mima Ito",
+        "table tennis"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "你家楼下的兰州拉面要改名字了",
+      "chinese_topic": "一对俄罗斯双胞胎在上海地铁站跳芭蕾",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "The Lanzhou lamian restaurant near you may be getting a name change",
+      "official_english": "Russian twin sisters perform ballet at Shanghai metro station",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An everyday Chinese food brand that feels like a neighborhood institution is reportedly changing its name, sparking nostalgia and curiosity.",
-      "share_angle": "Use the rename to explain how regional food brands build identity and what changes when a generic name becomes a formal brand.",
+      "why_hot": "A charming, unexpected public performance in a metro station is going viral as a feel-good culture moment.",
+      "share_angle": "Use this story as an entry point to discuss public space performance rules and cultural exchange.",
       "keywords": [
-        "Lanzhou lamian",
-        "food culture",
-        "rebranding",
-        "Chinese cuisine"
+        "Shanghai",
+        "ballet",
+        "metro",
+        "cultural exchange"
       ]
     }
   ]

@@ -1,156 +1,150 @@
 {
   "date": "2026-08-06",
-  "updated_at": "2026-08-06T03:34:20+00:00",
+  "updated_at": "2026-08-06T14:31:32+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "DeepSeek API即将大幅涨价",
+      "chinese_topic": "“China Cool”成海外热词",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek API prices to rise significantly",
+      "official_english": "\"China Cool\" becomes a trending phrase overseas",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Many developers and businesses use DeepSeek, so a major API price change immediately attracts attention and speculation.",
-      "share_angle": "Explain what the price increase could mean for AI developers and the broader Chinese AI industry, and how it compares with global AI pricing trends.",
+      "why_hot": "Chinese internet users noticed the phrase \"China Cool\" gaining recognition abroad, sparking pride and discussion about the global appeal of Chinese culture.",
+      "share_angle": "Explore why \"China Cool\" is resonating internationally and what it says about the changing perception of Chinese products, aesthetics and pop culture.",
       "keywords": [
-        "DeepSeek",
-        "API pricing",
-        "AI industry",
-        "China tech"
+        "China Cool",
+        "Chinese culture",
+        "soft power",
+        "global trend"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "美国退回1000亿美元关税",
+      "chinese_topic": "宇树科技发行价格150.80元/股",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US reportedly reverses $100 billion in tariffs",
+      "official_english": "Unitree Robotics sets IPO price at 150.80 yuan per share",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "US-China trade policy moves are closely followed, and a reported reversal involving $100 billion in tariffs is high-impact economic news.",
-      "share_angle": "Break down what the reported tariff reversal could mean for trade flows, markets, and consumers, while noting the uncertainty of the report.",
+      "why_hot": "The announcement of Unitree Robotics' IPO price has attracted attention from investors and tech watchers.",
+      "share_angle": "Use the IPO as a way to explain China's fast-growing robotics sector and global interest in embodied AI.",
       "keywords": [
-        "US tariffs",
-        "trade policy",
-        "US-China trade",
-        "economy"
+        "Unitree Robotics",
+        "IPO",
+        "robotics",
+        "Chinese tech"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "BBA降价也卖不动",
+      "chinese_topic": "台风白海豚登陆地点更新",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Luxury car brands cut prices but still struggle to sell",
+      "official_english": "Typhoon Dolphin's projected landfall location updated",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "BBA refers to BMW, Benz and Audi; their pricing power is a major topic in China's auto market, especially as competition intensifies.",
-      "share_angle": "Discuss what the sales slowdown says about changing Chinese consumer preferences, market competition, and the transition to new-energy vehicles.",
+      "why_hot": "Typhoon Dolphin's changing path is a major safety concern, and the latest landfall update has people tracking the news closely.",
+      "share_angle": "Explain how China tracks typhoons and why accurate landfall forecasts matter for public safety.",
       "keywords": [
-        "BBA",
-        "luxury cars",
-        "auto market",
-        "price cuts",
-        "China consumption"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "西方Z世代为何开始“粉”中国",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Western Gen Z is becoming a fan of China",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Topics about China's global image and young foreigners' interest in Chinese culture, apps and lifestyle tend to spark lively discussion.",
-      "share_angle": "Explore the cultural, social and media factors that may be drawing Western Gen Z to China, and why this trend is being talked about in China.",
-      "keywords": [
-        "Gen Z",
-        "China culture",
-        "soft power",
-        "young foreigners",
-        "global trends"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "广东或将迎来“空调外机”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Guangdong may face 'outdoor air conditioner unit' weather",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The vivid metaphor of an 'air conditioner outdoor unit' makes a weather forecast more interesting, and Guangdong residents care about heat and humidity.",
-      "share_angle": "Explain the Chinese slang behind the weather metaphor, what conditions it refers to, and how people are preparing for the heat.",
-      "keywords": [
-        "Guangdong",
-        "weather",
-        "heatwave",
-        "air conditioner",
-        "China climate"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "小车被劝退23秒后塌方",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Vehicle persuaded to turn back 23 seconds before landslide",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The dramatic timing and near-miss story highlight road safety and quick emergency response, which strongly resonates with the public.",
-      "share_angle": "Tell the story accurately, highlight the importance of heeding warnings, and discuss how such incidents are handled by local authorities.",
-      "keywords": [
-        "landslide",
-        "road safety",
-        "emergency response",
-        "near miss",
+        "Typhoon Dolphin",
+        "weather forecast",
+        "public safety",
         "China"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "一包瓜子 怎么就上美国制裁清单了",
+      "rank": 4,
+      "chinese_topic": "U17国足1分钟轰2球",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why a bag of sunflower seeds landed on a US sanctions list",
+      "official_english": "U17 national football team scores two goals in one minute",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The image of a mundane snack appearing on a sanctions list is surprising and leads many to ask how trade restrictions work in practice.",
-      "share_angle": "Explain how ordinary goods can become part of geopolitical trade disputes and what this means for exporters and consumers.",
+      "why_hot": "A two-goal burst in one minute excited football fans and sparked hopes for China's youth team.",
+      "share_angle": "Use the moment to discuss the development of youth football in China and rising fan expectations.",
       "keywords": [
-        "sanctions",
-        "sunflower seeds",
-        "US China trade",
-        "trade restrictions",
-        "geopolitics"
+        "U17",
+        "Chinese football",
+        "youth soccer",
+        "sports"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "“中式天庭”AI视频海外爆火",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "AI video of 'Chinese-style heavenly palace' goes viral overseas",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The video combines Chinese architectural aesthetics with AI-generated fantasy, and its overseas popularity has amazed netizens.",
+      "share_angle": "Highlight how AI tools are helping creators reimagine Chinese tradition and reach global audiences.",
+      "keywords": [
+        "AI video",
+        "Chinese aesthetics",
+        "heavenly palace",
+        "viral"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "父母为陪女儿在大学食堂承包档口2年",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Parents run university canteen stall for two years to accompany daughter",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The family story of parents staying close to their daughter by working at her university canteen has touched many people.",
+      "share_angle": "Share the story as a heartwarming example of Chinese family sacrifice and the everyday lives of college students.",
+      "keywords": [
+        "family",
+        "university canteen",
+        "Chinese education",
+        "human interest"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "楚雄火把节",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chuxiong Torch Festival celebrations draw attention",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The Chuxiong Torch Festival is drawing wide attention online as a colorful cultural celebration.",
+      "share_angle": "Introduce the festival's cultural roots and how it has become a tourism highlight in China.",
+      "keywords": [
+        "Chuxiong",
+        "Torch Festival",
+        "ethnic culture",
+        "tourism"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "为鼓励女儿 41岁妈妈考上985研究生",
+      "chinese_topic": "哈尔滨一虎园无人驾驶观光车引担忧",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "41-year-old mother admitted to master's program at a 985 university to inspire daughter",
+      "official_english": "Driverless sightseeing vehicles at Harbin tiger park raise safety concerns",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An inspirational education story about family encouragement and lifelong learning touches a nerve in China, where education is deeply valued.",
-      "share_angle": "Share her story as a positive example of parental support and lifelong learning, and discuss the broader cultural importance of education in China.",
+      "why_hot": "The use of driverless sightseeing vehicles inside a tiger park has raised public concerns about tourist safety.",
+      "share_angle": "Discuss the promise and risks of driverless vehicles in tourism, especially in wildlife parks.",
       "keywords": [
-        "education",
-        "lifelong learning",
-        "985 university",
-        "parental support",
-        "inspiration"
+        "driverless vehicles",
+        "Harbin",
+        "tiger park",
+        "tourism safety"
       ]
     }
   ]

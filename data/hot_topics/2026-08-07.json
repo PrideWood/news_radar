@@ -1,158 +1,143 @@
 {
   "date": "2026-08-07",
-  "updated_at": "2026-08-07T03:15:33+00:00",
+  "updated_at": "2026-08-07T13:23:23+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "打破国外垄断！中国重磅科技集中上新",
+      "chinese_topic": "台风逼近 闽浙多地停工停航",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China unveils major technological breakthroughs to break foreign monopolies",
+      "official_english": "Typhoon Approaches; Fujian and Zhejiang Suspend Work and Ferry Services",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese social media is celebrating a wave of newly announced domestic tech achievements, with hashtags emphasizing independence from foreign technology.",
-      "share_angle": "Explain what these breakthroughs are and why breaking monopolies matters for China's tech supply chain and global competition.",
-      "keywords": [
-        "China tech",
-        "monopoly",
-        "breakthrough",
-        "innovation",
-        "self-reliance"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "越来越多高分考生放弃985选警校",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "More top-scoring students are choosing police academies over 985 universities",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A growing number of high scorers in China's college entrance exam are opting for police academies instead of elite 985 universities, sparking debates about career security and social values.",
-      "share_angle": "Discuss the shift in youth career choices: stability in public service jobs vs. elite university prestige, and what it says about China's job market.",
-      "keywords": [
-        "gaokao",
-        "police academy",
-        "985 universities",
-        "career choice",
-        "job market"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "台风白海豚最新路径研判来了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Latest forecast path of Typhoon White Dolphin",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The public is closely following the track of Typhoon White Dolphin, which is expected to affect parts of China, with officials issuing weather warnings.",
-      "share_angle": "Provide an accessible weather update: where the typhoon is heading, how big it is, and how people are preparing.",
+      "why_hot": "A typhoon is approaching the southeastern coast, directly affecting work, travel, and public safety in Fujian and Zhejiang.",
+      "share_angle": "Explain how Chinese coastal provinces prepare for typhoons, including work suspensions, ferry shutdowns, and emergency alerts.",
       "keywords": [
         "typhoon",
-        "White Dolphin",
-        "forecast",
-        "China weather",
+        "Fujian",
+        "Zhejiang",
         "emergency"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "女子开一天一夜空调后二氧化碳中毒",
+      "rank": 2,
+      "chinese_topic": "未来五年中国民航重磅规划出炉",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman suffers carbon dioxide poisoning after running air conditioner for a day and night",
+      "official_english": "China Unveils Five-Year Plan for Civil Aviation Development",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The incident raises awareness about indoor air quality and ventilation, especially during summer when air conditioners run continuously.",
-      "share_angle": "Explain why running an AC for long hours in a sealed room can be dangerous, and share practical tips for safe use.",
+      "why_hot": "The new civil aviation blueprint signals how China plans to expand airports, routes, and air travel infrastructure over the next five years.",
+      "share_angle": "Break down the key areas of the plan, such as airport expansion and regional connectivity, and what they could mean for travelers and the aviation industry.",
       "keywords": [
-        "air conditioner",
-        "carbon dioxide",
-        "indoor air",
-        "health warning",
-        "ventilation"
+        "civil aviation",
+        "five-year plan",
+        "airports"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "飞机票免费退改真的来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Free Flight Ticket Refunds and Changes Become a Reality",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Ticket refund and change policies affect almost every traveler, and the announcement promises to reduce the cost of changing plans.",
+      "share_angle": "Outline what is known from the announcement and point viewers to official channels for details on eligibility and procedures.",
+      "keywords": [
+        "flight tickets",
+        "refunds",
+        "travel policy"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "“今天得有40℃了吧 为啥还不预警”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "If It Feels Like 40°C, Why Is There No Heat Warning?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "As cities endure extreme heat, people question when a heat alert should be issued and whether official standards match how hot it actually feels.",
+      "share_angle": "Compare official heat-warning criteria with public experience and explain why alerts may not be triggered even on very hot days.",
+      "keywords": [
+        "heat wave",
+        "heat warning",
+        "temperature"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "梁文锋投了宇树",
+      "chinese_topic": "宇树科技中一签需缴款7.54万元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "AI pioneer Liang Wenfeng invests in robot maker Unitree",
+      "official_english": "Unitree Robotics IPO Requires 75,400 yuan per Allotment",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The investment connects two prominent names in China's AI and robotics sectors, fueling excitement about the future of embodied AI.",
-      "share_angle": "Break down what this investment means for the robotics industry and why AI+robotics is becoming a hotspot.",
+      "why_hot": "Unitree Robotics is a well-known Chinese robotics company, and its IPO subscription figure has become a hot talking point among investors.",
+      "share_angle": "Contextualize the IPO for a general audience: what Unitree does, why the subscription is pricey, and what the listing could mean for the robotics sector.",
       "keywords": [
-        "Liang Wenfeng",
-        "Unitree",
-        "AI",
-        "robotics",
-        "investment"
+        "Unitree Robotics",
+        "IPO",
+        "robotics"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "美火箭残骸撞击月球 对比图公布",
+      "chinese_topic": "河南三支一扶笔试成绩作废 将重考",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Comparison images show US rocket debris impact on the moon",
+      "official_english": "Henan Invalidates Written Exam Scores in Rural Grassroots Support Program and Schedules Retest",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Newly released comparison images of a suspected rocket impact site on the moon have sparked public curiosity about space debris and lunar exploration.",
-      "share_angle": "Explain the event, why rocket debris ended up hitting the moon, and how scientists confirm such impacts.",
+      "why_hot": "Invalidating exam results affects many candidates and raises concerns about fairness and administration in public recruitment exams.",
+      "share_angle": "Explain the grassroots support program and what the retest means for candidates and the broader recruitment system.",
       "keywords": [
-        "moon",
-        "rocket debris",
-        "space junk",
-        "lunar impact",
-        "NASA"
+        "Henan",
+        "exam retest",
+        "recruitment"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "Meta被判支付5.67亿美元",
+      "chinese_topic": "高校宣称第一志愿填报该校奖9000元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Meta ordered to pay $567 million",
+      "official_english": "University Offers 9,000 yuan Reward for First-Choice Applicants",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major court ruling against Meta has drawn attention in China's tech community, highlighting global regulatory pressure on big tech companies.",
-      "share_angle": "Summarize the case, the context of the fine, and its implications for tech giants operating internationally.",
+      "why_hot": "Cash rewards for first-choice college applications are a new tactic in China's intense competition for students, fueling debate about higher education and marketing.",
+      "share_angle": "Discuss why universities are offering financial incentives and what it signals about enrollment competition and changing demographics.",
       "keywords": [
-        "Meta",
-        "lawsuit",
-        "fine",
-        "tech regulation",
-        "court ruling"
+        "university admissions",
+        "enrollment competition",
+        "cash reward"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "泰国机场：旅客不在场也可开箱查行李",
+      "chinese_topic": "啤酒巨头们正排队“去啤酒化”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Thai airports: passenger bags can be inspected without owner present",
+      "official_english": "Major Beer Companies Pivot Beyond Beer to Diversify",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The announcement by Thai airports has worried Chinese tourists about privacy and security during travel to Thailand.",
-      "share_angle": "Explain the new policy, why airports say it's needed, and what travelers should know before flying.",
+      "why_hot": "Major beer companies are moving beyond beer as demand changes, making the industry shift a relatable business story.",
+      "share_angle": "Look at why brewers are diversifying into other drinks and how that reflects changing consumer tastes in China.",
       "keywords": [
-        "Thailand",
-        "airport",
-        "baggage inspection",
-        "travel",
-        "privacy"
+        "beer industry",
+        "diversification",
+        "consumer trends"
       ]
     }
   ]

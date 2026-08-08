@@ -225,6 +225,11 @@
       "link": "https://gigazine.net/news/20260724-japanese-interpersonal-distance",
       "title": "日本人のパーソナルスペースは広め、イタリア人との比較実験で判明"
     },
+    "0ed2d95da7f8f1059a09": {
+      "first_seen": "2026-08-08",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+      "title": "大型で非常に強い台風13号 暴風などに厳重警戒【中継映像も】"
+    },
     "0f29980c9bc3697ea7ce": {
       "first_seen": "2026-07-28",
       "link": "https://gigazine.net/news/20260728-banhmi-pho",
@@ -624,6 +629,11 @@
       "first_seen": "2026-07-03",
       "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2122030.html",
       "title": "【鈴木淳也のPay Attention】エージェント化するECの未来 Visaが示す「人間不在まで3年」の道筋"
+    },
+    "245d70d22661427ecfaa": {
+      "first_seen": "2026-08-08",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2131230.html",
+      "title": "iPhoneで夏の花火をきれいに撮ろう 誰でもできる撮影のコツ【2026年版】"
     },
     "24fa0dde710315bf2225": {
       "first_seen": "2026-07-02",
@@ -2335,6 +2345,11 @@
       "link": "https://gigazine.net/news/20260725-kage",
       "title": "無料でページのJavaScriptを削除してサイト全体をまとめてローカルに保存しオフラインで閲覧できるようにする「kage」"
     },
+    "848afb8392c4dc2e1df0": {
+      "first_seen": "2026-08-08",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199951000.html",
+      "title": "羽田空港 お盆期間中 帰省や旅行に行く家族連れでにぎわう"
+    },
     "84bfdc1c876d1d2578b5": {
       "first_seen": "2026-07-23",
       "link": "https://www.watch.impress.co.jp/docs/news/2127172.html",
@@ -2710,6 +2725,11 @@
       "link": "https://gigazine.net/news/20260716-x-open-source",
       "title": "イーロン・マスクがX(旧Twitter)のソースコード全公開を告知"
     },
+    "9ab17eeae51f1da9d6df": {
+      "first_seen": "2026-08-08",
+      "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain",
+      "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす"
+    },
     "9acec6d699751ca85e21": {
       "first_seen": "2026-07-26",
       "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186751000.html",
@@ -2950,6 +2970,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/13/news068.html",
       "title": "「GPT-Liveが“まるで人間”」ってホンマ？ 出汁を「でじる」、トーストを「素焼き」て言うてたけど……"
     },
+    "a829b11265788d0aaa85": {
+      "first_seen": "2026-08-08",
+      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000458",
+      "title": "「ゲーム運営の修羅場過ぎる」 コロコロコミック系漫画サイトの新作が話題 Gitツリー見てガチャ不具合の犯人探し"
+    },
     "a8a2e3209d30ebfd1b00": {
       "first_seen": "2026-07-02",
       "link": "https://www.watch.impress.co.jp/docs/news/2121792.html",
@@ -3174,6 +3199,11 @@
       "first_seen": "2026-07-01",
       "link": "https://www.watch.impress.co.jp/docs/news/2121535.html",
       "title": "日本語翻訳特化の「PLaMo翻訳」にビジネス向け「Proプラン」追加"
+    },
+    "b30cc07eeade4d6ef917": {
+      "first_seen": "2026-08-08",
+      "link": "https://gigazine.net/news/20260807-dress-made-of-living-mycelium",
+      "title": "生きた菌糸で作られた「自ら傷を修復するドレス」が登場、汚れをはじき色やUV保護機能も追加可能"
     },
     "b343f49435bfbc43e3b3": {
       "first_seen": "2026-07-05",
@@ -3644,6 +3674,11 @@
       "first_seen": "2026-07-10",
       "link": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html",
       "title": "安いエアコンが消える？ 「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた"
+    },
+    "cf5edca50ba9995b9ff2": {
+      "first_seen": "2026-08-08",
+      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs",
+      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表"
     },
     "cfc34b6a42d2a4c468d2": {
       "first_seen": "2026-07-05",
@@ -4374,6 +4409,11 @@
       "first_seen": "2026-06-15",
       "link": "https://www.itmedia.co.jp/news/articles/2606/15/news028.html",
       "title": "ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？ 8日間の実験で検証した研究"
+    },
+    "f940d8627d24b811c044": {
+      "first_seen": "2026-08-08",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2131504.html",
+      "title": "お盆休み前半は8日に下り渋滞ピーク 中央道で最大45km"
     },
     "fac1aa87ff67fc752185": {
       "first_seen": "2026-08-02",

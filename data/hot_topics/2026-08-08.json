@@ -1,150 +1,150 @@
 {
   "date": "2026-08-08",
-  "updated_at": "2026-08-08T02:20:53+00:00",
+  "updated_at": "2026-08-08T13:06:54+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "白海豚或携极端暴雨重创东部多省市",
+      "chinese_topic": "人民的健康、体质、幸福一脉相承",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Baijud may bring extreme rain and severe damage to multiple eastern provinces and cities.",
+      "official_english": "People's health, physical fitness, and happiness are intrinsically connected",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A powerful typhoon is being closely watched in eastern China, where forecasts of extreme rain have raised public concern.",
-      "share_angle": "Explain the track and warnings for Typhoon Baijud, and tell viewers how to follow official updates.",
+      "why_hot": "The phrase links public health, national fitness, and well-being into one social vision, resonating widely on Baidu.",
+      "share_angle": "Explain how this official framing promotes public health as a broader social goal for English-speaking audiences.",
       "keywords": [
-        "Typhoon Baijud",
-        "extreme rainfall",
-        "eastern China",
-        "weather warnings"
+        "public health",
+        "wellbeing",
+        "China",
+        "policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": ".9元门票引爆76亿消费",
+      "chinese_topic": "香港正式允许“拒绝抢救”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A low-priced ticket promotion reportedly drives 7.6 billion yuan in consumer spending.",
+      "official_english": "Hong Kong officially allows patients to refuse resuscitation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A discount ticket promotion has reportedly sparked billions of yuan in spending, making it a vivid example of tourism's economic pull.",
-      "share_angle": "Break down the numbers and discuss how low-cost tickets can boost local tourism and consumption.",
+      "why_hot": "The topic touches on end-of-life medical decisions and patient autonomy, stirring public discussion about a sensitive but important issue.",
+      "share_angle": "Clarify what 'refusing rescue' means in Hong Kong's medical context and why it matters for end-of-life care debates.",
       "keywords": [
-        "tourism",
-        "consumption",
-        "discount tickets",
-        "local economy"
+        "Hong Kong",
+        "medical autonomy",
+        "end-of-life care",
+        "resuscitation"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "微信新功能：你可以“撤回”你的撤回",
+      "chinese_topic": "台风白海豚到哪了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "WeChat adds a feature that lets you undo a message recall.",
+      "official_english": "Typhoon White Dolphin: Latest tracking and location updates",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Users are curious and amused by WeChat's new ability to undo a recalled message.",
-      "share_angle": "Show how the new WeChat feature works and what it means for everyday chat etiquette.",
+      "why_hot": "People are anxious to track the typhoon's path, potential landfall, and impact on daily life and travel.",
+      "share_angle": "Use the typhoon as a case study to explain how China tracks and reports approaching storms.",
       "keywords": [
-        "WeChat",
-        "new feature",
-        "message recall",
-        "chat apps"
+        "typhoon",
+        "weather",
+        "White Dolphin",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "一些民办高校招不到学生了",
+      "chinese_topic": "生产也能“拼单”了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Some private colleges are struggling to attract students.",
+      "official_english": "Production joins the 'group-buying' trend",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Enrollment pressure on private colleges touches on a major shift in Chinese higher education and demographics.",
-      "share_angle": "Examine why some private universities are reportedly struggling and what it says about the sector's future.",
+      "why_hot": "The phrase about pooling manufacturing orders reflects fresh thinking about flexible production and digital business models.",
+      "share_angle": "Introduce the idea of 'group-buying production' as an example of China's evolving manufacturing and e-commerce landscape.",
       "keywords": [
-        "private universities",
-        "enrollment",
-        "higher education",
-        "demographics"
+        "manufacturing",
+        "group buying",
+        "economy",
+        "digital platforms"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“新疆阿勒泰八月能滑雪”不实",
+      "chinese_topic": "岁男孩因家长放纵确诊糖尿病",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claims that Altay in Xinjiang can offer skiing in August are untrue.",
+      "official_english": "Boy diagnosed with diabetes after parental indulgence sparks health warning",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral claim about skiing in Altay in August has been challenged, prompting online fact-checking.",
-      "share_angle": "Use the claim as a case study for why travel-season rumors spread and how to verify them.",
+      "why_hot": "A child's diabetes diagnosis linked to parental indulgence raises public worries about children's diets and sedentary lifestyles.",
+      "share_angle": "Turn a health warning into a conversation about childhood nutrition, screen time, and parental responsibility.",
       "keywords": [
-        "Altay",
-        "fact-check",
-        "travel rumor",
-        "Xinjiang"
+        "child diabetes",
+        "parenting",
+        "nutrition",
+        "health warning"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "“中国蔬菜之乡”最高温达41.8℃",
+      "chinese_topic": "这些燃气使用“偏方”千万别信",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's 'vegetable hometown' records a high of 41.8 C.",
+      "official_english": "Don't believe these gas-safety 'home remedies'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Extreme heat in a major vegetable-producing area draws attention to climate impacts on agriculture and daily life.",
-      "share_angle": "Explain how record heat in the vegetable hometown could affect supply chains and farmers.",
+      "why_hot": "Gas safety is a daily life concern, and viral warnings about misleading 'tips' can prevent dangerous accidents.",
+      "share_angle": "Highlight common gas-use myths and how official safety guidance corrects them in everyday Chinese households.",
       "keywords": [
-        "heat wave",
-        "vegetable production",
-        "agriculture",
-        "climate"
+        "gas safety",
+        "misinformation",
+        "home safety",
+        "public service"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "女子被狗舔脚确诊三级暴露 医生回应",
+      "chinese_topic": "“新疆的交警怎么个个像我妈”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Doctor responds after woman confirmed with Grade III rabies exposure from dog licking her foot.",
+      "official_english": "Xinjiang traffic police win praise for caring, 'mom-like' attitude",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A report about a woman needing rabies-wound care after a dog licked her foot has gone viral, mixed with questions and reassurance.",
-      "share_angle": "Share expert explanations of rabies exposure levels and what dog-licking wounds actually mean.",
+      "why_hot": "The affectionate comparison of Xinjiang traffic officers to 'mom' went viral for showing a warm, human side of law enforcement.",
+      "share_angle": "Share a positive, human-centered story about service workers in Xinjiang and what it reflects about everyday life in China.",
       "keywords": [
-        "rabies",
-        "exposure",
-        "doctor",
-        "public health"
+        "Xinjiang",
+        "traffic police",
+        "positive news",
+        "caring service"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "男演员入职景区：比做演员更有安全感",
+      "chinese_topic": "直击苏超：无锡vs盐城",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Actor takes a job at a scenic spot, saying it gives more security than acting.",
+      "official_english": "Jiangsu Super League: Wuxi vs Yancheng",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An actor who found stable work at a tourist site resonates with public discussion about career security.",
-      "share_angle": "Frame it as a human-interest story about changing career expectations, not celebrity gossip.",
+      "why_hot": "Today's live coverage of the Jiangsu Super League highlights grassroots sports enthusiasm and regional pride.",
+      "share_angle": "Use a local football match to explain China's community-level sports leagues and why they are gaining popularity.",
       "keywords": [
-        "actor",
-        "career change",
-        "job security",
-        "tourism industry"
+        "Jiangsu Super League",
+        "grassroots sports",
+        "football",
+        "regional pride"
       ]
     }
   ]

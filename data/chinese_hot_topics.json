@@ -1,142 +1,142 @@
 {
   "date": "2026-08-09",
-  "updated_at": "2026-08-09T02:28:37+00:00",
+  "updated_at": "2026-08-09T13:10:13+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "以军士兵把枪口对准中国记者",
+      "chinese_topic": "构建更高水平的全民健身公共服务体系",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Israeli soldiers reportedly aim weapons at a Chinese journalist",
+      "official_english": "Building a Higher-Level Public Service System for National Fitness",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The reported incident has triggered concern about the safety of Chinese journalists operating in conflict areas.",
-      "share_angle": "Examine the pressures on journalists in conflict zones and why this moment resonates with Chinese audiences.",
+      "why_hot": "National fitness policies directly affect public health and access to sports facilities, making the topic relevant to a wide audience.",
+      "share_angle": "Use plain language to explain what a higher-level public service system means for everyday people, from community facilities to health campaigns.",
       "keywords": [
-        "Israel",
-        "Chinese journalist",
-        "press safety"
+        "national fitness",
+        "public service",
+        "sports"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "台风橙色预警！白海豚逼近浙闽沿海",
+      "chinese_topic": "台风白海豚在浙江玉环沿海登陆",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Orange alert issued as Typhoon White Dolphin approaches China's Zhejiang-Fujian coast",
+      "official_english": "Typhoon Dolphin Makes Landfall on Coast of Yuhuan, Zhejiang",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A severe-weather warning is active as Typhoon White Dolphin moves toward Zhejiang and Fujian; many are tracking the storm.",
-      "share_angle": "Explain what an orange typhoon warning means and how coastal cities prepare for the impact.",
+      "why_hot": "A typhoon landfall in a populous coastal province is a major event that triggers safety alerts and affects millions of people.",
+      "share_angle": "Explain the basics of typhoon landfalls, why people evacuate, and what local authorities typically do to protect residents.",
       "keywords": [
-        "Typhoon White Dolphin",
-        "orange alert",
-        "Zhejiang Fujian"
+        "Typhoon Dolphin",
+        "Yuhuan",
+        "landfall"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "大爷听AI洒农药 150亩苗一夜枯萎",
+      "chinese_topic": "香港刷新1884年以来最高气温纪录",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Elderly farmer loses 150 mu of seedlings after following AI pesticide advice",
+      "official_english": "Hong Kong Records Highest Temperature Since 1884",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The story combines a surprising rural technology failure with real agricultural stakes, sparking debate about AI reliability.",
-      "share_angle": "Use it as a cautionary tale about unverified AI advice in agriculture and the need for oversight.",
+      "why_hot": "Breaking a roughly 140-year temperature record makes extreme heat a concrete climate issue for one of Asia's most crowded cities.",
+      "share_angle": "Turn the record into a clear lesson about urban heat, climate change and personal heat-safety tips.",
       "keywords": [
-        "AI agriculture",
-        "pesticide spraying",
-        "rural technology"
+        "Hong Kong",
+        "heat record",
+        "climate change"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "孙子考取上海交大 爷爷感谢亲家母",
+      "chinese_topic": "如何看待当前物价运行态势",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Grandfather thanks grandson's maternal grandmother after university admission",
+      "official_english": "Assessing the Current Price Trends in China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A warm family moment involving top university admission struck a chord because education is seen as a family achievement.",
-      "share_angle": "Frame it as a heartwarming look at family support and the value placed on education in China.",
+      "why_hot": "Price movements are tied to daily living costs, so discussions about the current price situation draw immediate attention from households.",
+      "share_angle": "Break down why price changes matter for households and what terms like overall price level mean in official statements.",
       "keywords": [
-        "Shanghai Jiao Tong University",
-        "family",
-        "education success"
+        "prices",
+        "living costs",
+        "economy"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "“未录满”本科专业排行榜出炉",
+      "chinese_topic": "“开学三件套”全线暴涨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Ranking of undergraduate majors left unfilled in admission released",
+      "official_english": "Back-to-School 'Three Essentials' See Sharp Price Increases",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "With admissions wrapping up, students and parents are eager to see which majors are less competitive and what that says about career prospects.",
-      "share_angle": "Explain how the list reflects changing student preferences and what under-enrollment means for universities.",
+      "why_hot": "As the new term approaches, the rising cost of school supplies is a relatable pocketbook issue for parents across China.",
+      "share_angle": "Discuss the seasonal demand behind back-to-school price rises and what families can do to avoid overspending.",
       "keywords": [
-        "university admissions",
-        "undergraduate majors",
-        "education trends"
+        "back to school",
+        "school supplies",
+        "cost of living"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "这种手机壳可能是医疗垃圾做的",
+      "chinese_topic": "浙江省甬江发生2026年第1号洪水",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Phone cases may be made from medical waste, report says",
+      "official_english": "No. 1 Flood of 2026 Hits Yong River in Zhejiang",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The idea that everyday phone accessories might be made from discarded medical materials is alarming and quickly spread online.",
-      "share_angle": "Use it as a consumer watchdog story: how to avoid hazardous accessories and what regulators should check.",
+      "why_hot": "The first numbered flood of the year on a major Zhejiang river highlights the severity of recent storm rainfall and the need for flood control.",
+      "share_angle": "Explain how rivers are classified into numbered floods and why this matters for disaster preparedness.",
       "keywords": [
-        "phone case",
-        "medical waste",
-        "consumer safety"
+        "Yong River",
+        "flood",
+        "Zhejiang"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "上交绝杀清华 姚明笑出表情包",
+      "chinese_topic": "原字节跳动机器人一号位加入小米",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shanghai Jiao Tong beats Tsinghua with buzzer-beater; Yao Ming's reaction goes viral",
+      "official_english": "Former Head of ByteDance Robotics Joins Xiaomi",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A dramatic buzzer-beater between two elite universities and Yao Ming's meme-worthy reaction made it a fun crossover of sports and internet culture.",
-      "share_angle": "Present it as a light-hearted sports story and a window into China's growing college basketball scene.",
+      "why_hot": "Senior talent moves between major Chinese tech companies are closely watched as signals of strategic direction in robotics and smart hardware.",
+      "share_angle": "Frame the move as a window into China's robotics race and why consumer tech giants are investing in advanced automation.",
       "keywords": [
-        "basketball",
-        "Yao Ming",
-        "university rivalry"
+        "ByteDance",
+        "Xiaomi",
+        "robotics"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "车企回归实体按键",
+      "chinese_topic": "南航回应深圳飞无锡航班起飞时遭雷击",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Automakers bring back physical buttons in car interiors",
+      "official_english": "China Southern Responds to Report of Lightning Striking Shenzhen-Wuxi Flight During Takeoff",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Drivers have long complained about touch screens and voice controls; the switch back to buttons taps into a broader debate on usability and safety.",
-      "share_angle": "Explore why car companies changed course and what it means for driver experience and automotive design.",
+      "why_hot": "Any incident involving a passenger plane sounds alarming; the airline's response matters for public trust in aviation safety.",
+      "share_angle": "Explain why lightning reports involving aircraft are investigated seriously and what passengers should know about flight safety protocols.",
       "keywords": [
-        "automakers",
-        "physical buttons",
-        "car design"
+        "China Southern",
+        "lightning strike",
+        "aviation safety"
       ]
     }
   ]

@@ -1,150 +1,142 @@
 {
   "date": "2026-08-10",
-  "updated_at": "2026-08-10T02:32:31+00:00",
+  "updated_at": "2026-08-10T13:36:59+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "台风登陆半小时前后判若两地",
+      "chinese_topic": "哥伦比亚发生7.5级地震",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon Landfall: Two Radically Different Scenes Half an Hour Apart",
+      "official_english": "7.5-magnitude earthquake hits Colombia",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A single typhoon landfall produced two dramatically different scenes in just 30 minutes, making it one of the most visually striking weather moments of the day.",
-      "share_angle": "Use side-by-side imagery to explain how typhoon conditions can change rapidly during landfall and how communities prepare for extreme weather.",
+      "why_hot": "A major earthquake in Colombia is a breaking international news event with global attention and potential humanitarian impact.",
+      "share_angle": "Update global viewers on the quake and explain how Chinese social media is reacting to international disasters.",
       "keywords": [
-        "typhoon",
-        "landfall",
-        "extreme weather",
-        "China"
+        "Colombia",
+        "earthquake",
+        "international news"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "“上海女子在台风中坠楼”不实",
+      "chinese_topic": "外交部：百余名菲律宾公民被依法处理",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim That Woman Fell From Building During Shanghai Typhoon Is False",
+      "official_english": "Foreign Ministry: More than 100 Philippine nationals handled according to law",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A dramatic rumor spread quickly during the typhoon and was later denied, highlighting how fast misinformation can travel in a disaster.",
-      "share_angle": "Show how to verify fast-moving news during emergencies and why false claims become harder to correct once they go viral.",
+      "why_hot": "A rare official statement on foreign nationals draws attention because it touches on diplomacy, law enforcement, and China-Philippines relations.",
+      "share_angle": "Break down the official wording and separate verified facts from speculation about bilateral ties.",
       "keywords": [
-        "misinformation",
-        "typhoon",
-        "fact-checking",
-        "Shanghai"
+        "foreign ministry",
+        "Philippines",
+        "rule of law"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "宇树科技今起申购",
+      "chinese_topic": "白海豚突然大拐弯 走出罕见路线",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Unitree Robotics Begins Share Subscription Today",
+      "official_english": "White dolphins make rare sharp turn, tracing unusual route",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The robotics company's IPO subscription opened to strong investor attention, especially as robots and AI become a major focus in China's tech sector.",
-      "share_angle": "Explain what Unitree's listing means for China's robotics and AI ambitions, and how retail investors are reacting to the subscription.",
-      "keywords": [
-        "Unitree",
-        "IPO",
-        "robotics",
-        "A-share"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "手机真会“偷听”我们说话吗",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Can Phones Really 'Eavesdrop' on Conversations?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Many users feel smartphones listen to them after seeing ads that match private conversations, sparking intense debate over digital privacy.",
-      "share_angle": "Break down how mobile apps collect data and explain the gap between 'eavesdropping' fears and actual ad-targeting algorithms.",
-      "keywords": [
-        "privacy",
-        "smartphone",
-        "targeted advertising",
-        "data collection"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "存款市场罕见两极分化",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Deposit Market Shows Rare Polarization",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "An unusual split in deposit trends caught the public's attention, raising questions about how people are saving and how banks compete for deposits.",
-      "share_angle": "Use this topic to explain changes in household saving behavior and what deposit-market polarization means for ordinary account holders.",
-      "keywords": [
-        "deposits",
-        "banking",
-        "savings",
-        "economy"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "多地高分生扎堆填报中本贯通",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "High-Scoring Students Flock to 'Secondary-to-Undergraduate' Programs in Multiple Regions",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Students with strong exam scores are increasingly choosing the 'secondary-to-undergraduate' track, challenging old stereotypes about vocational education.",
-      "share_angle": "Explain how this pathway works, why families are embracing it, and what it says about education and employment priorities in China.",
-      "keywords": [
-        "education",
-        "vocational education",
-        "China",
-        "college admissions"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "白海豚下一站华北",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "White Dolphin Sightings Point to North China as Next Stop",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A white dolphin story tied to North China sparked public curiosity about unusual marine animal appearances and what they signal for the environment.",
-      "share_angle": "Use this to explore marine conservation, shifting habitats, and how sightings of rare wildlife become public events.",
+      "why_hot": "The unusual route taken by white dolphins fascinates people and feeds curiosity about marine life and conservation.",
+      "share_angle": "Use the dolphins' rare route to talk about marine habitats and conservation in Chinese waters.",
       "keywords": [
         "white dolphin",
         "marine life",
-        "North China",
         "conservation"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "这些中国风热词上新了",
+      "rank": 4,
+      "chinese_topic": "农业“变酷”只是第一步",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New 'Chinese Style' Buzzwords Enter the Lexicon",
+      "official_english": "Agriculture's 'cool' transformation is only the first step",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A fresh batch of 'Chinese style' buzzwords went viral, offering a fun window into how contemporary Chinese culture blends tradition and internet trends.",
-      "share_angle": "Pick several popular buzzwords, explain their meanings and origins, and show what they reveal about Chinese youth culture and identity.",
+      "why_hot": "The headline taps into a popular conversation about modernizing farming and making agriculture attractive to younger generations.",
+      "share_angle": "Explain why 'cool agriculture' is trending in China and what it reveals about rural economic shifts.",
       "keywords": [
-        "buzzwords",
-        "Chinese culture",
-        "internet language",
-        "trends"
+        "agriculture",
+        "rural China",
+        "modern farming"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "国内发现多起“Sorry”勒索病毒攻击",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple 'Sorry' ransomware attacks detected in China",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Ransomware attacks directly affect internet users and businesses, making cybersecurity a public concern.",
+      "share_angle": "Give practical context about how ransomware spreads and why these attacks are a growing global issue.",
+      "keywords": [
+        "ransomware",
+        "cybersecurity",
+        "Sorry virus"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "上海将苏州河水强排至黄浦江",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Shanghai to pump Suzhou Creek water into Huangpu River",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Flood control measures in a megacity like Shanghai affect millions of residents and prompt discussion about urban resilience.",
+      "share_angle": "Explain what 'force-pumping' river water means and how cities manage flood risks.",
+      "keywords": [
+        "Shanghai",
+        "Suzhou Creek",
+        "flood control"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "男单前10国乒仅剩王楚钦、林诗栋",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Only Wang Chuqin and Lin Shidong remain from China in men's singles top 10",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Table tennis is a national sport in China, so ranking changes in the men's singles top 10 spark fan discussion and concern.",
+      "share_angle": "Put the ranking shift in context for international viewers who follow table tennis.",
+      "keywords": [
+        "table tennis",
+        "Wang Chuqin",
+        "Lin Shidong"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "《肖申克的救赎》内地定档 豆瓣9.7分",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "The Shawshank Redemption set for mainland release with 9.7 Douban score",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A beloved classic film finally getting a mainland theatrical release excites movie fans and sparks nostalgia.",
+      "share_angle": "Connect the film's enduring popularity in China to broader movie-going culture and audience expectations.",
+      "keywords": [
+        "Shawshank Redemption",
+        "mainland release",
+        "Douban"
       ]
     }
   ]

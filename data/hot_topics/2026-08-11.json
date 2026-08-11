@@ -1,158 +1,150 @@
 {
   "date": "2026-08-11",
-  "updated_at": "2026-08-11T02:25:56+00:00",
+  "updated_at": "2026-08-11T13:25:39+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "不满房东涨租 于东来自掏65亿建商场",
+      "chinese_topic": "月销量前十仅一款燃油车",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Retail tycoon Yu Donglai builds his own mall with 6.5 billion yuan after rent dispute",
+      "official_english": "Monthly Top 10 Auto Sales Include Only One Gasoline Vehicle",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Yu Donglai, founder of the popular Chinese retail chain Pangdonglai, reportedly spent 6.5 billion yuan of his own money to build a shopping mall after being unhappy with a rent increase. The story resonates with public sentiment about high commercial rents and the influence of a successful entrepreneur.",
-      "share_angle": "This story can be used to discuss retail economics, landlord-tenant dynamics, and Yu Donglai's reputation as a people-focused businessman. It highlights how a business owner reacted to a common pressure point, offering a lens into Chinese consumer culture and entrepreneurship.",
+      "why_hot": "The data point has sparked discussion about how quickly China's auto market is shifting away from gasoline cars.",
+      "share_angle": "Explain what 'only one gasoline car in top 10' says about China's EV boom, and what it means for global carmakers.",
       "keywords": [
-        "Yu Donglai",
-        "Pangdonglai",
-        "rent dispute",
-        "shopping mall",
-        "6.5 billion yuan"
+        "China auto market",
+        "EV sales",
+        "fuel cars",
+        "monthly sales"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "上海降水量破纪录 学生舍不得点外卖",
+      "chinese_topic": "上好佳薯片被曝吃出“烘干蟑螂”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shanghai sees record rainfall, students hesitate to order takeout",
+      "official_english": "Oishi Potato Chips Reportedly Found with Dried Cockroach",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Shanghai experienced record-breaking rainfall, and a touching detail emerged that some students chose not to order takeout out of concern for delivery riders. This sparked warm discussions about empathy and extreme weather.",
-      "share_angle": "This is a relatable human-interest story that can lead into broader topics such as extreme weather events in China, the gig economy, and social kindness during difficult conditions.",
+      "why_hot": "A viral food-safety complaint about a popular snack brand has reignited public concerns about quality control and corporate accountability.",
+      "share_angle": "Break down how a snack complaint went viral and what happens when food-safety scandals hit major brands in China.",
       "keywords": [
-        "Shanghai",
-        "record rainfall",
-        "takeout",
-        "delivery riders",
-        "empathy"
+        "food safety",
+        "Oishi chips",
+        "viral complaint",
+        "quality control"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "新能源车为何越造越大",
+      "chinese_topic": "租金从800元降到450元房东决定不租了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why are new energy vehicles getting bigger?",
+      "official_english": "Landlord Decides Not to Rent After Rent Is Lowered from 800 to 450 Yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A trending debate about the growing size of new energy vehicles (NEVs) in China. This connects to consumer preferences, battery technology, and automotive design trends.",
-      "share_angle": "An opportunity to explain the market logic behind larger EVs: bigger batteries for longer range, shifting consumer tastes, and the implications for urban parking and infrastructure.",
+      "why_hot": "A landlord reportedly choosing not to rent after rent dropped from 800 to 450 yuan highlights strains in the rental market and landlord-tenant relations.",
+      "share_angle": "Use this landlord-tenant story to explain China's rental market pressures, changing rents, and housing affordability challenges.",
       "keywords": [
-        "NEV",
-        "EV size",
-        "China auto market",
-        "battery range",
-        "design trends"
+        "rental market",
+        "landlord",
+        "housing",
+        "China rent"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "豆包回应“推荐酒店抽取12%佣金”",
+      "chinese_topic": "“星巴克该管管只坐不买的人”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "AI assistant Doubao responds to claims of a 12% commission on hotel recommendations",
+      "official_english": "Starbucks Faces Calls to Deal with Customers Who Sit Without Buying",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Doubao, a popular Chinese AI assistant, addressed allegations that it takes a 12% commission when recommending hotels. This raised questions about AI monetization and the impartiality of AI-generated suggestions.",
-      "share_angle": "This is highly relevant to global conversations about AI ethics, sponsored content, and the business models of AI assistants. It can be framed around transparency and user trust.",
+      "why_hot": "A debate over whether Starbucks should limit customers who sit without buying has triggered wider discussion about coffee shop etiquette and business costs.",
+      "share_angle": "Frame the Starbucks debate as a question of public space versus private business, showing how Chinese netizens are divided over paying for a seat.",
       "keywords": [
-        "Doubao",
-        "AI assistant",
-        "commission",
-        "hotel recommendations",
-        "transparency"
+        "Starbucks",
+        "public space",
+        "coffee shop etiquette",
+        "China debate"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "朱雀三号遥二运载火箭发射推迟",
+      "chinese_topic": "免费领鸡蛋骗了60多名留守老人",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhuque-3 Y2 carrier rocket launch postponed",
+      "official_english": "Free Egg Scam Cheats More Than 60 Left-Behind Elderly People",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The Zhuque-3 Y2, a reusable rocket developed by Chinese private company LandSpace, had its launch postponed. This attracted attention from space enthusiasts and observers of China's commercial space industry.",
-      "share_angle": "This can serve as a quick update on China's private spaceflight efforts and the technical hurdles in developing reusable rockets, as postponements are normal in the industry.",
+      "why_hot": "Reports of more than 60 left-behind elderly people being scammed with free eggs have drawn anger and sympathy, again putting elderly fraud prevention in the spotlight.",
+      "share_angle": "Tell the story of the free-egg scam as an example of fraud targeting vulnerable elderly, and explain who 'left-behind elderly' are in China.",
       "keywords": [
-        "Zhuque-3",
-        "LandSpace",
-        "rocket launch",
-        "postponed",
-        "commercial space"
+        "elderly scam",
+        "left-behind elderly",
+        "fraud prevention",
+        "China"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "博物馆“非必要不预约”",
+      "chinese_topic": "明天将上演三大天象奇观",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Museums adopt 'no reservation unless necessary' policy",
+      "official_english": "Three Major Astronomical Phenomena to Appear Tomorrow",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Discussion about Chinese museums encouraging visitors to visit without advanced reservations unless necessary. This is part of a broader effort to make museums more accessible and reduce bureaucracy.",
-      "share_angle": "A good topic for discussing cultural access, tourism policies, and how museums balance visitor flow with the convenience of the public.",
+      "why_hot": "A rare lineup of three astronomical phenomena in one day has excited skywatchers and made science a trending topic.",
+      "share_angle": "Preview the three celestial events and explain how people in China can watch them, turning the news into a practical viewing guide.",
       "keywords": [
-        "museums",
-        "reservation policy",
-        "China culture",
-        "tourism",
-        "accessibility"
+        "astronomy",
+        "skywatching",
+        "celestial events",
+        "China science"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "从一笔账单看60万亿消费KPI的底气",
+      "chinese_topic": "女子戴金手镯做核磁共振镯子抖动",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A single bill reveals confidence in the 60 trillion yuan consumption KPI",
+      "official_english": "Woman's Gold Bracelet Vibrates During MRI Examination",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This topic uses an individual spending example to illustrate why China can be confident about reaching a consumption target of 60 trillion yuan. It resonates with the public as an economic discussion grounded in everyday life.",
-      "share_angle": "This can be explained as a window into China's consumption patterns, domestic demand outlook, and how economic goals are communicated through relatable examples.",
+      "why_hot": "A woman's gold bracelet reportedly vibrating during an MRI has become a widely shared safety warning about metal objects and medical imaging.",
+      "share_angle": "Turn the MRI bracelet incident into a simple health-and-safety explainer about why metal jewelry is dangerous during medical imaging.",
       "keywords": [
-        "consumption",
-        "60 trillion",
-        "Chinese economy",
-        "receipt",
-        "KPI"
+        "MRI safety",
+        "gold bracelet",
+        "medical imaging",
+        "health warning"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "商场负一层遭积水倒灌 展厅车漂走",
+      "chinese_topic": "苹果的买方霸权 第一次在中国失效",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Water pours into mall basement, showroom cars float away",
+      "official_english": "Apple's Buyer Dominance Fails in China for the First Time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "During heavy rain, a shopping mall's basement floor flooded and cars on display in a showroom were seen floating away. The dramatic scene quickly drew attention, highlighting the severity of urban flooding.",
-      "share_angle": "A striking example of extreme weather's impact on cities. This can be used to discuss climate adaptation, urban infrastructure resilience, and the challenges cities face with heavy rainfall.",
+      "why_hot": "A claim that Apple's buyer dominance has failed in China for the first time has fueled discussion about shifting power between global tech giants and the Chinese market.",
+      "share_angle": "Explain Apple's buyer power and what 'first failure in China' means for its pricing strategy and supply-chain approach.",
       "keywords": [
-        "urban flooding",
-        "mall basement",
-        "showroom cars",
-        "heavy rain",
-        "infrastructure"
+        "Apple",
+        "China market",
+        "buyer power",
+        "tech industry"
       ]
     }
   ]

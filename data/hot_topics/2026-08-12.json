@@ -1,150 +1,150 @@
 {
   "date": "2026-08-12",
-  "updated_at": "2026-08-12T02:42:22+00:00",
+  "updated_at": "2026-08-12T13:37:17+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "C919国产大飞机正式执飞国际商业航线",
+      "chinese_topic": "朱镕基同志逝世",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's C919 begins operating an international commercial route",
+      "official_english": "Former Chinese Premier Zhu Rongji Passes Away",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's homegrown narrow-body jet has reached a new milestone by officially starting service on an international commercial route, drawing national pride and industry attention.",
-      "share_angle": "Break down what the C919's international commercial service means for Chinese aviation and global competition.",
+      "why_hot": "One of China's most recognizable former leaders has died, prompting national mourning and retrospectives on his economic reforms.",
+      "share_angle": "Explain Zhu Rongji's legacy in China's reform era and why the announcement is dominating Chinese social media.",
       "keywords": [
-        "C919",
-        "aviation",
-        "China tech",
-        "international route"
+        "Zhu Rongji",
+        "China politics",
+        "former premier",
+        "reform era"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "多地试点：直升高中",
+      "chinese_topic": "第一视角从中国空间站看地球",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple localities pilot direct admission to high school",
+      "official_english": "First-Person View of Earth From China's Space Station",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Several places are testing policies that let students enter high school without the usual entrance exam, fueling debate over fairness and exam pressure.",
-      "share_angle": "Explain how the pilot works, what problems it aims to solve, and why it is controversial.",
+      "why_hot": "A rare first-person view of Earth from China's space station gives viewers a stunning orbital perspective.",
+      "share_angle": "Show the video and explain what everyday life looks like aboard China's space station.",
       "keywords": [
-        "education",
-        "direct admission",
-        "high school",
-        "reform"
+        "China Space Station",
+        "Earth view",
+        "astronauts",
+        "space science"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "郭兰英逝世 享年97岁",
+      "chinese_topic": "北京全市大雨到暴雨 8区现大暴雨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Guo Lanying, legendary Chinese singer, dies at 97",
+      "official_english": "Beijing Braces for Heavy Rain, Downpours in 8 Districts",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Guo Lanying was a revered figure in Chinese music and opera, and her passing at 97 prompted an outpouring of tributes and memories.",
-      "share_angle": "Highlight her artistic legacy and the 1994 decision to donate her performance copyrights to the state.",
+      "why_hot": "The capital is under a heavy rain alert with major flooding disrupting the city, affecting millions.",
+      "share_angle": "Break down how cities like Beijing handle extreme rainfall and what flooding means for residents.",
       "keywords": [
-        "Guo Lanying",
-        "Chinese opera",
-        "tribute",
-        "cultural legacy"
+        "Beijing",
+        "heavy rain",
+        "flooding",
+        "weather alert"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "梁文锋跻身全球最富有50人之列",
+      "chinese_topic": "荣耀发布首款机器人手机 9999元起售",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Liang Wenfeng ranks among the world's 50 richest people",
+      "official_english": "Honor Launches Its First Robot Phone, Starting at 9,999 Yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A Chinese entrepreneur's appearance in a global top-50 wealth ranking sparked discussion about wealth creation and the technology economy.",
-      "share_angle": "Examine what the ranking reflects about China's tech sector and the public response to new wealth.",
+      "why_hot": "The first robot phone from Honor marks a new consumer-tech category and launches at a premium price.",
+      "share_angle": "Explain what a robot phone can do and how it fits into the broader smartphone-and-AI race.",
       "keywords": [
-        "Liang Wenfeng",
-        "wealth ranking",
-        "China tech",
-        "entrepreneur"
+        "Honor",
+        "robot phone",
+        "AI phone",
+        "smartphone"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "月12日地球将失重7秒系谣言",
+      "chinese_topic": "英仙座流星雨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that Earth will lose gravity for 7 seconds on August 12 is a rumor",
+      "official_english": "Perseid Meteor Shower Lights Up Night Sky",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral online claim about a seven-second loss of gravity on Aug 12 has been widely debunked, showing how quickly space misinformation spreads.",
-      "share_angle": "Use the rumor as a chance to explain gravity and how to verify viral science claims.",
+      "why_hot": "The annual Perseid meteor shower is peaking, offering a visually striking skywatching event worldwide.",
+      "share_angle": "Give a quick guide on how and when to watch the Perseid meteor shower from different regions.",
       "keywords": [
-        "gravity",
-        "rumor",
-        "science literacy",
-        "misinformation"
+        "Perseid",
+        "meteor shower",
+        "astronomy",
+        "skywatching"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "赵一鸣4块牛肉干64元复称仅17元",
+      "chinese_topic": "中国市场不再是BBA的提款机",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Beef jerky at Zhao Yiming snack store priced at 64 yuan but reweighed at 17 yuan draws scrutiny",
+      "official_english": "Chinese Market No Longer a Cash Cow for BBA Automakers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A consumer complained that four pieces of beef jerky were charged as 64 yuan but a recheck showed about 17 yuan, triggering anger over possible short weighting.",
-      "share_angle": "Show consumers how to check bulk-food weights and explain the legal standards for weighing in stores.",
+      "why_hot": "Discussion over whether premium German automakers still dominate China's market reflects a shift in consumer preferences toward domestic EV brands.",
+      "share_angle": "Use it to explain the rise of Chinese EVs and the changing competitive landscape for traditional automakers.",
       "keywords": [
-        "beef jerky",
-        "consumer rights",
-        "short weight",
-        "food pricing"
+        "BBA",
+        "Chinese auto market",
+        "German luxury cars",
+        "EV transition"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "四个年轻人拍语文课本单条播放破亿",
+      "chinese_topic": "举报哥哥冒名上大学 弟弟最新发声",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Four young creators' video inspired by Chinese textbooks surpasses 100 million views",
+      "official_english": "Younger Brother Speaks Out After Reporting Elder Brother for Allegedly Using Another's Name to Enter University",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A short video recreating scenes from Chinese-language textbooks has resonated with viewers, surpassing 100 million plays and sparking nostalgia.",
-      "share_angle": "Discuss the power of textbook memories and how young creators are turning school culture into viral content.",
+      "why_hot": "A case of alleged identity theft in university admissions has resurfaced, raising questions about education fairness.",
+      "share_angle": "Explain the background of university admission checks and why this family dispute has become a public issue.",
       "keywords": [
-        "Chinese textbooks",
-        "viral video",
-        "nostalgia",
-        "young creators"
+        "university admission",
+        "identity fraud",
+        "education fairness",
+        "China college"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "北京暴雨",
+      "chinese_topic": "成都一面馆老板松弛感营业火爆全网",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Heavy rain hits Beijing",
+      "official_english": "Chengdu Noodle Shop Owner's Laid-Back Style Goes Viral",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heavy rain in the capital has become a top concern, affecting commutes and daily routines.",
-      "share_angle": "Give a practical update on the rain's impact and offer safety tips for extreme weather.",
+      "why_hot": "A noodle shop owner in Chengdu has become an internet sensation for an unusually carefree way of doing business.",
+      "share_angle": "Share this lighter story to show a different side of small-business culture in China.",
       "keywords": [
-        "Beijing",
-        "heavy rain",
-        "weather",
-        "safety"
+        "Chengdu",
+        "noodle shop",
+        "viral",
+        "small business"
       ]
     }
   ]

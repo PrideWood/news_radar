@@ -1,142 +1,142 @@
 {
   "date": "2026-08-13",
-  "updated_at": "2026-08-13T02:45:24+00:00",
+  "updated_at": "2026-08-13T13:38:10+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "总书记强调统筹好这几对重要关系",
+      "chinese_topic": "城市不仅要有高度 更要有温度",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese leader stresses balancing key relationships in development",
+      "official_english": "Cities should have not only height but also warmth.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The item sits at the top of Baidu's realtime list, showing strong public interest in the latest policy direction.",
-      "share_angle": "Break down what 'several important relationships' means and why such guidance shapes China's policy agenda.",
+      "why_hot": "The phrase has become a hot topic in discussions about urban development and social care, reflecting public expectations for human-centered cities.",
+      "share_angle": "Explain the meaning behind the phrase and why it resonates in urban China.",
       "keywords": [
-        "policy",
-        "leadership",
-        "China"
+        "urban development",
+        "people-centered",
+        "city governance"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "朱镕基同志逝世",
+      "chinese_topic": "广东宣布：上调最低工资标准",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Former Chinese premier Zhu Rongji passes away",
+      "official_english": "Guangdong announces an increase in the minimum wage.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A former premier's death is a major national news event and triggers historical retrospectives.",
-      "share_angle": "Explain his public career and why this news resonates with people in China.",
+      "why_hot": "A direct livelihood issue affecting millions of workers, sparking discussion about wages, living costs, and regional economic gaps.",
+      "share_angle": "Break down what the minimum wage increase means for workers and businesses in Guangdong.",
       "keywords": [
-        "Zhu Rongji",
-        "obituary",
-        "reform era"
+        "minimum wage",
+        "Guangdong",
+        "livelihood"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "第一视角从中国空间站看地球",
+      "chinese_topic": "暴雨过后这7类食物一口都别碰",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First-person view of Earth from China's space station",
+      "official_english": "After heavy rain, seven types of food should be avoided.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Space footage fascinates broad audiences and showcases China's crewed space program.",
-      "share_angle": "Explain what the footage shows and how astronauts record such views in orbit.",
+      "why_hot": "A timely public health warning after flood conditions, important for preventing foodborne illness.",
+      "share_angle": "Summarize the warning and give practical advice on flood-related food safety.",
       "keywords": [
-        "space station",
-        "Earth",
-        "China space"
+        "food safety",
+        "floods",
+        "public health"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "新规来了：禁止在居民楼开油烟餐饮",
+      "chinese_topic": "中国持续刷新生态“成绩单”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New rule bans fume-heavy restaurants in residential buildings",
+      "official_english": "China continues to post a strong ecological record.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This directly affects urban residents and small food businesses, sparking debate about city life.",
-      "share_angle": "Summarize the scope of the rule and its possible effects on neighborhoods and street food culture.",
+      "why_hot": "Official environmental achievements become a talking point, especially as sustainability remains a global concern.",
+      "share_angle": "Use the official framing to discuss China's environmental policies and remaining challenges.",
       "keywords": [
-        "restaurant regulation",
-        "urban living",
-        "food safety"
+        "ecology",
+        "green development",
+        "environment"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "DeepSeek最新版本藏了一个大招",
+      "chinese_topic": "DeepSeek官宣涨价",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek's latest version hides a major feature",
+      "official_english": "DeepSeek officially announces a price increase.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI releases are closely watched, and a 'hidden big move' generates buzz in tech circles.",
-      "share_angle": "Look at what is known about the update and what the 'big move' might mean for AI users.",
+      "why_hot": "A major Chinese AI company raising prices draws attention to commercial pressures in the AI industry and the impact on developers and users.",
+      "share_angle": "Analyze why AI companies raise prices and what it signals for the broader tech sector.",
       "keywords": [
         "DeepSeek",
-        "AI",
-        "tech update"
+        "AI pricing",
+        "tech economy"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "银行能办结婚证了",
+      "chinese_topic": "宇树科技遭弃购8734股",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Bank branches now offer marriage registration services",
+      "official_english": "Unitree Technology sees 8,734 shares left unsubscribed.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The unusual combination of banking and civil affairs sparks curiosity and convenience discussions.",
-      "share_angle": "Explain how this service works and what it signals for integrated public services.",
+      "why_hot": "A high-profile robotics firm's IPO still had unsubscribed shares, drawing attention to investor sentiment in China's capital markets.",
+      "share_angle": "Explain the Chinese IPO subscription process and why even a popular startup can see abandoned orders.",
       "keywords": [
-        "marriage registration",
-        "banks",
-        "public services"
+        "Unitree",
+        "IPO",
+        "investor sentiment"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "比Lululemon还贵的瑜伽服来中国了",
+      "chinese_topic": "陈妤颉全锦赛破纪录夺冠",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yoga wear priced higher than Lululemon enters China market",
+      "official_english": "Chen Yujie breaks a record and wins at the national championships.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The high price point triggers conversation about premium fitness consumption in China.",
-      "share_angle": "Analyze why global brands bring high-end activewear to Chinese consumers.",
+      "why_hot": "A young athlete's record-breaking performance energizes sports fans and highlights emerging talent in Chinese athletics.",
+      "share_angle": "Highlight her achievement and its significance for the future of Chinese track and field.",
       "keywords": [
-        "yoga wear",
-        "premium brands",
-        "China market"
+        "Chen Yujie",
+        "record",
+        "national championships"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "浙江一公司收到美国2.62亿元关税退税",
+      "chinese_topic": "罕见金色蚊子",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhejiang firm receives 262 million yuan in U.S. tariff rebate",
+      "official_english": "A rare golden mosquito has attracted attention.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A concrete business case tied to tariff policy catches attention amid U.S.-China trade discussions.",
-      "share_angle": "Explain how such a rebate can happen and what it says about current trade frictions.",
+      "why_hot": "An unusual natural sighting sparks public curiosity and becomes a light-hearted viral topic.",
+      "share_angle": "Use the story as an entry point to discuss insect diversity and why odd wildlife news spreads.",
       "keywords": [
-        "tariff",
-        "U.S.-China trade",
-        "Zhejiang"
+        "golden mosquito",
+        "insect",
+        "viral curiosity"
       ]
     }
   ]

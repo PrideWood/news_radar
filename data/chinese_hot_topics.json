@@ -1,142 +1,142 @@
 {
   "date": "2026-08-15",
-  "updated_at": "2026-08-15T01:49:45+00:00",
+  "updated_at": "2026-08-15T12:54:13+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "大规模涨价 手机快买不起了",
+      "chinese_topic": "纪念江泽民同志诞辰100周年大会",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Smartphone prices surge sharply, raising affordability concerns",
+      "official_english": "Meeting held to commemorate the 100th anniversary of Comrade Jiang Zemin's birth",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The topic has sparked widespread discussion about how fast-rising handset prices are affecting consumer purchasing power.",
-      "share_angle": "Explain the trend of rising smartphone prices and what it means for the average consumer and the broader market.",
+      "why_hot": "A major state commemoration of a former Chinese leader, widely covered and discussed on Baidu.",
+      "share_angle": "Explain the historical significance of Jiang Zemin's leadership and how state commemorations are typically framed in Chinese media.",
       "keywords": [
-        "smartphone prices",
-        "consumer market",
-        "price surge"
+        "Jiang Zemin",
+        "centenary",
+        "state commemoration"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "河南暴雨",
+      "chinese_topic": "绿色承诺一以贯之",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Heavy rainstorms hit Henan province",
+      "official_english": "China upholds its enduring green commitment",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe rainstorms in Henan have raised public concerns over flooding, emergencies, and safety.",
-      "share_angle": "Cover the scale of the rainstorm and the emergency response, while providing context on the region's flood risks.",
+      "why_hot": "The phrase signals China's policy continuity on environmental protection and attracts broad public attention.",
+      "share_angle": "Use the phrase as a hook to explain China's environmental policy continuity and official messaging around sustainability.",
       "keywords": [
-        "Henan",
-        "rainstorm",
-        "flooding"
+        "green development",
+        "environmental policy",
+        "China"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "印尼7.7级地震引发海啸",
+      "chinese_topic": "河南周口117米溃口成功合龙",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Magnitude 7.7 earthquake off Indonesia triggers tsunami",
+      "official_english": "Crews successfully close 117-meter levee breach in Zhoukou, Henan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A powerful earthquake in Indonesia has triggered tsunami warnings, drawing global attention to the disaster and its potential impact.",
-      "share_angle": "Summarize the quake and tsunami warning, and explain the science behind tsunamis and Indonesia's location on the Pacific Ring of Fire.",
+      "why_hot": "Emergency response to a dike breach is a major livability and safety issue, with successful closure drawing relief.",
+      "share_angle": "Break down how levee breaches are repaired and what flood-control measures mean for local communities.",
       "keywords": [
-        "Indonesia earthquake",
-        "tsunami",
-        "disaster"
+        "Zhoukou",
+        "levee breach",
+        "flood control"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "金价银价油价都涨了",
+      "chinese_topic": "印尼7.7级强震 海面出现巨大漩涡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gold, silver and oil prices all climb",
+      "official_english": "Magnitude 7.7 earthquake strikes Indonesia; large whirlpool appears at sea",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A coordinated rise in commodity prices has caught investors' attention amid global economic uncertainty.",
-      "share_angle": "Break down the factors behind rising gold, silver and oil prices, and what they signal for the global economy.",
+      "why_hot": "A powerful earthquake and dramatic sea-surface footage raise concerns about tsunamis and regional safety.",
+      "share_angle": "Explain the science of earthquake-triggered whirlpools and tsunami alert systems in the Pacific.",
       "keywords": [
-        "gold price",
-        "silver price",
-        "oil price"
+        "Indonesia earthquake",
+        "tsunami risk",
+        "whirlpool"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "这些一次性塑料制品禁用",
+      "chinese_topic": "今年外国人最爱逛哪里",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New restrictions announced on single-use plastic products",
+      "official_english": "Where are foreign tourists most likely to visit in China this year?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The government's ban on certain single-use plastics has become a trending topic due to its direct impact on daily life and the environment.",
-      "share_angle": "Explain which products are affected, how the policy fits into broader environmental goals, and what alternatives consumers have.",
+      "why_hot": "Inbound travel is a hot livelihood and tourism topic, and people are curious about foreign visitors' favorite Chinese destinations.",
+      "share_angle": "Analyze inbound tourism trends and the appeal of Chinese cities to international visitors.",
       "keywords": [
-        "plastic ban",
-        "environment",
-        "policy"
+        "inbound tourism",
+        "China travel",
+        "foreign visitors"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "“床车旅行”从小众到潮流 酒店慌了",
+      "chinese_topic": "四川一村有33对双胞胎 专家谈成因",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Car-bed travel turns from niche to trend, worrying hotels",
+      "official_english": "Experts explain why a Sichuan village has 33 pairs of twins",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A growing number of travelers are turning their cars into temporary beds, creating a new accommodation trend that challenges the hotel industry.",
-      "share_angle": "Profile the car-bed travel movement, its appeal for budget travelers, and how hotels are responding to the shift.",
+      "why_hot": "An unusual cluster of twins in one village sparks scientific curiosity and discussion of possible causes.",
+      "share_angle": "Discuss what twin clusters can and cannot tell us about genetics, diet, and environment.",
       "keywords": [
-        "car-bed travel",
-        "tourism",
-        "hotel industry"
+        "twins",
+        "Sichuan",
+        "genetics"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "对双胞胎考上同一所大学",
+      "chinese_topic": "什么是“984.5高校”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Twin siblings admitted to the same university",
+      "official_english": "What are '984.5 universities'?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The heartwarming story of twins gaining admission to the same university has resonated during the college application season.",
-      "share_angle": "Share the twins' story and discuss the role of family support in educational success.",
+      "why_hot": "A new buzzword in Chinese higher education raises questions about university rankings and student choices.",
+      "share_angle": "Explain the origin of the '984.5' term and what it reveals about China's university hierarchy and application pressure.",
       "keywords": [
-        "twins",
-        "college admission",
-        "education"
+        "984.5 universities",
+        "higher education",
+        "university rankings"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "暴雨洪涝过后 喝水千万别大意",
+      "chinese_topic": "拉夫劳伦千元Polo衫卖出顶奢的命",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Don't take drinking water safety lightly after floods",
+      "official_english": "Ralph Lauren's 1,000-yuan polo shirts are selling like top luxury goods",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heavy rains and flooding have raised health concerns about contaminated water, making safety reminders a trending topic.",
-      "share_angle": "Provide practical advice on water safety and disease prevention after floods, useful for people in affected areas.",
+      "why_hot": "Premium pricing of a familiar Western brand in China sparks discussion about consumer culture and market strategy.",
+      "share_angle": "Examine Ralph Lauren's pricing strategy in China and how brands position themselves between mid-range and luxury.",
       "keywords": [
-        "flood safety",
-        "drinking water",
-        "public health"
+        "Ralph Lauren",
+        "luxury market",
+        "consumer trends"
       ]
     }
   ]

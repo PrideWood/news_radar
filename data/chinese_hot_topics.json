@@ -1,142 +1,142 @@
 {
   "date": "2026-08-16",
-  "updated_at": "2026-08-16T01:57:59+00:00",
+  "updated_at": "2026-08-16T12:56:47+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "村民举报：自费查出致癌物超标",
+      "chinese_topic": "防灾减灾救灾 总书记强调三个到位",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Villagers report self-funded tests found cancer-causing substances above limits",
+      "official_english": "Chinese leader stresses three requirements for disaster prevention, mitigation and relief",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A village complaint about residents paying out of pocket to test for carcinogens has sparked public concern over pollution and health safety.",
-      "share_angle": "Explain the villagers' self-funded testing, the potential risks involved, and why citizens often feel they have to verify environmental safety on their own.",
+      "why_hot": "It is a leading public-interest topic that points to heightened attention on disaster preparedness and government response.",
+      "share_angle": "Make the official language accessible by explaining what the three-point approach means for ordinary people and local governments.",
       "keywords": [
-        "carcinogens",
-        "environmental pollution",
-        "public health"
+        "disaster prevention",
+        "public safety",
+        "China policy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "“消失”近三个月的副省长 主动投案",
+      "chinese_topic": "朱镕基同志遗体18日火化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Deputy governor 'missing' for nearly three months turns himself in",
+      "official_english": "Zhu Rongji's remains to be cremated on August 18",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A senior official who had been out of public view for months resurfaced by turning himself in, drawing intense attention to anti-corruption enforcement.",
-      "share_angle": "Explain what '主动投案' means in China's anti-corruption system, the significance of a senior official self-surrender, and how such cases are normally handled.",
+      "why_hot": "The funeral arrangement of a major former leader is a rare nationwide announcement, drawing immediate attention.",
+      "share_angle": "Cover it with solemnity and focus on the official announcement itself, without adding speculation.",
       "keywords": [
-        "anti-corruption",
-        "self-surrender",
-        "official investigation"
+        "Zhu Rongji",
+        "state funeral",
+        "China"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "中央考核巡查组当场戳破弄虚造假",
+      "chinese_topic": "考驾照的人为何变少了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Central inspection team exposes falsification on the spot",
+      "official_english": "Why Are Fewer People Getting Driver's Licenses?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The public was drawn to an on-site confrontation where central inspectors caught fraudulent practices, reflecting strong demand for accountability.",
-      "share_angle": "Describe how central inspection teams operate and why on-site exposure of falsified reports matters for local governance.",
+      "why_hot": "The decline in driver's license applications reflects changing attitudes toward car ownership and urban life.",
+      "share_angle": "Frame it as a lifestyle and economic trend rather than a simple policy story; discuss the likely factors behind the shift.",
       "keywords": [
-        "central inspection",
-        "falsification",
-        "accountability"
+        "driver's licenses",
+        "young people",
+        "mobility"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "中国博主发布进入靖国神社视频",
+      "chinese_topic": "市民打12345投诉月光太亮影响睡觉",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese blogger posts video of entering Yasukuni Shrine",
+      "official_english": "Citizen calls 12345 hotline to complain that moonlight is too bright to sleep",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Yasukuni Shrine is a historically sensitive site in East Asia, so a Chinese blogger's video immediately became a hot and divisive topic.",
-      "share_angle": "Provide context on the shrine's political symbolism and explain why the video has triggered strong reactions in China.",
+      "why_hot": "The absurd-sounding complaint has amused people and triggered debate about how far hotline complaints should go.",
+      "share_angle": "Use the story to explain how China's 12345 hotline works and why unusual complaints sometimes go viral.",
       "keywords": [
-        "Yasukuni Shrine",
-        "Sino-Japanese relations",
-        "online debate"
+        "moonlight complaint",
+        "government hotline",
+        "viral"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "车企集体“逃离”新车发布会",
+      "chinese_topic": "网红小家电集体吃灰",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Automakers collectively turn away from new-car launch events",
+      "official_english": "Internet-famous small appliances end up gathering dust",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The trend of automakers ditching traditional launch events for new models has fueled discussion about marketing efficiency and industry change.",
-      "share_angle": "Analyze why carmakers are changing their product-launch strategies and what this signals about the auto industry's digital shift.",
+      "why_hot": "A growing pile of under-used gadgets taps into shared buyer's remorse and questions about internet marketing.",
+      "share_angle": "Turn it into a practical consumer story: why trendy small appliances fail to stay useful and how to avoid the same trap.",
       "keywords": [
-        "automakers",
-        "product launches",
-        "marketing evolution"
+        "small appliances",
+        "consumer behavior",
+        "internet-famous"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "今年外国人最爱逛哪里",
+      "chinese_topic": "月起四川正式“依法带娃”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Where do foreign visitors like to go most this year?",
+      "official_english": "Sichuan officially implements 'parenting by law' this month",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "With tourism rebounding, netizens are curious about which places in China are attracting the most foreign visitors.",
-      "share_angle": "Present the destinations that are trending among international travelers and discuss the factors drawing them in.",
+      "why_hot": "A province turning family parenting into a legal matter resonates with parents and educators.",
+      "share_angle": "Translate the 'parenting by law' concept for non-Chinese audiences and explain its policy context.",
       "keywords": [
-        "inbound tourism",
-        "travel hotspots",
-        "foreign visitors"
+        "parenting law",
+        "family education",
+        "Sichuan"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "瑞典站国乒3人围剿张本美和",
+      "chinese_topic": "南极冰川现“神秘生物”系AI生成",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Three Chinese table tennis players face Miwa Harimoto at Sweden event",
+      "official_english": "Viral 'mysterious creature' in Antarctic glacier is AI-generated",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The matchup between China's table tennis team and rising star Miwa Harimoto is drawing sports fans' attention at the Sweden leg.",
-      "share_angle": "Explain the tournament setup, the stakes for the players, and Harimoto's significance as an opponent.",
+      "why_hot": "The supposed discovery quickly became a viral lesson because people wanted to believe in a mystery.",
+      "share_angle": "Use it to talk about AI-generated content and why verification matters, especially with images.",
       "keywords": [
-        "table tennis",
-        "Miwa Harimoto",
-        "Sweden event"
+        "AI-generated",
+        "Antarctica",
+        "misinformation"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "种“正常”表现实则可能是严重缺觉",
+      "chinese_topic": "王艺迪4-2复仇张本美和",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'Normal' signs that may actually indicate severe sleep deprivation",
+      "official_english": "Wang Yidi beats Miwa Harimoto 4-2 in revenge match",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The topic resonated widely because many people recognized their own daily habits as possible warning signs of sleep deprivation.",
-      "share_angle": "Explain the science behind hidden signs of severe sleep deprivation and why it deserves more attention.",
+      "why_hot": "A table tennis revenge match between Chinese and Japanese players stirred sports fans.",
+      "share_angle": "Focus on the result and the competitive storyline; avoid overhyping national rivalry.",
       "keywords": [
-        "sleep deprivation",
-        "health awareness",
-        "warning signs"
+        "table tennis",
+        "Wang Yidi",
+        "China-Japan rivalry"
       ]
     }
   ]

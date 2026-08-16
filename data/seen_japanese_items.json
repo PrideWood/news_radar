@@ -90,6 +90,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000329",
       "title": "引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査 「ゲームで社会復帰」に落とし穴？"
     },
+    "0738d000979a94aa2ea9": {
+      "first_seen": "2026-08-16",
+      "link": "https://gigazine.net/news/20260815-dbgate",
+      "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり"
+    },
     "0746c575941b0ac23223": {
       "first_seen": "2026-07-02",
       "link": "https://www.itmedia.co.jp/news/articles/2607/02/news094.html",
@@ -470,6 +475,11 @@
       "link": "https://gigazine.net/news/20260626-vesuvius-challenge-carbonised-herculaneum-scroll",
       "title": "火山灰に埋もれて炭化した古代ローマの巻物を広げることなく1巻丸ごと解読することに成功"
     },
+    "1896ef20fe32d6893267": {
+      "first_seen": "2026-08-16",
+      "link": "https://gigazine.net/news/20260816-ai-text-watermarking",
+      "title": "AI生成テキストの「透かし」が埋め込まれる仕組み"
+    },
     "18de9dda3a5350393018": {
       "first_seen": "2026-07-30",
       "link": "https://gigazine.net/news/20260730-low-sugar-early-life-alzheimers-risk",
@@ -609,6 +619,11 @@
       "first_seen": "2026-07-14",
       "link": "https://www.watch.impress.co.jp/docs/news/2123147.html",
       "title": "キングジム、辞書のミニチュア文具「キングミニ」 広辞苑・ジーニアス"
+    },
+    "1f7a19a40854bc71ddae": {
+      "first_seen": "2026-08-16",
+      "link": "https://gigazine.net/news/20260816-darktable",
+      "title": "無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能"
     },
     "1fbfc5d17f126ebca476": {
       "first_seen": "2026-07-16",
@@ -880,6 +895,11 @@
       "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180191000.html",
       "title": "サッカーW杯 3位決定戦 勝敗とともに得点王争いにも注目"
     },
+    "2c02c7d2a398dd494ebd": {
+      "first_seen": "2026-08-16",
+      "link": "https://www.watch.impress.co.jp/docs/news/2131953.html",
+      "title": "カシオ プロトレック、“小物収納バンド”の軽量モデル"
+    },
     "2c56727c7481f5918811": {
       "first_seen": "2026-07-09",
       "link": "https://www.itmedia.co.jp/news/articles/2607/09/news077.html",
@@ -914,6 +934,11 @@
       "first_seen": "2026-06-30",
       "link": "https://www.watch.impress.co.jp/docs/news/2121225.html",
       "title": "浦和駅西口複合施設「浦和カルエ」竣工 住宅・商業・市民会館"
+    },
+    "2eb10b6373c6e1a5bbe7": {
+      "first_seen": "2026-08-16",
+      "link": "https://www.watch.impress.co.jp/docs/news/2132844.html",
+      "title": "ChatGPT、Macの操作を記憶する「Computer History」"
     },
     "2f152ef9197c1d9f83b6": {
       "first_seen": "2026-07-22",
@@ -1715,6 +1740,11 @@
       "link": "https://gigazine.net/news/20260703-calbee-jagariko-nikumiso",
       "title": "肉みそらしい豚肉のうま味とみそのコクが味わえておつまみにも良さそうな「じゃがりこ 肉みそ味」試食レビュー"
     },
+    "59bc639f89533acd1539": {
+      "first_seen": "2026-08-16",
+      "link": "https://gigazine.net/news/20260816-gamer-air-traffic-controller",
+      "title": "アメリカの航空局が「ゲーマーを航空管制官として採用する」というキャンペーンで2000人以上の採用に成功し目標人数の94％を達成"
+    },
     "59d9bcbf0286abd76e59": {
       "first_seen": "2026-06-13",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2115178.html",
@@ -2059,6 +2089,11 @@
       "first_seen": "2026-06-14",
       "link": "https://www.itmedia.co.jp/news/articles/2606/14/news013.html",
       "title": "“パクリ疑惑”から2年半 やっと正式版になる「パルワールド」の完成度に感心したマンガ家が、だからこそ残念なこと"
+    },
+    "69359342bf42bf1e8615": {
+      "first_seen": "2026-08-16",
+      "link": "https://gigazine.net/news/20260816-women-founders-start-ups-exit-less",
+      "title": "女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？"
     },
     "695322d8780dffbb1015": {
       "first_seen": "2026-07-12",
@@ -2624,6 +2659,11 @@
       "first_seen": "2026-07-11",
       "link": "https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather",
       "title": "暑い季節にぐっすり眠るための8つの方法"
+    },
+    "836e1b97698aa7dafd71": {
+      "first_seen": "2026-08-16",
+      "link": "https://gigazine.net/news/20260816-alibaba-qwen-3-billion-downloads",
+      "title": "アリババのAI「Qwen」が6カ月間に30億回ダウンロードされる世界1位のAIモデルに"
     },
     "8382a5b36d58ba7dc4bb": {
       "first_seen": "2026-07-28",

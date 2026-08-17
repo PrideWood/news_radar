@@ -1,158 +1,150 @@
 {
   "date": "2026-08-17",
-  "updated_at": "2026-08-17T01:55:08+00:00",
+  "updated_at": "2026-08-17T13:01:35+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "防灾减灾救灾 总书记强调三个到位",
+      "chinese_topic": "BBA集体大降价：宝马5系跌至28万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese president stresses three 'musts' for disaster prevention, mitigation and relief",
+      "official_english": "German luxury carmakers cut prices, BMW 5 Series drops to 280,000 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The top Baidu topic on Aug 17, reflecting public attention to disaster response as China faces seasonal floods and typhoons.",
-      "share_angle": "Explain the three emphasized points in disaster management and how they relate to recent weather-related emergencies in China.",
+      "why_hot": "A rare across-the-board price cut by BBA brands makes a top-selling sedan more affordable and reignites debate over how legacy automakers will cope with competition in China's auto market.",
+      "share_angle": "Explain who is cutting prices, what it signals for the auto market, and why it matters for consumers deciding between fuel and electric cars.",
       "keywords": [
-        "disaster prevention",
-        "China policy",
-        "flood response",
-        "typhoon season",
-        "leadership"
+        "BMW",
+        "luxury cars",
+        "price war",
+        "auto market"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "居民存款7月又少了6300亿",
+      "chinese_topic": "榴莲价格彻底崩了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Household deposits fall by another 630 billion yuan in July",
+      "official_english": "Durian prices see sharp fall in China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Savings data is a proxy for consumer confidence; a repeated drop in deposits triggers discussions about spending, income and investment.",
-      "share_angle": "Break down what the 630 billion yuan decline means for ordinary Chinese households and the broader economy.",
+      "why_hot": "A big fall in durian prices catches shoppers' attention and raises questions about supply, import competition, and whether the 'king of fruits' is becoming an everyday treat.",
+      "share_angle": "Break down why durian prices dropped and what it says about China's fruit imports and consumer spending.",
       "keywords": [
-        "household savings",
-        "China economy",
-        "bank deposits",
-        "consumer spending",
-        "financial data"
+        "durian",
+        "prices",
+        "fruit imports",
+        "consumer"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "“台风过后推开门 我差点哭出来”",
+      "chinese_topic": "石油天然气发展“十五五”规划印发",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Typhoon aftermath: 'I almost cried when I opened the door'",
+      "official_english": "China issues 15th Five-Year Plan for oil and natural gas development",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral emotional moment after a typhoon, giving a human face to storm damage and recovery.",
-      "share_angle": "Use this personal story as a window into how typhoons disrupt lives and how communities rebuild.",
+      "why_hot": "A new national plan for oil and gas development sets the direction for energy policy over the next five years, making it a key story for energy security and climate policy.",
+      "share_angle": "Simplify the plan's main points and explain how China is balancing fossil fuel supply with clean-energy goals.",
       "keywords": [
-        "typhoon",
-        "viral story",
-        "storm damage",
-        "recovery",
-        "China weather"
+        "oil",
+        "natural gas",
+        "energy policy",
+        "Five-Year Plan"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "央视曝光999元六天五晚云南低价游",
+      "chinese_topic": "块9包邮的手机壳还敢买吗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "CCTV exposes 999-yuan six-day, five-night Yunnan low-price tour",
+      "official_english": "Are 9.9-yuan phone cases with free shipping a safety risk?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A national broadcaster investigation into suspiciously cheap tour packages reignites concerns about consumer protection in tourism.",
-      "share_angle": "Explain how ultra-low-price tours attract tourists, why they can become traps, and how regulators respond.",
+      "why_hot": "The phrase '9.9 yuan with free shipping' is everywhere, but consumers wonder how sellers keep prices so low and whether quality and safety are being sacrificed.",
+      "share_angle": "Use this everyday product to explain ultra-low-cost e-commerce, product safety, and how to read between the lines of bargain prices.",
       "keywords": [
-        "Yunnan tourism",
-        "low-price tour",
-        "CCTV expose",
-        "consumer rights",
-        "travel scam"
+        "phone case",
+        "e-commerce",
+        "consumer safety",
+        "bargain"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "DeepSeek调价生效 涨幅最高达1100%",
+      "chinese_topic": "多部AI漫剧集体停更",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek price adjustment takes effect, with increases of up to 1,100%",
+      "official_english": "Several AI-generated comic dramas suspend updates",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top Chinese AI model provider sharply raises prices, sparking debate about the cost of AI services and business strategy.",
-      "share_angle": "Explain why DeepSeek is raising prices, how it affects users, and what it signals for the AI industry.",
+      "why_hot": "News that multiple AI comic series are stopping updates at the same time raises questions about the future of AI-generated content and the stability of this new creative format.",
+      "share_angle": "Look at why platforms may be pulling AI comics and what it means for creators, viewers, and the AI boom.",
       "keywords": [
-        "DeepSeek",
-        "AI pricing",
-        "price increase",
-        "Chinese tech",
-        "artificial intelligence"
+        "AI comics",
+        "AI content",
+        "creative industry",
+        "streaming"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "南极冰川现“神秘生物”系AI生成",
+      "chinese_topic": "名校父母劝692.5分女儿读中本贯通",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Mysterious 'creature' on Antarctic glacier turns out to be AI-generated",
+      "official_english": "Elite-educated parents urge high-scoring daughter to choose secondary-to-undergraduate program",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral image of an Antarctic 'creature' is debunked, feeding wider conversation about AI-generated misinformation.",
-      "share_angle": "Use the debunking as a case study in how to verify viral images and why AI content needs critical scrutiny.",
+      "why_hot": "The parents' unusual advice challenges the conventional emphasis on prestigious high schools and shows changing attitudes toward vocational education.",
+      "share_angle": "Explain what '中本贯通' means, why some families now prefer it, and how it reflects shifting views on education and employment.",
       "keywords": [
-        "Antarctica",
-        "AI-generated",
-        "misinformation",
-        "viral image",
-        "media literacy"
+        "education",
+        "vocational pathway",
+        "school choice",
+        "parenting"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "胖东来被涨租逼走却从不涨商户租",
+      "chinese_topic": "宇树科技：将于8月19日科创板上市",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Pang Dong Lai forced out by rent increase yet reportedly never raised tenant rents",
+      "official_english": "Unitree Robotics to list on STAR Market on August 19",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The retailer's unusual policy of not raising tenant rents contrasts with its own rent struggle, drawing praise and questions.",
-      "share_angle": "Tell the story of a Chinese retail chain that prioritizes tenant stability, and discuss what it says about small-business pressures.",
+      "why_hot": "A Chinese robotics company's upcoming STAR Market IPO is drawing investor attention and putting robotics-themed stocks in focus.",
+      "share_angle": "Spotlight the robotics sector and explain what a STAR Market listing means for companies and investors.",
       "keywords": [
-        "Pang Dong Lai",
-        "retail",
-        "rent",
-        "small business",
-        "China business"
+        "Unitree",
+        "IPO",
+        "STAR Market",
+        "robotics"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "王曼昱瑞典大满贯女单夺冠",
+      "chinese_topic": "全球最大全电动飞机完成首飞",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Manyu wins women's singles title at the Swedish Grand Smash",
+      "official_english": "World's largest all-electric aircraft completes maiden flight",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A standout performance by a Chinese table tennis player at an international event reinforces China's strength in the sport.",
-      "share_angle": "Highlight Wang Manyu's achievement and what it means for China's table tennis team ahead of future competitions.",
+      "why_hot": "The successful first flight of the world's largest all-electric aircraft is a milestone for low-carbon aviation and excites those following green technology.",
+      "share_angle": "Break down the significance of the flight, the technology behind electric planes, and the remaining hurdles for commercial use.",
       "keywords": [
-        "Wang Manyu",
-        "table tennis",
-        "Swedish Grand Smash",
-        "women's singles",
-        "China sports"
+        "electric aircraft",
+        "aviation",
+        "green tech",
+        "maiden flight"
       ]
     }
   ]

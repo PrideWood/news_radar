@@ -22,7 +22,20 @@ const state = {
     topics: 0,
   },
   view: "articles",
+  page: window.location.hash === "#statistics" ? "statistics" : "reader",
+  articleMarks: {},
+  statistics: {
+    startDate: "",
+    endDate: "",
+    language: "all",
+    articles: [],
+    loading: false,
+    requestVersion: 0,
+  },
 };
+
+const ARTICLE_MARKS_STORAGE_KEY = "news-radar:article-marks:v1";
+const statisticsDigestCache = new Map();
 
 const FILTERS_BY_VIEW = {
   articles: ["all", "B1", "B2", "C1", "C2"],
@@ -51,7 +64,32 @@ const els = {
   japaneseEmpty: document.querySelector("#japanese-empty"),
   historyPanel: document.querySelector(".history-panel"),
   historyTitle: document.querySelector("#history-title"),
+  pageEyebrow: document.querySelector("#page-eyebrow"),
+  statisticsToggle: document.querySelector("#statistics-toggle"),
+  readerOnlyActions: document.querySelectorAll(".reader-only-action"),
+  contentControls: document.querySelector(".content-controls"),
+  statisticsPanel: document.querySelector("#statistics-panel"),
+  statisticsStartDate: document.querySelector("#statistics-start-date"),
+  statisticsEndDate: document.querySelector("#statistics-end-date"),
+  statisticsLanguage: document.querySelector("#statistics-language"),
+  statisticsLoading: document.querySelector("#statistics-loading"),
+  statisticsEmpty: document.querySelector("#statistics-empty"),
+  statisticsContent: document.querySelector("#statistics-content"),
+  statArticleCount: document.querySelector("#stat-article-count"),
+  statDayCount: document.querySelector("#stat-day-count"),
+  statAverageScore: document.querySelector("#stat-average-score"),
+  statVideoCount: document.querySelector("#stat-video-count"),
+  statCompletionRate: document.querySelector("#stat-completion-rate"),
+  statPendingCount: document.querySelector("#stat-pending-count"),
+  statSourceCount: document.querySelector("#stat-source-count"),
+  statCefrCount: document.querySelector("#stat-cefr-count"),
+  sourceChart: document.querySelector("#source-chart"),
+  scoreChart: document.querySelector("#score-chart"),
+  difficultyChart: document.querySelector("#difficulty-chart"),
+  videoHeatmap: document.querySelector("#video-heatmap"),
 };
+
+state.articleMarks = loadArticleMarks();
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -74,13 +112,79 @@ function safeHref(value, allowRelative = false) {
   }
 }
 
+function loadArticleMarks() {
+  try {
+    const saved = window.localStorage.getItem(ARTICLE_MARKS_STORAGE_KEY);
+    const parsed = saved ? JSON.parse(saved) : {};
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {};
+  } catch (error) {
+    console.warn("Unable to load article marks", error);
+    return {};
+  }
+}
+
+function saveArticleMarks() {
+  try {
+    window.localStorage.setItem(ARTICLE_MARKS_STORAGE_KEY, JSON.stringify(state.articleMarks));
+  } catch (error) {
+    console.warn("Unable to save article marks", error);
+  }
+}
+
+function makeArticleId(article) {
+  const link = String(article.link || "").trim();
+  if (link) return link;
+  return [article.language || "article", article.digestDate || article.publicationDate || "", article.title || ""]
+    .join("|")
+    .toLowerCase();
+}
+
+function isArticleCompleted(article) {
+  return Boolean(state.articleMarks[article.id || makeArticleId(article)]);
+}
+
+function toggleArticleCompleted(article) {
+  const id = article.id || makeArticleId(article);
+  if (state.articleMarks[id]) {
+    delete state.articleMarks[id];
+  } else {
+    state.articleMarks[id] = {
+      title: article.title,
+      outlet: article.outlet,
+      digestDate: article.digestDate,
+      language: article.language,
+      markedAt: new Date().toISOString(),
+    };
+  }
+  saveArticleMarks();
+  renderView();
+}
+
 function externalLink(value, label) {
   const href = safeHref(value);
   if (!href) return "";
   return `<a class="article-link" href="${escapeHtml(href)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
 }
 
-function parseDigest(markdown) {
+function articleFooter(article, linkLabel = "阅读原文 →") {
+  const completed = isArticleCompleted(article);
+  return `
+    <div class="article-footer">
+      ${externalLink(article.link, linkLabel)}
+      <button
+        class="completion-button ${completed ? "is-complete" : ""}"
+        type="button"
+        data-article-id="${escapeHtml(article.id)}"
+        aria-pressed="${completed}"
+      >
+        <span aria-hidden="true">${completed ? "✓" : "○"}</span>
+        ${completed ? "已精读 · 已制作视频" : "标记为已精读"}
+      </button>
+    </div>
+  `;
+}
+
+function parseDigest(markdown, digestDate = "", language = "english") {
   const title = markdown.match(/^#\s+(.+)$/m)?.[1] ?? "Daily Recommendations";
   const sections = markdown.split(/^##\s+/m).slice(1);
   const articles = sections.map((section) => {
@@ -94,7 +198,7 @@ function parseDigest(markdown) {
       fields[match[1].trim()] = match[2].trim();
     }
 
-    return {
+    const article = {
       title: heading,
       outlet: fields.Outlet,
       publicationDate: fields["Publication date"],
@@ -114,7 +218,11 @@ function parseDigest(markdown) {
       videoLength: fields["Estimated video length"],
       access: fields["Seems publicly accessible"],
       score: Number((fields["Priority score"] || "").match(/\d+/)?.[0] ?? 0),
+      digestDate,
+      language,
     };
+    article.id = makeArticleId(article);
+    return article;
   });
 
   return { title, articles };
@@ -193,8 +301,32 @@ function syncHistoryPanelForViewport() {
 }
 
 function renderView() {
+  const isStatistics = state.page === "statistics";
+  document.body.classList.toggle("statistics-view", isStatistics);
+  els.statisticsPanel.hidden = !isStatistics;
+  els.readerOnlyActions.forEach((element) => {
+    element.hidden = isStatistics;
+  });
+  els.statisticsToggle.textContent = isStatistics ? "返回文章" : "数据统计";
+  els.statisticsToggle.href = isStatistics ? "#" : "#statistics";
+
+  if (isStatistics) {
+    els.pageEyebrow.textContent = "Insights Dashboard";
+    els.title.textContent = "数据统计";
+    els.contentControls.hidden = true;
+    els.hotTopicsPanel.hidden = true;
+    els.japanesePanel.hidden = true;
+    els.grid.hidden = true;
+    els.empty.hidden = true;
+    els.noResults.hidden = true;
+    renderStatistics();
+    return;
+  }
+
   const isTopics = state.view === "topics";
   const isJapanese = state.view === "japanese";
+  els.pageEyebrow.textContent = "Daily Recommendations";
+  els.contentControls.hidden = false;
   syncHeaderForView();
   syncSidebarForView();
   els.viewSelect.value = state.view;
@@ -262,8 +394,233 @@ function getWorkflowUrl() {
   return "https://github.com/";
 }
 
-function renderStats(articles) {
+function dateFromIso(value) {
+  const match = String(value || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!match) return null;
+  return new Date(Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3])));
+}
+
+function isoFromDate(date) {
+  return date.toISOString().slice(0, 10);
+}
+
+function shiftIsoDate(value, days) {
+  const date = dateFromIso(value);
+  if (!date) return value;
+  date.setUTCDate(date.getUTCDate() + days);
+  return isoFromDate(date);
+}
+
+function availableDigestDates() {
+  return [...state.digests, ...state.japaneseDigests]
+    .map((digest) => digest.date)
+    .filter(Boolean)
+    .sort();
+}
+
+function syncStatisticsDateRange() {
+  const dates = availableDigestDates();
+  if (!dates.length) return;
+  const earliest = dates[0];
+  const latest = dates[dates.length - 1];
+  els.statisticsStartDate.min = earliest;
+  els.statisticsStartDate.max = latest;
+  els.statisticsEndDate.min = earliest;
+  els.statisticsEndDate.max = latest;
+
+  if (!state.statistics.endDate) state.statistics.endDate = latest;
+  if (!state.statistics.startDate) {
+    const lastThirtyDays = shiftIsoDate(latest, -29);
+    state.statistics.startDate = lastThirtyDays < earliest ? earliest : lastThirtyDays;
+  }
+  els.statisticsStartDate.value = state.statistics.startDate;
+  els.statisticsEndDate.value = state.statistics.endDate;
+  els.statisticsLanguage.value = state.statistics.language;
+}
+
+function digestsForStatistics() {
+  const { startDate, endDate, language } = state.statistics;
+  const entries = [];
+  if (language === "all" || language === "english") {
+    entries.push(...state.digests.map((digest) => ({ ...digest, language: "english" })));
+  }
+  if (language === "all" || language === "japanese") {
+    entries.push(...state.japaneseDigests.map((digest) => ({ ...digest, language: "japanese" })));
+  }
+  return entries.filter((digest) => digest.date >= startDate && digest.date <= endDate);
+}
+
+async function fetchDigestArticles(digest) {
+  const cacheKey = `${digest.language}:${digest.file}`;
+  if (statisticsDigestCache.has(cacheKey)) return statisticsDigestCache.get(cacheKey);
+  const response = await fetch(digest.file, { cache: "no-store" });
+  if (!response.ok) throw new Error(`Failed to load ${digest.file}`);
+  const markdown = await response.text();
+  const articles = parseDigest(markdown, digest.date, digest.language).articles;
+  statisticsDigestCache.set(cacheKey, articles);
   return articles;
+}
+
+async function loadStatistics() {
+  if (!state.statistics.startDate || !state.statistics.endDate) return;
+  const requestVersion = ++state.statistics.requestVersion;
+  state.statistics.loading = true;
+  renderStatistics();
+  const digests = digestsForStatistics();
+  const results = await Promise.allSettled(digests.map(fetchDigestArticles));
+  if (requestVersion !== state.statistics.requestVersion) return;
+  state.statistics.articles = results.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
+  state.statistics.loading = false;
+  const failedCount = results.filter((result) => result.status === "rejected").length;
+  if (failedCount) console.warn(`${failedCount} digest files could not be included in statistics`);
+  renderStatistics();
+}
+
+function renderSourceChart(articles) {
+  const counts = new Map();
+  articles.forEach((article) => {
+    const source = article.outlet || "未知来源";
+    counts.set(source, (counts.get(source) || 0) + 1);
+  });
+  const sources = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const maxCount = Math.max(1, ...sources.map(([, count]) => count));
+  els.statSourceCount.textContent = `${sources.length} 个来源`;
+  els.sourceChart.innerHTML = sources
+    .map(
+      ([source, count]) => `
+        <div class="bar-row">
+          <div class="bar-label"><span title="${escapeHtml(source)}">${escapeHtml(source)}</span><strong>${count}</strong></div>
+          <div class="bar-track" aria-label="${escapeHtml(source)}：${count} 篇">
+            <span style="width: ${(count / maxCount) * 100}%"></span>
+          </div>
+        </div>
+      `,
+    )
+    .join("");
+}
+
+function renderScoreChart(articles) {
+  const counts = Array(11).fill(0);
+  articles.forEach((article) => {
+    if (article.score >= 1 && article.score <= 10) counts[article.score] += 1;
+  });
+  const maxCount = Math.max(1, ...counts);
+  els.scoreChart.innerHTML = counts
+    .slice(1)
+    .map(
+      (count, index) => `
+        <div class="score-column" title="${index + 1} 分：${count} 篇">
+          <strong>${count || ""}</strong>
+          <div class="score-bar-track"><span style="height: ${(count / maxCount) * 100}%"></span></div>
+          <small>${index + 1}</small>
+        </div>
+      `,
+    )
+    .join("");
+}
+
+function renderDifficultyChart(articles) {
+  const levels = ["B1", "B2", "C1", "C2"];
+  const englishArticles = articles.filter((article) => article.language === "english");
+  const counts = levels.map(
+    (level) => englishArticles.filter((article) => article.difficulty === level).length,
+  );
+  const maxCount = Math.max(1, ...counts);
+  const total = counts.reduce((sum, count) => sum + count, 0);
+  els.statCefrCount.textContent = `${total} 篇英文文章`;
+  els.difficultyChart.innerHTML = levels
+    .map((level, index) => {
+      const count = counts[index];
+      const percentage = total ? Math.round((count / total) * 100) : 0;
+      return `
+        <div class="difficulty-column" title="${level}：${count} 篇，占 ${percentage}%">
+          <strong>${count}</strong>
+          <div class="difficulty-bar-track"><span style="height: ${(count / maxCount) * 100}%"></span></div>
+          <small>${level}</small>
+          <em>${percentage}%</em>
+        </div>
+      `;
+    })
+    .join("");
+}
+
+function monthName(date) {
+  return `${date.getUTCFullYear()} 年 ${date.getUTCMonth() + 1} 月`;
+}
+
+function renderVideoHeatmap(articles) {
+  const completedDates = new Set();
+  const totalByDate = new Map();
+  articles.forEach((article) => {
+    totalByDate.set(article.digestDate, (totalByDate.get(article.digestDate) || 0) + 1);
+    if (isArticleCompleted(article)) completedDates.add(article.digestDate);
+  });
+  const start = dateFromIso(state.statistics.startDate);
+  const end = dateFromIso(state.statistics.endDate);
+  if (!start || !end) {
+    els.videoHeatmap.innerHTML = "";
+    return;
+  }
+
+  const months = [new Date(Date.UTC(end.getUTCFullYear(), end.getUTCMonth(), 1))];
+
+  els.videoHeatmap.innerHTML = months
+    .map((month) => {
+      const year = month.getUTCFullYear();
+      const monthIndex = month.getUTCMonth();
+      const daysInMonth = new Date(Date.UTC(year, monthIndex + 1, 0)).getUTCDate();
+      const leadingBlanks = (new Date(Date.UTC(year, monthIndex, 1)).getUTCDay() + 6) % 7;
+      const cells = Array.from({ length: leadingBlanks }, () => '<span class="heatmap-day is-blank"></span>');
+      for (let day = 1; day <= daysInMonth; day += 1) {
+        const date = isoFromDate(new Date(Date.UTC(year, monthIndex, day)));
+        const inRange = date >= state.statistics.startDate && date <= state.statistics.endDate;
+        const checked = completedDates.has(date);
+        const total = totalByDate.get(date) || 0;
+        const label = total
+          ? `${date}：${checked ? "已打卡" : "未打卡"}，共 ${total} 篇推荐`
+          : `${date}：没有推荐文章`;
+        cells.push(`
+          <span class="heatmap-day ${checked ? "is-checked" : ""} ${inRange ? "" : "is-outside"}" title="${label}" aria-label="${label}">
+            ${day}
+          </span>
+        `);
+      }
+      return `
+        <section class="heatmap-month">
+          <h4>${monthName(month)}</h4>
+          <div class="heatmap-weekdays" aria-hidden="true"><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span></div>
+          <div class="heatmap-days">${cells.join("")}</div>
+        </section>
+      `;
+    })
+    .join("");
+}
+
+function renderStatistics() {
+  syncStatisticsDateRange();
+  els.statisticsLoading.hidden = !state.statistics.loading;
+  const articles = state.statistics.articles;
+  const isEmpty = !state.statistics.loading && articles.length === 0;
+  els.statisticsEmpty.hidden = !isEmpty;
+  els.statisticsContent.hidden = state.statistics.loading || isEmpty;
+  if (state.statistics.loading || isEmpty) return;
+
+  const completed = articles.filter(isArticleCompleted).length;
+  const scored = articles.filter((article) => article.score > 0);
+  const average = scored.length ? scored.reduce((sum, article) => sum + article.score, 0) / scored.length : 0;
+  const dayCount = new Set(articles.map((article) => article.digestDate)).size;
+  const rawRate = articles.length ? (completed / articles.length) * 100 : 0;
+  const rate = rawRate > 0 && rawRate < 1 ? rawRate.toFixed(1) : Math.round(rawRate);
+  els.statArticleCount.textContent = articles.length;
+  els.statDayCount.textContent = `${dayCount} 个推荐日`;
+  els.statAverageScore.textContent = scored.length ? average.toFixed(1) : "-";
+  els.statVideoCount.textContent = completed;
+  els.statCompletionRate.textContent = `${rate}%`;
+  els.statPendingCount.textContent = `${articles.length - completed} 篇待精读`;
+  renderSourceChart(articles);
+  renderScoreChart(articles);
+  renderDifficultyChart(articles);
+  renderVideoHeatmap(articles);
 }
 
 function renderFilters() {
@@ -286,7 +643,6 @@ function renderFilters() {
 
 function renderArticles() {
   const articles = visibleArticles(state.articles, "articles");
-  renderStats(articles);
   const hasDigest = state.digests.length > 0 && state.articles.length > 0;
   els.empty.hidden = state.view !== "articles" || hasDigest;
   els.noResults.hidden = state.view !== "articles" || !hasDigest || articles.length > 0;
@@ -319,7 +675,7 @@ function renderArticles() {
             </dd>
           </dl>
           ${detail("Access", article.access)}
-          ${externalLink(article.link, "阅读原文 →")}
+          ${articleFooter(article)}
         </article>
       `,
     )
@@ -360,7 +716,7 @@ function renderJapaneseArticles() {
             </dd>
           </dl>
           ${detail("Access", article.access)}
-          ${externalLink(article.link, "阅读原文 →")}
+          ${articleFooter(article)}
         </article>
       `,
     )
@@ -429,7 +785,7 @@ async function loadDigest(digest) {
     if (version !== state.loadVersion.articles) return false;
     state.selected = digest;
     state.rawMarkdown = rawMarkdown;
-    state.articles = parseDigest(rawMarkdown).articles;
+    state.articles = parseDigest(rawMarkdown, digest.date, "english").articles;
     renderView();
     return true;
   } catch (error) {
@@ -447,7 +803,7 @@ async function loadJapaneseDigest(digest) {
     if (version !== state.loadVersion.japanese) return false;
     state.selectedJapanese = digest;
     state.rawJapaneseMarkdown = rawMarkdown;
-    state.japaneseArticles = parseDigest(rawMarkdown).articles;
+    state.japaneseArticles = parseDigest(rawMarkdown, digest.date, "japanese").articles;
     renderView();
     return true;
   } catch (error) {
@@ -522,6 +878,7 @@ async function loadIndex() {
     if (!response.ok) throw new Error("Digest index not found");
     const data = await response.json();
     state.digests = Array.isArray(data.digests) ? data.digests : [];
+    syncStatisticsDateRange();
     renderDigestList();
     if (state.digests.length > 0) {
       await loadDigest(state.digests[0]);
@@ -540,6 +897,7 @@ async function loadJapaneseIndex() {
     if (!response.ok) throw new Error("Japanese digest index not found");
     const data = await response.json();
     state.japaneseDigests = Array.isArray(data.digests) ? data.digests : [];
+    syncStatisticsDateRange();
     if (state.japaneseDigests.length > 0) {
       await loadJapaneseDigest(state.japaneseDigests[0]);
     } else if (state.view === "japanese") {
@@ -614,9 +972,54 @@ els.copyMarkdown.addEventListener("click", async () => {
   }, 1200);
 });
 
-loadHotTopics();
-loadIndex();
-loadJapaneseIndex();
-els.runWorkflow.href = getWorkflowUrl();
-syncHistoryPanelForViewport();
+function handleCompletionClick(event) {
+  const button = event.target.closest("[data-article-id]");
+  if (!button) return;
+  const candidates = [...state.articles, ...state.japaneseArticles, ...state.statistics.articles];
+  const article = candidates.find((item) => item.id === button.dataset.articleId);
+  if (article) toggleArticleCompleted(article);
+}
+
+els.grid.addEventListener("click", handleCompletionClick);
+els.japaneseGrid.addEventListener("click", handleCompletionClick);
+
+els.statisticsStartDate.addEventListener("change", (event) => {
+  state.statistics.startDate = event.target.value;
+  if (state.statistics.endDate < state.statistics.startDate) {
+    state.statistics.endDate = state.statistics.startDate;
+  }
+  syncStatisticsDateRange();
+  loadStatistics();
+});
+
+els.statisticsEndDate.addEventListener("change", (event) => {
+  state.statistics.endDate = event.target.value;
+  if (state.statistics.startDate > state.statistics.endDate) {
+    state.statistics.startDate = state.statistics.endDate;
+  }
+  syncStatisticsDateRange();
+  loadStatistics();
+});
+
+els.statisticsLanguage.addEventListener("change", (event) => {
+  state.statistics.language = event.target.value;
+  loadStatistics();
+});
+
+window.addEventListener("hashchange", () => {
+  state.page = window.location.hash === "#statistics" ? "statistics" : "reader";
+  renderView();
+  if (state.page === "statistics") loadStatistics();
+});
+
+async function initializeApp() {
+  els.runWorkflow.href = getWorkflowUrl();
+  syncHistoryPanelForViewport();
+  await Promise.all([loadHotTopics(), loadIndex(), loadJapaneseIndex()]);
+  syncStatisticsDateRange();
+  renderView();
+  if (state.page === "statistics") await loadStatistics();
+}
+
 window.addEventListener("resize", syncHistoryPanelForViewport);
+initializeApp();

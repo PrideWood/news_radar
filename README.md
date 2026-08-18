@@ -101,6 +101,8 @@ http://127.0.0.1:8000/
 
 The reader loads `data/digests_index.json`, lists available daily English digests, renders each recommendation as a card, and supports search plus B1/B2/C1/C2 filtering. It also loads `data/chinese_hot_topics.json` in the "国内热点话题" view and `data/japanese_digests_index.json` in the "日文精读推荐" view, where filtering uses N4/N3/N2/N1. The digest generator updates indexes automatically whenever it writes new Markdown files.
 
+Each English or Japanese article can be marked as closely read after its teaching video is complete. Marks are stored in the current browser. The "数据统计" page summarizes a selected date range with source, recommendation-score, and CEFR difficulty distributions, completion totals, and a daily teaching-video check-in calendar.
+
 ## GitHub Pages
 
 This project includes a static GitHub Pages workflow at `.github/workflows/pages.yml`.

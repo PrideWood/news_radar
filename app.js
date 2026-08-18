@@ -16,6 +16,11 @@ const state = {
     articles: "all",
     japanese: "all",
   },
+  loadVersion: {
+    articles: 0,
+    japanese: 0,
+    topics: 0,
+  },
   view: "articles",
 };
 
@@ -54,6 +59,25 @@ function escapeHtml(value) {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
+}
+
+function safeHref(value, allowRelative = false) {
+  const raw = String(value ?? "").trim();
+  if (!raw) return "";
+  try {
+    const parsed = new URL(raw, window.location.href);
+    if (parsed.protocol !== "http:" && parsed.protocol !== "https:") return "";
+    const isRelative = !/^[a-z][a-z\d+.-]*:/i.test(raw) && !raw.startsWith("//");
+    return allowRelative && isRelative ? raw : parsed.href;
+  } catch {
+    return "";
+  }
+}
+
+function externalLink(value, label) {
+  const href = safeHref(value);
+  if (!href) return "";
+  return `<a class="article-link" href="${escapeHtml(href)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
 }
 
 function parseDigest(markdown) {
@@ -209,18 +233,18 @@ function syncHeaderForView() {
     els.title.textContent = state.selectedJapanese
       ? `${state.selectedJapanese.date} 日文精读推荐`
       : "请选择一篇日文推荐";
-    els.openMarkdown.href = state.selectedJapanese?.file || "#";
+    els.openMarkdown.href = safeHref(state.selectedJapanese?.file, true) || "#";
     return;
   }
   if (state.view === "topics") {
     els.title.textContent = state.hotTopicsMeta?.date
       ? `${state.hotTopicsMeta.date} 国内热点话题`
       : "请选择一组国内热点话题";
-    els.openMarkdown.href = state.selectedHotTopics?.file || "data/chinese_hot_topics.json";
+    els.openMarkdown.href = safeHref(state.selectedHotTopics?.file || "data/chinese_hot_topics.json", true) || "#";
     return;
   }
   els.title.textContent = state.selected ? `${state.selected.date} 每日精读推荐` : "请选择一篇每日推荐";
-  els.openMarkdown.href = state.selected?.file || "#";
+  els.openMarkdown.href = safeHref(state.selected?.file, true) || "#";
 }
 
 function getWorkflowUrl() {
@@ -295,7 +319,7 @@ function renderArticles() {
             </dd>
           </dl>
           ${detail("Access", article.access)}
-          <a class="article-link" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">阅读原文 →</a>
+          ${externalLink(article.link, "阅读原文 →")}
         </article>
       `,
     )
@@ -336,7 +360,7 @@ function renderJapaneseArticles() {
             </dd>
           </dl>
           ${detail("Access", article.access)}
-          <a class="article-link" href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">阅读原文 →</a>
+          ${externalLink(article.link, "阅读原文 →")}
         </article>
       `,
     )
@@ -377,8 +401,8 @@ function renderHotTopics() {
               : ""
           }
           <div class="link-row">
-            ${topic.source_url ? `<a class="article-link" href="${escapeHtml(topic.source_url)}" target="_blank" rel="noreferrer">查看热榜来源 →</a>` : ""}
-            ${topic.official_english_url ? `<a class="article-link" href="${escapeHtml(topic.official_english_url)}" target="_blank" rel="noreferrer">查看英文报道 →</a>` : ""}
+            ${externalLink(topic.source_url, "查看热榜来源 →")}
+            ${externalLink(topic.official_english_url, "查看英文报道 →")}
           </div>
         </article>
       `,
@@ -397,44 +421,57 @@ function detail(label, value) {
 }
 
 async function loadDigest(digest) {
-  state.selected = digest;
-  renderDigestList();
-  const response = await fetch(digest.file, { cache: "no-store" });
-  if (!response.ok) throw new Error(`Failed to load ${digest.file}`);
-  state.rawMarkdown = await response.text();
-  const parsed = parseDigest(state.rawMarkdown);
-  state.articles = parsed.articles;
-  els.title.textContent = `${digest.date} 每日精读推荐`;
-  els.openMarkdown.href = digest.file;
-  renderView();
+  const version = ++state.loadVersion.articles;
+  try {
+    const response = await fetch(digest.file, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Failed to load ${digest.file}`);
+    const rawMarkdown = await response.text();
+    if (version !== state.loadVersion.articles) return false;
+    state.selected = digest;
+    state.rawMarkdown = rawMarkdown;
+    state.articles = parseDigest(rawMarkdown).articles;
+    renderView();
+    return true;
+  } catch (error) {
+    if (version === state.loadVersion.articles) console.error(error);
+    return false;
+  }
 }
 
 async function loadJapaneseDigest(digest) {
-  state.selectedJapanese = digest;
-  renderDigestList();
-  const response = await fetch(digest.file, { cache: "no-store" });
-  if (!response.ok) throw new Error(`Failed to load ${digest.file}`);
-  state.rawJapaneseMarkdown = await response.text();
-  const parsed = parseDigest(state.rawJapaneseMarkdown);
-  state.japaneseArticles = parsed.articles;
-  renderView();
+  const version = ++state.loadVersion.japanese;
+  try {
+    const response = await fetch(digest.file, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Failed to load ${digest.file}`);
+    const rawMarkdown = await response.text();
+    if (version !== state.loadVersion.japanese) return false;
+    state.selectedJapanese = digest;
+    state.rawJapaneseMarkdown = rawMarkdown;
+    state.japaneseArticles = parseDigest(rawMarkdown).articles;
+    renderView();
+    return true;
+  } catch (error) {
+    if (version === state.loadVersion.japanese) console.error(error);
+    return false;
+  }
 }
 
 async function loadHotTopicDigest(digest) {
-  state.selectedHotTopics = digest;
-  renderDigestList();
+  const version = ++state.loadVersion.topics;
   try {
     const response = await fetch(digest.file, { cache: "no-store" });
     if (!response.ok) throw new Error("Hot topics not found");
     const data = await response.json();
+    if (version !== state.loadVersion.topics) return false;
+    state.selectedHotTopics = digest;
     state.hotTopicsMeta = data;
     state.hotTopics = Array.isArray(data.topics) ? data.topics : [];
+    renderView();
+    return true;
   } catch (error) {
-    console.warn(error);
-    state.hotTopicsMeta = null;
-    state.hotTopics = [];
+    if (version === state.loadVersion.topics) console.warn(error);
+    return false;
   }
-  renderView();
 }
 
 async function loadHotTopics() {
@@ -444,8 +481,8 @@ async function loadHotTopics() {
     const data = await response.json();
     state.hotTopicDigests = Array.isArray(data.digests) ? data.digests : [];
     if (state.hotTopicDigests.length > 0) {
-      await loadHotTopicDigest(state.hotTopicDigests[0]);
-      return;
+      const loaded = await loadHotTopicDigest(state.hotTopicDigests[0]);
+      if (loaded) return;
     }
   } catch (error) {
     console.warn(error);
@@ -565,8 +602,13 @@ els.copyMarkdown.addEventListener("click", async () => {
         ? state.rawJapaneseMarkdown
         : state.rawMarkdown;
   if (!content) return;
-  await navigator.clipboard.writeText(content);
-  els.copyMarkdown.textContent = "✓";
+  try {
+    await navigator.clipboard.writeText(content);
+    els.copyMarkdown.textContent = "✓";
+  } catch (error) {
+    console.warn(error);
+    els.copyMarkdown.textContent = "!";
+  }
   window.setTimeout(() => {
     els.copyMarkdown.textContent = "⧉";
   }, 1200);

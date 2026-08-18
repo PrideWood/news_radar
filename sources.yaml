@@ -17,6 +17,9 @@ sources:
     default_topic: Public-interest news
     article_type_hint: short news
     public_access: likely public
+    # This page currently returns HTML rather than a feed. Keep the entry for
+    # easy re-enabling if AP restores a public RSS endpoint.
+    enabled: false
 
   - name: Reuters Lifestyle
     outlet: Reuters
@@ -25,6 +28,8 @@ sources:
     default_topic: Culture and everyday life
     article_type_hint: short news
     public_access: likely public preview
+    # Reuters retired this agency feed endpoint (HTTP 404).
+    enabled: false
 
   - name: The Guardian World
     outlet: The Guardian
@@ -73,6 +78,8 @@ sources:
     default_topic: Science explained
     article_type_hint: science story
     public_access: likely public preview
+    # Repeated TLS failures make this feed unreliable in the scheduled fetch.
+    enabled: false
 
   - name: The Conversation
     outlet: The Conversation
@@ -97,6 +104,8 @@ sources:
     default_topic: Award-winning journalism
     article_type_hint: feature
     public_access: likely public
+    # The endpoint currently blocks automated feed requests (HTTP 403).
+    enabled: false
 
   - name: The Atlantic
     outlet: The Atlantic
@@ -106,3 +115,130 @@ sources:
     article_type_hint: feature
     public_access: mixed public preview
 
+  - name: Al Jazeera English
+    outlet: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    source_type: rss
+    default_topic: International news and global perspectives
+    article_type_hint: short news
+    public_access: likely public
+
+  - name: DW Top Stories
+    outlet: DW
+    url: https://rss.dw.com/rdf/rss-en-top
+    source_type: rss
+    default_topic: Europe and international affairs
+    article_type_hint: short news
+    public_access: likely public
+
+  - name: UN News
+    outlet: UN News
+    url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+    source_type: rss
+    default_topic: Global development and public affairs
+    article_type_hint: public-interest news
+    public_access: likely public
+
+  - name: CBC Top Stories
+    outlet: CBC News
+    url: https://www.cbc.ca/cmlink/rss-topstories
+    source_type: rss
+    default_topic: Canada and international news
+    article_type_hint: short news
+    public_access: likely public
+
+  - name: Rest of World
+    outlet: Rest of World
+    url: https://restofworld.org/feed/latest/
+    source_type: rss
+    default_topic: Technology and society beyond the West
+    article_type_hint: feature
+    public_access: likely public
+
+  - name: NASA News Releases
+    outlet: NASA
+    url: https://www.nasa.gov/news-release/feed/
+    source_type: rss
+    default_topic: Space and science
+    article_type_hint: science news
+    public_access: likely public
+
+  - name: MIT News
+    outlet: MIT News
+    url: https://news.mit.edu/rss/feed
+    source_type: rss
+    default_topic: Science, technology, and research
+    article_type_hint: research explainer
+    public_access: likely public
+
+  - name: ScienceDaily Top Science
+    outlet: ScienceDaily
+    url: https://www.sciencedaily.com/rss/top/science.xml
+    source_type: rss
+    default_topic: Science discoveries explained
+    article_type_hint: science story
+    public_access: likely public
+
+  - name: Undark
+    outlet: Undark
+    url: https://undark.org/feed/
+    source_type: rss
+    default_topic: Science and society
+    article_type_hint: science feature
+    public_access: likely public
+
+  - name: Psyche
+    outlet: Psyche
+    url: https://psyche.co/feed.rss
+    source_type: rss
+    default_topic: Psychology, philosophy, and wellbeing
+    article_type_hint: essay or guide
+    public_access: likely public
+
+  - name: JSTOR Daily
+    outlet: JSTOR Daily
+    url: https://daily.jstor.org/feed/
+    source_type: rss
+    default_topic: Research, history, and culture
+    article_type_hint: research explainer
+    public_access: likely public
+
+  - name: Harvard Gazette
+    outlet: Harvard Gazette
+    url: https://news.harvard.edu/gazette/feed/
+    source_type: rss
+    default_topic: Research, education, and society
+    article_type_hint: university news feature
+    public_access: likely public
+
+  - name: Yale Environment 360
+    outlet: Yale Environment 360
+    url: https://e360.yale.edu/feed.xml
+    source_type: rss
+    default_topic: Environment and climate solutions
+    article_type_hint: environmental feature
+    public_access: likely public
+
+  - name: Mongabay
+    outlet: Mongabay
+    url: https://news.mongabay.com/feed/
+    source_type: rss
+    default_topic: Conservation, wildlife, and communities
+    article_type_hint: environmental news
+    public_access: likely public
+
+  - name: Grist
+    outlet: Grist
+    url: https://grist.org/feed/
+    source_type: rss
+    default_topic: Climate, environment, and solutions
+    article_type_hint: climate feature
+    public_access: likely public
+
+  - name: Positive News
+    outlet: Positive News
+    url: https://www.positive.news/feed/
+    source_type: rss
+    default_topic: Solutions and constructive stories
+    article_type_hint: human-interest feature
+    public_access: likely public

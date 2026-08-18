@@ -1,152 +1,142 @@
 {
   "date": "2026-08-18",
-  "updated_at": "2026-08-18T01:50:38+00:00",
+  "updated_at": "2026-08-18T13:03:42+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "习近平向印尼总统普拉博沃致慰问电",
+      "chinese_topic": "习近平同厄瓜多尔总统举行会谈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping sends condolence message to Indonesian President Prabowo Subianto",
+      "official_english": "Xi Jinping holds talks with Ecuadorian president",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A formal diplomatic message from China's top leader to a major Southeast Asian partner draws attention to bilateral ties and regional issues.",
-      "share_angle": "Explain the context of China-Indonesia relations and why such condolence messages matter in state-to-state diplomacy.",
+      "why_hot": "A China-Ecuador presidential meeting is a top diplomatic story on Chinese media and signals the direction of bilateral ties.",
+      "share_angle": "Explain the significance of the talks for China-Latin America relations and what Chinese viewers are watching.",
       "keywords": [
         "Xi Jinping",
-        "Prabowo Subianto",
-        "China-Indonesia",
+        "Ecuador",
         "diplomacy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "天安门下半旗悼念朱镕基同志",
+      "chinese_topic": "朱镕基同志遗体在京火化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Tiananmen Square lowers flag to half-staff in mourning for Zhu Rongji",
+      "official_english": "Comrade Zhu Rongji's remains cremated in Beijing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A rare national mourning display at the symbolic heart of China attracts broad public attention and reflection.",
-      "share_angle": "Help international viewers understand Chinese mourning protocol and the legacy of the respected former official.",
+      "why_hot": "Zhu Rongji is a widely remembered former premier, and news of his funeral draws nationwide attention.",
+      "share_angle": "Provide a respectful summary of Zhu Rongji's legacy and why he remains a notable figure in China's reform era.",
       "keywords": [
         "Zhu Rongji",
-        "Tiananmen Square",
-        "half-staff",
-        "national mourning"
+        "funeral",
+        "legacy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "法拉利首款电车破纪录拍出约2.7亿元",
+      "chinese_topic": "公积金新政来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Ferrari's first electric car sells at auction for about 270 million yuan, setting a record",
+      "official_english": "New housing provident fund measures introduced",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A record auction price for Ferrari's first EV combines luxury autos, new-energy vehicles, and the booming collectible car market.",
-      "share_angle": "Discuss how heritage automakers are embracing electric powertrains and what record auction prices signal about luxury EV demand.",
+      "why_hot": "Housing fund policy affects millions of urban workers, so new changes quickly become a top livelihood topic.",
+      "share_angle": "Break down what the changes mean for homebuyers and renters and how they fit into China's housing policy discussions.",
       "keywords": [
-        "Ferrari",
-        "electric vehicle",
-        "auction",
-        "luxury cars"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "石油天然气发展“十五五”规划印发",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China issues the 15th Five-Year Plan for oil and natural gas development",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A new five-year plan for oil and gas shapes national energy strategy, affecting prices, investment, and climate policy.",
-      "share_angle": "Break down what China's 15th Five-Year Plan means for energy security and the transition to cleaner power.",
-      "keywords": [
-        "oil and gas",
-        "15th Five-Year Plan",
-        "energy policy",
-        "China"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "寒武纪员工大红包将到账 人均557万",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cambricon employees are set to receive big bonuses averaging 5.57 million yuan each",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Huge employee bonuses at a leading Chinese AI chip company spark debate over the AI boom, talent competition, and widening pay gaps.",
-      "share_angle": "Use this as a window into China's red-hot AI chip sector and the economics of tech talent retention.",
-      "keywords": [
-        "Cambricon",
-        "AI chips",
-        "bonuses",
-        "tech talent",
-        "pay gap"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "中国斯诺克迎来爆发期",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese snooker enters a boom period",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Recent strong performances by Chinese players have energized fans and signaled a new generation of snooker talent.",
-      "share_angle": "Highlight the rise of Chinese snooker players and what it means for the sport's global audience.",
-      "keywords": [
-        "snooker",
-        "China",
-        "sports",
-        "breakthrough"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "榴莲价格彻底崩了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Durian prices see a sharp drop",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A sudden plunge in durian prices is a livelihood issue for millions of consumers and a signal of changing import supply chains.",
-      "share_angle": "Explain how ASEAN fruit imports, logistics, and market oversupply affect prices in Chinese supermarkets.",
-      "keywords": [
-        "durian",
-        "fruit prices",
-        "imports",
-        "ASEAN",
+        "housing provident fund",
+        "housing policy",
         "livelihood"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "这几种“喝水法”正在悄悄伤身体",
+      "rank": 10,
+      "chinese_topic": "全球约6.45亿人处于饥饿状态",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Several common water-drinking methods are quietly harming health",
+      "official_english": "About 645 million people worldwide are facing hunger",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health tips about everyday habits tend to go viral; this one addresses common water-drinking misconceptions.",
-      "share_angle": "Use it to talk about health misinformation and how to evaluate daily wellness advice.",
+      "why_hot": "A global hunger estimate of 645 million people triggers public discussion about food security and inequality.",
+      "share_angle": "Use the figure to explain the state of global hunger and why it resonates with Chinese internet users.",
       "keywords": [
-        "hydration",
-        "health tips",
-        "wellness",
-        "water drinking"
+        "hunger",
+        "food security",
+        "global issue"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "手机价格涨20%以上",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Mobile phone prices rise more than 20 percent",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A sharp jump in handset prices is a tangible consumer issue that affects a wide range of buyers.",
+      "share_angle": "Discuss the reasons behind rising phone prices and how consumers are reacting in China.",
+      "keywords": [
+        "mobile phone prices",
+        "consumers",
+        "tech market"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "康师傅是怎么被农夫山泉反超的",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "How Master Kong was overtaken by Nongfu Spring",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The rivalry between two well-known food-and-beverage brands sparks interest in market shifts and changing consumer tastes.",
+      "share_angle": "Analyze the business story behind the reversal and what it says about China's consumer market.",
+      "keywords": [
+        "Master Kong",
+        "Nongfu Spring",
+        "market competition"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "耗资24亿的“人造空城”爆改后复活",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "2.4-billion-yuan 'artificial empty city' revived after overhaul",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A once-criticized mega-project coming back to life raises questions about urban planning and real estate reuse.",
+      "share_angle": "Explain how the project was transformed and what it signals for similar developments across China.",
+      "keywords": [
+        "urban renewal",
+        "real estate",
+        "revitalization"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "黄牛不炒票了 开始炒你的晚饭",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Scalpers shift from event tickets to dining reservations",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The idea of scalpers now targeting meals is an unexpected twist on a familiar consumer pain point.",
+      "share_angle": "Explore why dinner scalping is trending and what it reveals about access to popular dining spots.",
+      "keywords": [
+        "scalpers",
+        "dining",
+        "consumer behavior"
       ]
     }
   ]

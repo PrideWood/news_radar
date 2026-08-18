@@ -23,7 +23,7 @@ The generator also writes `data/chinese_hot_topics.json` with eight Chinese inte
 
 Japanese recommendations use public Japanese-language metadata from news, technology, internet culture, and public-information sources. They are selected for language-learning value across JLPT-style levels N4-N1 and are not limited to hard news.
 
-The daily mix aims to include short news, human-interest or uplifting stories, a science or technology explainer, an education/youth/culture story, a serious public-interest story, and one surprising wildcard.
+The daily mix aims to include short news, human-interest or uplifting stories, a science or technology explainer, an education/youth/culture story, a serious public-interest story, and one surprising wildcard. The default source list spans international broadcasters, public institutions, universities, independent magazines, and specialist science, culture, technology, environment, and solutions-journalism outlets.
 
 ## Setup
 
@@ -100,6 +100,8 @@ http://127.0.0.1:8000/
 ```
 
 The reader loads `data/digests_index.json`, lists available daily English digests, renders each recommendation as a card, and supports search plus B1/B2/C1/C2 filtering. It also loads `data/chinese_hot_topics.json` in the "国内热点话题" view and `data/japanese_digests_index.json` in the "日文精读推荐" view, where filtering uses N4/N3/N2/N1. The digest generator updates indexes automatically whenever it writes new Markdown files.
+
+Each English or Japanese article can be marked as closely read after its teaching video is complete. Marks are stored in the current browser. The "数据统计" page summarizes a selected date range with source, recommendation-score, and CEFR difficulty distributions, completion totals, and a daily teaching-video check-in calendar.
 
 ## GitHub Pages
 
@@ -179,6 +181,17 @@ You can pause a source with:
 ```yaml
 enabled: false
 ```
+
+The generator validates source names, URLs, types, and item limits before fetching. Enabled sources are fetched concurrently, and failures are reported individually without discarding results from healthy sources.
+
+## Source Diversity
+
+Source diversity is enforced at two stages:
+
+- Before model selection, candidates are sampled round-robin by outlet, with a per-outlet cap. A high-volume feed therefore cannot fill the entire candidate window.
+- During and after model selection, the generator asks for the widest possible outlet mix, accepts only IDs from fetched candidates, restores the original title/link/outlet metadata, and fills any rejected or duplicate choices with deterministic diverse fallbacks.
+
+With the default count of eight and at least eight healthy outlets in the candidate pool, the final digest contains eight different outlets. Disabled entries in `sources.yaml` document retired or blocked feeds so they are not retried on every run.
 
 ## Deduplication
 

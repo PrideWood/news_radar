@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="styles.css?v=20260615-1">
+    <link rel="stylesheet" href="styles.css?v=20260818-3">
   </head>
   <body>
     <div class="app-shell">
@@ -48,13 +48,14 @@
       <main class="content">
         <header class="toolbar">
           <div>
-            <p class="eyebrow">Daily Recommendations</p>
+            <p id="page-eyebrow" class="eyebrow">Daily Recommendations</p>
             <h2 id="page-title">请选择一篇每日推荐</h2>
           </div>
           <div class="toolbar-actions">
-            <button id="copy-markdown" class="icon-button" type="button" title="复制 Markdown" aria-label="复制 Markdown">⧉</button>
-            <a id="run-workflow" class="text-button" href="https://github.com/PrideWood/news_radar/actions/workflows/daily-digest.yml" target="_blank" rel="noreferrer">手动生成</a>
-            <a id="open-markdown" class="text-button" href="#" target="_blank" rel="noreferrer">打开 Markdown</a>
+            <button id="copy-markdown" class="icon-button reader-only-action" type="button" title="复制 Markdown" aria-label="复制 Markdown">⧉</button>
+            <a id="run-workflow" class="text-button reader-only-action" href="https://github.com/PrideWood/news_radar/actions/workflows/daily-digest.yml" target="_blank" rel="noreferrer">手动生成</a>
+            <a id="open-markdown" class="text-button reader-only-action" href="#" target="_blank" rel="noreferrer">打开 Markdown</a>
+            <a id="statistics-toggle" class="text-button statistics-button" href="#statistics">数据统计</a>
           </div>
         </header>
 
@@ -104,9 +105,117 @@
         </section>
 
         <section id="article-grid" class="article-grid" aria-live="polite"></section>
+
+        <section id="statistics-panel" class="statistics-panel" hidden aria-live="polite">
+          <section class="statistics-filter-card" aria-label="统计范围">
+            <div class="statistics-filter-intro">
+              <p class="eyebrow">时间范围</p>
+              <p>查看指定时段内的推荐来源、机器评分与教学视频完成情况。</p>
+            </div>
+            <div class="statistics-filters">
+              <label>
+                <span>开始日期</span>
+                <input id="statistics-start-date" type="date">
+              </label>
+              <label>
+                <span>结束日期</span>
+                <input id="statistics-end-date" type="date">
+              </label>
+              <label>
+                <span>内容类型</span>
+                <select id="statistics-language">
+                  <option value="all">全部精读推荐</option>
+                  <option value="english">英文精读推荐</option>
+                  <option value="japanese">日文精读推荐</option>
+                </select>
+              </label>
+            </div>
+          </section>
+
+          <section id="statistics-loading" class="statistics-loading" hidden>
+            <span class="loading-dot" aria-hidden="true"></span>
+            正在汇总文章数据…
+          </section>
+
+          <section id="statistics-empty" class="empty-state" hidden>
+            <h3>这个时段还没有文章</h3>
+            <p>请调整日期范围或内容类型后再试。</p>
+          </section>
+
+          <div id="statistics-content">
+            <section class="stats-row statistics-summary" aria-label="数据概览">
+              <article class="stat">
+                <span class="stat-label">文章总数</span>
+                <strong id="stat-article-count" class="stat-value">0</strong>
+                <small id="stat-day-count">0 个推荐日</small>
+              </article>
+              <article class="stat">
+                <span class="stat-label">平均推荐指数</span>
+                <strong id="stat-average-score" class="stat-value">-</strong>
+                <small>机器评分，满分 10 分</small>
+              </article>
+              <article class="stat">
+                <span class="stat-label">已制作教学视频</span>
+                <strong id="stat-video-count" class="stat-value">0</strong>
+                <small>已精读并完成视频</small>
+              </article>
+              <article class="stat">
+                <span class="stat-label">精读完成率</span>
+                <strong id="stat-completion-rate" class="stat-value">0%</strong>
+                <small id="stat-pending-count">0 篇待精读</small>
+              </article>
+            </section>
+
+            <section class="statistics-grid">
+              <article class="statistics-card">
+                <div class="statistics-card-heading">
+                  <div>
+                    <p class="eyebrow">Sources</p>
+                    <h3>文章来源</h3>
+                  </div>
+                  <span id="stat-source-count">0 个来源</span>
+                </div>
+                <div id="source-chart" class="bar-chart"></div>
+              </article>
+
+              <article class="statistics-card">
+                <div class="statistics-card-heading">
+                  <div>
+                    <p class="eyebrow">Recommendation Score</p>
+                    <h3>推荐指数分布</h3>
+                  </div>
+                  <span>满分 10 分</span>
+                </div>
+                <div id="score-chart" class="score-chart" aria-label="推荐指数分布图"></div>
+              </article>
+
+              <article class="statistics-card difficulty-card">
+                <div class="statistics-card-heading">
+                  <div>
+                    <p class="eyebrow">CEFR Difficulty</p>
+                    <h3>CEFR 难度分布</h3>
+                  </div>
+                  <span id="stat-cefr-count">仅统计英文文章</span>
+                </div>
+                <div id="difficulty-chart" class="difficulty-chart" aria-label="CEFR 难度分布图"></div>
+              </article>
+
+              <article class="statistics-card heatmap-card">
+                <div class="statistics-card-heading heatmap-heading">
+                  <div>
+                    <p class="eyebrow">Teaching Video Check-in</p>
+                    <h3>教学视频打卡图</h3>
+                    <p>当天任意一篇文章完成精读，即记为打卡一天。</p>
+                  </div>
+                </div>
+                <div id="video-heatmap" class="video-heatmap"></div>
+              </article>
+            </section>
+          </div>
+        </section>
       </main>
     </div>
 
-    <script src="app.js?v=20260615-1"></script>
+    <script src="app.js?v=20260818-3"></script>
   </body>
 </html>

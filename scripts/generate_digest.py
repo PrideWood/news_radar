@@ -8,9 +8,12 @@ It intentionally does not download or persist full article text.
 from __future__ import annotations
 
 import argparse
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import dataclasses
 import datetime as dt
 import hashlib
+from html import unescape
 import json
 import os
 import re
@@ -46,6 +49,7 @@ DEFAULT_JAPANESE_STATE = ROOT / "data" / "seen_japanese_items.json"
 DEFAULT_JAPANESE_DIGEST_DIR = ROOT / "japanese_digests"
 DEFAULT_JAPANESE_DIGEST_INDEX = ROOT / "data" / "japanese_digests_index.json"
 DEFAULT_TIMEZONE = os.getenv("NEWS_RADAR_TIMEZONE", "Asia/Shanghai")
+MAX_FETCH_WORKERS = 8
 
 HOT_TOPIC_SOURCES = [
     {
@@ -195,7 +199,12 @@ def normalize_url(url: str) -> str:
 def clean_text(value: str | None, limit: int = 480) -> str:
     if not value:
         return ""
-    text = BeautifulSoup(value, "html.parser").get_text(" ", strip=True)
+    raw = str(value)
+    text = (
+        BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
+        if "<" in raw and ">" in raw
+        else unescape(raw)
+    )
     text = re.sub(r"\s+", " ", text).strip()
     if len(text) <= limit:
         return text
@@ -221,6 +230,50 @@ def load_yaml(path: Path) -> dict[str, Any]:
         return yaml.safe_load(handle) or {}
 
 
+def validate_digest_date(value: str) -> str:
+    """Accept canonical ISO dates only, including when used in output paths."""
+    try:
+        parsed = dt.date.fromisoformat(value)
+    except (TypeError, ValueError) as exc:
+        raise ValueError(f"Invalid digest date {value!r}; expected YYYY-MM-DD") from exc
+    if parsed.isoformat() != value:
+        raise ValueError(f"Invalid digest date {value!r}; expected YYYY-MM-DD")
+    return value
+
+
+def validate_sources(config: dict[str, Any]) -> list[dict[str, Any]]:
+    sources = config.get("sources")
+    if not isinstance(sources, list) or not sources:
+        raise ValueError("Source configuration must contain a non-empty 'sources' list")
+
+    names: set[str] = set()
+    validated: list[dict[str, Any]] = []
+    for index, source in enumerate(sources, start=1):
+        if not isinstance(source, dict):
+            raise ValueError(f"Source #{index} must be a mapping")
+        name = str(source.get("name", "")).strip()
+        url = str(source.get("url", "")).strip()
+        source_type = source.get("source_type", "rss")
+        if not name or not url:
+            raise ValueError(f"Source #{index} must have a name and URL")
+        if name in names:
+            raise ValueError(f"Duplicate source name: {name}")
+        if source_type not in {"rss", "html"}:
+            raise ValueError(f"Unsupported source_type {source_type!r} for {name}")
+        parsed = urlparse(url)
+        if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+            raise ValueError(f"Invalid HTTP(S) URL for {name}: {url}")
+        try:
+            max_items = int(source.get("max_items", 12))
+        except (TypeError, ValueError) as exc:
+            raise ValueError(f"max_items for {name} must be an integer") from exc
+        if max_items < 1 or max_items > 100:
+            raise ValueError(f"max_items for {name} must be between 1 and 100")
+        names.add(name)
+        validated.append(source)
+    return validated
+
+
 def default_digest_date() -> str:
     return dt.datetime.now(ZoneInfo(DEFAULT_TIMEZONE)).date().isoformat()
 
@@ -243,14 +296,35 @@ def save_state(path: Path, state: dict[str, Any]) -> None:
         handle.write("\n")
 
 
+def get_with_retry(url: str, timeout: int, user_agent: str) -> requests.Response:
+    """Retry transient connection and upstream errors without retrying bad URLs."""
+    retryable_statuses = {429, 500, 502, 503, 504}
+    last_error: requests.RequestException | None = None
+    for attempt in range(3):
+        try:
+            response = requests.get(
+                url,
+                timeout=timeout,
+                headers={"User-Agent": user_agent},
+            )
+            if response.status_code in retryable_statuses:
+                response.raise_for_status()
+            return response
+        except requests.RequestException as exc:
+            last_error = exc
+            if attempt == 2:
+                raise
+            time.sleep(0.4 * (2**attempt))
+    raise last_error or RuntimeError(f"Failed to fetch {url}")
+
+
 def fetch_rss(source: dict[str, Any], timeout: int) -> list[Candidate]:
-    response = requests.get(
-        source["url"],
-        timeout=timeout,
-        headers={"User-Agent": "NewsRadarDigest/1.0"},
-    )
+    response = get_with_retry(source["url"], timeout, "NewsRadarDigest/1.0")
     response.raise_for_status()
     parsed = feedparser.parse(response.content)
+    if not parsed.entries:
+        detail = f": {parsed.bozo_exception}" if getattr(parsed, "bozo", False) else ""
+        raise ValueError(f"RSS feed returned no entries{detail}")
     candidates: list[Candidate] = []
     for entry in parsed.entries[: int(source.get("max_items", 12))]:
         title = clean_text(entry.get("title"), 180)
@@ -264,6 +338,8 @@ def fetch_rss(source: dict[str, Any], timeout: int) -> list[Candidate]:
             or parse_date(entry.get("created"))
         )
         candidates.append(candidate_from_source(source, title, link, summary, published))
+    if not candidates:
+        raise ValueError("RSS feed contained no usable article entries")
     return candidates
 
 
@@ -273,11 +349,7 @@ def fetch_html_index(source: dict[str, Any], timeout: int) -> list[Candidate]:
     Configure with item_selector, title_selector, link_selector, and optional
     summary_selector. This reads index-page metadata only, not article bodies.
     """
-    response = requests.get(
-        source["url"],
-        timeout=timeout,
-        headers={"User-Agent": "NewsRadarDigest/1.0"},
-    )
+    response = get_with_retry(source["url"], timeout, "NewsRadarDigest/1.0")
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
     items = soup.select(source.get("item_selector", "article"))[: int(source.get("max_items", 12))]
@@ -292,6 +364,8 @@ def fetch_html_index(source: dict[str, Any], timeout: int) -> list[Candidate]:
         summary_node = item.select_one(source.get("summary_selector", "p"))
         summary = clean_text(summary_node.get_text(" ", strip=True) if summary_node else "", 520)
         candidates.append(candidate_from_source(source, title, link, summary, None))
+    if not candidates:
+        raise ValueError("HTML index contained no usable article entries; check its selectors")
     return candidates
 
 
@@ -316,21 +390,30 @@ def candidate_from_source(
 
 
 def collect_candidates(config: dict[str, Any], timeout: int) -> list[Candidate]:
-    candidates: list[Candidate] = []
-    for source in config.get("sources", []):
-        if not source.get("enabled", True):
-            continue
-        try:
-            source_type = source.get("source_type", "rss")
-            if source_type == "html":
-                found = fetch_html_index(source, timeout)
-            else:
-                found = fetch_rss(source, timeout)
-            candidates.extend(found)
-            time.sleep(0.25)
-        except Exception as exc:
-            print(f"Warning: failed to fetch {source.get('name')}: {exc}", file=sys.stderr)
-    return candidates
+    """Fetch enabled sources concurrently while preserving configuration order."""
+    sources = [source for source in validate_sources(config) if source.get("enabled", True)]
+    if not sources:
+        raise ValueError("Source configuration has no enabled sources")
+
+    def fetch(source: dict[str, Any]) -> list[Candidate]:
+        if source.get("source_type", "rss") == "html":
+            return fetch_html_index(source, timeout)
+        return fetch_rss(source, timeout)
+
+    results: list[list[Candidate]] = [[] for _ in sources]
+    workers = min(MAX_FETCH_WORKERS, len(sources))
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        pending = {executor.submit(fetch, source): index for index, source in enumerate(sources)}
+        for future in as_completed(pending):
+            index = pending[future]
+            source = sources[index]
+            try:
+                results[index] = future.result()
+                print(f"Fetched {len(results[index]):>2} candidates from {source['name']}")
+            except Exception as exc:
+                print(f"Warning: failed to fetch {source.get('name')}: {exc}", file=sys.stderr)
+
+    return [candidate for source_results in results for candidate in source_results]
 
 
 def is_probably_relevant(candidate: Candidate) -> bool:
@@ -348,7 +431,13 @@ def is_probably_relevant(candidate: Candidate) -> bool:
     return True
 
 
-def prefilter(candidates: list[Candidate], state: dict[str, Any], max_candidates: int) -> list[Candidate]:
+def prefilter(
+    candidates: list[Candidate],
+    state: dict[str, Any],
+    max_candidates: int,
+    max_per_outlet: int = 12,
+) -> list[Candidate]:
+    """Deduplicate and round-robin outlets so high-volume feeds cannot dominate."""
     seen = state.get("seen", {})
     unique: dict[str, Candidate] = {}
     for candidate in candidates:
@@ -357,15 +446,37 @@ def prefilter(candidates: list[Candidate], state: dict[str, Any], max_candidates
         if not is_probably_relevant(candidate):
             continue
         unique.setdefault(candidate.key, candidate)
-    dated = sorted(
-        unique.values(),
-        key=lambda item: (item.publication_date or "0000-00-00", item.outlet, item.title),
+    grouped: dict[str, list[Candidate]] = defaultdict(list)
+    for candidate in unique.values():
+        grouped[candidate.outlet].append(candidate)
+    for outlet_candidates in grouped.values():
+        outlet_candidates.sort(
+            key=lambda item: (item.publication_date or "0000-00-00", item.title),
+            reverse=True,
+        )
+
+    outlets = sorted(
+        grouped,
+        key=lambda outlet: (
+            grouped[outlet][0].publication_date or "0000-00-00",
+            outlet.lower(),
+        ),
         reverse=True,
     )
-    return dated[:max_candidates]
+    balanced: list[Candidate] = []
+    for item_index in range(max_per_outlet):
+        for outlet in outlets:
+            outlet_candidates = grouped[outlet]
+            if item_index < len(outlet_candidates):
+                balanced.append(outlet_candidates[item_index])
+                if len(balanced) >= max_candidates:
+                    return balanced
+    return balanced
 
 
 def build_llm_prompt(candidates: list[Candidate], count: int) -> str:
+    distinct_outlets = len({candidate.outlet for candidate in candidates})
+    required_outlets = min(count, distinct_outlets)
     payload = [
         {
             "id": candidate.key,
@@ -387,6 +498,11 @@ def build_llm_prompt(candidates: list[Candidate], count: int) -> str:
 
         Selection goals:
         {BALANCE_HINT}
+
+        Source-diversity requirements:
+        - Use at least {required_outlets} different outlets in the {count}-item result.
+        - Do not select more than one item from an outlet when enough distinct outlets are available.
+        - Include different geographic and editorial perspectives where the supplied candidates support it.
 
         Topic menu:
         {json.dumps(TARGET_TOPICS, ensure_ascii=False)}
@@ -442,6 +558,8 @@ def call_llm(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
 
 
 def build_japanese_llm_prompt(candidates: list[Candidate], count: int) -> str:
+    distinct_outlets = len({candidate.outlet for candidate in candidates})
+    max_per_outlet = max(1, (count + distinct_outlets - 1) // distinct_outlets)
     payload = [
         {
             "id": candidate.key,
@@ -463,6 +581,9 @@ def build_japanese_llm_prompt(candidates: list[Candidate], count: int) -> str:
 
         Selection goals:
         {JAPANESE_BALANCE_HINT}
+
+        Source-diversity requirement:
+        - Use all {distinct_outlets} available outlets when possible, with no more than {max_per_outlet} selections from one outlet.
 
         For each selected item, return:
         id, title, outlet, publication_date, link, topic, article_type, tone,
@@ -527,10 +648,10 @@ def collect_hot_topics(timeout: int, limit: int = 24) -> list[HotTopicCandidate]
     seen: set[str] = set()
     for source in HOT_TOPIC_SOURCES:
         try:
-            response = requests.get(
+            response = get_with_retry(
                 source["url"],
-                timeout=timeout,
-                headers={"User-Agent": "Mozilla/5.0 NewsRadarDigest/1.0"},
+                timeout,
+                "Mozilla/5.0 NewsRadarDigest/1.0",
             )
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
@@ -573,11 +694,7 @@ def collect_official_english_headlines(timeout: int, limit: int = 36) -> list[di
     headlines: list[dict[str, str]] = []
     for source in OFFICIAL_ENGLISH_SOURCES:
         try:
-            response = requests.get(
-                source["url"],
-                timeout=timeout,
-                headers={"User-Agent": "NewsRadarDigest/1.0"},
-            )
+            response = get_with_retry(source["url"], timeout, "NewsRadarDigest/1.0")
             response.raise_for_status()
             parsed = feedparser.parse(response.content)
             for entry in parsed.entries[:limit]:
@@ -695,27 +812,62 @@ def heuristic_hot_topics(candidates: list[HotTopicCandidate], count: int) -> lis
     return picked
 
 
-def ensure_hot_topic_fields(topics: list[dict[str, Any]], candidates: list[HotTopicCandidate]) -> list[dict[str, Any]]:
+def ensure_hot_topic_fields(
+    topics: list[dict[str, Any]],
+    candidates: list[HotTopicCandidate],
+    official_headlines: list[dict[str, str]] | None = None,
+) -> list[dict[str, Any]]:
+    """Restore source-controlled provenance and discard duplicate/unknown topics."""
     by_topic = {candidate.chinese_topic: candidate for candidate in candidates}
     by_rank = {candidate.rank: candidate for candidate in candidates}
+    official_by_url = {
+        headline["url"]: headline
+        for headline in (official_headlines or [])
+        if headline.get("url")
+    }
     enriched: list[dict[str, Any]] = []
-    for index, topic in enumerate(topics, start=1):
+    used_ranks: set[int] = set()
+    for topic in topics:
+        if not isinstance(topic, dict):
+            continue
         candidate = by_topic.get(str(topic.get("chinese_topic", "")))
         if not candidate:
             try:
                 candidate = by_rank.get(int(topic.get("rank", 0)))
             except (TypeError, ValueError):
                 candidate = None
-        if candidate:
-            topic.setdefault("rank", candidate.rank)
-            topic.setdefault("chinese_topic", candidate.chinese_topic)
-            topic.setdefault("platform", candidate.platform)
-            topic.setdefault("heat", candidate.heat)
-            topic.setdefault("source_url", candidate.source_url)
-        topic.setdefault("rank", index)
-        topic.setdefault("source_url", "")
-        topic.setdefault("official_english_url", "")
-        enriched.append(topic)
+        if not candidate or candidate.rank in used_ranks:
+            continue
+        used_ranks.add(candidate.rank)
+
+        item = dict(topic)
+        item.update(
+            {
+                "rank": candidate.rank,
+                "chinese_topic": candidate.chinese_topic,
+                "platform": candidate.platform,
+                "heat": candidate.heat,
+                "source_url": candidate.source_url,
+            }
+        )
+        official_url = str(item.get("official_english_url", ""))
+        matched_headline = official_by_url.get(official_url)
+        if matched_headline:
+            item["official_english"] = matched_headline["title"]
+            item["official_english_source"] = matched_headline["outlet"]
+        else:
+            item["official_english_url"] = ""
+            item["official_english_source"] = "Suggested wording"
+        defaults = {
+            "official_english": f"Chinese online users discuss: {candidate.chinese_topic}",
+            "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+            "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+            "keywords": ["Chinese web", "hot topic", "English framing"],
+        }
+        for field, default in defaults.items():
+            if not item.get(field):
+                item[field] = default
+        enriched.append(item)
     return enriched
 
 
@@ -747,7 +899,8 @@ def update_hot_topics_index(hot_topics_dir: Path, index_path: Path) -> None:
                 "file": f"data/hot_topics/{topic_path.name}",
                 "title": f"Domestic Hot Topics - {data.get('date') or topic_path.stem}",
                 "item_count": len(topics) if isinstance(topics, list) else 0,
-                "updated_at": data.get("updated_at") or dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+                "updated_at": data.get("updated_at")
+                or dt.datetime.fromtimestamp(topic_path.stat().st_mtime, dt.timezone.utc).isoformat(timespec="seconds"),
             }
         )
     with index_path.open("w", encoding="utf-8") as handle:
@@ -790,7 +943,14 @@ def generate_hot_topics(
         except Exception as exc:
             print(f"Warning: failed to generate hot topics with LLM, using fallback: {exc}", file=sys.stderr)
             topics = heuristic_hot_topics(candidates, count)
-    topics = ensure_hot_topic_fields(topics[:count], candidates)
+    topics = ensure_hot_topic_fields(topics, candidates, official_headlines)[:count]
+    if len(topics) < count:
+        used_ranks = {int(topic["rank"]) for topic in topics}
+        fallback = heuristic_hot_topics(
+            [candidate for candidate in candidates if candidate.rank not in used_ranks],
+            count - len(topics),
+        )
+        topics.extend(ensure_hot_topic_fields(fallback, candidates, official_headlines))
     write_hot_topics_outputs(path, hot_topics_dir, index_path, digest_date, topics)
     return topics
 
@@ -811,7 +971,7 @@ def heuristic_recommendations(candidates: list[Candidate], count: int) -> list[d
         text = f"{candidate.title} {candidate.summary}".lower()
         topic = candidate.default_topic
         for possible, keywords in topic_keywords:
-            if any(keyword in text for keyword in keywords):
+            if any(re.search(rf"(?<!\w){re.escape(keyword)}(?!\w)", text) for keyword in keywords):
                 topic = possible
                 break
         score = 8 if candidate.outlet not in used_outlets else 6
@@ -878,14 +1038,82 @@ def heuristic_japanese_recommendations(candidates: list[Candidate], count: int) 
 
 
 def ensure_candidate_fields(recommendation: dict[str, Any], candidate_by_id: dict[str, Candidate]) -> dict[str, Any]:
+    """Restore fields whose provenance must come from the fetched candidate."""
     candidate = candidate_by_id.get(str(recommendation.get("id", "")))
-    if candidate:
-        recommendation.setdefault("title", candidate.title)
-        recommendation.setdefault("outlet", candidate.outlet)
-        recommendation.setdefault("publication_date", candidate.publication_date)
-        recommendation.setdefault("link", candidate.link)
-        recommendation.setdefault("publicly_accessible", candidate.public_access)
-    return recommendation
+    if not candidate:
+        return dict(recommendation)
+    enriched = dict(recommendation)
+    enriched.update(
+        {
+            "id": candidate.key,
+            "title": candidate.title,
+            "outlet": candidate.outlet,
+            "publication_date": candidate.publication_date,
+            "link": candidate.link,
+            "publicly_accessible": candidate.public_access,
+        }
+    )
+    try:
+        enriched["priority_score"] = max(1, min(10, int(enriched.get("priority_score", 5))))
+    except (TypeError, ValueError):
+        enriched["priority_score"] = 5
+    expressions = enriched.get("expressions_to_teach") or enriched.get("suggested_expressions") or []
+    if isinstance(expressions, str):
+        expressions = [expressions]
+    enriched["expressions_to_teach"] = [str(value) for value in expressions if value][:5]
+    return enriched
+
+
+def finalize_recommendations(
+    recommendations: list[dict[str, Any]],
+    candidates: list[Candidate],
+    count: int,
+    fallback_builder: Any,
+) -> list[dict[str, Any]]:
+    """Validate model choices, enforce outlet diversity, and fill short results."""
+    candidate_by_id = {candidate.key: candidate for candidate in candidates}
+    distinct_outlets = len({candidate.outlet for candidate in candidates})
+    outlet_limit = 1 if distinct_outlets >= count else max(1, (count + distinct_outlets - 1) // distinct_outlets)
+    selected: list[dict[str, Any]] = []
+    selected_ids: set[str] = set()
+    outlet_counts: dict[str, int] = defaultdict(int)
+
+    fallback_items = fallback_builder(candidates, len(candidates))
+    fallback_by_id = {
+        str(item.get("id", "")): item
+        for item in fallback_items
+        if isinstance(item, dict) and item.get("id")
+    }
+    proposed_items = [*recommendations, *fallback_items]
+
+    def add_items(enforce_outlet_limit: bool) -> None:
+        for item in proposed_items:
+            if not isinstance(item, dict):
+                continue
+            candidate_id = str(item.get("id", ""))
+            candidate = candidate_by_id.get(candidate_id)
+            if not candidate or candidate_id in selected_ids:
+                continue
+            if enforce_outlet_limit and outlet_counts[candidate.outlet] >= outlet_limit:
+                continue
+            enriched = dict(fallback_by_id.get(candidate_id, {}))
+            enriched.update(
+                {
+                    key: value
+                    for key, value in item.items()
+                    if value is not None and value != "" and value != []
+                }
+            )
+            selected.append(ensure_candidate_fields(enriched, candidate_by_id))
+            selected_ids.add(candidate_id)
+            outlet_counts[candidate.outlet] += 1
+            if len(selected) >= count:
+                return
+
+    add_items(enforce_outlet_limit=True)
+    if len(selected) < count:
+        add_items(enforce_outlet_limit=False)
+    return selected
 
 
 def md_escape(value: Any) -> str:
@@ -994,7 +1222,10 @@ def update_digest_index(digest_dir: Path, index_path: Path, file_prefix: str = "
                 "file": f"{file_prefix}/{digest_path.name}",
                 "title": title_match.group(1).strip() if title_match else digest_path.stem,
                 "item_count": item_count,
-                "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+                "updated_at": dt.datetime.fromtimestamp(
+                    digest_path.stat().st_mtime,
+                    dt.timezone.utc,
+                ).isoformat(timespec="seconds"),
             }
         )
     with index_path.open("w", encoding="utf-8") as handle:
@@ -1018,16 +1249,16 @@ def generate_japanese_digest(
     if not candidates:
         raise RuntimeError("No new Japanese candidate items found after fetching and deduplication")
 
-    candidate_by_id = {candidate.key: candidate for candidate in candidates}
     if no_llm:
         recommendations = heuristic_japanese_recommendations(candidates, count)
     else:
         recommendations = call_japanese_llm(candidates, count)
-    recommendations = [
-        ensure_candidate_fields(item, candidate_by_id)
-        for item in recommendations
-        if item.get("id") in candidate_by_id or item.get("link")
-    ][:count]
+    recommendations = finalize_recommendations(
+        recommendations,
+        candidates,
+        count,
+        heuristic_japanese_recommendations,
+    )
 
     if not recommendations:
         raise RuntimeError("No Japanese recommendations were selected")
@@ -1064,6 +1295,17 @@ def main() -> int:
     parser.add_argument("--skip-japanese", action="store_true", help="Generate the English digest without updating Japanese recommendations.")
     args = parser.parse_args()
 
+    try:
+        args.date = validate_digest_date(args.date)
+    except ValueError as exc:
+        parser.error(str(exc))
+    if args.count < 1 or args.japanese_count < 1:
+        parser.error("--count and --japanese-count must be positive")
+    if args.max_candidates < max(args.count, args.japanese_count):
+        parser.error("--max-candidates must be at least as large as the requested recommendation counts")
+    if args.timeout < 1:
+        parser.error("--timeout must be positive")
+
     if args.topics_only:
         topics = generate_hot_topics(
             args.hot_topics_output,
@@ -1097,16 +1339,16 @@ def main() -> int:
     if not candidates:
         raise RuntimeError("No new candidate articles found after fetching and deduplication")
 
-    candidate_by_id = {candidate.key: candidate for candidate in candidates}
     if args.no_llm:
         recommendations = heuristic_recommendations(candidates, args.count)
     else:
         recommendations = call_llm(candidates, args.count)
-    recommendations = [
-        ensure_candidate_fields(item, candidate_by_id)
-        for item in recommendations
-        if item.get("id") in candidate_by_id or item.get("link")
-    ][: args.count]
+    recommendations = finalize_recommendations(
+        recommendations,
+        candidates,
+        args.count,
+        heuristic_recommendations,
+    )
 
     if not recommendations:
         raise RuntimeError("No recommendations were selected")

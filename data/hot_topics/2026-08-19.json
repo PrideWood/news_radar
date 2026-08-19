@@ -1,142 +1,142 @@
 {
   "date": "2026-08-19",
-  "updated_at": "2026-08-19T01:53:47+00:00",
+  "updated_at": "2026-08-19T13:03:03+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "重大突破！中国首次实现火箭陆地回收",
+      "rank": 1,
+      "chinese_topic": "您始终有厄瓜多尔这样的朋友",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China completes first rocket recovery on land",
+      "official_english": "Chinese online users discuss: 您始终有厄瓜多尔这样的朋友",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major space milestone as China moves closer to reusable launch technology, drawing wide attention.",
-      "share_angle": "Explain why rocket recovery matters and how it could reshape launch costs and commercial space competition.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "rocket recovery",
-        "reusable launch",
-        "China space"
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "全球市场大跳水 原因找到了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese online users discuss: 全球市场大跳水 原因找到了",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "宇树科技高开629% 总市值达4449亿",
+      "chinese_topic": "多地宣布：调整最低工资标准",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Unitree Technology opens 629% higher on debut, market value reaches 444.9 billion yuan",
+      "official_english": "Chinese online users discuss: 多地宣布：调整最低工资标准",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A tech company's dramatic first-day stock surge fuels debate about high valuations and investor enthusiasm.",
-      "share_angle": "Break down the IPO numbers and what the premium pricing says about market sentiment toward new-economy companies.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "Unitree Technology",
-        "IPO",
-        "market debut"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "事关住房公积金 有这些新变化",
+      "chinese_topic": "公积金新政来了 有哪些利好",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New changes announced for China's housing provident fund",
+      "official_english": "Chinese online users discuss: 公积金新政来了 有哪些利好",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Housing provident fund rules affect millions of workers, so any change quickly becomes a major livelihood topic.",
-      "share_angle": "Summarize the policy shifts and explain what they mean for homebuyers and fund contributors.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "housing provident fund",
-        "housing policy",
-        "livelihood"
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "总台七夕晚会",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese online users discuss: 总台七夕晚会",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "朱雀三号遥一失败原因披露",
+      "chinese_topic": "暗访组当场质问：这个门怎么跑",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cause of Zhuque-3 Y1 failure disclosed",
+      "official_english": "Chinese online users discuss: 暗访组当场质问：这个门怎么跑",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The disclosure of a failed rocket launch attracts attention in China's space community and among observers of commercial space.",
-      "share_angle": "Use the failure analysis to illustrate how space programs use setbacks to improve engineering and safety.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "Zhuque-3",
-        "rocket failure",
-        "failure analysis"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "金枕榴莲也进入9.9元时代了",
+      "chinese_topic": "笔试前13名全淘汰 倒数5名全逆袭",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Golden Pillow durians enter the 9.9-yuan era",
+      "official_english": "Chinese online users discuss: 笔试前13名全淘汰 倒数5名全逆袭",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A premium fruit dropping to a 9.9-yuan price point sparks discussion about falling prices and changing food markets.",
-      "share_angle": "Explore why durian prices have fallen and what the trend says about supply chains and consumer demand.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "Golden Pillow durian",
-        "9.9 yuan",
-        "food prices"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "这些诗词句句不提爱句句充满爱",
+      "chinese_topic": "男子反抗暴力强拆致死被判无罪",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "These poems never say love but are full of love",
+      "official_english": "Chinese online users discuss: 男子反抗暴力强拆致死被判无罪",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral set of poems delights readers by expressing love indirectly, a beloved quality in Chinese poetry.",
-      "share_angle": "Introduce the poems and explain how Chinese literary tradition often conveys emotion without naming it.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "poetry",
-        "Chinese literature",
-        "indirect expression"
-      ]
-    },
-    {
-      "rank": 9,
-      "chinese_topic": "医生：泡面不健康不是因为防腐剂",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Doctor: Instant noodles are unhealthy not because of preservatives",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "It challenges a common food-related belief and makes people think again about what makes instant noodles less healthy.",
-      "share_angle": "Separate the preservative myth from the real nutritional concerns experts raise about instant noodles.",
-      "keywords": [
-        "instant noodles",
-        "preservatives",
-        "nutrition myths"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "厄尔尼诺大概率成为历史最强",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "El Niño likely to become strongest on record",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A potentially record-breaking El Niño raises concern about extreme weather around the world.",
-      "share_angle": "Explain what El Niño is and why a record-strong event would matter for global weather and communities.",
-      "keywords": [
-        "El Niño",
-        "climate",
-        "extreme weather"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     }
   ]

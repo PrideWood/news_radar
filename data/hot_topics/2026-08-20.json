@@ -1,142 +1,150 @@
 {
   "date": "2026-08-20",
-  "updated_at": "2026-08-20T01:51:13+00:00",
+  "updated_at": "2026-08-20T13:05:35+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "广大医务人员是最美的天使",
+      "rank": 2,
+      "chinese_topic": "大数据杀熟 3台手机竟显示3个价格",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Medical workers are the most beautiful angels",
+      "official_english": "Big data price discrimination exposed as three phones show different prices",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A widely shared phrase paying tribute to medical workers, resonating amid ongoing public appreciation for healthcare staff.",
-      "share_angle": "Highlight the dedication of medical workers and public gratitude, using the phrase as a positive lead.",
+      "why_hot": "Users are shocked to find the same product or service offered at three different prices on three phones, fueling long-standing complaints about algorithm-based price discrimination.",
+      "share_angle": "Explain what 'big data price discrimination' (大数据杀熟) is, why it happens, and what consumer-protection rules exist in China.",
       "keywords": [
-        "medical workers",
-        "gratitude",
-        "public health"
+        "algorithmic pricing",
+        "consumer rights",
+        "price discrimination",
+        "e-commerce"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "富士康紧急扩招 新人入职就奖8800元",
+      "chinese_topic": "“不怕楼上跑跳的”房子要来了吗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Foxconn launches urgent recruitment drive with 8,800 yuan sign-on bonus for new hires",
+      "official_english": "Are homes that block upstairs noise becoming a reality?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Foxconn's big sign-on bonus signals a surge in manufacturing labor demand, drawing attention to jobs and the economy.",
-      "share_angle": "Explain why Foxconn is hiring urgently and what the bonus says about the current job market and electronics supply chain.",
+      "why_hot": "Living with noise from upstairs neighbors is a common pain point, and new building standards or products that promise soundproofing spark hope among residents.",
+      "share_angle": "Discuss how new housing designs or insulation technologies aim to reduce floor-impact noise, and how this affects urban living.",
       "keywords": [
-        "Foxconn",
-        "recruitment",
-        "manufacturing"
+        "noise insulation",
+        "housing standards",
+        "urban living",
+        "construction"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "公积金新政来了 有哪些利好",
+      "chinese_topic": "海外游客为啥都爱“中国游”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New housing provident fund policies announced: what are the benefits?",
+      "official_english": "What makes 'China Travel' so appealing to overseas tourists?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Changes to the housing provident fund affect many workers' ability to buy or rent homes, making it a livelihood hot topic.",
-      "share_angle": "Break down the policy changes and explain how they might help ordinary home buyers and renters.",
+      "why_hot": "International visitors are sharing their travel experiences in China on social media, drawing attention to China's tourism appeal amid rising global interest.",
+      "share_angle": "Highlight examples of why international tourists enjoy visiting China, such as convenience, culture, and food, based on the trending discussions.",
       "keywords": [
-        "housing fund",
-        "policy",
-        "home purchases"
+        "China travel",
+        "tourism",
+        "inbound tourism",
+        "cultural exchange"
       ]
     },
     {
-      "rank": 6,
-      "chinese_topic": "男子花1290万买精装豪宅竟是样板间",
+      "rank": 19,
+      "chinese_topic": "宇树上市两日市值跌超1600亿",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man buys luxury furnished apartment for 12.9 million yuan, then finds it was the model room",
+      "official_english": "Unitree Robotics loses over 160 billion yuan in market value within two days of listing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A stunning consumer dispute raises questions about property sales transparency and buyers' rights.",
-      "share_angle": "Use this case to discuss what home buyers should check before signing contracts and how to protect consumer rights.",
+      "why_hot": "Unitree, a prominent Chinese robotics company, saw its market value plunge sharply just after its stock market debut, drawing attention from investors and tech observers.",
+      "share_angle": "Break down why the robotics firm's stock fluctuated after IPO and what it signals for the humanoid-robot sector.",
       "keywords": [
-        "real estate",
-        "consumer rights",
-        "luxury apartment"
+        "Unitree",
+        "IPO",
+        "robotics",
+        "stock market"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "北大报到日校园满是扛床垫的爸",
+      "rank": 10,
+      "chinese_topic": "奥运冠军刘虹退役",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Peking University registration day: campus full of fathers carrying mattresses",
+      "official_english": "Olympic champion Liu Hong announces retirement",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A warm, relatable scene at a top university's registration day shows parental care and the start of campus life.",
-      "share_angle": "Reflect on family support, Chinese college entrance traditions, and the bittersweet moment of leaving home.",
+      "why_hot": "Liu Hong, a celebrated race walker and Olympic gold medalist, has retired, prompting tributes from fans and reflections on her athletic career.",
+      "share_angle": "Summarize Liu Hong's career achievements and her impact on Chinese athletics, with a focus on her major medal wins.",
       "keywords": [
-        "Peking University",
-        "freshmen",
-        "family"
+        "Liu Hong",
+        "retirement",
+        "Olympic champion",
+        "race walking"
       ]
     },
     {
-      "rank": 9,
-      "chinese_topic": "日本民众排队5小时买中国相机",
+      "rank": 12,
+      "chinese_topic": "涉蚌埠普高录取工作通知为虚假文件",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japanese shoppers queue five hours to buy Chinese-made cameras",
+      "official_english": "Education officials warn that a notice about senior high school admissions in Bengbu is fraudulent",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese camera brands gaining popularity in Japan sparks national pride and questions about the global tech market.",
-      "share_angle": "Examine how Chinese consumer electronics are going global and what makes these cameras so attractive to Japanese buyers.",
+      "why_hot": "A circulating notice about high school admission work in Bengbu was exposed as fake, raising concerns about misinformation in education-sensitive procedures.",
+      "share_angle": "Explain how authorities debunked the fake notice and remind students and parents to verify official education announcements.",
       "keywords": [
-        "Chinese cameras",
-        "Made in China",
-        "Japan"
+        "Bengbu",
+        "admissions",
+        "fake notice",
+        "education misinformation"
       ]
     },
     {
-      "rank": 13,
-      "chinese_topic": "大学生一个月给多少生活费合适",
+      "rank": 17,
+      "chinese_topic": "华为阔直板手机",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How much monthly allowance should college students get?",
+      "official_english": "Huawei's new wide-screen smartphone attracts attention",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A perennial family debate about student budgets, touching on education costs, living standards, and financial literacy.",
-      "share_angle": "Compare different living-cost levels and give tips on how students can budget and manage money.",
+      "why_hot": "Huawei's upcoming or newly released wide-body smartphone is generating buzz online, reflecting strong public interest in the company's design choices amid its comeback efforts.",
+      "share_angle": "Describe the rumored or announced features of Huawei's new handset and discuss its significance in the competitive smartphone market.",
       "keywords": [
-        "college students",
-        "allowance",
-        "budgeting"
-      ]
-    },
-    {
-      "rank": 22,
-      "chinese_topic": "AI演员能替代真人演员吗",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Can AI actors replace human actors?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "As AI-generated performances improve, the entertainment industry and audiences are debating the future of acting.",
-      "share_angle": "Explore both sides: the efficiency of AI actors versus the irreplaceable emotional depth of human performers.",
-      "keywords": [
-        "AI actors",
-        "film industry",
+        "Huawei",
+        "smartphone",
+        "wide screen",
         "technology"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "哈佛医学院惊天丑闻和解",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Harvard Medical School settles a high-profile scandal",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The settlement of a widely discussed scandal at Harvard Medical School has attracted wide attention online, raising questions about accountability in medical institutions.",
+      "share_angle": "Discuss the background of the case and its implications for institutional accountability and medical ethics.",
+      "keywords": [
+        "Harvard Medical School",
+        "scandal",
+        "settlement",
+        "medical ethics"
       ]
     }
   ]

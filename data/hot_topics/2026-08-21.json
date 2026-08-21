@@ -1,142 +1,150 @@
 {
   "date": "2026-08-21",
-  "updated_at": "2026-08-21T01:57:42+00:00",
+  "updated_at": "2026-08-21T13:05:22+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "“培育发展新质生产力的新动能”",
+      "rank": 5,
+      "chinese_topic": "多家车企因门把手安全隐患召回汽车",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fostering new drivers for the development of new quality productive forces",
+      "official_english": "Multiple automakers recall vehicles over door handle safety defect",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top policy phrase on the hot list, reflecting official emphasis on innovation-driven growth and industrial upgrading.",
-      "share_angle": "Explain what 'new quality productive forces' means and why it is central to China's economic agenda.",
+      "why_hot": "Safety recalls involving several car brands directly affect consumers and trigger nationwide discussion on quality control and accountability.",
+      "share_angle": "Explain the recall trend and what it says about auto safety oversight and consumer protection in China.",
       "keywords": [
-        "new quality productive forces",
-        "innovation",
-        "Chinese economy"
+        "auto recall",
+        "door handle",
+        "car safety",
+        "consumer rights"
       ]
     },
     {
-      "rank": 2,
-      "chinese_topic": "“准两万亿”之城要上桌了",
+      "rank": 16,
+      "chinese_topic": "台风沙德尔周日或升级为超强台风",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A city approaching two trillion yuan in GDP is about to join the two-trillion-yuan club",
+      "official_english": "Typhoon Shadel may become a super typhoon by Sunday",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Milestone discussions around Chinese cities approaching the two-trillion-yuan GDP threshold attract attention as signs of regional economic strength.",
-      "share_angle": "Contextualize what a two-trillion-yuan GDP city means and how this milestone reflects urbanization and regional development.",
+      "why_hot": "A potentially powerful typhoon heading toward affected areas raises public concern over travel disruptions, property damage and emergency preparedness.",
+      "share_angle": "Use the typhoon as a lens to show how coastal China issues warnings and prepares for extreme weather.",
       "keywords": [
-        "GDP",
-        "city economy",
-        "two trillion yuan"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "解放军新锐武器：可覆盖台海与那国岛",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "PLA's new weaponry can cover Taiwan Strait and Yonaguni Island",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Defense news involving the Taiwan Strait and Yonaguni Island draws wide attention and strategic analysis.",
-      "share_angle": "Summarize the Chinese media report and explain why the geography and capabilities matter, while noting that details remain limited.",
-      "keywords": [
-        "PLA",
-        "new weaponry",
-        "regional security"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "海外游客为啥都爱“中国游”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why overseas tourists love 'China Travel'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Viral discussions about foreign tourists' positive experiences in China highlight the country's tourism appeal and cultural exchange.",
-      "share_angle": "Break down the 'China Travel' trend and what overseas visitors often enjoy, from food to scenery to digital convenience.",
-      "keywords": [
-        "China Travel",
-        "inbound tourism",
-        "foreign tourists"
-      ]
-    },
-    {
-      "rank": 19,
-      "chinese_topic": "大数据杀熟 3台手机竟显示3个价格",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Big data price discrimination: three phones show three different prices",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A concrete case of suspected algorithmic pricing bias has fueled debate over consumer rights and platform transparency.",
-      "share_angle": "Explain how 'big data price discrimination' happens, what consumer protections exist, and what users can do if they suspect it.",
-      "keywords": [
-        "big data price discrimination",
-        "consumer rights",
-        "algorithmic pricing"
+        "typhoon",
+        "Shadel",
+        "super typhoon",
+        "disaster preparedness"
       ]
     },
     {
       "rank": 17,
-      "chinese_topic": "医院能办结婚证了",
+      "chinese_topic": "公司把工位搬到50公里外逼员工辞职",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Hospitals can now process marriage registration",
+      "official_english": "Company moves workspaces 50 km away, allegedly to force resignations",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "News that hospitals can now handle marriage registration has sparked discussion about convenience and integrated public services.",
-      "share_angle": "Show what this service change means for couples and how it simplifies administrative procedures.",
+      "why_hot": "The tactic of moving workplaces far away to pressure staff to quit has gone viral because it highlights job insecurity and workers' rights.",
+      "share_angle": "Frame it as a 'quiet firing' case that resonates with workers worldwide and discuss how employees can respond.",
       "keywords": [
-        "marriage registration",
-        "public services",
-        "hospitals"
+        "workplace rights",
+        "quiet firing",
+        "labor dispute",
+        "China"
       ]
     },
     {
-      "rank": 20,
-      "chinese_topic": "月租600电费400 租客不敢开空调",
+      "rank": 12,
+      "chinese_topic": "湖北快递员被罚100元结束生命不实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rent is 600 yuan but electricity bill is 400 yuan: tenant dares not turn on air conditioner",
+      "official_english": "Claims that a Hubei courier died after being fined 100 yuan are false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A stark electricity bill story has drawn attention to living costs and rental housing conditions.",
-      "share_angle": "Explore the factors behind high electricity bills for renters and the broader debate over housing-related expenses.",
+      "why_hot": "An emotionally charged claim about a courier's death was widely shared before being denied, fueling concerns about misinformation and working conditions.",
+      "share_angle": "Use it as a case study in online rumor and fact-checking, emphasizing caution before sharing unconfirmed stories.",
       "keywords": [
-        "rental housing",
-        "electricity bill",
-        "living costs"
+        "misinformation",
+        "fact-check",
+        "courier",
+        "Hubei"
       ]
     },
     {
-      "rank": 22,
-      "chinese_topic": "“大不了送外卖”暴露了什么",
+      "rank": 7,
+      "chinese_topic": "经央行公告停止流通的人民币可以买卖",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What does 'Worst case, I'll deliver food' reveal?",
+      "official_english": "PBOC says discontinued renminbi notes are allowed to be bought and sold",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A popular saying among young people about taking up food delivery as a fallback has triggered debate on employment and the gig economy.",
-      "share_angle": "Discuss the reality of food-delivery work as a safety net and what it says about labor-market pressures.",
+      "why_hot": "The announcement that old renminbi notes can be traded legally sparks curiosity about whether old money in drawers and collections is valuable.",
+      "share_angle": "Turn it into a guide to collecting discontinued banknotes and the rules for trading them.",
       "keywords": [
-        "gig economy",
-        "youth employment",
-        "food delivery"
+        "renminbi",
+        "PBOC",
+        "currency collecting",
+        "legal tender"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "微信测试“按住转文字”新功能",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "WeChat tests 'press and hold to convert voice to text' feature",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Any change to WeChat's interface affects hundreds of millions of users, and the new voice-to-text test immediately sparked debates about convenience and privacy.",
+      "share_angle": "Focus on how the feature could make voice messaging more usable and what it signals about WeChat's AI tools.",
+      "keywords": [
+        "WeChat",
+        "voice-to-text",
+        "new feature",
+        "AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "创历史新高！中国44名专家获奖",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese experts win awards in record numbers: 44 honored",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A record number of Chinese specialists winning awards feeds national pride and draws attention to China's growing scientific and technical workforce.",
+      "share_angle": "Connect the awards to China's investment in research and the global race for scientific talent.",
+      "keywords": [
+        "Chinese experts",
+        "awards",
+        "scientific research",
+        "record"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "八两秤摊主怒怼顾客：不骗人我吃啥",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Vendor with short-weight scale retorts: 'If I don't cheat, what would I eat?'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The shopkeeper's blunt answer to being caught using a short-weight scale angered customers and renewed calls for stronger consumer protection.",
+      "share_angle": "Highlight the everyday impact of inaccurate scales and why market regulators step in.",
+      "keywords": [
+        "short-weight",
+        "consumer protection",
+        "market regulation",
+        "viral"
       ]
     }
   ]

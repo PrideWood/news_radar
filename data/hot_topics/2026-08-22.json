@@ -1,142 +1,142 @@
 {
   "date": "2026-08-22",
-  "updated_at": "2026-08-22T01:49:50+00:00",
+  "updated_at": "2026-08-22T12:55:53+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "购票后未上车视为放弃席位使用权",
+      "rank": 8,
+      "chinese_topic": "世界人形机器人运动会",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Passengers who fail to board after purchasing a ticket are deemed to give up their seat-use right.",
+      "official_english": "World Humanoid Robot Games open",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A railway rule about no-show passengers and seat rights has sparked public debate over passenger rights and fare fairness.",
-      "share_angle": "Break down the rule and its implications for passengers who miss trains.",
+      "why_hot": "This is a first-of-its-kind sports event for humanoid robots, combining cutting-edge robotics with the familiar excitement of athletics.",
+      "share_angle": "Explain how humanoid robots are being tested through sports and why the event matters for the future of robotics.",
       "keywords": [
-        "train tickets",
-        "passenger rights",
-        "railway rule"
+        "humanoid robot",
+        "robot games",
+        "technology"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "三台风共舞！都可能影响中国",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Three typhoons may all affect China as they converge",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Typhoon forecasts directly affect daily life, travel, and disaster prevention, and three storms at the same time raises public concern.",
+      "share_angle": "Explain how multiple typhoons can form at once and what the forecasts mean for people in affected areas.",
+      "keywords": [
+        "typhoon",
+        "weather warning",
+        "disaster prevention"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "暴雨台风双预警",
+      "chinese_topic": "中国E-bike在国外爆火",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Dual warnings issued for heavy rain and typhoon.",
+      "official_english": "Chinese e-bikes become a hit overseas",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Severe weather alerts have gone viral as people seek timely information on storm paths and safety preparations.",
-      "share_angle": "Clarify the difference between rainstorm and typhoon warnings and offer practical preparedness advice.",
+      "why_hot": "A Chinese export product suddenly gaining global popularity touches on trade, manufacturing, and green transport.",
+      "share_angle": "Break down why Chinese e-bikes are winning over overseas riders and what it says about green-tech exports.",
       "keywords": [
-        "typhoon",
-        "rainstorm",
-        "weather warning"
-      ]
-    },
-    {
-      "rank": 10,
-      "chinese_topic": "手机出现这行字 存款正被转走",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cybersecurity alert: A certain phone message may mean your savings are being transferred out.",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A warning about a bank transfer scam is being widely shared as users worry about financial security.",
-      "share_angle": "Show viewers what to look for and how to respond if a scam message appears on their phone.",
-      "keywords": [
-        "phone scam",
-        "bank fraud",
-        "cybersecurity"
+        "e-bike",
+        "overseas market",
+        "green transport"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "这些美女帅哥竟然是机器人",
+      "chinese_topic": "亲人离世存款查询难？三部门联合发布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "These 'beautiful people' are actually robots.",
+      "official_english": "Three departments publish rules to ease access to deposits left by deceased relatives",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Footage of lifelike humanoid robots has amazed viewers and triggered discussions about AI and the future of robotics.",
-      "share_angle": "Unpack how realistic humanoid robots are used and what this means for human-robot interaction.",
+      "why_hot": "Many families face practical difficulties handling a relative's savings after death; a new joint policy directly addresses a common pain point.",
+      "share_angle": "Summarize the new convenience measure and who it helps, with a simple explanation of how to use it.",
       "keywords": [
-        "humanoid robot",
-        "AI",
-        "robotics"
+        "deposit inquiry",
+        "inheritance",
+        "policy"
       ]
     },
     {
-      "rank": 18,
-      "chinese_topic": "中国机器人能飞",
+      "rank": 10,
+      "chinese_topic": "秒39！中国机器人打破博尔特百米成绩",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A Chinese-made robot demonstrates the ability to fly.",
+      "official_english": "Chinese robot breaks Bolt's 100-meter record",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A robot taking flight has become a trending topic, with netizens impressed by the country's robotics progress.",
-      "share_angle": "Use the flying robot clip to explore advances in robot mobility and possible future uses.",
+      "why_hot": "The headline moment from a robot sports event shows machines matching or beating top human athletes, sparking awe and debate.",
+      "share_angle": "Explain what the result means for the robot games and what still separates robots from human sprinters.",
       "keywords": [
-        "robot flight",
-        "China robotics",
-        "technology advance"
+        "robot",
+        "100-meter",
+        "sports record"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "鸭货卖不动了",
+      "rank": 15,
+      "chinese_topic": "全球债市现抛售潮",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Duck-based snack sales reportedly turn sluggish.",
+      "official_english": "Global bond markets experience a sell-off",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumers are discussing the reported decline in duck snack sales, reflecting broader changes in spending and food trends.",
-      "share_angle": "Look at why a once-popular snack category may be losing steam and what it says about China's snack market.",
+      "why_hot": "Bonds are fundamental to global finance, and a sell-off can signal shifting rate expectations or market stress.",
+      "share_angle": "Simplify what a bond sell-off is, why it matters for everyday money, and what to watch next.",
       "keywords": [
-        "duck snacks",
-        "consumer spending",
-        "food trends"
+        "bond market",
+        "sell-off",
+        "global economy"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "女子55元捡漏一万四项链被要求退款",
+      "rank": 12,
+      "chinese_topic": "湖南祁东3人迷晕孩童系谣言",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman asked to return necklace worth 14,000 yuan that she bought for 55 yuan.",
+      "official_english": "Rumor that three people drugged children in Qidong, Hunan is false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An online dispute over an accidentally low-priced item has triggered debate over buyer and seller responsibility in e-commerce.",
-      "share_angle": "Discuss the legal and ethical questions raised by pricing errors in online marketplaces.",
+      "why_hot": "Child safety rumors spread quickly and create panic; the official refutation is widely shared to correct misinformation.",
+      "share_angle": "Show why this kind of rumor keeps appearing online and how to verify local safety alerts before sharing.",
       "keywords": [
-        "consumer dispute",
-        "e-commerce",
-        "pricing error"
+        "rumor refutation",
+        "child safety",
+        "misinformation"
       ]
     },
     {
-      "rank": 17,
-      "chinese_topic": "男子被反锁在新能源汽车后备箱5小时",
+      "rank": 2,
+      "chinese_topic": "两女孩买三张火车票放零食 母亲回应",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man trapped in electric-vehicle trunk for five hours after being locked inside.",
+      "official_english": "Mother responds after two girls buy three train tickets for snacks",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An EV safety incident has drawn attention to emergency release mechanisms and vehicle design standards.",
-      "share_angle": "Use the incident as a starting point to explain EV safety features and what to do if trapped.",
+      "why_hot": "It triggers debate over whether buying extra train seats for luggage, snacks, or personal space is reasonable.",
+      "share_angle": "Lay out both sides of the train-ticket debate and explain the current rules on extra seats.",
       "keywords": [
-        "electric vehicle",
-        "vehicle safety",
-        "EV trunk"
+        "train tickets",
+        "travel etiquette",
+        "debate"
       ]
     }
   ]

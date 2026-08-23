@@ -1,142 +1,142 @@
 {
   "date": "2026-08-23",
-  "updated_at": "2026-08-23T02:00:08+00:00",
+  "updated_at": "2026-08-23T12:57:14+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 11,
-      "chinese_topic": "三大台风将如何影响中国",
+      "rank": 1,
+      "chinese_topic": "总书记为何强调文和旅的融合",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How Three Typhoons Will Affect China",
+      "official_english": "General Secretary stresses importance of integrating culture and tourism",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Three typhoons are moving at the same time, making the path and impact on China a top concern for the public.",
-      "share_angle": "Explain how scientists track multiple typhoons and what affected residents should do to prepare.",
+      "why_hot": "This is a top policy topic on Baidu, reflecting public interest in how culture and tourism are being linked under a major national strategy.",
+      "share_angle": "Explain what culture-tourism integration means, why leaders are emphasizing it now, and how it could affect travel and local development in China.",
       "keywords": [
-        "typhoons",
-        "weather",
-        "disaster preparedness"
+        "culture",
+        "tourism",
+        "policy"
       ]
     },
     {
-      "rank": 22,
-      "chinese_topic": "加拿大将对美国商品征收报复性关税",
+      "rank": 2,
+      "chinese_topic": "三部门指导调查“甲醛白菜”问题",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Canada to Impose Retaliatory Tariffs on US Goods",
+      "official_english": "Three departments instruct investigation into 'formaldehyde cabbage' issue",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Canada hitting back with tariffs on US goods signals rising trade tensions between the two allies.",
-      "share_angle": "Break down what triggered the tariffs and what they could mean for cross-border trade and prices.",
+      "why_hot": "The word 'formaldehyde' on food triggers strong consumer concern, and the three-department response signals a high-level probe.",
+      "share_angle": "Break down what the formaldehyde cabbage report involves, what investigators are checking, and what it means for vegetable safety.",
       "keywords": [
-        "Canada",
-        "US",
-        "tariffs"
-      ]
-    },
-    {
-      "rank": 13,
-      "chinese_topic": "DeepSeek再度调价",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek Adjusts Prices Again",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "DeepSeek's latest price adjustment has attracted attention from tech users and businesses watching AI costs.",
-      "share_angle": "Look at what the price change signals for the AI industry and how users can manage costs.",
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "pricing"
+        "food safety",
+        "formaldehyde",
+        "inspection"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "具身智能机器人正加速迈向应用",
+      "chinese_topic": "中国汽车出口激增",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Embodied Intelligent Robots Accelerate Toward Real-World Applications",
+      "official_english": "China's auto exports surge sharply",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Embodied intelligent robots are moving from labs into factories and daily life, fueling excitement about automation.",
-      "share_angle": "Show how embodied AI combines perception and action, and where it is being deployed.",
+      "why_hot": "Growing vehicle shipments are an important sign of China's manufacturing strength and an often-cited economic bright spot.",
+      "share_angle": "Examine the numbers behind China's auto export boom, the main markets, and what it says about the global car industry.",
       "keywords": [
-        "embodied AI",
-        "robots",
-        "automation"
+        "auto exports",
+        "China economy",
+        "manufacturing"
       ]
     },
     {
-      "rank": 17,
-      "chinese_topic": "秒39！中国机器人打破博尔特百米成绩",
+      "rank": 7,
+      "chinese_topic": "元成本卖到598元 企业被罚3.8亿",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Robot Breaks Bolt's 100m Record",
+      "official_english": "Company fined 380 million yuan over low-cost product sold at 598 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A Chinese robot reportedly beating a human sprint legend makes a striking conversation piece about technology and human limits.",
-      "share_angle": "Explore the engineering behind the robot and why robot-vs-human comparisons can be misleading.",
+      "why_hot": "A huge penalty over an extremely marked-up product draws attention to price gouging and consumer protection in China.",
+      "share_angle": "Explain why the company was fined, how the markup happened, and what this case shows about market regulation.",
       "keywords": [
-        "robot",
-        "100m sprint",
-        "Bolt"
+        "price gouging",
+        "penalty",
+        "consumer protection"
       ]
     },
     {
       "rank": 12,
-      "chinese_topic": "没打HPV疫苗不能入学系谣言",
+      "chinese_topic": "飞机散云止雨加重内蒙古旱情不实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor Refuted: HPV Vaccine Not Required for School Enrollment",
+      "official_english": "Claim that aircraft cloud dispersal worsened Inner Mongolia drought is false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral claim that missing the HPV vaccine blocks school enrollment has been debunked, causing confusion among parents.",
-      "share_angle": "Clarify the facts about HPV vaccination and how to verify school health requirements.",
+      "why_hot": "With parts of Inner Mongolia facing drought, a viral claim blaming aircraft only added confusion, so the clarification became hot.",
+      "share_angle": "Separate fact from rumor by explaining what the viral claim said, how weather modification works, and what the official response says.",
       "keywords": [
-        "HPV vaccine",
-        "rumor",
-        "school enrollment"
+        "drought",
+        "weather modification",
+        "fact check"
       ]
     },
     {
-      "rank": 14,
-      "chinese_topic": "人民日报：处置甲醛白菜必须从速从严",
+      "rank": 22,
+      "chinese_topic": "机器人打太极上演“鲤鱼打挺”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily: Formaldehyde-Treated Cabbage Must Be Handled Quickly and Strictly",
+      "official_english": "Robot performs tai chi and a 'carp flip'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A People's Daily editorial demanding swift action on formaldehyde-treated cabbage has put food safety back in the spotlight.",
-      "share_angle": "Explain the food safety issue and what consumers and regulators can do in response.",
+      "why_hot": "A robot combining martial arts and acrobatics is a visual hit and shows progress in robotics and AI.",
+      "share_angle": "Show the robot's moves and discuss how Chinese robotics teams are blending tradition with cutting-edge technology.",
       "keywords": [
-        "food safety",
-        "formaldehyde",
-        "cabbage"
+        "robot",
+        "tai chi",
+        "AI technology"
       ]
     },
     {
       "rank": 24,
-      "chinese_topic": "多个高职专业起薪超部分本科专业",
+      "chinese_topic": "台风沙德尔有2种路径 正面影响华东",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Starting Salaries in Some Vocational Majors Outpace Some Bachelor's Programs",
+      "official_english": "Typhoon Sadel: two possible tracks, direct impact expected in East China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New salary comparisons show some vocational graduates earning more than bachelor's degree holders, challenging assumptions about education paths.",
-      "share_angle": "Discuss what the data says about vocational education and how students should weigh their options.",
+      "why_hot": "A typhoon with an uncertain path and potential direct hit on the densely populated East China coast keeps the public on alert.",
+      "share_angle": "Walk through the two forecast scenarios, the areas at risk, and what precautions residents should take.",
       "keywords": [
-        "vocational education",
-        "starting salary",
-        "careers"
+        "typhoon",
+        "East China",
+        "disaster preparedness"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "杭州有人拍到罕见“精灵闪电”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Rare 'sprites' lightning captured in Hangzhou",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Sprites are a rarely seen upper-atmospheric phenomenon, so footage taken in Hangzhou quickly excited science fans.",
+      "share_angle": "Explain what sprites are, why they are hard to capture, and what the footage tells us about the atmosphere.",
+      "keywords": [
+        "sprites",
+        "lightning",
+        "atmosphere"
       ]
     }
   ]

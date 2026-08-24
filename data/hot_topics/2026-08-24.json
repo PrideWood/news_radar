@@ -1,146 +1,158 @@
 {
   "date": "2026-08-24",
-  "updated_at": "2026-08-24T01:58:14+00:00",
+  "updated_at": "2026-08-24T13:07:23+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "总书记为何强调文和旅的融合",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "General Secretary stresses integration of culture and tourism",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The leading Baidu hot item, it reflects public discussion about the government's push to combine cultural resources with tourism development to boost local economies.",
-      "share_angle": "Help English-speaking audiences understand what culture-tourism integration means in practice, from heritage sites to travel campaigns.",
-      "keywords": [
-        "culture-tourism integration",
-        "China policy",
-        "tourism economy"
-      ]
-    },
-    {
       "rank": 2,
-      "chinese_topic": "四川宜宾市长宁县发生4.7级地震",
+      "chinese_topic": "印度洋发生沉船 多名中国船员失联",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A 4.7-magnitude earthquake hits Changning County, Yibin, Sichuan",
+      "official_english": "Chinese Crew Members Missing After Shipwreck in Indian Ocean",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A 4.7-magnitude quake in Sichuan triggered immediate public concern, with shaking felt across multiple areas and related seismic terms dominating search.",
-      "share_angle": "Explain how China reports and responds to earthquakes, including early-warning systems and public safety advice.",
+      "why_hot": "A shipwreck in the Indian Ocean with Chinese crew members missing is a major international safety incident that draws immediate public concern.",
+      "share_angle": "Explain what is known so far from official reports, emphasize the need to wait for verified updates, and discuss why maritime rescue and crew safety matter.",
       "keywords": [
-        "Sichuan earthquake",
-        "Changning",
-        "early warning",
-        "emergency response"
+        "Indian Ocean",
+        "shipwreck",
+        "Chinese crew",
+        "maritime safety",
+        "missing"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "中国汽车出口激增",
+      "rank": 10,
+      "chinese_topic": "广西洪灾",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's auto exports surge",
+      "official_english": "Guangxi Hit by Flooding",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Chinese-made vehicles are gaining attention internationally, making the export surge a key topic for understanding China's economic and manufacturing trends.",
-      "share_angle": "Break down the forces driving China's auto export growth and what it signals for the global car market.",
+      "why_hot": "Flooding in Guangxi threatens lives and property, and people are closely watching rescue and disaster-response efforts.",
+      "share_angle": "Give a neutral update on the flooding, stress the importance of reliable information during disasters, and explain how emergency responses are being organized.",
       "keywords": [
-        "China auto exports",
-        "manufacturing",
-        "global market"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "暴雨黄色预警！5省部分地区有大暴雨",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yellow rainstorm warning issued for parts of five provinces",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A yellow warning for torrential rain in five provinces raised public concern about flooding, travel delays, and safety preparations.",
-      "share_angle": "Teach viewers how China's color-coded weather alerts work and what residents should do when a warning is issued.",
-      "keywords": [
-        "rainstorm warning",
-        "yellow alert",
-        "flood safety"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "机器人只做人类不爱做、做不好的事",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Robots only do tasks humans dislike or cannot do well",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A widely circulated remark about robots handling unpleasant and difficult tasks sparked public debate about AI, automation, and future employment.",
-      "share_angle": "Use this as a starting point to discuss how AI and robotics could change the nature of work and which jobs might be automated.",
-      "keywords": [
-        "robotics",
-        "AI",
-        "future of work"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "人民日报调查：面目全非的别墅小镇",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily probes villa towns 'beyond recognition'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A People's Daily investigative report on villa towns whose original appearance has been drastically altered drew attention to property development and urban planning.",
-      "share_angle": "Summarize what the investigation looks into and why it resonates with homeowners and urban planners.",
-      "keywords": [
-        "People's Daily",
-        "villa towns",
-        "urban planning",
-        "investigation"
+        "Guangxi",
+        "flood",
+        "disaster response",
+        "rescue",
+        "rainstorm"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "万辆召回 没有一款油车",
+      "chinese_topic": "嫦娥七号为何不能过几天再发",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "10,000 vehicles recalled, none are gasoline-powered",
+      "official_english": "Why Chang'e 7 Cannot Launch a Few Days Later",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The recall covered about 10,000 vehicles, and the absence of gasoline models in the recall sparked discussion about quality and safety in China's non-gasoline vehicle sector.",
-      "share_angle": "Explain why auto recalls happen, what 'no gasoline models' suggests about the new-energy vehicle market, and how consumers should respond.",
+      "why_hot": "Moon missions have strict launch windows, and public curiosity about the timing offers a chance to explain orbital mechanics and mission planning.",
+      "share_angle": "Break down why lunar launch windows are so precise and how timing affects the overall mission plan.",
       "keywords": [
-        "vehicle recall",
-        "non-gasoline cars",
-        "consumer safety",
-        "new-energy vehicles"
+        "Chang'e 7",
+        "lunar mission",
+        "launch window",
+        "space science",
+        "China space"
       ]
     },
     {
-      "rank": 19,
-      "chinese_topic": "全国推广去世亲人存款查询",
+      "rank": 4,
+      "chinese_topic": "中国机器人连刷人类世界纪录",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Deposit inquiry service for deceased relatives expanded nationwide",
+      "official_english": "Chinese Robots Break Multiple Human World Records",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A nationwide push to help families search for bank deposits left by deceased relatives resonated widely because it solves a common financial and emotional challenge.",
-      "share_angle": "Explain how the service helps ordinary people and what it shows about China's efforts to improve financial services.",
+      "why_hot": "Robot breakthroughs are a milestone in AI and robotics, and they capture public imagination about machine capabilities.",
+      "share_angle": "Highlight the significance of recent robotics advances in China and discuss what breaking human records could mean for future applications.",
       "keywords": [
-        "deceased relatives",
-        "deposit inquiry",
-        "inheritance",
-        "financial service"
+        "robot",
+        "world record",
+        "AI",
+        "robotics",
+        "China tech"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "教育部：一年级不布置书面家庭作业",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Ministry of Education: No Written Homework for First Graders",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Homework policy directly affects families and fuels debate about academic pressure on young children.",
+      "share_angle": "Examine the policy intention and practical questions for parents and schools, and connect it to broader efforts to reduce homework burden.",
+      "keywords": [
+        "education policy",
+        "homework",
+        "first grade",
+        "Ministry of Education",
+        "burden reduction"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "有单位违规发放工资津贴突击花钱",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Some Units Found Illegally Issuing Salaries and Subsidies and Rushing Spending",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "News about irregular pay and spending by public institutions touches on fiscal discipline and oversight of public money.",
+      "share_angle": "Explain what kinds of violations are typically flagged in audits and why checks on public spending matter.",
+      "keywords": [
+        "public spending",
+        "salaries",
+        "subsidies",
+        "audit",
+        "fiscal discipline"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "中国女排3比0横扫伊朗队",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China Women's Volleyball Team Sweeps Iran 3-0",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The national women's volleyball team is a source of pride, and a clear win stirs excitement among fans.",
+      "share_angle": "Recap the result and discuss the team's momentum and what the win signals for upcoming competitions.",
+      "keywords": [
+        "Chinese women's volleyball",
+        "Iran",
+        "3-0",
+        "volleyball",
+        "Team China"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "回应无座票二等座同价",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Railway Responds to Concern Over No-Seat Tickets Priced Same as Second-Class Seats",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Ticket pricing affects millions of train passengers and has sparked discussion about fairness and service quality.",
+      "share_angle": "Explain both sides of the pricing issue and how the railway operator has responded, while focusing on consumer concerns.",
+      "keywords": [
+        "no-seat ticket",
+        "second-class seat",
+        "train fare",
+        "China Railway",
+        "consumer rights"
       ]
     }
   ]

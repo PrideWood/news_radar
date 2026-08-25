@@ -1,142 +1,150 @@
 {
   "date": "2026-08-25",
-  "updated_at": "2026-08-25T01:52:26+00:00",
+  "updated_at": "2026-08-25T13:05:12+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 4,
-      "chinese_topic": "中国机器人连刷人类世界纪录",
+      "rank": 3,
+      "chinese_topic": "自动驾驶违法 车企担责",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese Robot Breaks Multiple Human World Records",
+      "official_english": "Automakers to bear liability when autonomous driving violates traffic rules",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A Chinese robot repeatedly breaking records once held by humans fascinated netizens, sparking pride and curiosity about robotics and AI.",
-      "share_angle": "Highlight the tech behind the robot, the records it broke, and what it signals about China's robotics push.",
+      "why_hot": "A policy clarification that would make car companies legally responsible for autonomous-driving violations is drawing wide attention as self-driving technology expands.",
+      "share_angle": "Explain what the new liability rule means for automakers, drivers, and the future of autonomous driving in China.",
       "keywords": [
-        "robot",
-        "world record",
-        "China tech"
-      ]
-    },
-    {
-      "rank": 15,
-      "chinese_topic": "癌症疫苗来了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cancer Vaccine Arrives",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The phrase 'cancer vaccine' quickly went viral, with many wondering whether a breakthrough in cancer prevention or treatment is finally here.",
-      "share_angle": "Explain the science of cancer vaccines, what the news actually says, and why experts urge caution.",
-      "keywords": [
-        "cancer vaccine",
-        "medicine",
-        "health breakthrough"
+        "autonomous driving",
+        "liability",
+        "traffic rules",
+        "China policy"
       ]
     },
     {
       "rank": 9,
-      "chinese_topic": "官方确认帮扶老人遭索赔店主不担责",
+      "chinese_topic": ".86秒！人形机器人百米再破纪录",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Authorities Confirm Shopkeeper Who Helped Elderly Person Is Not Liable",
+      "official_english": "Humanoid robot breaks its own 100-meter sprint record again",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "After a shopkeeper was sued for helping an elderly person, official confirmation of no liability reignited public anger and debate over good-Samaritan risks.",
-      "share_angle": "Use the case to discuss China's legal protection for Good Samaritans and how online audiences reacted.",
+      "why_hot": "A humanoid robot has reportedly set a new 100-meter record, sparking excitement about embodied AI and robotics progress.",
+      "share_angle": "Frame the record as a sign of fast-improving humanoid robotics and explain why precision and balance make sprinting hard for robots.",
       "keywords": [
-        "good Samaritan",
-        "legal protection",
-        "social trust"
+        "humanoid robot",
+        "100m record",
+        "robotics",
+        "embodied AI"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "榴莲价格彻底“崩了”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Durian prices plunge dramatically",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Durian prices have reportedly fallen sharply, giving consumers a chance to buy the once-expensive fruit at much lower cost.",
+      "share_angle": "Use the durian price drop to talk about supply chains, import trends, and how the fruit became a mainstream consumer favorite in China.",
+      "keywords": [
+        "durian",
+        "price drop",
+        "consumer market",
+        "imports"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "第一个1000公里地铁城市要来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's first city with 1,000 km of metro lines is coming",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A Chinese city is close to becoming the country's first with 1,000 km of metro rail, a milestone in urban public transport.",
+      "share_angle": "Explain the significance of a 1,000-km metro network and what it says about urban growth and infrastructure investment.",
+      "keywords": [
+        "metro",
+        "urban transit",
+        "1,000 km",
+        "infrastructure"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "中学施发型令：不合格不让进校门",
+      "chinese_topic": "官方：征集火箭军部队违规采购问题",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Middle School Imposes Hair Code, Barring Non-Compliant Students from Campus",
+      "official_english": "Officials call for tip-offs on Rocket Force procurement irregularities",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A school's strict hairstyle rule and refusal to let students in triggered debate over discipline, personal freedom, and how far schools should go.",
-      "share_angle": "Compare school dress codes in China and abroad, and explore why this rule divided parents and students.",
+      "why_hot": "The announcement invites reports of irregularities in Rocket Force procurement, focusing public attention on military discipline and accountability.",
+      "share_angle": "Explain the context of military procurement oversight and why the announcement is being discussed.",
       "keywords": [
-        "school rules",
-        "student rights",
+        "Rocket Force",
+        "military procurement",
+        "accountability",
+        "China defense"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "多国宣布：准备向乌克兰派兵",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple countries announce readiness to send troops to Ukraine",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Several countries have reportedly said they are prepared to send troops to Ukraine, a major geopolitical development that is trending online.",
+      "share_angle": "Summarize the reported statements and contextualize the possible shift in international support for Ukraine.",
+      "keywords": [
+        "Ukraine",
+        "troops",
+        "international response",
+        "geopolitics"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "新生购票和携带物品指南来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Guide for new students on ticket buying and permitted items released",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "As the new semester begins, a practical guide on tickets and allowed luggage for newly enrolled students is resonating with families.",
+      "share_angle": "Turn it into a helpful explainer for students studying in China, covering what to prepare before traveling to campus.",
+      "keywords": [
+        "new students",
+        "college semester",
+        "travel guide",
         "education"
       ]
     },
     {
-      "rank": 21,
-      "chinese_topic": "余承东：全新三折叠即将登场",
+      "rank": 12,
+      "chinese_topic": "武汉轮椅老人上高架蓄意碰瓷不实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yu Chengdong: New Tri-Fold Smartphone to Debut Soon",
+      "official_english": "Claim that wheelchair user staged crash on Wuhan elevated road is false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top tech executive's announcement of a new tri-fold phone excited fans of foldable devices and signaled another step in smartphone innovation.",
-      "share_angle": "Break down what a tri-fold phone is, the current foldable phone race, and how Chinese brands are leading the trend.",
+      "why_hot": "Authorities have disputed a viral video that appeared to show a wheelchair user deliberately causing a crash on an elevated road, prompting online calls for caution before sharing clips.",
+      "share_angle": "Use it as a media-literacy case: how viral videos can mislead and why official verification matters.",
       "keywords": [
-        "tri-fold phone",
-        "smartphone innovation",
-        "Huawei"
-      ]
-    },
-    {
-      "rank": 19,
-      "chinese_topic": "广西崇左江州区防汛应急响应升至一级",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Flood Emergency Response Raised to Level I in Jiangzhou District, Chongzuo, Guangxi",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Heavy rain pushed the district to the highest emergency-response level, raising public concern for residents' safety and flood-control efforts.",
-      "share_angle": "Explain China's four-level emergency response system and what Level I means for people in affected areas.",
-      "keywords": [
-        "flood",
-        "emergency response",
-        "Guangxi"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "厨房纸到底能不能擦吃的",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Can Kitchen Paper Be Used in Direct Contact with Food?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A simple everyday question about whether kitchen paper is safe for food went viral, drawing in health and food-safety concerns.",
-      "share_angle": "Look at the standards behind kitchen paper, common uses, and what consumers should know before using it with food.",
-      "keywords": [
-        "kitchen paper",
-        "food safety",
-        "health"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "美欲撤销多达20万个商务和旅游签证",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US Plans to Revoke Up to 200,000 Business and Tourist Visas",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The reported plan to revoke many business and tourist visas sparked speculation about its impact on travel, trade, and ordinary applicants.",
-      "share_angle": "Explain the reported policy, who might be affected, and how it fits into broader US-China and international travel dynamics.",
-      "keywords": [
-        "US visas",
-        "travel",
-        "international policy"
+        "Wuhan",
+        "misinformation",
+        "viral video",
+        "fact-check"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-08-26",
-  "updated_at": "2026-08-26T01:58:22+00:00",
+  "updated_at": "2026-08-26T13:10:24+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 7,
-      "chinese_topic": "星宇股份解聘百名应届生 HR总监停职",
+      "rank": 1,
+      "chinese_topic": "习近平对西藏泥石流灾害作出重要指示",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xingyu Co. dismisses over 100 fresh graduates; HR director suspended",
+      "official_english": "Xi Jinping issues important instructions on Tibet mudslide disaster",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "During the peak season for new graduates entering the workforce, reports of a company dismissing over 100 fresh graduates and suspending its HR director triggered public concern about campus recruitment integrity and labor rights.",
-      "share_angle": "Frame the incident as a case study of campus recruitment in China, including what happens when job offers are withdrawn and what legal protections graduates have.",
+      "why_hot": "A major mudslide in Tibet triggered a top-level response and became the leading national news item.",
+      "share_angle": "Explain the disaster background, the government’s response, and why Tibet’s mountainous terrain is prone to mudslides.",
       "keywords": [
-        "fresh graduates",
-        "campus recruitment",
-        "labor rights"
-      ]
-    },
-    {
-      "rank": 18,
-      "chinese_topic": "伊朗：霍尔木兹海峡临时航线谅解达成",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Iran says understanding reached on temporary routes in Strait of Hormuz",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The Strait of Hormuz is a key global energy shipping lane; any change in routing can affect oil markets and regional geopolitics.",
-      "share_angle": "Explain the strategic importance of the Strait of Hormuz and what temporary shipping routes mean for global energy prices.",
-      "keywords": [
-        "Strait of Hormuz",
-        "Iran",
-        "shipping"
-      ]
-    },
-    {
-      "rank": 14,
-      "chinese_topic": "央媒5问“店主帮扶老人遭索赔”事件",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Central media asks five questions about shop owner who helped elderly man then faced compensation claim",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The case mixes a Good Samaritan act with a compensation demand, and central media's five questions made it a national debate about helping the elderly.",
-      "share_angle": "Use the incident to explain China's Good Samaritan laws and the wider public debate over helping elderly people in emergencies.",
-      "keywords": [
-        "Good Samaritan",
-        "elderly",
-        "compensation"
+        "Tibet",
+        "mudslide",
+        "Xi Jinping"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "重庆渝中警方：两名行人疑似触电昏迷",
+      "chinese_topic": "直击西藏泥石流最新情况",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chongqing Yuzhong police: two pedestrians in suspected electric shock are in coma",
+      "official_english": "On the ground: latest situation of Tibet mudslide",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The police statement about two pedestrians in suspected electric shock sparked public concern over urban electrical safety.",
-      "share_angle": "Use the police update to explain how city infrastructure can pose electric shock risks and what safety measures are under discussion.",
+      "why_hot": "People are following live updates and rescue information from the affected area.",
+      "share_angle": "Use the latest reports to give a timeline of the disaster and show how local authorities and residents are responding.",
       "keywords": [
-        "Chongqing",
-        "electric shock",
-        "public safety"
+        "Tibet",
+        "mudslide",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "四万亿元投资来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Four-trillion-yuan investment arrives",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A large-scale investment package is seen as a key economic signal and is being widely discussed.",
+      "share_angle": "Explain what the 4 trillion yuan is reportedly for and how it might affect growth, jobs, and infrastructure.",
+      "keywords": [
+        "4 trillion yuan",
+        "investment",
+        "economy"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": ".64秒！机器人再破百米纪录",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Robot sets another 100-meter sprint record",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A robot breaking a 100-meter record captures public imagination about how fast machines are getting.",
+      "share_angle": "Discuss the reported record and place it in the context of robotics development, without overclaiming speed.",
+      "keywords": [
+        "robot",
+        "100-meter record",
+        "robotics"
       ]
     },
     {
       "rank": 19,
-      "chinese_topic": "人民日报评“大学生家长群”",
+      "chinese_topic": "上海13岁女孩靠AI 3天赚了1.8万元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily comments on 'college student parent groups'",
+      "official_english": "13-year-old Shanghai girl earns 18,000 yuan in 3 days using AI",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "People's Daily's commentary on parent groups in universities refocused attention on whether college students need parental supervision.",
-      "share_angle": "Discuss the phenomenon of university 'parent groups' in China and what it reveals about parenting and student independence.",
+      "why_hot": "The story mixes AI, childhood education, and income, sparking both admiration and debate.",
+      "share_angle": "Use it to discuss AI literacy for young people, online safety, and how schools and parents are responding to AI tools.",
       "keywords": [
-        "college students",
-        "parent groups",
-        "People's Daily"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "请3天假休13天 机票搜索热度大涨",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Taking three days off creates 13-day break; flight search heat surges",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Netizens discovered that using three days of leave could create a 13-day holiday, causing a spike in flight searches and fueling travel-planning discussions.",
-      "share_angle": "Show how Chinese employees plan holidays by combining annual leave with public holidays and how that boosts travel bookings.",
-      "keywords": [
-        "travel",
-        "flight search",
-        "13-day break"
-      ]
-    },
-    {
-      "rank": 23,
-      "chinese_topic": "游客因台风被困广西涠洲岛6天",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Tourists stranded on Guangxi's Weizhou Island for 6 days by typhoon",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Bad weather left tourists trapped on Weizhou Island for nearly a week, drawing attention to typhoon preparedness and travel safety.",
-      "share_angle": "Tell the story from the traveler's perspective and use it to explain how typhoon season affects tourism on southern Chinese islands.",
-      "keywords": [
-        "typhoon",
-        "Weizhou Island",
-        "tourists"
+        "AI",
+        "teenager",
+        "education"
       ]
     },
     {
       "rank": 12,
-      "chinese_topic": "武汉轮椅老人上高架蓄意碰瓷不实",
+      "chinese_topic": "网传“8月新冠有变异毒株”不实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that elderly wheelchair user on Wuhan elevated road staged a crash is false",
+      "official_english": "Rumor of a new COVID-19 variant in August is false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A video of an elderly wheelchair user on an elevated road triggered suspicions of insurance fraud, but the claim was later debunked, prompting talk about online rumors.",
-      "share_angle": "Use the viral but false accusation as an entry point to discuss misinformation and the dangers of judging from edited clips.",
+      "why_hot": "COVID-related rumors spread quickly, so the denial itself became a trending topic.",
+      "share_angle": "Explain why this rumor is false, how official channels verify variant claims, and what readers should rely on.",
       "keywords": [
-        "Wuhan",
-        "wheelchair",
-        "misinformation"
+        "COVID-19",
+        "rumor",
+        "fact check"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "癌症疫苗预计近50万美元1针",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Cancer vaccine expected to cost nearly $500,000 per shot",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A potential cancer vaccine with a huge price tag raises urgent questions about access, affordability, and healthcare equity.",
+      "share_angle": "Compare the science behind cancer vaccines with the real-world challenge of making them affordable.",
+      "keywords": [
+        "cancer vaccine",
+        "price",
+        "healthcare"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "上海体育局回应刘翔退役安置工作",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Shanghai sports authorities respond to Liu Xiang's post-retirement arrangements",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Liu Xiang is a beloved sports icon, and news about his retirement benefits sparks discussion on how athletes are supported after competition.",
+      "share_angle": "Talk about Liu Xiang's legacy and the broader system of post-retirement support for Chinese athletes.",
+      "keywords": [
+        "Liu Xiang",
+        "sports",
+        "retirement"
       ]
     }
   ]

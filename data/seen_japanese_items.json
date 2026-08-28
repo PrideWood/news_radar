@@ -1135,6 +1135,11 @@
       "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162811000.html",
       "title": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を"
     },
+    "2d415217af4673dbe58f": {
+      "first_seen": "2026-08-29",
+      "link": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization",
+      "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約"
+    },
     "2d7a51e884f19f05a4dc": {
       "first_seen": "2026-08-05",
       "link": "https://gigazine.net/news/20260805-people-more-attractive-mosquitoes-microbiome",
@@ -1459,6 +1464,11 @@
       "first_seen": "2026-08-10",
       "link": "https://www.watch.impress.co.jp/docs/news/2132096.html",
       "title": "イオン津店跡地に「そよら津桜橋」9月11日オープン"
+    },
+    "3ae316b553077c473026": {
+      "first_seen": "2026-08-29",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000890",
+      "title": "大学入試センター、公式サイトの資料一覧ページが公開状態に 非公開化は「誤解を避けるため」"
     },
     "3b4157ca4f2ffad1e653": {
       "first_seen": "2026-08-14",
@@ -2134,6 +2144,11 @@
       "first_seen": "2026-07-25",
       "link": "https://gigazine.net/news/20260725-helping-read-boost",
       "title": "友達の読書を手伝うことが子どもたちの学力向上につながるとの研究結果"
+    },
+    "5a63c8030fed79f30c45": {
+      "first_seen": "2026-08-29",
+      "link": "https://gigazine.net/news/20260829-glm-5-3-open",
+      "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル"
     },
     "5ad2b8121189f1e60f14": {
       "first_seen": "2026-06-17",
@@ -3284,6 +3299,11 @@
       "first_seen": "2026-06-14",
       "link": "https://gigazine.net/news/20260614-kindle-scribe-2026",
       "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた"
+    },
+    "89be22631fbdb3b8d001": {
+      "first_seen": "2026-08-29",
+      "link": "https://gigazine.net/news/20260828-pollen-robotics-microduck",
+      "title": "歌って滑れるアヒル型ロボット「Microduck」をHugging Face傘下のスタートアップ・Pollen Roboticsが発表"
     },
     "89ca76947f367c34e3cc": {
       "first_seen": "2026-07-06",
@@ -4655,6 +4675,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000474",
       "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査"
     },
+    "c3a64e3058bbf74bd0dc": {
+      "first_seen": "2026-08-29",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136448.html",
+      "title": "有楽町ビル跡地「YURAKUCHO PARK」着工 都心で前例のない設計に挑戦"
+    },
     "c3bc0a307d72fd32397a": {
       "first_seen": "2026-08-08",
       "link": "https://www.watch.impress.co.jp/docs/news/2131768.html",
@@ -4884,6 +4909,11 @@
       "first_seen": "2026-06-26",
       "link": "https://www.watch.impress.co.jp/docs/topic/2118992.html",
       "title": "“都会のローカル線”大阪「汐見橋線」全踏破 派手さはなくとも地域を支える"
+    },
+    "cd05a21edd59a98c1fc6": {
+      "first_seen": "2026-08-29",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000921",
+      "title": "電車にスマホ貼り付け、ホーム全力疾走の様子を撮影……TikTokerの動画が物議 衣服ブランドの宣伝目的か"
     },
     "cd4ea9e029294fb4d98f": {
       "first_seen": "2026-07-12",
@@ -5290,6 +5320,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2118666.html",
       "title": "ソニーの着るエアコン「REON POCKET」 本体ボタンで温度設定可能に"
     },
+    "e0297bc7bc21b48fbb74": {
+      "first_seen": "2026-08-29",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136519.html",
+      "title": "ファミマ、限定デザインのカップヌードル NIGOコラボ"
+    },
     "e07af9288cbe42a2c440": {
       "first_seen": "2026-06-17",
       "link": "https://www.watch.impress.co.jp/docs/news/2117803.html",
@@ -5334,6 +5369,11 @@
       "first_seen": "2026-07-30",
       "link": "https://www.watch.impress.co.jp/docs/topic/2126654.html",
       "title": "「3Dフードプリンター」とは? 一般家庭にも宇宙食にもつながる最先端の現場"
+    },
+    "e2275708f20f3be69cf1": {
+      "first_seen": "2026-08-29",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136505.html",
+      "title": "ヤマト、スマホなど小型家電回収を実証 宅急便網を活用"
     },
     "e23690aea86918c667ab": {
       "first_seen": "2026-07-24",

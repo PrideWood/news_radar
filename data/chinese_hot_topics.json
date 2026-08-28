@@ -1,158 +1,142 @@
 {
   "date": "2026-08-28",
-  "updated_at": "2026-08-27T22:14:29+00:00",
+  "updated_at": "2026-08-28T11:18:42+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "赵心童登顶世界第一",
+      "rank": 16,
+      "chinese_topic": "西藏泥石流已致5人遇难558人失联",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhao Xintong becomes world No.1 in snooker",
+      "official_english": "Tibet mudslide leaves 5 dead and 558 missing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Zhao Xintong, a Chinese snooker player, has reached the world No.1 ranking, a milestone for Chinese sports and a source of national pride.",
-      "share_angle": "Highlight Zhao's achievement and the rise of Chinese athletes in international cue sports, with context on the global snooker scene.",
+      "why_hot": "The confirmed death toll and large number of missing people make this the most serious ongoing disaster story on Chinese social media.",
+      "share_angle": "Explain what is known about the Tibet mudslide, why the missing count is high, and what rescue teams are doing on the ground.",
       "keywords": [
-        "Zhao Xintong",
-        "snooker",
-        "world No.1",
-        "Chinese sports",
-        "ranking"
+        "Tibet",
+        "mudslide",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 1,
+      "chinese_topic": "中央政治局部署西藏泥石流救援工作",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "CPC leadership deploys rescue work after Tibet mudslide",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Top-level government attention signals the national importance of the disaster and shapes public expectations for rescue efforts.",
+      "share_angle": "Break down how China's disaster-response system mobilizes from central decision-making to local operations.",
+      "keywords": [
+        "Communist Party",
+        "disaster response",
+        "Tibet mudslide"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "省长叶建春任上被查 江西省委表态",
+      "chinese_topic": "西藏泥石流三维影像图首次公布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Governor of Jiangxi under investigation; provincial Party committee responds",
+      "official_english": "3D imagery of Tibet mudslide released for first time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A sitting provincial governor being investigated is a major anti-corruption development, drawing close public attention to political accountability.",
-      "share_angle": "Explain the basic facts of the case and the official response, while maintaining a neutral tone on China's anti-corruption campaign.",
+      "why_hot": "The release of 3D disaster imagery helps the public visualize the scale of the mudslide and the terrain challenges facing rescuers.",
+      "share_angle": "Use the 3D map as a visual aid to explain how geologists and rescue teams assess landslide risks.",
       "keywords": [
-        "Jiangxi",
-        "governor",
-        "investigation",
-        "anti-corruption",
-        "Chinese politics"
+        "3D mapping",
+        "Tibet",
+        "geology"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "普热普强藏布堰塞湖水面积减少",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Water area of landslide dammed lake in Tibet decreases",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A shrinking barrier lake is a positive sign that the immediate risk of a secondary flood may be easing.",
+      "share_angle": "Explain what a landslide dammed lake is and why its water level is closely watched after major landslides.",
+      "keywords": [
+        "barrier lake",
+        "Tibet",
+        "flood risk"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "翼龙无人机进入西藏吉隆勘察",
+      "chinese_topic": "中国数据产业规模超6万亿元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wing Loong UAV deployed to survey disaster-hit Gyirong in Tibet",
+      "official_english": "China's data industry exceeds 6 trillion yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The use of a large drone for post-mudslide assessment in a remote area demonstrates how technology aids disaster response.",
-      "share_angle": "Discuss the role of UAVs in emergency management and how China applies technology to natural disaster relief.",
+      "why_hot": "A major economic indicator shows the growing role of data-related industries in China’s digital economy.",
+      "share_angle": "Put the 6-trillion-yuan figure in context: what counts as the data industry and why it matters for jobs and innovation.",
       "keywords": [
-        "Wing Loong",
-        "UAV",
-        "Gyirong",
-        "Tibet",
-        "disaster response"
+        "data industry",
+        "digital economy",
+        "China economy"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "西藏吉隆泥石流原因查明",
+      "chinese_topic": "岁大三学生3年考了100个证",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cause of Gyirong mudslide identified",
+      "official_english": "Third-year college student earns 100 certificates in three years",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "After a deadly mudslide in Gyirong, Tibet, the public wants to understand the cause and what lessons can be learned to prevent future disasters.",
-      "share_angle": "Summarize the official explanation and explain the geological and meteorological factors behind mudslides.",
+      "why_hot": "A student collecting 100 certificates in three years sparks debate about whether certificates boost employability or reflect credential inflation.",
+      "share_angle": "Explore different opinions: does a pile of certificates prove skills, or does it reveal pressure in China’s job market?",
       "keywords": [
-        "Gyirong",
-        "mudslide",
-        "cause",
-        "geological disaster",
-        "Tibet"
+        "college student",
+        "certificates",
+        "employability"
       ]
     },
     {
-      "rank": 9,
-      "chinese_topic": "男子3万买“良方”牵出9000万大案",
+      "rank": 7,
+      "chinese_topic": "常冰玉6‑3奥沙利文 中国包揽冠亚军",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man's 30,000 yuan 'miracle cure' purchase leads to 90 million yuan fraud case",
+      "official_english": "Chang Bingyu beats O'Sullivan 6-3 as China takes top two places",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A health scam that started with one man buying a costly 'miracle cure' expanded into a huge fraud case, alerting the public to medical misinformation.",
-      "share_angle": "Analyze how such scams exploit patients' hopes and emphasize the importance of verifying health products and information.",
+      "why_hot": "A young Chinese player defeating a world snooker star and China sweeping the top two spots is a major sports surprise.",
+      "share_angle": "Introduce Chang Bingyu as a rising post-2000s athlete and explain the significance of the result for Chinese snooker.",
       "keywords": [
-        "health scam",
-        "miracle cure",
-        "consumer protection",
-        "fraud",
-        "China"
+        "snooker",
+        "Chang Bingyu",
+        "O'Sullivan"
       ]
     },
     {
-      "rank": 21,
-      "chinese_topic": "浙江提升防台风应急响应至一级",
+      "rank": 8,
+      "chinese_topic": "中国人口出生率回落：男孩仍比女孩多",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhejiang raises typhoon emergency response to Level 1",
+      "official_english": "China's birth rate declines, boys still outnumber girls",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A powerful typhoon threatens Zhejiang, a populous coastal province, and authorities have activated the highest emergency response level.",
-      "share_angle": "Explain China's four-level emergency response system and how coastal regions prepare for typhoons.",
+      "why_hot": "Demographic trends are a persistent public concern in China, and the gender ratio at birth remains a sensitive social issue.",
+      "share_angle": "Explain what the latest birth-rate data says, why the gender imbalance persists, and what it may mean for families and policy.",
       "keywords": [
-        "Zhejiang",
-        "typhoon",
-        "emergency response",
-        "disaster preparedness",
-        "coastal China"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "天池竟是巨型“不锈钢盆”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'Heavenly Lake' turns out to be giant stainless-steel basin",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A scenic spot called 'Heavenly Lake' has gone viral after being revealed as a giant stainless steel basin, sparking humor and debate about fake tourist attractions.",
-      "share_angle": "Explore the quirky side of China's tourism industry and the public's reaction to artificial attractions.",
-      "keywords": [
-        "Tianchi",
-        "stainless steel",
-        "tourist attraction",
-        "viral",
-        "China"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "短剧演员称演男主片酬200元一天",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Short-drama actor says male lead pay is 200 yuan a day",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A short-drama actor's disclosure of extremely low pay for a lead role highlights the harsh working conditions in China's booming micro-drama industry.",
-      "share_angle": "Examine the economics of the short-drama sector and discuss broader labor rights in the entertainment industry.",
-      "keywords": [
-        "short drama",
-        "actor pay",
-        "labor",
-        "micro-drama",
-        "entertainment industry"
+        "birth rate",
+        "gender ratio",
+        "China demographics"
       ]
     }
   ]

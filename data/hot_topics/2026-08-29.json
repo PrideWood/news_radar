@@ -1,150 +1,142 @@
 {
   "date": "2026-08-29",
-  "updated_at": "2026-08-28T22:15:11+00:00",
+  "updated_at": "2026-08-29T06:59:58+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "中央政治局部署西藏泥石流救援工作",
+      "rank": 2,
+      "chinese_topic": "尼泊尔山洪已致626人遇难2426人失联",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Politburo deploys rescue work for Tibet mudslide",
+      "official_english": "Nepal flash floods leave 626 dead and 2,426 missing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The central leadership has stepped in to coordinate rescue after a major mudslide in Tibet, drawing national attention.",
-      "share_angle": "Explain what the Politburo's deployment means for rescue coordination and disaster response in China.",
+      "why_hot": "A large-scale disaster with a heavy death toll and thousands missing has drawn international attention.",
+      "share_angle": "Explain the disaster's scale, the rescue challenges, and why this is drawing global concern.",
       "keywords": [
-        "Tibet",
-        "mudslide",
-        "Politburo",
+        "Nepal floods",
+        "disaster",
         "rescue"
       ]
     },
     {
-      "rank": 2,
-      "chinese_topic": "尼泊尔山洪已致579人遇难1924人失联",
+      "rank": 4,
+      "chinese_topic": "西藏吉隆口岸搜救加紧进行",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Nepal flash floods leave 579 dead and 1,924 missing",
+      "official_english": "Rescue operations intensified at Gyirong port in Tibet",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The death toll in Nepal's flash floods is shockingly high, making it a major regional disaster.",
-      "share_angle": "Provide context on the scale of damage and international relief efforts.",
+      "why_hot": "The rescue is directly connected to disaster response and public concern for safety in the region.",
+      "share_angle": "What rescue operations at the border port involve and why Gyirong is strategically important.",
       "keywords": [
-        "Nepal",
-        "flash flood",
-        "death toll",
-        "missing"
+        "Tibet",
+        "Gyirong",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "长鑫LPDDR6内存正式量产",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "CXMT begins mass production of LPDDR6 memory",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A domestic memory chip breakthrough is a major milestone for China's technology industry.",
+      "share_angle": "Why LPDDR6 mass production matters for China's semiconductor supply chain and global competition.",
+      "keywords": [
+        "CXMT",
+        "LPDDR6",
+        "semiconductor"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "现房销售时代来了",
+      "chinese_topic": "网友建议取消ETC 官方回应",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China enters era of selling completed homes",
+      "official_english": "Authorities respond to public suggestion to cancel ETC",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A shift to cash-sale housing could reshape China's property market and reduce risks for buyers.",
-      "share_angle": "Explain the difference between buying off-plan and completed homes, and what this means for homebuyers and developers.",
+      "why_hot": "ETC affects millions of drivers, and the official response touches on daily commuting pain points.",
+      "share_angle": "Break down the official response and the practical issues behind ETC complaints.",
       "keywords": [
-        "real estate",
-        "completed homes",
-        "China",
-        "housing market"
+        "ETC",
+        "transport",
+        "official response"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "大学专业迎来一轮“上新”",
+      "rank": 14,
+      "chinese_topic": "两部门发文确保：能拿房再还贷",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Universities launch a new round of majors",
+      "official_english": "Two government departments issue document to ensure homebuyers can get housing before repaying loans",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New degree programs reflect emerging industries and changing job market needs.",
-      "share_angle": "Highlight how these new majors could influence career choices and education trends.",
+      "why_hot": "Housing pre-sale rules affect homebuyers nationwide, and this policy signal has generated wide discussion.",
+      "share_angle": "What 'get the keys before paying the mortgage' would mean for homebuyers and developers.",
       "keywords": [
-        "education",
-        "new majors",
-        "universities",
-        "China"
+        "housing policy",
+        "homebuyers",
+        "mortgage"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "股价0.85元 “中华老字号”锁定退市",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China time-honored brand locks in delisting as share price falls to 0.85 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A well-known traditional brand facing delisting sparks discussion about brand renewal and capital markets.",
+      "share_angle": "Lessons from a legacy brand's struggle in a changing market.",
+      "keywords": [
+        "delisting",
+        "time-honored brand",
+        "stock market"
       ]
     },
     {
       "rank": 9,
-      "chinese_topic": "年中国新生儿792万",
+      "chinese_topic": "国乒总教练回应王楚钦孙颖莎放弃参赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China reports 7.92 million newborns",
+      "official_english": "China table tennis head coach responds to Wang Chuqin and Sun Yingsha skipping event",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Annual newborn figures are a key social indicator, sparking discussion about population policy and family life.",
-      "share_angle": "Compare with previous years and explain what the number means for China's population outlook.",
+      "why_hot": "Fans care about top players' schedules, workload and team strategy for major competitions.",
+      "share_angle": "The coach's explanation and how elite athletes manage their competitive calendars.",
       "keywords": [
-        "birth rate",
-        "newborns",
-        "demographics",
-        "China"
+        "table tennis",
+        "Wang Chuqin",
+        "Sun Yingsha"
       ]
     },
     {
-      "rank": 13,
-      "chinese_topic": "四川内江地震",
+      "rank": 19,
+      "chinese_topic": "电话手表越来越像手机",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Earthquake reported in Neijiang, Sichuan",
+      "official_english": "Children's phone watches are becoming more like smartphones",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A sudden earthquake in a populated area raises concerns for safety and damage assessment.",
-      "share_angle": "Explain the earthquake's magnitude and local response, if available.",
+      "why_hot": "Parents worry about screen time, distraction, and data safety, making this a broad family concern.",
+      "share_angle": "The trade-off between connectivity and child protection in smart wearable devices.",
       "keywords": [
-        "Sichuan",
-        "earthquake",
-        "Neijiang",
-        "disaster"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "超市员工光脚踩进散装大米",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Supermarket employee steps barefoot into bulk rice",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A viral video raises hygiene concerns about food handling in supermarkets.",
-      "share_angle": "This incident highlights food safety regulations and how consumer trust can be affected.",
-      "keywords": [
-        "food safety",
-        "supermarket",
-        "hygiene",
-        "incident"
-      ]
-    },
-    {
-      "rank": 24,
-      "chinese_topic": "不插管不抢救 最后一刻自己说了算",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "End-of-life choice: refusing intubation and resuscitation to have the final say",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "End-of-life care choices are becoming a public conversation, especially as more people seek to die with dignity.",
-      "share_angle": "Discuss the legal and ethical aspects of advance directives in China.",
-      "keywords": [
-        "end-of-life",
-        "advance directive",
-        "dignity",
-        "health care"
+        "smartwatch",
+        "children",
+        "screen time"
       ]
     }
   ]

@@ -1,150 +1,142 @@
 {
   "date": "2026-08-30",
-  "updated_at": "2026-08-29T16:42:36+00:00",
+  "updated_at": "2026-08-30T05:19:56+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 3,
-      "chinese_topic": "民办教育正在“洗牌”",
+      "rank": 1,
+      "chinese_topic": "习近平离京出席2026年上合组织峰会",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's Private Education Sector Undergoes a Major Reshuffle",
+      "official_english": "President Xi Jinping leaves Beijing for 2026 SCO Summit",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Parents and educators are closely watching changes in private schools, which affect enrollment, tuition and teaching quality.",
-      "share_angle": "Break down what the 'reshuffle' means for private-school students, teachers and families, and compare it with public education trends in China.",
+      "why_hot": "The president's trip to the SCO summit is a leading diplomatic story, with attention focused on regional cooperation and China's role.",
+      "share_angle": "Explain what the Shanghai Cooperation Organization is, who is attending, and what the key agenda items are.",
       "keywords": [
-        "private education",
-        "China schools",
-        "education reform",
-        "parents"
-      ]
-    },
-    {
-      "rank": 23,
-      "chinese_topic": "中国集成电路海外大爆发",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's Integrated Circuit Industry Sees Rapid Growth in Overseas Markets",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Semiconductors are strategically important, and reports of expanding overseas sales draw attention to China's tech competitiveness.",
-      "share_angle": "Explain the drivers behind the export growth, the global chip supply chain, and the challenges ahead such as export controls and competition.",
-      "keywords": [
-        "integrated circuits",
-        "semiconductors",
-        "China tech",
-        "overseas markets"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "中国汽车何以全球圈粉",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Chinese Cars Are Winning Fans Globally",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Chinese automakers are increasingly visible on the world stage, prompting curiosity about their quality, design and technology.",
-      "share_angle": "Highlight factors behind the global appeal, such as EVs, smart features and pricing, and explain what it means for the global auto market.",
-      "keywords": [
-        "Chinese cars",
-        "auto exports",
-        "electric vehicles",
-        "global market"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "多地立法禁止学生带手机入校",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "More Regions Enact Rules Banning Students From Bringing Phones to School",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The regulation directly affects millions of students and parents, and fuels debate over technology, study habits and child development.",
-      "share_angle": "Summarize the new rules, present different views from schools and parents, and discuss the balance between digital access and classroom discipline.",
-      "keywords": [
-        "phone ban",
-        "students",
-        "school rules",
-        "digital education"
-      ]
-    },
-    {
-      "rank": 18,
-      "chinese_topic": "中国女排晋级决赛",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Women's Volleyball Team Advances to Final",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The national team's success sparks patriotic excitement and celebration among sports fans.",
-      "share_angle": "Recap the team's journey to the final, highlight key players and moments, and preview the championship match.",
-      "keywords": [
-        "women's volleyball",
-        "China volleyball",
-        "sports final",
-        "team victory"
+        "Xi Jinping",
+        "SCO",
+        "diplomacy"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "用这种微信头像或被封号",
+      "chinese_topic": "西藏泥石流已致16人遇难546人失联",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "WeChat Warns Certain Profile Pictures May Lead to Account Bans",
+      "official_english": "Tibet mudslide leaves 16 dead, 546 missing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "WeChat is one of China's most essential apps, so account rules attract wide attention and sometimes anxiety.",
-      "share_angle": "Clarify what kinds of avatars are problematic, remind readers to follow official guidelines, and discuss platform moderation and user privacy.",
+      "why_hot": "A major mudslide in Tibet has caused a heavy death toll, with many people still missing, making it the focus of emergency response and public concern.",
+      "share_angle": "Provide a clear factual update on the confirmed figures and what is known so far.",
       "keywords": [
-        "WeChat",
-        "profile picture",
-        "account ban",
-        "platform rules"
+        "Tibet",
+        "mudslide",
+        "missing"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "尼泊尔泥石流灾害已致734人死亡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nepal mudslide disaster leaves 734 dead",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The scale of loss from the Nepal mudslide has made it a major international disaster story and a regional focus of concern.",
+      "share_angle": "Put the death toll in context and outline the humanitarian and rescue challenges facing Nepal.",
+      "keywords": [
+        "Nepal",
+        "mudslide",
+        "death toll"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "常冰玉10-7击败世界第一赵心童夺冠",
+      "chinese_topic": "多地立法严控学生带手机入校",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chang Bingyu Defeats World No. 1 Zhao Xintong to Claim Title",
+      "official_english": "Multiple regions legislate strict control on students bringing phones to school",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "An upset victory in snooker draws attention from sports fans, especially the young winner beating a top-ranked player.",
-      "share_angle": "Tell the story of the match, highlight Chang's breakthrough, and explain the significance in the snooker world.",
+      "why_hot": "Local rules on phones in schools have reignited a nationwide debate about education, distraction and student well-being.",
+      "share_angle": "Compare the new rules and present the arguments for and against restricting phones on campus.",
       "keywords": [
-        "snooker",
-        "Chang Bingyu",
-        "Zhao Xintong",
-        "sports upset"
+        "school phone ban",
+        "education",
+        "student well-being"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "宝马5系 不到27万了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "BMW 5 Series drops below 270,000 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A sudden price drop in a luxury sedan has drawn attention to the increasingly competitive auto market in China.",
+      "share_angle": "Explain what is driving the price cut and what it signals for consumers and the auto industry.",
+      "keywords": [
+        "BMW",
+        "price cut",
+        "auto market"
       ]
     },
     {
       "rank": 10,
-      "chinese_topic": "这6类食物生吃更抗炎",
+      "chinese_topic": "余承东：新三折叠业界最薄尺寸最大",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Six Foods That May Be More Anti-Inflammatory When Eaten Raw",
+      "official_english": "Yu Chengdong: New tri-fold phone is industry's thinnest with largest screen",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health-conscious readers are always looking for easy diet tips, especially around inflammation and wellness.",
-      "share_angle": "List the six foods with a clear caveat about safety and nutrition, and encourage readers to consult professionals if they have health conditions.",
+      "why_hot": "A major tech executive's latest claim about a tri-fold phone has sparked excitement over the next step in foldable devices.",
+      "share_angle": "Break down the new device's selling points and why the foldable phone market is heating up.",
       "keywords": [
-        "anti-inflammatory foods",
-        "raw food",
-        "healthy diet",
-        "nutrition"
+        "tri-fold phone",
+        "foldable phones",
+        "consumer tech"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "常冰玉10-7击败世界第一赵心童夺冠",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chang Bingyu beats world No.1 Zhao Xintong 10-7 to win title",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A high-profile snooker final produced a surprising result as Chang Bingyu defeated the world number one to take the title.",
+      "share_angle": "Recap the match and explain what the upset means for both players and the sport's growing audience in China.",
+      "keywords": [
+        "snooker",
+        "Chang Bingyu",
+        "Zhao Xintong"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "河南5人吃生鱼片全部确诊肝吸虫病",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Five people in Henan diagnosed with liver fluke disease after eating raw fish",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A food safety case involving raw fish has put the health risks of a common dining habit back in the spotlight.",
+      "share_angle": "Explain what liver fluke disease is, how raw freshwater fish can transmit it, and how to prevent infection.",
+      "keywords": [
+        "liver fluke",
+        "raw fish",
+        "food safety"
       ]
     }
   ]

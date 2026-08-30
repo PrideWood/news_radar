@@ -1805,6 +1805,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2606/17/news120.html",
       "title": "東急の電車内はモバイルバッテリー使用禁止？ 発火事故巡る呼びかけで物議、同社の見解は"
     },
+    "4a164560113044c9359b": {
+      "first_seen": "2026-08-30",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136573.html",
+      "title": "トライアル×スギ薬局の協業始動 福岡のトライアル2店に調剤薬局"
+    },
     "4a265d860656194aa067": {
       "first_seen": "2026-07-07",
       "link": "https://www.watch.impress.co.jp/docs/news/2122388.html",
@@ -3365,6 +3370,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/06/news089.html",
       "title": "Sakana AI、敬語もネットスラングも“温度感そのまま”で訳す無料翻訳機能「Sakana Translate」 日英中に対応"
     },
+    "89e4e87350b2ca48f685": {
+      "first_seen": "2026-08-30",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000928",
+      "title": "パナソニック、CO2削減目標を下方修正 3145万t→550万tに エアコン販売拡大など影響"
+    },
     "8a4f6cef86b0d1c30f90": {
       "first_seen": "2026-08-28",
       "link": "https://gigazine.net/news/20260828-calpis-soda-kanjuku-peach",
@@ -3415,10 +3425,20 @@
       "link": "https://www.itmedia.co.jp/news/articles/2606/28/news013.html",
       "title": "「HTTPステータスコード百人一首」や“社長として情報漏えいを防ぐゲーム”も 日本屈指のボードゲーム即売会で見つけた“IT卓ゲ”たち"
     },
+    "8b7d963165dc5d88ee7b": {
+      "first_seen": "2026-08-30",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000922",
+      "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス"
+    },
     "8ba379f5c3cf99fdff72": {
       "first_seen": "2026-08-19",
       "link": "https://www.watch.impress.co.jp/docs/news/2133649.html",
       "title": "東急線アプリ、みなとみらい線の列車位置を確認可能に"
+    },
+    "8be7a65d691541c37701": {
+      "first_seen": "2026-08-30",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897",
+      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ"
     },
     "8ca2c58fdc217dd43c91": {
       "first_seen": "2026-07-18",
@@ -4765,6 +4785,11 @@
       "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191461000.html",
       "title": "熊本で震度7 同程度の地震に注意 熱中症対策を"
     },
+    "c49ecb5500b2e9f33347": {
+      "first_seen": "2026-08-30",
+      "link": "https://gigazine.net/news/20260828-is-github-cooked",
+      "title": "GitHubが落ちまくっている履歴を集計しているサイト「Is GitHub Cooked？」"
+    },
     "c49ef45d0bdf8ab00ffa": {
       "first_seen": "2026-07-22",
       "link": "https://www.watch.impress.co.jp/docs/series/yoshimura/2125838.html",
@@ -4804,6 +4829,11 @@
       "first_seen": "2026-06-12",
       "link": "https://gigazine.net/news/20260612-astrology-analysis",
       "title": "科学的根拠が一切ない「占星術」が古代から現代まで愛され続けている理由とは？"
+    },
+    "c6167ab029d970571618": {
+      "first_seen": "2026-08-30",
+      "link": "https://gigazine.net/news/20260830-dodo-probably-not-stupid",
+      "title": "ドードーは歴史家が考えていたほど愚かではなかったかもしれない"
     },
     "c61e4e9b12f71a5d0449": {
       "first_seen": "2026-08-15",
@@ -5055,6 +5085,11 @@
       "link": "https://gigazine.net/news/20260627-flocking-birds-fish-soft-crystal",
       "title": "鳥や魚の群れは「柔らかい結晶」のように動いているという研究結果"
     },
+    "d05b878ff51c645908fa": {
+      "first_seen": "2026-08-30",
+      "link": "https://gigazine.net/news/20260830-thoughtdag",
+      "title": "無料でAIチャットを編集可能なノードのつながりに変えてくれる「ThoughtDAG」"
+    },
     "d0983952661c3e360567": {
       "first_seen": "2026-08-11",
       "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000468",
@@ -5134,6 +5169,11 @@
       "first_seen": "2026-08-06",
       "link": "http://www3.nhk.or.jp/news/html/20260806/k10015197571000.html",
       "title": "熊本はきょうも危険な暑さ予想 熱中症対策を 台風影響にも注意"
+    },
+    "d40784411e5fdb82e751": {
+      "first_seen": "2026-08-30",
+      "link": "https://www.watch.impress.co.jp/docs/news/2135506.html",
+      "title": "オメガ、スモールサイズの「スピードマスター 38」を刷新"
     },
     "d4392274274c8c5c539a": {
       "first_seen": "2026-06-16",

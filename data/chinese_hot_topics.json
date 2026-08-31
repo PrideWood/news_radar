@@ -1,151 +1,142 @@
 {
   "date": "2026-08-31",
-  "updated_at": "2026-08-30T16:37:58+00:00",
+  "updated_at": "2026-08-31T05:26:41+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 14,
-      "chinese_topic": "尼泊尔泥石流灾害已致794人遇难",
+      "rank": 2,
+      "chinese_topic": "人民日报评银行该不该午休",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Nepal mudslide disaster death toll reaches 794",
+      "official_english": "People's Daily comments on whether banks should take a lunch break",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A catastrophic natural disaster in a neighboring country, with a high death toll and ongoing relief efforts, drawing wide attention.",
-      "share_angle": "Summarize the disaster's impact and how China and other countries are responding.",
+      "why_hot": "Touches on a common public complaint: banks closing at midday make it hard for working people to do business, and an official newspaper's comment has ignited debate over service efficiency.",
+      "share_angle": "Compare banking hours in China with other countries, explain why midday closures affect customers, and discuss what fair service hours could look like.",
+      "keywords": [
+        "banks",
+        "lunch break",
+        "public service"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "尼泊尔泥石流已致903遇难4247失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nepal mudslides leave 903 dead, 4,247 missing",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The scale of casualties is huge and still evolving, making it a major international disaster story closely followed by Chinese netizens.",
+      "share_angle": "Explain the disaster's scale, how mudslides happen in mountainous areas, and why terrain and weather make rescue difficult.",
       "keywords": [
         "Nepal",
-        "mudslide",
-        "natural disaster",
-        "death toll"
+        "mudslides",
+        "disaster"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "超强厄尔尼诺正在冲击世界经济",
+      "rank": 5,
+      "chinese_topic": "网警公布10起涉吉隆泥石流谣言案",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Super El Niño is impacting the world economy",
+      "official_english": "Cyberpolice release 10 rumor cases linked to Gyirong mudslides",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Growing concerns about the economic effects of a strong El Niño event, including agriculture, energy, and trade.",
-      "share_angle": "Explain how El Niño works and its potential economic consequences across the globe.",
+      "why_hot": "After a deadly disaster, false information can spread quickly and cause panic; the official disclosure shows how authorities are responding to misinformation.",
+      "share_angle": "Use the cases to help viewers identify disaster-related rumors and understand why sharing unverified information can be harmful.",
       "keywords": [
-        "El Niño",
-        "world economy",
-        "climate",
-        "agriculture"
-      ]
-    },
-    {
-      "rank": 21,
-      "chinese_topic": "中国从月球传照片4分钟缩到12秒",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China reduces time to transmit photos from the moon from 4 minutes to 12 seconds",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A major technological advance in deep-space communications showing China's progress in lunar exploration.",
-      "share_angle": "Break down how the faster data transmission works and why it matters for lunar missions.",
-      "keywords": [
-        "lunar exploration",
-        "data transmission",
-        "space technology",
-        "China"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "中国女排憾负泰国无缘直通奥运会",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China women's volleyball team loses to Thailand, fails to qualify directly for Olympics",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The team's unexpected loss to Thailand ended its hopes of direct Olympic qualification, sparking discussions about performance and future.",
-      "share_angle": "Explain what the loss means for Chinese volleyball and the road to the Olympics, and how fans reacted.",
-      "keywords": [
-        "China women's volleyball",
-        "Olympic qualification",
-        "Thailand",
-        "sports"
-      ]
-    },
-    {
-      "rank": 8,
-      "chinese_topic": "又一地宣布生物地理不计入中考总分",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Another region announces biology and geography will not count toward high school entrance exam total score",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Education reform reducing the weight of certain subjects in the high school entrance exam, affecting students and parents.",
-      "share_angle": "Explain the policy change and how it affects students' study plans and education fairness.",
-      "keywords": [
-        "education reform",
-        "zhongkao",
-        "biology",
-        "geography",
-        "China"
-      ]
-    },
-    {
-      "rank": 11,
-      "chinese_topic": "开学三件套齐涨价家长直呼吃不消",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "School-starting essentials see price increases, parents call it unaffordable",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "As the new semester approaches, prices of school supplies rise, putting a financial burden on families.",
-      "share_angle": "Discuss the cost of education and rising living expenses in China.",
-      "keywords": [
-        "back to school",
-        "school supplies",
-        "price increase",
-        "education costs"
+        "rumors",
+        "Gyirong",
+        "misinformation"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "中国男人正在抛弃皮鞋",
+      "chinese_topic": "郑某造谣外卖员向饮料加百草枯被罚",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese men are abandoning leather shoes",
+      "official_english": "Person penalized for falsely claiming delivery worker added paraquat to drinks",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A social trend of changing dress habits and footwear preferences, reflecting broader lifestyle changes.",
-      "share_angle": "Explore why leather shoes are losing popularity to sneakers and other casual footwear.",
+      "why_hot": "Food safety rumors are highly inflammatory; this case shows the legal consequences of fabricating a story about a delivery worker contaminating drinks.",
+      "share_angle": "Explain what paraquat is, why the rumor alarmed people, and how Chinese law punishes those who spread false information online.",
       "keywords": [
-        "fashion",
-        "footwear",
-        "lifestyle",
-        "Chinese men"
+        "food safety",
+        "paraquat",
+        "legal penalty"
       ]
     },
     {
-      "rank": 9,
-      "chinese_topic": "半月工资55元 被踢出845个工作群",
+      "rank": 8,
+      "chinese_topic": "保洁刚拖地孕妇滑倒 商场该不该负责",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Worker receives 55 yuan for half month's pay and is removed from 845 work groups",
+      "official_english": "Pregnant woman slips on just-mopped floor: is the mall liable?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A viral story highlighting labor rights issues and the overwhelming presence of work-related chat groups.",
-      "share_angle": "Analyze the issue of low wages and digital overwork in China's labor environment.",
+      "why_hot": "It raises a familiar safety question about public venues and sparks discussion about duty of care, warning signs, and liability in everyday spaces.",
+      "share_angle": "Break down how property liability cases work in China and what both venues and visitors can do to prevent similar accidents.",
       "keywords": [
-        "labor rights",
-        "wage",
-        "work groups",
-        "digital overwork"
+        "public safety",
+        "liability",
+        "mall"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "影院“隐形配置” 观影者直呼太遭罪",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Cinema's hidden setup leaves moviegoers complaining",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Many moviegoers have experienced poor seating, bad sightlines, or other hidden cinema conditions, so the topic resonates with a wide audience.",
+      "share_angle": "Examine common cinema comfort issues in China and advise viewers on what to check before buying a ticket.",
+      "keywords": [
+        "cinema",
+        "moviegoers",
+        "comfort"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "宇树股价正式“腰斩”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Unitree's share price has halved",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Unitree is a high-profile Chinese robotics company, so a sharp stock decline draws attention from people interested in tech investing and the robotics sector.",
+      "share_angle": "Provide background on Unitree, what a halved share price means for its valuation, and why robotics stocks can be volatile.",
+      "keywords": [
+        "Unitree",
+        "robotics",
+        "stock market"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "公里要30元 景区摆渡车非坐不可吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Scenic shuttle bus fares spark debate: is 30 yuan per kilometer reasonable?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High shuttle bus prices at tourist sites are a common complaint, connecting tourism, consumer rights, and local regulation.",
+      "share_angle": "Compare scenic shuttle pricing with public transport, explain why tourists often feel forced to pay, and discuss how attractions could improve pricing transparency.",
+      "keywords": [
+        "tourist attractions",
+        "shuttle bus",
+        "pricing"
       ]
     }
   ]

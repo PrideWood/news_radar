@@ -1,143 +1,142 @@
 {
   "date": "2026-09-02",
-  "updated_at": "2026-09-01T16:33:35+00:00",
+  "updated_at": "2026-09-02T04:24:38+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "习近平出席“上海合作组织+”会议",
+      "chinese_topic": "比什凯克再聚首 共赴上合新征程",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping Attends 'SCO Plus' Meeting",
+      "official_english": "SCO Leaders Meet Again in Bishkek for a New Chapter",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The meeting is a high-profile diplomatic event, and the SCO-related agenda drew wide attention on Baidu.",
-      "share_angle": "Explain what the 'SCO Plus' format is and why China's participation matters for regional cooperation.",
+      "why_hot": "It marks another major diplomatic gathering, with regional cooperation and China's role in the Shanghai Cooperation Organization drawing wide attention.",
+      "share_angle": "Explain what the SCO is, why Bishkek matters, and what a 'new journey' could mean for member states.",
       "keywords": [
-        "Xi Jinping",
         "SCO",
+        "Bishkek",
         "diplomacy"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "华为、小米、荣耀回应涨价",
+      "chinese_topic": "温州多地紧急通知：停课一天",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Huawei, Xiaomi and Honor Respond to Price Increase Reports",
+      "official_english": "Wenzhou Issues Emergency One-Day Class Suspensions in Multiple Areas",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major smartphone makers responding to price-increase reports fueled consumer discussion about device costs.",
-      "share_angle": "Break down what the brands said and what it could mean for smartphone buyers.",
+      "why_hot": "An abrupt one-day school suspension directly affects families and prompts questions about safety and contingency planning.",
+      "share_angle": "Break down how Chinese cities announce emergency school closures and what it means for parents and students.",
       "keywords": [
-        "Huawei",
-        "Xiaomi",
-        "Honor",
-        "price increase"
+        "Wenzhou",
+        "school suspension",
+        "emergency"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "中国制造的“机器鸭”卖断货",
+      "rank": 3,
+      "chinese_topic": "这届学生的名字都很个性",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China-Made Robotic Duck Product Sells Out",
+      "official_english": "This Generation of Students Has Very Distinctive Names",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The sold-out robot duck went viral, reflecting curiosity about China-made gadgets.",
-      "share_angle": "Use the product as a lens to talk about the appeal of China's consumer tech and viral marketing.",
+      "why_hot": "A viral discussion about students' highly individual names taps into Chinese naming culture, generational identity and family expectations.",
+      "share_angle": "Use real-name trends to explain how Chinese parents choose names and how characters can carry cultural weight.",
       "keywords": [
-        "robot duck",
-        "Made in China",
-        "viral product"
+        "Chinese names",
+        "naming culture",
+        "students"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "校方回应1个班级超80人",
+      "rank": 4,
+      "chinese_topic": "中国运载火箭为啥叫长征",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "School Responds to Reports of Classes Exceeding 80 Students",
+      "official_english": "Why Is China's Launch Vehicle Called the Long March?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "News of a class with more than 80 students raised worries about education quality and teacher workload.",
-      "share_angle": "Explore the reasons behind oversized classes and the broader pressures on China's education system.",
+      "why_hot": "It connects aerospace engineering with a famous chapter of Chinese revolutionary history, and many people are learning the origin story for the first time.",
+      "share_angle": "Tell the story behind the Long March rocket name and what it symbolizes in China's space program.",
       "keywords": [
-        "class size",
-        "education",
-        "school"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "人民日报：综艺节目不能“拍完就走”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily: Variety Shows Should Not 'Leave Right After Filming'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A state-media commentary about variety shows sparked debate on what TV crews should do for local communities after filming.",
-      "share_angle": "Look at the debate over production ethics, site cleanup and community relations in China's entertainment industry.",
-      "keywords": [
-        "People's Daily",
-        "variety shows",
-        "production responsibility"
+        "Long March",
+        "rocket",
+        "China space"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "于东来痛批明星扎堆直播带货",
+      "chinese_topic": "吉隆口岸核心区救援通道已抢通",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Yu Donglai Criticizes Celebrities for Flocking to Livestream Product Sales",
+      "official_english": "Rescue Passage Opened in Core Area of Gyirong Port",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The criticism struck a chord with internet users who have mixed views on celebrity livestream commerce.",
-      "share_angle": "Present both sides of the celebrity livestream e-commerce debate in China.",
+      "why_hot": "Rescue access in the Gyirong Port area is seen as vital progress amid ongoing disaster response, and the public is following updates closely.",
+      "share_angle": "Explain where Gyirong Port is, why the rescue passage matters, and how emergency access is being restored.",
       "keywords": [
-        "Yu Donglai",
-        "livestream e-commerce",
-        "celebrities"
+        "Gyirong Port",
+        "rescue",
+        "disaster response"
       ]
     },
     {
-      "rank": 15,
-      "chinese_topic": "尼泊尔泥石流灾害遇难人数升至1093人",
+      "rank": 7,
+      "chinese_topic": "网红村支书因女儿重度抑郁决定辞职",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Nepal Mudslide Disaster Death Toll Rises to 1,093",
+      "official_english": "Village Party Secretary Resigns Over Daughter's Severe Depression",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The severe disaster in neighboring Nepal drew sympathy, and users followed updates on casualties and rescue efforts.",
-      "share_angle": "Cover the known toll and explain why the disaster has resonated with Chinese internet users.",
+      "why_hot": "A viral village official's resignation puts a personal face on severe depression and ignites conversations about mental health, parenting and public roles.",
+      "share_angle": "Frame it as a conversation starter about mental health awareness and the pressures faced by parents in public life.",
       "keywords": [
-        "Nepal",
-        "mudslide",
-        "disaster"
+        "mental health",
+        "depression",
+        "village official"
       ]
     },
     {
-      "rank": 18,
-      "chinese_topic": "小区不要物业自己管自己 1天1户1块钱",
+      "rank": 9,
+      "chinese_topic": "全国小学初中已全部替换新教材",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Residential Community Adopts Self-Management for 1 Yuan per Household per Day",
+      "official_english": "New Textbooks Fully Rolled Out Across Primary and Junior High Schools Nationwide",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A community's low-cost self-management experiment sparked debates about apartment management and property-services fees.",
-      "share_angle": "Explain how the self-management model works and what it suggests about alternatives to traditional property companies.",
+      "why_hot": "The full switch to new textbooks affects millions of students and teachers at the start of the school year, making education policy a household subject.",
+      "share_angle": "Highlight what the new textbook rollout means for students and how curriculum updates reflect broader educational goals.",
       "keywords": [
-        "self-management",
-        "property management",
-        "residential community"
+        "textbooks",
+        "education reform",
+        "school year"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "“药中茅台”片仔癀跌落神坛",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Pien Tze Huang, Known as 'Medicine Moutai,' Falls From Pedestal",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The fall of a once-iconic traditional Chinese medicine brand, called the 'Moutai of medicines,' sparks discussion about its products, pricing and reputation.",
+      "share_angle": "Introduce Pien Tze Huang's status in China and what its decline reveals about the traditional Chinese medicine industry.",
+      "keywords": [
+        "Pien Tze Huang",
+        "traditional Chinese medicine",
+        "market"
       ]
     }
   ]

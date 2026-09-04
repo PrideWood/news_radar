@@ -1,142 +1,150 @@
 {
   "date": "2026-09-04",
-  "updated_at": "2026-09-03T16:23:13+00:00",
+  "updated_at": "2026-09-04T04:24:57+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "习近平主席的“比什凯克时间”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "President Xi Jinping’s “Bishkek time”",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The top Baidu real-time entry, driven by official coverage of President Xi Jinping’s visit to Bishkek.",
-      "share_angle": "Briefly explain who is involved and why Chinese official media frame the visit as a diplomatic highlight; avoid adding operational details not in state reports.",
-      "keywords": [
-        "Xi Jinping",
-        "Bishkek",
-        "diplomacy"
-      ]
-    },
-    {
       "rank": 2,
-      "chinese_topic": "广州取消校服统一订购",
+      "chinese_topic": "多国从美国运回黄金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Guangzhou ends unified ordering of school uniforms",
+      "official_english": "Countries move gold out of the United States",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "School uniforms affect students, parents and school budgets; the policy news immediately resonates across households.",
-      "share_angle": "Let viewers compare China’s school uniform system with their own; clarify what changes for parents and what is expected to stay the same.",
+      "why_hot": "Online users are tracking reports that several countries have shipped gold out of U.S. storage, reviving discussion about national reserves and global finance.",
+      "share_angle": "Explain how and why central banks store gold overseas, and what repatriation might signal about trust in financial systems.",
       "keywords": [
-        "Guangzhou",
-        "school uniforms",
-        "education policy"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "世界已进入极端天气危险区",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "World has entered an extreme-weather danger zone",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Climate-related warnings are a global concern, and the words “danger zone” make the risk vivid and shareable.",
-      "share_angle": "Turn the dramatic phrase into a clear explainer on how extreme-weather risks are being measured and what regions are watching closely.",
-      "keywords": [
-        "extreme weather",
-        "climate risk",
-        "global environment"
+        "gold repatriation",
+        "central banks",
+        "gold reserves",
+        "finance"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "手机集体涨价 吓跑了买手机的人",
+      "chinese_topic": "GPT-6 贵",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Smartphone prices rise collectively, scaring off buyers",
+      "official_english": "GPT-6 draws attention over high cost",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumers feel the impact of phone price hikes at a time when handsets are among the biggest personal tech purchases.",
-      "share_angle": "Look at market reports and consumer comments to show why price sensitivity is rising and what brands may do next.",
+      "why_hot": "The link between GPT-6 and the idea of being expensive is fueling conversation about the affordability and real-world accessibility of next-generation AI.",
+      "share_angle": "Break down why frontier AI models could be costly to train and deploy, and what that means for users and businesses.",
       "keywords": [
-        "smartphone prices",
-        "consumer spending",
-        "tech market"
+        "GPT-6",
+        "AI costs",
+        "large language models",
+        "tech industry"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "安徽大学回应副校长涉武大举报事件",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Anhui University responds after vice president linked to Wuhan University complaint",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A university’s response to a controversy involving a senior administrator has put institutional accountability and academic integrity under public discussion.",
+      "share_angle": "Avoid unverified details and instead explain how universities usually respond to internal integrity cases and whistle-blowing complaints.",
+      "keywords": [
+        "Anhui University",
+        "Wuhan University",
+        "academic integrity",
+        "campus governance"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "流感疫苗市场变天了",
+      "chinese_topic": "被要求补缴社保 老板店门口滚屏抱怨",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Flu vaccine market sees a major shift",
+      "official_english": "Shop owner uses scrolling storefront sign to complain over social insurance payment order",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Vaccine supply, pricing and promotion are closely watched public-health issues, so reports of a changed market quickly stir discussion.",
-      "share_angle": "Use public government and company disclosures to unpack what “market reshuffle” means for ordinary people, while separating business news from medical guidance.",
+      "why_hot": "A visible protest by a small employer over being asked to make up social insurance payments has touched off debate on business costs and labor protections.",
+      "share_angle": "Use the story to explain how China’s social insurance system works, including employer contributions and why small businesses may feel squeezed.",
       "keywords": [
-        "flu vaccines",
-        "public health",
-        "market access"
+        "social insurance",
+        "labor rights",
+        "small business",
+        "China economy"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "在中国第一个春节 他被烟花吓了一跳",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Visitor startled by fireworks during first Spring Festival in China",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A newcomer’s surprise at festive fireworks is being shared as a lighthearted example of how Spring Festival traditions feel to first-time visitors.",
+      "share_angle": "Introduce Spring Festival customs through a fresh perspective, including the cultural meaning of fireworks and modern rules around their use.",
+      "keywords": [
+        "Spring Festival",
+        "fireworks",
+        "first-time visitor",
+        "cultural exchange"
       ]
     },
     {
       "rank": 13,
-      "chinese_topic": "四川绵阳地震",
+      "chinese_topic": "尼泊尔不向中国寻求气候正义赔偿",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Earthquake hits Mianyang, Sichuan",
+      "official_english": "Nepal does not seek climate justice compensation from China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Earthquakes trigger immediate safety concerns; search interest spikes as people look for the latest official reports.",
-      "share_angle": "Lead with confirmed official information—location, time and impact if available—then note what remains unknown.",
+      "why_hot": "The statement has sparked online discussion about climate liability, global climate finance, and how developing countries seek support.",
+      "share_angle": "Clarify what climate justice compensation means and outline the broader debate over loss and damage in international climate talks.",
       "keywords": [
-        "Mianyang earthquake",
-        "Sichuan",
-        "disaster response"
+        "Nepal",
+        "climate justice",
+        "compensation",
+        "climate diplomacy"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "王楚钦退出WTT澳门冠军赛",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Wang Chuqin withdraws from WTT Champions Macao",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Table tennis fans are reacting to the star player’s withdrawal and wondering what it may mean for the tournament lineup.",
+      "share_angle": "Explain the demands of the international table tennis calendar and why top athletes sometimes withdraw to manage workload and injury risk.",
+      "keywords": [
+        "Wang Chuqin",
+        "WTT Champions Macao",
+        "table tennis",
+        "athlete workload"
       ]
     },
     {
       "rank": 16,
-      "chinese_topic": "中国房子迎来真正的分水岭",
+      "chinese_topic": "莆田站点降雨量全国第一",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China’s housing market reaches a real turning point",
+      "official_english": "Putian station logs highest rainfall nationwide",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Home ownership and property prices remain major anxieties for Chinese families, so any “turning point” language gets wide attention.",
-      "share_angle": "Distinguish cyclical price moves from a structural turning point; use policy and demographic trends without predicting market direction.",
+      "why_hot": "Extreme rainfall logged at a Putian station has moved it to the top of the national rainfall rankings, putting local weather under public attention.",
+      "share_angle": "Use the rainfall record to explain how precipitation is measured and why localized extreme rain events matter for preparedness.",
       "keywords": [
-        "China housing",
-        "property market",
-        "economic transition"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "鸡蛋快跟猪肉一个价了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Egg prices are approaching pork prices",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The egg-versus-pork price comparison makes inflation easy to understand and reflects everyday cost-of-living pressures.",
-      "share_angle": "Give a quick explainer on food price reporting and why the comparison to pork is a striking signal for consumers.",
-      "keywords": [
-        "egg prices",
-        "food inflation",
-        "living costs"
+        "Putian",
+        "extreme rainfall",
+        "weather monitoring",
+        "climate adaptation"
       ]
     }
   ]

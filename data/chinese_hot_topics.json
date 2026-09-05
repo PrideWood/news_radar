@@ -1,158 +1,142 @@
 {
   "date": "2026-09-05",
-  "updated_at": "2026-09-04T16:19:42+00:00",
+  "updated_at": "2026-09-05T04:20:13+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "习近平致信祝贺《小喇叭》开播70周年",
+      "rank": 4,
+      "chinese_topic": "未来五年医保改革划了哪些重点",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping sends a congratulatory letter marking the 70th anniversary of the children's radio program 'Little Trumpet'",
+      "official_english": "Key priorities identified for next five-year phase of medical insurance reform",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A state leader's message for a children's radio program with decades of history tops the hot list and touches on culture and media.",
-      "share_angle": "Use the letter as an entry point to explain the show's place in Chinese childhood memories and its long run.",
+      "why_hot": "Health insurance touches every household, and a signpost for the next five years naturally draws broad public attention.",
+      "share_angle": "Explain the core priorities of the reform and what they might mean for ordinary patients and medical costs.",
       "keywords": [
-        "Xi Jinping",
-        "Little Trumpet",
-        "children's radio",
-        "70th anniversary",
-        "China"
-      ]
-    },
-    {
-      "rank": 16,
-      "chinese_topic": "西藏泥石流已致31人遇难531人失联",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Mudslide in Tibet leaves 31 dead and 531 missing",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The reported scale of the mudslide disaster makes it a top item for urgent public concern.",
-      "share_angle": "Stick to reported figures, note that casualty numbers may still be updated, and explain the scale of the disaster.",
-      "keywords": [
-        "Tibet",
-        "mudslide",
-        "31 dead",
-        "531 missing",
-        "natural disaster"
-      ]
-    },
-    {
-      "rank": 18,
-      "chinese_topic": "教育部回应“教师不敢管学生”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education ministry responds to concerns that teachers are afraid to discipline students",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Classroom discipline, teacher authority, and student rights are issues that resonate with many families.",
-      "share_angle": "Explain how Chinese schools handle discipline and what the ministry's latest response says about the balance between teaching and punishment.",
-      "keywords": [
-        "education",
-        "teachers",
-        "discipline",
-        "Ministry of Education",
-        "students"
-      ]
-    },
-    {
-      "rank": 8,
-      "chinese_topic": "证监会开出2.55亿巨额罚单",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Securities Regulatory Commission issues 255-million-yuan fine",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The unusually large fine makes it a major talking point in China's capital market.",
-      "share_angle": "Explain how securities regulators enforce rules in China and why a 255-million-yuan penalty stands out.",
-      "keywords": [
-        "CSRC",
-        "fine",
-        "255 million yuan",
-        "securities regulation",
-        "financial market"
+        "health insurance",
+        "medical reform",
+        "China policy"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "上海和平饭店回应一杯椰汁50元",
+      "chinese_topic": "潲水油飞上天 出口订单排到2027年",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shanghai Peace Hotel responds to questions about 50-yuan coconut drink",
+      "official_english": "Waste cooking oil fuels flights, export orders booked until 2027",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A famous hotel charging 50 yuan for a coconut drink stirs a familiar debate about prices at landmark venues.",
-      "share_angle": "Use the story to look at how luxury landmark hotels set prices and how consumers respond.",
+      "why_hot": "The image of wasted cooking oil turning into aviation fuel challenges common assumptions and highlights a growing green-energy export story.",
+      "share_angle": "Break down how used cooking oil becomes sustainable aviation fuel and why China is becoming a major supplier.",
       "keywords": [
-        "Shanghai Peace Hotel",
-        "50 yuan",
-        "coconut drink",
-        "pricing",
-        "consumer debate"
+        "sustainable aviation fuel",
+        "waste oil",
+        "export orders"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "汤家凤呼吁取消英语主科地位",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tang Jiafeng calls for removing English as a core subject",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A prominent education voice reignited a long-running debate over the weight of English in Chinese schools and exam pressure.",
+      "share_angle": "Present both sides of the debate while explaining how China decides which subjects count as core ones.",
+      "keywords": [
+        "English education",
+        "core subject",
+        "education debate"
+      ]
+    },
+    {
+      "rank": 1,
+      "chinese_topic": "在孩子们心中播撒真善美的种子",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Planting seeds of truth, goodness and beauty in children's hearts",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This phrase captures a widely shared official message about moral education for the young and often comes up as schools reopen.",
+      "share_angle": "Explain how Chinese public discourse frames moral education and why it gains traction at the start of a school term.",
+      "keywords": [
+        "moral education",
+        "youth",
+        "school values"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "“宇宙最大医院”连续3任院长落马",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Three consecutive directors of a hospital dubbed China's largest under investigation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A hospital famous for its huge scale is in the spotlight after its top management became the focus of anti-corruption probes.",
+      "share_angle": "Contextualize the cases within China's broader anti-corruption campaign in the medical and health sector.",
+      "keywords": [
+        "anti-corruption",
+        "hospital governance",
+        "health sector"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "河水暴涨 95后特警抡锤猛砸护栏泄洪",
+      "chinese_topic": "江西吉安发生山体滑坡 十余人被埋",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Special police officer born after 1995 smashes guardrail with a hammer to release floodwater as river surges",
+      "official_english": "Landslide in Ji'an, Jiangxi leaves more than ten people buried",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A quick-thinking emergency action during dangerous flood conditions is drawing widespread online recognition.",
-      "share_angle": "Highlight the emergency context and explain why the officer's action mattered to local flood control.",
+      "why_hot": "A sudden landslide with buried victims triggers urgent public concern and attention to rescue operations and disaster prevention.",
+      "share_angle": "Lead with the rescue picture and emphasize verified updates and safety awareness rather than graphic details.",
       "keywords": [
-        "flood",
-        "special police",
-        "hammer",
-        "floodwater",
+        "landslide",
+        "Jiangxi",
         "rescue"
       ]
     },
     {
-      "rank": 22,
-      "chinese_topic": "OpenAI总裁宣布AGI到来",
+      "rank": 16,
+      "chinese_topic": "手机涨价 最先扛不住的竟是经销商",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "OpenAI president announces arrival of AGI",
+      "official_english": "Rising smartphone prices pressure distributors first",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top AI figure declaring that artificial general intelligence has arrived sparks immediate discussion online.",
-      "share_angle": "Break down what AGI means and why this kind of claim is both significant and widely debated.",
+      "why_hot": "As phone prices climb, online discussions focus on which part of the sales chain feels the pain before consumers do.",
+      "share_angle": "Explain the distribution chain behind a price increase and how dealer margins absorb cost shocks.",
       "keywords": [
-        "OpenAI",
-        "AGI",
-        "artificial intelligence",
-        "announcement",
-        "technology"
+        "smartphone prices",
+        "distributors",
+        "market pressure"
       ]
     },
     {
       "rank": 20,
-      "chinese_topic": "对标SpaceX 西安这家公司出手了",
+      "chinese_topic": "超1万册永乐大典副本下落不明",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi'an company makes its move with SpaceX as benchmark",
+      "official_english": "Over 10,000 volumes of the Yongle Encyclopedia's copies are unaccounted for",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China's commercial space ambitions attract attention when a local company is linked to the world's most famous private rocket firm.",
-      "share_angle": "Contextualize China's private space sector and explain why using SpaceX as a benchmark is a notable news hook.",
+      "why_hot": "The disappearance of priceless handwritten encyclopedia volumes touches a nerve over the loss of cultural heritage.",
+      "share_angle": "Tell the story of the Yongle Encyclopedia, its significance, and the modern effort to recover or digitally preserve its remaining copies.",
       "keywords": [
-        "Xi'an",
-        "SpaceX",
-        "commercial space",
-        "China",
-        "rocket industry"
+        "Yongle Encyclopedia",
+        "cultural heritage",
+        "lost treasures"
       ]
     }
   ]

@@ -1,142 +1,142 @@
 {
   "date": "2026-09-05",
-  "updated_at": "2026-09-05T04:20:13+00:00",
+  "updated_at": "2026-09-05T15:05:22+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 4,
-      "chinese_topic": "未来五年医保改革划了哪些重点",
+      "rank": 1,
+      "chinese_topic": "“上合大家庭”众行致远",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Key priorities identified for next five-year phase of medical insurance reform",
+      "official_english": "The 'SCO family' advances together on a shared path",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health insurance touches every household, and a signpost for the next five years naturally draws broad public attention.",
-      "share_angle": "Explain the core priorities of the reform and what they might mean for ordinary patients and medical costs.",
+      "why_hot": "This is the top-trending item on Baidu and centers on official Chinese messaging about cooperation within the Shanghai Cooperation Organization.",
+      "share_angle": "Explain the phrase 'SCO family' and why Chinese internet users are seeing this diplomatic theme at the top of the hot list.",
       "keywords": [
-        "health insurance",
-        "medical reform",
-        "China policy"
+        "SCO",
+        "Shanghai Cooperation Organization",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "DeepSeek被曝将采购16万颗华为芯片",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "DeepSeek reportedly plans to buy 160,000 Huawei chips",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It combines two names that dominate China's AI discussion: the fast-rising model maker DeepSeek and domestic chip giant Huawei.",
+      "share_angle": "Break down what a reported large-scale Huawei chip order would mean for China's AI supply chain.",
+      "keywords": [
+        "DeepSeek",
+        "Huawei",
+        "AI chips"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "潲水油飞上天 出口订单排到2027年",
+      "chinese_topic": "新能源汽车动力电池将迎“退役潮”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Waste cooking oil fuels flights, export orders booked until 2027",
+      "official_english": "Power batteries from new energy vehicles are set to enter a 'retirement wave'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The image of wasted cooking oil turning into aviation fuel challenges common assumptions and highlights a growing green-energy export story.",
-      "share_angle": "Break down how used cooking oil becomes sustainable aviation fuel and why China is becoming a major supplier.",
+      "why_hot": "It points to a mounting practical problem from China's rapid electric-vehicle adoption: what to do with large numbers of aging batteries.",
+      "share_angle": "Use this hook to explain China's EV boom and the emerging battery-recycling industry.",
       "keywords": [
-        "sustainable aviation fuel",
-        "waste oil",
-        "export orders"
+        "EV batteries",
+        "battery recycling",
+        "new energy vehicles"
       ]
     },
     {
-      "rank": 2,
-      "chinese_topic": "汤家凤呼吁取消英语主科地位",
+      "rank": 4,
+      "chinese_topic": "生育险、长护险、医保报销迎新变化",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Tang Jiafeng calls for removing English as a core subject",
+      "official_english": "Maternity insurance, long-term care insurance and medical reimbursement to see new changes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A prominent education voice reignited a long-running debate over the weight of English in Chinese schools and exam pressure.",
-      "share_angle": "Present both sides of the debate while explaining how China decides which subjects count as core ones.",
+      "why_hot": "Insurance and reimbursement rules directly affect household finances, and any policy adjustment quickly becomes a livelihood topic.",
+      "share_angle": "Explain the practical impact of these insurance changes on ordinary Chinese workers and families.",
       "keywords": [
-        "English education",
-        "core subject",
-        "education debate"
-      ]
-    },
-    {
-      "rank": 1,
-      "chinese_topic": "在孩子们心中播撒真善美的种子",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Planting seeds of truth, goodness and beauty in children's hearts",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "This phrase captures a widely shared official message about moral education for the young and often comes up as schools reopen.",
-      "share_angle": "Explain how Chinese public discourse frames moral education and why it gains traction at the start of a school term.",
-      "keywords": [
-        "moral education",
-        "youth",
-        "school values"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "“宇宙最大医院”连续3任院长落马",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Three consecutive directors of a hospital dubbed China's largest under investigation",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A hospital famous for its huge scale is in the spotlight after its top management became the focus of anti-corruption probes.",
-      "share_angle": "Contextualize the cases within China's broader anti-corruption campaign in the medical and health sector.",
-      "keywords": [
-        "anti-corruption",
-        "hospital governance",
-        "health sector"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "江西吉安发生山体滑坡 十余人被埋",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Landslide in Ji'an, Jiangxi leaves more than ten people buried",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A sudden landslide with buried victims triggers urgent public concern and attention to rescue operations and disaster prevention.",
-      "share_angle": "Lead with the rescue picture and emphasize verified updates and safety awareness rather than graphic details.",
-      "keywords": [
-        "landslide",
-        "Jiangxi",
-        "rescue"
+        "maternity insurance",
+        "long-term care insurance",
+        "healthcare"
       ]
     },
     {
       "rank": 16,
-      "chinese_topic": "手机涨价 最先扛不住的竟是经销商",
+      "chinese_topic": "长沙女子新房门窗缝隙能塞进4根手指",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rising smartphone prices pressure distributors first",
+      "official_english": "Woman in Changsha says gaps in a new home's doors and windows can fit four fingers",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "As phone prices climb, online discussions focus on which part of the sales chain feels the pain before consumers do.",
-      "share_angle": "Explain the distribution chain behind a price increase and how dealer margins absorb cost shocks.",
+      "why_hot": "A vivid housing-quality complaint is striking a nerve with Chinese internet users concerned about the cost and quality of new homes.",
+      "share_angle": "Discuss the story behind the complaint and what it reveals about home-buyer rights and construction quality checks.",
       "keywords": [
-        "smartphone prices",
-        "distributors",
-        "market pressure"
+        "housing quality",
+        "Changsha",
+        "consumer rights"
       ]
     },
     {
-      "rank": 20,
-      "chinese_topic": "超1万册永乐大典副本下落不明",
+      "rank": 17,
+      "chinese_topic": "多地精神病院更名",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Over 10,000 volumes of the Yongle Encyclopedia's copies are unaccounted for",
+      "official_english": "Psychiatric hospitals in multiple regions are changing their names",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The disappearance of priceless handwritten encyclopedia volumes touches a nerve over the loss of cultural heritage.",
-      "share_angle": "Tell the story of the Yongle Encyclopedia, its significance, and the modern effort to recover or digitally preserve its remaining copies.",
+      "why_hot": "A wave of hospital renames around the country is prompting online discussion about mental-health stigma and public attitudes.",
+      "share_angle": "Look at why hospitals are rebranding and whether name changes can help normalize mental health care.",
       "keywords": [
-        "Yongle Encyclopedia",
-        "cultural heritage",
-        "lost treasures"
+        "psychiatric hospitals",
+        "mental health",
+        "renaming"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "上大学前几天档案被当垃圾扔了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Student's personal record thrown away as garbage days before university enrollment",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The news touches on a subtle administrative system that still matters a great deal in China: the personal archive that follows students into adulthood.",
+      "share_angle": "Explain what a Chinese student archive is and why throwing it away can create real problems.",
+      "keywords": [
+        "student archive",
+        "personal records",
+        "university enrollment"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "吉隆泥石流发生23分钟后航拍首次公开",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "First aerial footage from the Gyirong mudslide released, shot 23 minutes after it began",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Natural disaster footage is among the most-shared content on Chinese social media, especially when it shows the first minutes of a major event.",
+      "share_angle": "Provide context on the Gyirong mudslide and explain why the aerial video became a major point of attention.",
+      "keywords": [
+        "Gyirong",
+        "mudslide",
+        "aerial footage"
       ]
     }
   ]

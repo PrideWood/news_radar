@@ -1,142 +1,158 @@
 {
   "date": "2026-09-06",
-  "updated_at": "2026-09-06T04:35:34+00:00",
+  "updated_at": "2026-09-06T15:23:55+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 21,
-      "chinese_topic": "中小学一定要买校服吗？教育部回应",
+      "rank": 2,
+      "chinese_topic": "小区禁止新能源汽车进地库 律师解读",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education Ministry responds: Are school uniforms compulsory for primary and secondary school students?",
+      "official_english": "Communities ban new-energy vehicles from underground garages: lawyers explain",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "School uniform policy affects nearly every household with children; the official response sparked broad online debate about costs, choice and school administration.",
-      "share_angle": "Walk readers through Chinese school uniform norms, the public concerns behind the debate, and what the ministry has replied according to the report.",
+      "why_hot": "A property rule against new-energy vehicles entering underground parking is being widely debated over charging access, fire safety and residents' rights.",
+      "share_angle": "Explain both sides: how cities are balancing EV charging convenience with underground garage fire risks, and what residents should know about property rules.",
       "keywords": [
-        "school uniforms",
-        "Ministry of Education",
+        "new-energy vehicles",
+        "underground garage",
+        "property management",
+        "fire safety",
+        "lawyer analysis"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "女子怀孕后工资从8000调到3000",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Woman's salary cut from 8,000 to 3,000 yuan after pregnancy",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A reported case of a pregnant woman's pay being cut by more than half has stirred anger and questions about legal protections for expectant mothers.",
+      "share_angle": "Break down China's labor protections for pregnant employees, what counts as unlawful pay discrimination, and where people can report such issues.",
+      "keywords": [
+        "pregnancy",
+        "pay cut",
+        "workplace discrimination",
+        "women's rights",
+        "labor law"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "人民日报：劳动教育岂能“代劳”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "People's Daily: Labor education should not be done by proxy",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "People's Daily's commentary on treating labor education as something to be outsourced has resonated with parents and educators amid school requirements for practical homework.",
+      "share_angle": "Use this to explain China's push for school labor education and how parents can teach everyday skills without turning chores into tick-box tasks.",
+      "keywords": [
+        "labor education",
+        "school homework",
+        "parenting",
+        "People's Daily",
         "education policy"
       ]
     },
     {
-      "rank": 3,
-      "chinese_topic": "央视曝光幽灵外卖",
+      "rank": 6,
+      "chinese_topic": "多地严查赵一鸣、好想来等",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "CCTV exposes 'ghost takeaway' stores operating without real storefronts",
+      "official_english": "Multiple regions conduct inspections of snack chains including Zhao Yiming and Haoxianglai",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Online food delivery is a daily necessity for millions in China; exposure of hidden or unverifiable takeout stores triggered widespread food-safety concerns.",
-      "share_angle": "Explain what CCTV's expose revealed, why such stores can appear on delivery apps, and what consumers should look out for.",
+      "why_hot": "Discount snack-food chains are being inspected in several cities, prompting online discussion about food safety, hygiene and rapid franchise expansion.",
+      "share_angle": "Explain why such low-price snack chains grew so fast, what regulators focus on during inspections, and what consumers should look for.",
       "keywords": [
-        "ghost takeout",
+        "snack chains",
         "food safety",
-        "CCTV"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "ETC该不该取消？人民日报最新发声",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "People's Daily weighs in on whether ETC should be scrapped",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "ETC is widely used on Chinese highways, so any suggestion about canceling or changing it directly affects millions of drivers.",
-      "share_angle": "Present the public debate around ETC convenience and mandatory use, and summarize the official media response as reported.",
-      "keywords": [
-        "ETC",
-        "highway tolls",
-        "People's Daily"
-      ]
-    },
-    {
-      "rank": 11,
-      "chinese_topic": "郑钦文创女子大满贯翻盘纪录",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zheng Qinwen sets a women's Grand Slam comeback record",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Zheng Qinwen is one of China's biggest tennis stars, and a Grand Slam comeback record is a rare and inspiring sports achievement.",
-      "share_angle": "Focus on the dramatic comeback narrative and what this milestone means for Chinese tennis fans.",
-      "keywords": [
-        "Zheng Qinwen",
-        "tennis Grand Slam",
-        "comeback"
-      ]
-    },
-    {
-      "rank": 12,
-      "chinese_topic": "网传“青铜峡大坝开始泄洪”系谣言",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that Qingtongxia Dam has started flood discharge is false",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Rumors about dam operations can quickly cause public panic, especially when they relate to flood safety; official refutation became a hot topic.",
-      "share_angle": "Use this as a case study in how water-conservancy rumors spread and why official announcements should be trusted over unverified posts.",
-      "keywords": [
-        "Qingtongxia Dam",
-        "flood discharge",
-        "rumor refuted"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "万从海外“抢”回《永乐大典》孤本",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A rare lone copy of the Yongle Encyclopedia is brought back from overseas",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The Yongle Encyclopedia is a cultural treasure in Chinese history; stories about recovering scattered volumes attract strong national attention.",
-      "share_angle": "Explain the historical value of the Yongle Encyclopedia and how the return of a rare copy touches on cultural heritage preservation.",
-      "keywords": [
-        "Yongle Encyclopedia",
-        "cultural heritage",
-        "overseas return"
+        "market supervision",
+        "Zhao Yiming",
+        "Haoxianglai"
       ]
     },
     {
       "rank": 7,
-      "chinese_topic": "伊朗称打击美航母和驱逐舰",
+      "chinese_topic": "女篮世界杯中国队加时险胜捷克队",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Iran claims it struck US aircraft carriers and destroyers",
+      "official_english": "China women's basketball team narrowly beats Czech Republic in overtime at the World Cup",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A dramatic claim involving US warships and Iran creates immediate international security stakes, and Chinese netizens are closely following reactions and verification.",
-      "share_angle": "Clearly label the report as Iran's claim, distinguish it from confirmed events, and guide viewers to authoritative sources for further updates.",
+      "why_hot": "China's women's national basketball team won a dramatic overtime game against the Czech Republic, exciting fans and drawing attention to the team's tournament run.",
+      "share_angle": "Recap the game's decisive moments, the team's key performers, and what this result means for China's next matches in the competition.",
       "keywords": [
-        "Iran",
-        "US aircraft carrier",
-        "Middle East tensions"
+        "women's basketball",
+        "China",
+        "Czech Republic",
+        "overtime",
+        "World Cup"
       ]
     },
     {
-      "rank": 22,
-      "chinese_topic": "车手放弃比赛冒死救人 车队发声",
+      "rank": 12,
+      "chinese_topic": "“一吨旧手机提炼200克黄金”不实",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Racing driver abandons race in life-saving move, team responds",
+      "official_english": "Claim that one ton of old phones can yield 200 grams of gold is untrue",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A racing driver giving up a race to save someone moves both motorsport fans and general netizens, highlighting humanity over competition.",
-      "share_angle": "Present it as a story of sportsmanship and instinctive heroism, while noting the team's response as reported.",
+      "why_hot": "A widely repeated figure about gold recovery from old phones was debunked, drawing attention to e-waste recycling and online misinformation.",
+      "share_angle": "Use the fact-check to explain what can realistically be recovered from e-waste and why phone recycling still matters for the environment.",
       "keywords": [
-        "motorsport",
-        "sportsmanship",
-        "life-saving decision"
+        "e-waste",
+        "gold recovery",
+        "phone recycling",
+        "fact-check",
+        "misinformation"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "滕王阁 终身免费票",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tengwangge Pavilion: lifetime free admission sparks interest",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Reports about a lifetime free-ticket arrangement at the historic Tengwangge Pavilion have drawn attention to how scenic spots use culture to attract tourists.",
+      "share_angle": "Introduce the cultural significance of Tengwangge and explain how Chinese heritage sites are using poetry, recitation and free-ticket incentives to boost tourism.",
+      "keywords": [
+        "Tengwangge",
+        "lifetime ticket",
+        "cultural tourism",
+        "heritage site",
+        "scenic area"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "为啥大家不穿皮鞋了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Why people have stopped wearing leather shoes",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A lifestyle discussion is trending as many people reflect on how sneakers, casual shoes and changing dress codes have pushed leather shoes out of daily life.",
+      "share_angle": "Look at how workplace culture, sneaker trends and comfort-first fashion have changed wardrobes, and what the shift means for the footwear industry.",
+      "keywords": [
+        "leather shoes",
+        "fashion",
+        "workplace dress code",
+        "footwear industry",
+        "consumer habits"
       ]
     }
   ]

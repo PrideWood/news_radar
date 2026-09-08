@@ -1,150 +1,152 @@
 {
   "date": "2026-09-08",
-  "updated_at": "2026-09-07T17:47:31+00:00",
+  "updated_at": "2026-09-08T04:28:47+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 1,
-      "chinese_topic": "中国元首外交的思想启迪",
+      "rank": 2,
+      "chinese_topic": "铜价“爆了”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Insights from China's head-of-state diplomacy",
+      "official_english": "Copper prices surge sharply",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This is the top real-time hot topic on Baidu, indicating strong public attention to the ideas and strategy shaping China's top-level diplomacy.",
-      "share_angle": "Help English-speaking viewers understand how Chinese media frame head-of-state diplomacy, and what themes they use to present foreign policy as a source of inspiration.",
+      "why_hot": "Copper is widely followed as an economic bellwether, and the sharp price rise has drawn attention from investors, manufacturers and analysts.",
+      "share_angle": "Explain what copper prices signal about global and Chinese economic activity, and how commodity swings affect consumers.",
       "keywords": [
-        "China diplomacy",
-        "head-of-state diplomacy",
-        "foreign policy",
-        "Baidu hot search"
+        "copper price",
+        "economy",
+        "commodities",
+        "market"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "“学成了 希望你们能够回来”",
+      "chinese_topic": "数贸会一大批新技术新产品即将解锁",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "After completing your studies, we hope you can come back",
+      "official_english": "Digital Trade Expo set to unveil new technologies and products",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "This compact, emotional phrase has gone viral after being highlighted online; it speaks to the value Chinese society places on education and on bringing skills back home.",
-      "share_angle": "Explain why a single sentence about coming back after graduation carries so much weight in today's Chinese internet discourse.",
+      "why_hot": "Digital trade is a major growth area, and the upcoming expo is seen as a window into China's latest tech and product innovations.",
+      "share_angle": "Introduce what a digital trade expo is and why new technology showcases matter for businesses and global digital trade.",
       "keywords": [
-        "overseas students",
-        "returning home",
-        "education",
+        "digital trade",
+        "expo",
+        "technology",
+        "innovation",
         "China"
       ]
     },
     {
-      "rank": 2,
-      "chinese_topic": "郑钦文2比0斯瓦泰克晋级八强",
+      "rank": 5,
+      "chinese_topic": "考研圈大地震！顶尖名校陆续停招学硕",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zheng Qinwen beats Swiatek 2-0 to reach the quarterfinals",
+      "official_english": "Top universities suspend academic master's programs amid graduate admission changes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Zheng Qinwen is one of China's most prominent athletes, and a straight-sets result against a well-known international rival is creating a new burst of sports buzz.",
-      "share_angle": "Provide a compact match result plus broader context on why Chinese sports fans follow Zheng Qinwen so closely.",
+      "why_hot": "The news directly affects current and prospective postgraduate applicants in China and has reignited debate about graduate education.",
+      "share_angle": "Explain the distinction between academic and professional master's degrees in China and what this shift could mean for students.",
       "keywords": [
-        "Zheng Qinwen",
-        "Swiatek",
-        "tennis",
-        "quarterfinals"
+        "postgraduate entrance exam",
+        "graduate education",
+        "academic master's degree",
+        "university admissions"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "华为、小米、苹果对决“万元机”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Huawei, Xiaomi and Apple battle in the high-end '10,000-yuan' smartphone market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Smartphone consumers are closely comparing premium models from Chinese and global brands in an increasingly competitive high-end segment.",
+      "share_angle": "Break down how top phone makers are vying for the premium market in China and what features or services set them apart.",
+      "keywords": [
+        "Huawei",
+        "Xiaomi",
+        "Apple",
+        "smartphones",
+        "premium market"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "雷军发布小米迄今最贵手机",
+      "chinese_topic": "今年下半年最强冷空气来袭",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lei Jun unveils Xiaomi's most expensive phone to date",
+      "official_english": "China braces for the strongest cold snap of the second half of the year",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Xiaomi's chief executive carries huge personal influence online, so a new flagship with an eye-catching price point becomes an instant hot topic.",
-      "share_angle": "Discuss what this pricing step says about Xiaomi's brand ambitions and China's intensifying high-end smartphone competition.",
+      "why_hot": "A sharp temperature drop can affect daily life, travel, agriculture and heating preparation across large parts of China.",
+      "share_angle": "Explain how severe cold-air events are forecast and how Chinese cities usually respond to protect residents and infrastructure.",
       "keywords": [
-        "Xiaomi",
-        "Lei Jun",
-        "smartphone",
-        "flagship phone"
+        "cold wave",
+        "weather",
+        "China",
+        "temperature drop"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "现房销售开始站上“C位”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Completed-home sales begin to take center stage in China's property market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "As buyers worry about off-plan housing delivery, demand for ready-to-move-in homes is gaining more attention in China's property market.",
+      "share_angle": "Explain the difference between buying off-plan and completed homes, and why the shift matters for homebuyers and developers.",
+      "keywords": [
+        "property market",
+        "completed homes",
+        "housing",
+        "homebuyers"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "物业回应禁止新能源车进地库：怕爆炸",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Property management explains ban on new-energy vehicles in underground garages over explosion concerns",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The topic touches on electric-vehicle safety perceptions, residential property rules and consumer rights, generating wide public discussion.",
+      "share_angle": "Use the case to explore the balance between EV adoption, safety rules and community management in Chinese cities.",
+      "keywords": [
+        "electric vehicles",
+        "EV safety",
+        "parking",
+        "property management"
       ]
     },
     {
       "rank": 20,
-      "chinese_topic": "废品回收被中国人做成万亿级产业",
+      "chinese_topic": "U20女足世界杯中国队5比0大胜",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How scrap recycling became a trillion-yuan industry in China",
+      "official_english": "China records 5-0 victory at the U-20 Women's World Cup",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "It reframes an often-overlooked everyday sector as a huge engine of value, surprising many users on social media.",
-      "share_angle": "Use the topic as a way to explain China's recycling ecosystem and the economic logic behind waste collection and reprocessing.",
+      "why_hot": "A dominant win by China's U-20 women's football team has excited fans and highlighted the country's next generation of women's players.",
+      "share_angle": "Highlight the result and explain why strong youth-team performances can shape the future of women's football in China.",
       "keywords": [
-        "scrap recycling",
-        "trillion-yuan industry",
-        "circular economy",
-        "recycling"
-      ]
-    },
-    {
-      "rank": 22,
-      "chinese_topic": "智能眼镜卖疯了 退货率却高达70%",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Smart glasses sell quickly, but return rate hits 70 percent",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The contrast between strong sales and an extremely high return rate raises questions about hype versus real-world usefulness.",
-      "share_angle": "Explore the sales-versus-returns gap and what it signals for the smart glasses market.",
-      "keywords": [
-        "smart glasses",
-        "returns",
-        "consumer tech",
-        "hype"
-      ]
-    },
-    {
-      "rank": 21,
-      "chinese_topic": "柏林一座少女雕像为何让日本气急败坏",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why a Berlin statue of a young girl enrages Japan",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A statue in Berlin provoking strong Japanese reactions creates an international story that Chinese social-media users are discussing intensely.",
-      "share_angle": "Explain the symbolism of public monuments and why a single statue can create diplomatic friction between countries.",
-      "keywords": [
-        "Berlin",
-        "statue",
-        "Japan",
-        "diplomacy"
-      ]
-    },
-    {
-      "rank": 12,
-      "chinese_topic": "江西遂川万安这些涉灾信息不实",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Disaster-related claims about Suichuan and Wan'an, Jiangxi, are false",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "When disaster-related anxiety is high, prompt fact-checking of unverified local claims becomes a focus of public discussion.",
-      "share_angle": "Highlight how official refutation notices work in China and why verifying disaster information is important for public safety.",
-      "keywords": [
-        "Jiangxi",
-        "disaster rumors",
-        "fact-checking",
-        "public safety"
+        "U20 Women's World Cup",
+        "China women's football",
+        "5-0 win",
+        "sports"
       ]
     }
   ]

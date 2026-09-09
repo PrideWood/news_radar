@@ -1,158 +1,152 @@
 {
   "date": "2026-09-09",
-  "updated_at": "2026-09-08T16:38:02+00:00",
+  "updated_at": "2026-09-09T04:35:25+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "上海：10月1日起生娃个人“不花钱”",
+      "rank": 4,
+      "chinese_topic": "服贸会今日开幕",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shanghai: No Out-of-Pocket Costs for Childbirth from Oct 1",
+      "official_english": "China International Fair for Trade in Services opens in Beijing today",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The policy directly lowers the cost of childbirth for individuals and has become a nationwide discussion among prospective parents.",
-      "share_angle": "Explain how Shanghai's policy works and what it says about China's broader push to support family life.",
+      "why_hot": "The fair is a major annual event for global trade in services, and its opening is a top economy-and-policy topic on Chinese social media.",
+      "share_angle": "Use it to explain what CIFTIS is, why services trade matters to China and other economies, and what industries are being showcased.",
       "keywords": [
-        "Shanghai",
-        "childbirth",
-        "maternity benefits",
-        "family support",
-        "China"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "这样的吃播该全面叫停了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Commentary: Such Food-Wasting Mukbang Shows Should Be Stopped",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Many users are debating whether binge-eating and food-wasting live streams should be banned, echoing China's anti-food-waste stance.",
-      "share_angle": "Break down the mukbang controversy in China and how food-waste concerns are shaping online content.",
-      "keywords": [
-        "mukbang",
-        "food waste",
-        "livestreaming",
-        "online content",
-        "China"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "仰卧、俯卧、侧卧哪种睡姿更健康",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Which Sleep Position Is Healthier: Back, Stomach or Side?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Simple health questions like sleeping posture often go viral because almost everyone can relate and has an opinion.",
-      "share_angle": "Summarize the pros and cons of each sleeping position and give practical advice for better rest.",
-      "keywords": [
-        "sleep posture",
-        "sleep",
-        "health",
-        "sleeping side",
-        "back pain"
-      ]
-    },
-    {
-      "rank": 8,
-      "chinese_topic": "卤米松原研药从30元涨到800元",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Halometasone Original Drug Price Jumps from 30 to 800 Yuan",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A dramatic price increase for the original drug halometasone has shocked consumers and renewed concerns about drug affordability.",
-      "share_angle": "Use the price jump to explain the difference between original drugs and generics in China's healthcare system.",
-      "keywords": [
-        "halometasone",
-        "drug price",
-        "pharmaceutical",
-        "affordable medicine",
-        "China"
+        "CIFTIS",
+        "trade in services",
+        "Beijing",
+        "economy",
+        "opening-up"
       ]
     },
     {
       "rank": 13,
-      "chinese_topic": "加拿大正式报复美国",
+      "chinese_topic": "香港首任特首董建华逝世",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Canada Formally Retaliates Against the United States",
+      "official_english": "Tung Chee-hwa, Hong Kong's first chief executive, passes away",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Canada's official countermove in the US trade dispute signals an escalation with wide international economic implications.",
-      "share_angle": "Explain the background of the Canada-US dispute and what retaliation could mean for global supply chains.",
+      "why_hot": "Tung Chee-hwa was a historic figure as the first chief executive of the Hong Kong Special Administrative Region, so his death dominates news feeds.",
+      "share_angle": "Recount his role in Hong Kong's early years after the handover and note the broad reactions without speculating on private details.",
       "keywords": [
-        "Canada",
-        "United States",
-        "trade",
-        "countermeasures",
-        "tariffs"
+        "Tung Chee-hwa",
+        "Hong Kong",
+        "first chief executive",
+        "obituary"
       ]
     },
     {
-      "rank": 14,
-      "chinese_topic": "地球升温之快史无前例",
+      "rank": 5,
+      "chinese_topic": "华为小米抢先苹果把折叠屏卖到2万元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Earth's Warming Speed Is Unprecedented",
+      "official_english": "Huawei and Xiaomi race ahead of Apple with foldable phones priced around 20,000 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The claim that Earth is warming faster than ever before has grabbed attention and heightened calls for climate action.",
-      "share_angle": "Turn the headline into a simple explanation of why the current warming rate is so alarming.",
+      "why_hot": "Foldable phones are a visible premium smartphone battleground, and Chinese brands pricing them near 20,000 yuan before Apple sparks a wide tech debate.",
+      "share_angle": "Compare the foldable strategies of Huawei, Xiaomi and Apple, and explain why premium pricing and hardware design matter in the Chinese market.",
       "keywords": [
-        "global warming",
-        "climate change",
-        "Earth science",
-        "unprecedented",
-        "environment"
+        "foldable phones",
+        "Huawei",
+        "Xiaomi",
+        "Apple",
+        "premium smartphones"
       ]
     },
     {
-      "rank": 18,
-      "chinese_topic": "月汽车销量前十已无燃油车",
+      "rank": 16,
+      "chinese_topic": "航天员在太空烤上了小蛋糕",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "No Fuel-Only Cars in Monthly Top-10 Sales",
+      "official_english": "Chinese astronauts bake small cakes in space",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Gasoline-powered vehicles disappeared from China's monthly top-10 car sales, a striking milestone in the auto industry's green transition.",
-      "share_angle": "Show readers how quickly China's new-energy vehicle market is changing the global automobile landscape.",
+      "why_hot": "Space life videos are always popular, and seeing astronauts bake small cakes adds a warm, human angle to orbital science.",
+      "share_angle": "Explain how baking works in microgravity and why food experiments matter for long-duration space missions.",
       "keywords": [
+        "space station",
+        "astronauts",
+        "microgravity",
+        "space food"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "郑钦文父亲：这个时候的她最可怕",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Zheng Qinwen's father says she is most formidable at this moment",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Zheng Qinwen is one of the most followed Chinese athletes, so her father's comment about her mental edge quickly becomes a sports conversation online.",
+      "share_angle": "Use the quote to discuss what top-level tennis demands mentally and why Chinese fans track Zheng Qinwen's form closely.",
+      "keywords": [
+        "Zheng Qinwen",
+        "tennis",
+        "sports psychology",
+        "China sports"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "海底捞暴跌",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Haidilao shares plunge",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Haidilao is a well-known hotpot brand, and a sudden sharp drop attracts attention from both investors and consumers.",
+      "share_angle": "Explain what this market move means for the company and what it might or might not say about Chinese consumer sentiment.",
+      "keywords": [
+        "Haidilao",
+        "hotpot",
+        "stock market",
+        "consumer stocks"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "燃油车真卖不动了吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Are fuel-powered cars really not selling?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "With China's rapid shift toward electric vehicles, many internet users now question the future of traditional gasoline cars.",
+      "share_angle": "Use this trending question to explain the fuel-to-EV transition in China's auto market and the choices buyers face.",
+      "keywords": [
+        "fuel cars",
+        "gasoline cars",
         "electric vehicles",
-        "EV",
-        "auto sales",
-        "new energy vehicles",
-        "China"
+        "auto market"
       ]
     },
     {
-      "rank": 21,
-      "chinese_topic": "DeepSeek新模型限时内测 烧钱更快了",
+      "rank": 8,
+      "chinese_topic": "高考数学132分 开学考只考了12分",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek Launches Limited-Time Internal Test of New Model, Burn Rate Rising",
+      "official_english": "Student scores 132 in gaokao math but only 12 in back-to-school test",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "DeepSeek made headlines again with a new model's limited internal test, while tech watchers discussed how costly the AI race has become.",
-      "share_angle": "Examine the economics of advanced AI development and why DeepSeek is spending so heavily.",
+      "why_hot": "The huge gap between an excellent gaokao math score and a very low opening-school test score touches off debate about exams, study habits and learning pressure.",
+      "share_angle": "Explain the Chinese context of gaokao and back-to-school tests, then explore why such score gaps trigger anxiety among parents and students.",
       "keywords": [
-        "DeepSeek",
-        "AI model",
-        "internal testing",
-        "AI costs",
-        "technology"
+        "gaokao",
+        "math",
+        "back-to-school test",
+        "education"
       ]
     }
   ]

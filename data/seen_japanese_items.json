@@ -10,6 +10,11 @@
       "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195441000.html",
       "title": "東京 多摩動物公園 ライオン3頭が相次ぎ死ぬ 熱中症か"
     },
+    "00b331cd1685e538d2f6": {
+      "first_seen": "2026-09-10",
+      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001345",
+      "title": "Google、フィンランドに過去最大の約2.3兆円投資 AIデータセンター増設や原発電力調達へ"
+    },
     "00cb485aaacda1847581": {
       "first_seen": "2026-08-13",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000512",
@@ -279,6 +284,11 @@
       "first_seen": "2026-06-14",
       "link": "https://www.watch.impress.co.jp/docs/news/2116752.html",
       "title": "ガーミンとMetaが連携 AIグラスで心拍数やペースを音声確認"
+    },
+    "0c922104bc4f344e3761": {
+      "first_seen": "2026-09-10",
+      "link": "https://www.watch.impress.co.jp/docs/news/2139485.html",
+      "title": "アドビAcrobatがチャット操作に対応 ポッドキャスト生成も"
     },
     "0c95f95537fc10160af7": {
       "first_seen": "2026-09-05",
@@ -779,6 +789,11 @@
       "first_seen": "2026-08-01",
       "link": "https://www.watch.impress.co.jp/docs/news/2129747.html",
       "title": "Nature Remo、エアコンのリモコン操作がアプリに同期 ズレがなくなる"
+    },
+    "1d7f9e919716d820fcac": {
+      "first_seen": "2026-09-10",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2137360.html",
+      "title": "増え続ける通信衛星、足りない周波数 世界と日本で進む新技術"
     },
     "1dcbd4d3e00dd09fcf56": {
       "first_seen": "2026-08-17",
@@ -3630,6 +3645,11 @@
       "link": "https://gigazine.net/news/20260624-bytedance-seedance-2-5",
       "title": "動画生成AI「Seedance 2.5」をByteDanceが発表、最大50個の参照素材から最大30秒の動画を生成可能"
     },
+    "83dfbf93a415d989ce36": {
+      "first_seen": "2026-09-10",
+      "link": "https://www.watch.impress.co.jp/docs/news/2139817.html",
+      "title": "楽天、東京・豊洲に自動配送ロボ 晴海とあわせ湾岸5万戸をカバー"
+    },
     "841db999fca2ca21147a": {
       "first_seen": "2026-09-08",
       "link": "https://www.watch.impress.co.jp/docs/news/2138855.html",
@@ -4304,6 +4324,11 @@
       "first_seen": "2026-06-20",
       "link": "https://www.watch.impress.co.jp/docs/pa/impress/2116329.html",
       "title": "【from Impress】AI時代を生きぬくための「IT用語図鑑」 428用語を1行＋イラストで解説"
+    },
+    "9c8fa56e07e108aabe8c": {
+      "first_seen": "2026-09-10",
+      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001308",
+      "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用明かす【訂正あり】"
     },
     "9ccf1d3ed2b433f4bc61": {
       "first_seen": "2026-07-03",
@@ -5055,6 +5080,11 @@
       "link": "https://gigazine.net/news/20260718-anker-b25n1n12",
       "title": "3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー"
     },
+    "b87da0dbd148c9dfaffd": {
+      "first_seen": "2026-09-10",
+      "link": "https://gigazine.net/news/20260910-soybean-oil-obesity-metabolism",
+      "title": "料理や加工食品に広く使われる「大豆油」が肥満につながる仕組みの一端が判明"
+    },
     "b8967e18f4d17360efc5": {
       "first_seen": "2026-08-22",
       "link": "https://www.watch.impress.co.jp/docs/news/2134568.html",
@@ -5169,6 +5199,11 @@
       "first_seen": "2026-08-12",
       "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497",
       "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ"
+    },
+    "bb4e5e64465124708a3e": {
+      "first_seen": "2026-09-10",
+      "link": "https://gigazine.net/news/20260910-jellyfin-release-12",
+      "title": "無料で動画・音楽・電子書籍などを自宅でも出先でもストリーミングできる「Jellyfin 12.0」がリリース、ついに書籍と漫画のサポートが改善"
     },
     "bbd6dc18ef2ecd245a88": {
       "first_seen": "2026-08-14",
@@ -5374,6 +5409,11 @@
       "first_seen": "2026-06-27",
       "link": "https://www.watch.impress.co.jp/docs/news/2120457.html",
       "title": "横浜市瀬谷区に「イオンスタイル三ツ境」 7月開業 三ツ境駅徒歩4分"
+    },
+    "c507e7076d5c73ba1744": {
+      "first_seen": "2026-09-10",
+      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001343",
+      "title": "新型iPhone「高すぎ」「買えない」悲鳴……1台約22?57万円 「換算レート円安すぎ」の声も"
     },
     "c523384988f0a4a8bd25": {
       "first_seen": "2026-07-11",

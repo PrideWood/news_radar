@@ -1,142 +1,142 @@
 {
   "date": "2026-09-10",
-  "updated_at": "2026-09-09T16:35:36+00:00",
+  "updated_at": "2026-09-10T04:34:04+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 8,
-      "chinese_topic": "河南济源地震",
+      "rank": 3,
+      "chinese_topic": "人类史上首次！老人比小孩多了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Earthquake Reported in Jiyuan, Henan",
+      "official_english": "For the first time in human history, older people outnumber children",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A reported earthquake in Jiyuan is drawing national attention and raising public concern about safety and emergency response.",
-      "share_angle": "Use it for a quick, location-based explainer on how earthquake reports spread in China and how users can follow official updates.",
+      "why_hot": "A demographic milestone framed as a global first, drawing attention to population aging.",
+      "share_angle": "Explain global aging in simple terms and why this milestone matters.",
       "keywords": [
-        "Henan",
-        "Jiyuan",
-        "earthquake"
-      ]
-    },
-    {
-      "rank": 13,
-      "chinese_topic": "苹果秋季发布会",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Apple Fall 2026 Launch Event",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Apple’s fall product event is a globally followed tech moment, and Chinese users are watching closely for new device details.",
-      "share_angle": "Can be framed as a global tech story with useful context on why Apple launches attract so much attention in China.",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "tech event"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "郑钦文vs莱巴金娜",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zheng Qinwen vs Rybakina",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The Zheng Qinwen matchup is a major sports trending topic because Chinese sports fans are closely following her performance.",
-      "share_angle": "Can be covered as a match preview or recap with context on China’s growing tennis audience.",
-      "keywords": [
-        "Zheng Qinwen",
-        "Rybakina",
-        "tennis"
+        "aging",
+        "demographics",
+        "global population"
       ]
     },
     {
       "rank": 11,
-      "chinese_topic": "教师节",
+      "chinese_topic": "亚运会多个项目今天开赛",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Observes Teachers’ Day",
+      "official_english": "Multiple Asian Games events start today",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The date is Teachers’ Day in China, and many users are sharing greetings, stories, and reflections on teachers.",
-      "share_angle": "A cultural moment that lets you explain the role of teachers in China and compare it with similar observances abroad.",
+      "why_hot": "Sports fans are tracking the start of multiple Asian Games events.",
+      "share_angle": "Give a quick sports roundup and what to watch.",
+      "keywords": [
+        "Asian Games",
+        "sports",
+        "events"
+      ]
+    },
+    {
+      "rank": 1,
+      "chinese_topic": "国将兴 必贵师而重傅",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A nation will prosper only if it values teachers and respects mentors",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A classical quote on respecting teachers circulates in a Teachers’ Day context.",
+      "share_angle": "Discuss why Teachers’ Day matters in China and the classical quote behind it.",
       "keywords": [
         "Teachers' Day",
-        "China",
-        "education"
+        "education",
+        "culture"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "高考数学132入学考试0分 大学回应",
+      "rank": 2,
+      "chinese_topic": "iPhone Duo“贵上天了”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "University Responds to Zero on Entrance Assessment Despite High Gaokao Math Score",
+      "official_english": "iPhone Duo 'priced sky-high'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The huge gap between a high gaokao math score and a zero on a later assessment prompts debate about how universities test students.",
-      "share_angle": "Great for explaining the gaokao-to-university transition and questions about exam preparation versus college readiness.",
+      "why_hot": "Consumer tech pricing debate around Apple’s new device.",
+      "share_angle": "Break down the pricing debate and what consumers get.",
       "keywords": [
-        "gaokao",
-        "math",
-        "university assessment"
+        "iPhone Duo",
+        "Apple",
+        "pricing"
       ]
     },
     {
-      "rank": 3,
-      "chinese_topic": "资助者回应被资助女孩质问没打生活费",
+      "rank": 12,
+      "chinese_topic": "莆田洪水后“泡水鞋”甩卖？假的",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Sponsor Responds After Sponsored Girl Asks Why Living Expenses Were Not Sent",
+      "official_english": "Putian flood: 'soaked shoes' clearance sale? It's fake",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The topic stirs discussion about expectations, communication, and responsibilities in person-to-person student sponsorship.",
-      "share_angle": "Useful for a broader social-values story about informal charity in China and the emotional dynamics it can create.",
+      "why_hot": "Disaster-related misinformation and consumer safety after flooding.",
+      "share_angle": "Explain how disaster rumors spread and how to verify them.",
       "keywords": [
-        "sponsorship",
-        "student aid",
-        "social debate"
+        "Putian",
+        "flood",
+        "misinformation"
       ]
     },
     {
-      "rank": 20,
-      "chinese_topic": "降价140万元的药终于有患者用了",
+      "rank": 17,
+      "chinese_topic": "中学换饮水机滤芯 全校每班平摊98元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Drug Reduced by 1.4 Million Yuan in Price Finally Used by Patients",
+      "official_english": "Middle school replaces water dispenser filters; each class shares 98 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A very expensive drug becoming more accessible after a huge price cut makes medical affordability a leading public-interest topic.",
-      "share_angle": "Can explain why high-cost treatments are difficult to access and how price reductions can change patient outcomes.",
+      "why_hot": "School fee-sharing practice raises fairness and transparency questions.",
+      "share_angle": "Discuss school cost-sharing and transparency in education spending.",
       "keywords": [
-        "drug price",
-        "patient access",
-        "health care"
+        "school fees",
+        "education",
+        "transparency"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "明年或爆发全球粮食危机",
+      "rank": 23,
+      "chinese_topic": "硬蹭《狂飙》卖酒 被判赔偿500万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Global Food Crisis Could Erupt Next Year",
+      "official_english": "Wine seller piggybacked on 'The Knockout'; ordered to pay 5 million yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A widely shared warning about potential food shortages makes users pay attention to prices, supply chains, and global risks.",
-      "share_angle": "Can be framed as an international explainer on food security risks and why they matter beyond any single country.",
+      "why_hot": "Intellectual property enforcement and entertainment branding case.",
+      "share_angle": "Explain IP law and brand piggybacking using the case.",
       "keywords": [
-        "food security",
-        "global food prices",
-        "supply chains"
+        "intellectual property",
+        "The Knockout",
+        "compensation"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "中小学生流行“吃作业” 多地提醒",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Primary and middle school students' 'eating homework' trend; multiple regions issue reminders",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Student trend and safety warnings draw parental and school concern; details in the headline are limited.",
+      "share_angle": "Talk about school safety trends and how parents can respond, noting limited details.",
+      "keywords": [
+        "students",
+        "school safety",
+        "warnings"
       ]
     }
   ]

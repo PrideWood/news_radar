@@ -1,142 +1,142 @@
 {
   "date": "2026-09-11",
-  "updated_at": "2026-09-10T16:19:10+00:00",
+  "updated_at": "2026-09-11T04:31:45+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 2,
-      "chinese_topic": "青岛货轮火灾事故致25人遇难",
+      "chinese_topic": "香港 烟盒设计",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cargo ship fire in Qingdao leaves 25 dead",
+      "official_english": "Hong Kong cigarette packet design",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A mass-casualty maritime accident is dominating the Baidu hot list, with a separate related entry covering top leadership instructions on the response.",
-      "share_angle": "Walk through what is known from the headline-level information only, then explain how Chinese state media and official channels typically frame disaster response, and why maritime cargo safety is a recurring regulatory issue.",
+      "why_hot": "Appears high on Baidu's real-time hot list, reflecting public interest in Hong Kong tobacco packaging policy and public health.",
+      "share_angle": "Explain the debate over cigarette packaging design and what it means for tobacco control.",
       "keywords": [
-        "Qingdao",
-        "cargo ship fire",
-        "maritime safety"
-      ]
-    },
-    {
-      "rank": 23,
-      "chinese_topic": "证监会最新定调未来5年资本市场",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China securities regulator sets direction for capital markets over the next five years",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Signals policy priorities for investors and listed companies, and is being widely discussed as a medium-term market signal.",
-      "share_angle": "Explain what a five-year regulatory framing means in practice for listings, investor protection and foreign participation — while noting that the specific measures are not detailed in the headline alone.",
-      "keywords": [
-        "CSRC",
-        "capital markets",
-        "regulation"
+        "Hong Kong",
+        "cigarette packaging",
+        "public health"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "看不见的贸易为什么“跑”得更快",
+      "chinese_topic": "美企为何看好“中国机遇2.0”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why 'invisible trade' is growing faster",
+      "official_english": "Why US companies are optimistic about 'China Opportunity 2.0'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Touches on services trade and cross-border digital flows, an increasingly important part of China's economy that gets less attention than goods exports.",
-      "share_angle": "Define what 'invisible trade' means in Chinese economic reporting, why services and digital trade can scale faster than physical shipments, and what the trend suggests about the economy's structure.",
+      "why_hot": "Trending on Baidu amid interest in foreign business sentiment toward China.",
+      "share_angle": "Break down the phrase 'China Opportunity 2.0' and what it signals for foreign investment.",
       "keywords": [
-        "invisible trade",
-        "services trade",
-        "economy"
+        "US companies",
+        "China Opportunity 2.0",
+        "foreign investment"
       ]
     },
     {
-      "rank": 3,
-      "chinese_topic": "中国女篮不敌法国 无缘世界杯四强",
+      "rank": 8,
+      "chinese_topic": "普京抵达印度",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China women's basketball team loses to France, misses World Cup semifinals",
+      "official_english": "Putin arrives in India",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major national-team result in a globally followed tournament, drawing large domestic discussion.",
-      "share_angle": "Recap the tournament stakes for Chinese women's basketball, how fans and media are reacting, and what the result means for the team's next cycle.",
+      "why_hot": "High on Baidu's hot list, reflecting interest in Russia-India diplomacy.",
+      "share_angle": "Explain the visit's context and possible agenda in neutral terms.",
       "keywords": [
-        "women's basketball",
-        "World Cup",
-        "China team"
+        "Putin",
+        "India",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "AI短剧“1岁命人掌嘴4岁肃清朝堂”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "AI short drama: '1-year-old orders slaps, 4-year-old purges the court'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu, highlighting concern and curiosity about absurd AI-generated short dramas.",
+      "share_angle": "Discuss how AI tools are flooding short-video platforms with bizarre historical plots.",
+      "keywords": [
+        "AI short drama",
+        "short video",
+        "content moderation"
       ]
     },
     {
       "rank": 12,
-      "chinese_topic": "“普通人出境变难”系误读新规",
+      "chinese_topic": "开学季防病毒 这些误区要注意",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that 'travel abroad is getting harder for ordinary people' is a misreading of new rules",
+      "official_english": "Back-to-school virus prevention: misconceptions to avoid",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Exit and entry rules affect millions of travellers, students and families, and misinformation spreads quickly on social platforms.",
-      "share_angle": "Explain the gap between rumour and official clarification in Chinese policy communication, and how travellers should verify entry-exit requirements from official channels.",
+      "why_hot": "Back-to-school health advice is trending as families seek practical prevention guidance.",
+      "share_angle": "Correct common misconceptions about virus prevention for students and parents.",
       "keywords": [
-        "travel rules",
-        "exit and entry",
-        "misinformation"
-      ]
-    },
-    {
-      "rank": 16,
-      "chinese_topic": "每月只休2天 休了还要扣300元全勤",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Worker reports only two rest days a month, with 300 yuan deducted for taking them",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Speaks directly to overtime, attendance-pay and rest-day practices that many Chinese workers recognise from their own jobs.",
-      "share_angle": "Use the headline as a starting point to explain how Chinese labour law treats rest days and attendance deductions, without asserting specific facts beyond what is reported.",
-      "keywords": [
-        "labour rights",
-        "rest days",
-        "attendance pay"
-      ]
-    },
-    {
-      "rank": 11,
-      "chinese_topic": "日本呼吁孕妇优先用梅毒“救命药”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Japan urges pregnant women to be prioritised for syphilis 'life-saving drug'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Combines public health, maternal care and drug-supply questions, and highlights a wider rise in syphilis cases in several countries.",
-      "share_angle": "Explain why congenital syphilis is preventable with timely treatment, how drug shortages or supply limits can shape public-health guidance, and what the guidance means for expectant mothers.",
-      "keywords": [
-        "public health",
-        "syphilis",
-        "maternal care"
+        "back to school",
+        "virus prevention",
+        "health myths"
       ]
     },
     {
       "rank": 18,
-      "chinese_topic": "女生自曝没考到年级前6被资助人拉黑",
+      "chinese_topic": "大学“一床难求” 高教大省出手",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Student says sponsor cut contact after she missed a top-six class ranking",
+      "official_english": "University housing shortage: major higher-education province takes action",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Raises uncomfortable questions about performance-linked charity, student mental health and expectations placed on sponsored students.",
-      "share_angle": "Discuss how conditional giving works in education charity, what obligations are reasonable, and why ranking-based expectations can be damaging — while making clear the account comes from one person's self-reported experience.",
+      "why_hot": "Trending on Baidu as students and parents discuss crowded campus housing.",
+      "share_angle": "Explain the dorm shortage and what provincial measures may mean for university expansion.",
       "keywords": [
-        "education",
-        "student sponsorship",
-        "mental health"
+        "university housing",
+        "dorm shortage",
+        "higher education"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "苹果首款天价折叠屏 被炒到了9万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Apple's first foldable screen reportedly priced at 90,000 yuan on resale market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High on Baidu's hot list amid consumer interest in Apple's foldable device and resale prices.",
+      "share_angle": "Explain the resale hype and what it says about demand for foldable tech.",
+      "keywords": [
+        "Apple",
+        "foldable screen",
+        "resale market"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "亚运会首战 中国男篮大胜哈萨克斯坦",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Asian Games opener: China men's basketball beats Kazakhstan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu after China's men's basketball team won its first Asian Games match.",
+      "share_angle": "Recap the game and what it means for China's tournament run.",
+      "keywords": [
+        "Asian Games",
+        "China men's basketball",
+        "Kazakhstan"
       ]
     }
   ]

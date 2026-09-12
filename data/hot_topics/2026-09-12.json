@@ -1,142 +1,142 @@
 {
   "date": "2026-09-12",
-  "updated_at": "2026-09-12T04:28:23+00:00",
+  "updated_at": "2026-09-12T15:27:26+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "位菲尔兹奖得主警告：AI正毁掉数学",
+      "rank": 1,
+      "chinese_topic": "金砖相约中国",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fields Medalist warns that AI is ruining mathematics",
+      "official_english": "BRICS to meet in China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A Fields Medalist’s warning about AI’s impact on mathematics taps into global debates over AI, research integrity, and the future of math education.",
-      "share_angle": "Frame the debate: how AI tools are changing math research and teaching, and why some mathematicians are worried.",
+      "why_hot": "High-level international event involving China and major emerging economies; public interest in global cooperation.",
+      "share_angle": "Explain what BRICS is, its members, and why China's role matters in global economic governance.",
       "keywords": [
-        "AI",
-        "mathematics",
+        "BRICS",
+        "China",
+        "international cooperation"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "下周上班时间有变",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Work schedule changes next week",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Affects daily life and travel plans; likely tied to public holiday adjustments.",
+      "share_angle": "Break down the schedule change, reasons, and tips for commuters and travelers.",
+      "keywords": [
+        "work schedule",
+        "holiday",
+        "commute"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "双胞胎姐妹出生差1分高考差1分",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Twin sisters born 1 minute apart score 1 point apart in gaokao",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Heartwarming coincidence highlighting education and family; resonates with exam season.",
+      "share_angle": "Discuss the pressures of gaokao, the role of chance, and parenting twins.",
+      "keywords": [
+        "twins",
+        "gaokao",
         "education"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "DeepSeek 开口说话",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "DeepSeek Speaks: AI voice feature draws attention",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "DeepSeek is a major Chinese AI player, so any hint of a voice or speech feature draws intense tech interest; details in the topic are limited.",
-      "share_angle": "Explain what is known about DeepSeek’s new feature from verified reports, and avoid overclaiming beyond the headline.",
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "voice"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "中国天眼有新发现",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "New discovery at China's FAST telescope",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "China's FAST telescope is a flagship science facility, and any new finding attracts public curiosity about astronomy.",
-      "share_angle": "Use the discovery to explain FAST's role in radio astronomy and why new sky surveys matter.",
-      "keywords": [
-        "FAST",
-        "astronomy",
-        "science"
-      ]
-    },
-    {
-      "rank": 11,
-      "chinese_topic": "已灭绝“奥氏马”容貌被复原",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Appearance of extinct Ovodov horse reconstructed",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Reconstructing an extinct species has strong visual and scientific appeal, connecting paleontology with public interest in biodiversity.",
-      "share_angle": "Show how scientists reconstruct extinct animals and what such work reveals about evolution.",
-      "keywords": [
-        "Ovodov horse",
-        "extinction",
-        "paleontology"
-      ]
-    },
-    {
       "rank": 7,
-      "chinese_topic": "宁波大学开学典礼暴雨 校长只讲3句话",
+      "chinese_topic": "iPhone Duo炒到9万 黄牛贷款欲囤货",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Ningbo University opening ceremony hit by rainstorm; president speaks only three sentences",
+      "official_english": "iPhone Duo scalped to 90,000 yuan; scalpers take loans to hoard",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A short speech during a rainstorm at a university ceremony resonates as a feel-good education moment and a lesson in brevity.",
-      "share_angle": "Discuss university ceremonies, extreme weather, and how leaders can communicate effectively under pressure.",
+      "why_hot": "High consumer interest in new iPhone, scalping culture, and risky financial behavior.",
+      "share_angle": "Explain the scalping phenomenon, why people pay so much, and the risks for scalpers.",
       "keywords": [
-        "Ningbo University",
-        "education",
-        "speech"
+        "iPhone",
+        "scalping",
+        "consumer electronics"
       ]
     },
     {
       "rank": 9,
-      "chinese_topic": "女子花20万买房车陪读上高中儿子",
+      "chinese_topic": "丁俊晖止步英格兰公开赛四强",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman spends 200,000 yuan on RV to accompany son through high school",
+      "official_english": "Ding Junhui eliminated in English Open semifinals",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The story reflects intense parental involvement in education and the financial lengths some families go to for school support.",
-      "share_angle": "Explore China's education culture, the pressure on families, and the economics of accompany-study arrangements.",
+      "why_hot": "Chinese snooker star's performance in international tournament; sports fans' interest.",
+      "share_angle": "Recap his run, analyze his performance, and what's next.",
       "keywords": [
-        "education",
-        "family",
-        "RV"
+        "Ding Junhui",
+        "snooker",
+        "English Open"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "大金砖合作凝聚全球南方力量",
+      "rank": 15,
+      "chinese_topic": "多地小学改为养老院",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Greater BRICS cooperation consolidates Global South strength",
+      "official_english": "Multiple primary schools repurposed as nursing homes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "BRICS and Global South cooperation are major geopolitical and economic themes, especially as the bloc expands its influence.",
-      "share_angle": "Break down what BRICS cooperation means for global trade, development finance, and Global South voices.",
+      "why_hot": "Reflects demographic shifts—declining birth rates and aging population; education and elder care.",
+      "share_angle": "Discuss the demographic trend, what it means for communities, and policy implications.",
       "keywords": [
-        "BRICS",
-        "Global South",
-        "economy"
+        "demographics",
+        "education",
+        "elderly care"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "钟南山：超过90%的肺结节都属良性",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Zhong Nanshan: Over 90% of lung nodules are benign",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Health advice from a leading expert; addresses common cancer fears.",
+      "share_angle": "Explain what lung nodules are, when to worry, and screening recommendations.",
+      "keywords": [
+        "Zhong Nanshan",
+        "lung nodules",
+        "health"
       ]
     },
     {
       "rank": 19,
-      "chinese_topic": "红海告急",
+      "chinese_topic": "北大硕士因本科非北大年薪被降5万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Red Sea emergency",
+      "official_english": "PKU master's graduate sees salary reduced by 50,000 yuan over non-PKU bachelor's degree",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The Red Sea is a critical global shipping corridor; any emergency there can affect trade, energy, and security.",
-      "share_angle": "Explain the Red Sea's strategic importance and the possible ripple effects on shipping and prices, without speculating on unconfirmed details.",
+      "why_hot": "Highlights educational background discrimination in hiring; sparks debate on meritocracy.",
+      "share_angle": "Discuss first-degree discrimination, hiring practices, and how to address it.",
       "keywords": [
-        "Red Sea",
-        "shipping",
-        "trade"
+        "education",
+        "employment",
+        "discrimination"
       ]
     }
   ]

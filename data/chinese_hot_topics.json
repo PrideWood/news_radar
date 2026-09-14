@@ -1,142 +1,144 @@
 {
   "date": "2026-09-14",
-  "updated_at": "2026-09-13T16:09:20+00:00",
+  "updated_at": "2026-09-14T04:48:49+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "筑牢金砖合作根基 壮大全球南方力量",
+      "chinese_topic": "共同书写全球南方团结自强新篇章",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Strengthening BRICS cooperation and the Global South",
+      "official_english": "Jointly Writing a New Chapter of Global South Unity and Self-Reliance",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A high-level geopolitical and economic theme linking BRICS cooperation with the wider Global South.",
-      "share_angle": "Explain in plain English what BRICS and the Global South mean, and why cooperation among emerging economies matters.",
+      "why_hot": "A high-ranking official-style headline about Global South cooperation and solidarity; likely tied to international diplomacy or summit messaging.",
+      "share_angle": "Explain the concept of the Global South, why unity and self-reliance themes recur, and how to read official phrasing without overinterpreting.",
       "keywords": [
-        "BRICS",
         "Global South",
-        "cooperation"
+        "unity",
+        "self-reliance"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "上5休1上5休3上3休7上3休1",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Work 5, Rest 1; Work 5, Rest 3; Work 3, Rest 7; Work 3, Rest 1",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A trending schedule pattern likely connected to public holiday arrangements or shift-work calendars; the sequence itself is the headline.",
+      "share_angle": "Decode the pattern, compare it with standard work-rest cycles, and explain how Chinese holiday adjustments are often debated.",
+      "keywords": [
+        "work schedule",
+        "holiday",
+        "rest days"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "词元出海怎么实现？服贸会上有答案",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "How Can 'Token' Go Global? The Services Trade Fair Has Answers",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Headline points to a services-trade fair discussion on how Chinese digital or AI-related 'token' technology or content can go global.",
+      "share_angle": "Explain what 'token' can mean in AI and digital trade, what the services trade fair is, and why localization matters; note the headline is short on details.",
+      "keywords": [
+        "token",
+        "going global",
+        "services trade fair"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "广汽集团停牌",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "GAC Group Suspends Trading",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trading suspension of a major Chinese automaker is a significant market event; the headline alone does not give the reason.",
+      "share_angle": "Explain what a trading halt means, why automakers matter in China's economy, and what to watch for in official filings.",
+      "keywords": [
+        "GAC Group",
+        "trading suspension",
+        "auto industry"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "一夜之间 多家顶级AI公司想踩刹车",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Several top AI companies signal a pause overnight",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "AI safety and the pace of AI development are major global technology and governance issues.",
-      "share_angle": "Break down what it means for leading AI firms to call for caution, and what a pause could look like.",
-      "keywords": [
-        "AI",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "四大国有行今年缩招7000余人",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Four major state-owned banks cut recruitment by over 7,000 this year",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Banking jobs are closely watched by graduates and job seekers in China.",
-      "share_angle": "Discuss what fewer state-owned bank jobs could mean for employment trends and career choices.",
-      "keywords": [
-        "banks",
-        "jobs",
-        "employment"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "iPhone 17大降价",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "iPhone 17 prices drop sharply",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Apple pricing and new iPhone models are high-interest consumer technology topics.",
-      "share_angle": "Explain what a major iPhone price cut could signal about competition and consumer demand.",
-      "keywords": [
-        "iPhone",
-        "Apple",
-        "consumer tech"
-      ]
-    },
-    {
-      "rank": 21,
-      "chinese_topic": "电视都不好卖了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Televisions are becoming harder to sell",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Falling TV sales reflect wider changes in home entertainment and consumer electronics.",
-      "share_angle": "Look at possible reasons viewers are shifting away from traditional TVs and what it means for the industry.",
-      "keywords": [
-        "TV",
-        "consumer electronics",
-        "sales"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "烧烤店被检查15次：系1人投诉116次",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "BBQ restaurant inspected 15 times after one person filed 116 complaints",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "It raises public questions about how repeated complaints and inspections affect small businesses.",
-      "share_angle": "Explain how complaint-driven inspections work and the debate over balancing consumer protection with business burden.",
-      "keywords": [
-        "inspections",
-        "small business",
-        "complaints"
-      ]
-    },
-    {
-      "rank": 24,
-      "chinese_topic": "高校摆600余桌宴席请新生家长吃饭",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "University hosts over 600 banquet tables for new students' parents",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A feel-good education story about how universities welcome students and families.",
-      "share_angle": "Explore Chinese campus culture and the role families play in the university transition.",
-      "keywords": [
-        "university",
-        "education",
-        "campus culture"
-      ]
-    },
-    {
-      "rank": 18,
       "chinese_topic": "“次抛衣”走红",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "'Disposable clothing' gains popularity",
+      "official_english": "Single-Use Clothing Trend Gains Popularity",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A consumer and lifestyle trend that touches on fast fashion, convenience, and waste.",
-      "share_angle": "Explain what disposable clothing is and discuss its appeal alongside environmental concerns.",
+      "why_hot": "Headline points to growing consumer interest in disposable or low-cost clothing, touching consumption, sustainability, and youth culture.",
+      "share_angle": "Discuss what 'single-use clothing' implies, why it may appeal, and the environmental and consumer trade-offs; avoid assuming market size.",
       "keywords": [
-        "fashion",
-        "consumer trend",
-        "sustainability"
+        "single-use clothing",
+        "fast fashion",
+        "consumption"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "从来没有第一学历这个概念",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "There Has Never Been a Concept of 'First Degree'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A social and education debate headline challenging the common term 'first degree'; likely about hiring and credentials.",
+      "share_angle": "Explain what 'first degree' means in Chinese job markets and why the claim is contested; avoid asserting a formal policy.",
+      "keywords": [
+        "first degree",
+        "education",
+        "hiring"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "海南五指山持续暴雨 河水暴涨",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Continuous Heavy Rain in Wuzhishan, Hainan; Rivers Swell Sharply",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Weather-related livelihood and safety topic; headline indicates ongoing heavy rain and rising rivers in Hainan.",
+      "share_angle": "Provide context on tropical weather risks, flood preparedness, and travel advisories; rely on official updates.",
+      "keywords": [
+        "Hainan",
+        "Wuzhishan",
+        "heavy rain",
+        "flooding"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "清北剑桥博士涌入中学当老师",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "PhD Graduates from Tsinghua, Peking University, and Cambridge Flock to Teach in Middle Schools",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Education and employment trend headline about elite PhDs entering secondary school teaching; touches credential inflation and teacher quality.",
+      "share_angle": "Discuss why elite graduates may choose school teaching, what it means for education and the job market, without overgeneralizing.",
+      "keywords": [
+        "PhD",
+        "middle school teachers",
+        "education",
+        "employment"
       ]
     }
   ]

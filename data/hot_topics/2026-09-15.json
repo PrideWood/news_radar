@@ -1,142 +1,142 @@
 {
   "date": "2026-09-15",
-  "updated_at": "2026-09-14T18:03:47+00:00",
+  "updated_at": "2026-09-15T04:48:01+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 4,
-      "chinese_topic": "未来五年民生健康重磅规划",
+      "rank": 1,
+      "chinese_topic": "勇做时代先锋 汇聚团结力量",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's five-year plan for public health and livelihood: what to watch",
+      "official_english": "Chinese online users discuss: 勇做时代先锋 汇聚团结力量",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A multi-year plan touching health and daily life is the kind of policy item that affects almost every household, so it climbs search rankings quickly.",
-      "share_angle": "Explain in plain English what a five-year health and livelihood plan typically covers, and which parts ordinary people watch most closely.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "health policy",
-        "five-year plan",
-        "public health"
-      ]
-    },
-    {
-      "rank": 18,
-      "chinese_topic": "多城楼盘“抱团涨价”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple cities see new-home projects raise prices in unison",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Housing prices are a core household concern, and coordinated price moves by several projects in different cities invite debate about market direction.",
-      "share_angle": "Walk through why grouped price increases draw attention, and how homebuyers and analysts typically read such signals.",
-      "keywords": [
-        "property market",
-        "housing prices",
-        "real estate"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "广汽集团 资产重组",
+      "chinese_topic": "电池税正式落地对新能源车意味着什么",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "GAC Group announces asset restructuring",
+      "official_english": "Chinese online users discuss: 电池税正式落地对新能源车意味着什么",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major state-linked automaker restructuring draws investor and industry attention, especially amid intense competition in China's EV market.",
-      "share_angle": "Explain what an asset restructuring at a large automaker usually involves and why it matters to the wider Chinese auto sector.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "GAC Group",
-        "asset restructuring",
-        "auto industry"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
-      "rank": 10,
-      "chinese_topic": "苹果回应iPhone18Pro破发",
+      "rank": 3,
+      "chinese_topic": "塔克拉玛干沙漠发现大型水源",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Apple responds as iPhone 18 Pro sells below launch price",
+      "official_english": "Chinese online users discuss: 塔克拉玛干沙漠发现大型水源",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Apple's flagship pricing is closely tracked in China, and resale or retail prices falling below launch level fuels discussion about demand.",
-      "share_angle": "Explain what 'breaking the issue price' means for a new phone model and what consumers watch for after launch.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "Apple",
-        "iPhone",
-        "smartphone market"
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "外籍游客爱上中国秋日深度游",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese online users discuss: 外籍游客爱上中国秋日深度游",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "回应男子高铁喝白酒",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese online users discuss: 回应男子高铁喝白酒",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
+      "keywords": [
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
       "rank": 6,
-      "chinese_topic": "大型企业拖欠账款见一个查一个",
+      "chinese_topic": "女婴身亡月子中心产妇全部搬离",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China vows case-by-case checks on large firms defaulting on payments to suppliers",
+      "official_english": "Chinese online users discuss: 女婴身亡月子中心产妇全部搬离",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Late payments by big buyers squeeze smaller suppliers, so enforcement pledges resonate with business owners and workers alike.",
-      "share_angle": "Explain the payment-chain problem in Chinese industry and why clearing arrears is treated as an economic stability issue.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "accounts payable",
-        "small business",
-        "supply chain"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
-      "rank": 20,
-      "chinese_topic": "国产AI短片 最不像AI的AI神作",
+      "rank": 7,
+      "chinese_topic": "演唱会求婚事件后排观众发声",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese-made AI short film praised for looking least like AI",
+      "official_english": "Chinese online users discuss: 演唱会求婚事件后排观众发声",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "AI-generated video is advancing fast, and a domestic work that viewers say looks convincingly un-AI-made becomes a talking point about creative tools.",
-      "share_angle": "Discuss how AI video generation is judged by audiences and what 'looking real' means for the creative industries.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "AI video",
-        "generative AI",
-        "short film"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "海南多地停课",
+      "rank": 8,
+      "chinese_topic": "“四川芬达”恶搞杨坤被判赔31.5万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Schools suspended in multiple parts of Hainan",
+      "official_english": "Chinese online users discuss: “四川芬达”恶搞杨坤被判赔31.5万",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "School suspensions affect families immediately, and the southern island province is closely watched for severe weather.",
-      "share_angle": "Explain why local authorities suspend classes and how such decisions are communicated to parents and students.",
+      "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
+      "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
       "keywords": [
-        "Hainan",
-        "school closure",
-        "weather"
-      ]
-    },
-    {
-      "rank": 24,
-      "chinese_topic": "金星伴月",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Venus and the Moon appear together in the night sky",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Easy-to-spot sky events are widely photographed and shared, making astronomy a recurring light-news favourite.",
-      "share_angle": "Explain the simple astronomy behind a bright planet appearing near the Moon and how viewers can spot it.",
-      "keywords": [
-        "astronomy",
-        "Venus",
-        "night sky"
+        "Chinese web",
+        "hot topic",
+        "English framing"
       ]
     }
   ]

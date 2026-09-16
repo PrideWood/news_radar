@@ -1,142 +1,142 @@
 {
   "date": "2026-09-16",
-  "updated_at": "2026-09-15T16:51:37+00:00",
+  "updated_at": "2026-09-16T04:43:51+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "专家：楼市基本触底",
+      "rank": 1,
+      "chinese_topic": "习近平致吉林大学建校80周年的贺信",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Expert: Housing market has basically bottomed out",
+      "official_english": "Xi Jinping sends congratulatory letter on the 80th anniversary of Jilin University",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Housing is a key economic and livelihood topic, and an expert view on the market bottoming out draws wide attention.",
-      "share_angle": "Present it as an expert view rather than confirmed fact, and note that supporting data is needed beyond the headline.",
+      "why_hot": "A top leader’s letter to a major Chinese university draws national attention and highlights higher-education milestones.",
+      "share_angle": "Use it to explain the role of official congratulatory letters and China’s higher-education anniversaries in English.",
       "keywords": [
-        "housing market",
-        "property",
-        "expert view"
-      ]
-    },
-    {
-      "rank": 10,
-      "chinese_topic": "我国人口总量14.05亿",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's population totals 1.405 billion",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "National population figures are a broad demographic and economic indicator, and the topic is trending on Baidu.",
-      "share_angle": "Provide a concise data-led explainer using only the headline figure, noting that breakdowns need official confirmation.",
-      "keywords": [
-        "China population",
-        "demographics",
-        "1.405 billion"
-      ]
-    },
-    {
-      "rank": 9,
-      "chinese_topic": "AI正在惩罚用它写作业的中学生",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "AI is penalizing middle school students who use it for homework",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Education and AI are both high-interest areas, and the framing of AI 'punishing' students is provocative.",
-      "share_angle": "Discuss AI use in schools and academic integrity, but avoid asserting specific penalties not stated in the headline.",
-      "keywords": [
-        "AI in education",
-        "homework",
-        "students"
-      ]
-    },
-    {
-      "rank": 23,
-      "chinese_topic": "电池税正式落地 新能源车要涨价吗",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Battery tax officially implemented: Will new energy vehicles become more expensive?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Tax policy and electric vehicle prices affect consumers and the auto industry.",
-      "share_angle": "Frame it as a policy-and-price question, but clarify that actual price effects require details not given in the headline.",
-      "keywords": [
-        "battery tax",
-        "new energy vehicles",
-        "EV prices"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "平陆运河将带来哪些新变化",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What new changes will the Pinglu Canal bring?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Major infrastructure projects often attract interest for their potential regional transport and economic impact.",
-      "share_angle": "Use it for an infrastructure-and-regional-development explainer, noting that specific impacts require official project information.",
-      "keywords": [
-        "Pinglu Canal",
-        "infrastructure",
-        "regional development"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "交警吐槽无人快递车：听不懂人话",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Traffic police complain unmanned delivery vehicles 'don't understand human speech'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Autonomous delivery is expanding, and a traffic police complaint highlights real-world integration challenges.",
-      "share_angle": "Explore how self-driving delivery technology interacts with street-level rules, while avoiding generalizations from one complaint.",
-      "keywords": [
-        "unmanned delivery",
-        "autonomous vehicles",
-        "traffic police"
+        "Xi Jinping",
+        "Jilin University",
+        "higher education"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "男子30年前存一万定期忘取 法院判了",
+      "chinese_topic": "电动汽车充电不花钱 多地试点",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Court rules in case of man who forgot 10,000-yuan fixed deposit for 30 years",
+      "official_english": "Multiple regions pilot free charging for electric vehicles",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A long-forgotten bank deposit and a court ruling combine personal finance and legal interest.",
-      "share_angle": "Use as a personal-finance and legal explainer, but note that the headline does not state the content of the ruling.",
+      "why_hot": "Free EV charging pilots could lower running costs and influence consumer adoption of electric cars.",
+      "share_angle": "Explain how charging costs fit into China’s EV adoption story and what local pilots may signal.",
       "keywords": [
-        "fixed deposit",
-        "court ruling",
-        "personal finance"
+        "electric vehicles",
+        "charging",
+        "pilot program"
       ]
     },
     {
-      "rank": 14,
-      "chinese_topic": "压力大收入低 银行柜员辞职卖馒头",
+      "rank": 2,
+      "chinese_topic": "影院不再只放电影",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "High stress and low pay: bank teller quits to sell steamed buns",
+      "official_english": "Cinemas diversify beyond film screenings",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Job stress, income, and career changes are common livelihood concerns, and the career contrast is compelling.",
-      "share_angle": "Discuss changing career expectations and small-business choices, sticking to the reasons stated in the headline.",
+      "why_hot": "Cinemas exploring non-film uses reflects changing entertainment consumption and pressure on traditional movie theaters.",
+      "share_angle": "Discuss how Chinese cinemas are adapting their business models beyond box-office screenings.",
       "keywords": [
-        "bank teller",
-        "career change",
-        "livelihood"
+        "cinemas",
+        "movie theaters",
+        "business model"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "“订单绕了一圈还是回到中国”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "“Orders that went around the world came back to China”",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Supply-chain shifts and manufacturing competitiveness are closely watched amid global trade changes.",
+      "share_angle": "Break down why some orders may return to China and what it says about supply chains and manufacturing.",
+      "keywords": [
+        "orders",
+        "supply chain",
+        "manufacturing"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "昔日“彩电大王”要退市了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Former “color TV king” faces delisting",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The delisting of a once-iconic TV brand highlights market competition and industrial change in China’s consumer electronics sector.",
+      "share_angle": "Use it to explain how once-dominant consumer brands can decline as markets and technology shift.",
+      "keywords": [
+        "color TV",
+        "delisting",
+        "consumer electronics"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "南京一高校学生大晚上排长队洗澡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "University students in Nanjing queue late at night for showers",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Campus living conditions and student welfare are common public concerns in China.",
+      "share_angle": "Discuss campus facilities and how students’ daily experiences can become national talking points.",
+      "keywords": [
+        "university",
+        "students",
+        "campus facilities"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "小伙211毕业卖手机第1个月赚3万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "211 graduate earns 30,000 yuan in first month selling phones",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Youth employment and non-traditional career paths attract widespread discussion in China.",
+      "share_angle": "Explore changing attitudes toward elite university graduates, blue-collar work, and income expectations.",
+      "keywords": [
+        "youth employment",
+        "211 university",
+        "career path"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "A股大反攻",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A-shares stage major rebound",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Stock market moves affect household wealth, investor sentiment, and broader economic confidence.",
+      "share_angle": "Explain what a broad A-share rebound means for Chinese investors and economic sentiment.",
+      "keywords": [
+        "A-shares",
+        "stock market",
+        "rebound"
       ]
     }
   ]

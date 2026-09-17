@@ -1,142 +1,158 @@
 {
   "date": "2026-09-17",
-  "updated_at": "2026-09-16T16:45:16+00:00",
+  "updated_at": "2026-09-17T04:47:08+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 6,
-      "chinese_topic": "大一新生1000块一个月到底够花吗",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Is 1,000 yuan a month enough for a Chinese college freshman?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "开学季家长与新生最关心的现实问题，涉及高校生活费水平、城市物价差异，讨论门槛低、参与人群广。",
-      "share_angle": "用生活费账本拆解大学新生的吃、住、行开销，对比不同城市物价，做成\"一个月1000元怎么活\"的英文生活成本观察视频。",
-      "keywords": [
-        "college freshman",
-        "living costs",
-        "education"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "平陆运河“全能管家”有多硬核",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What makes the Pinglu Canal's 'all-purpose steward' system stand out",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "平陆运河是备受关注的重大水运工程，其数字化管理系统被形象称为\"全能管家\"，工程科技与基建话题容易出圈。",
-      "share_angle": "从\"一条运河如何被一个系统管起来\"切入，讲中国大型基建里的数字化、调度与工程管理，适合做科技+基建英文科普短片。",
-      "keywords": [
-        "Pinglu Canal",
-        "infrastructure",
-        "engineering tech"
-      ]
-    },
-    {
       "rank": 3,
-      "chinese_topic": "中国十大消费县排行",
+      "chinese_topic": "机顶盒将成为历史",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's top 10 consumption counties ranking",
+      "official_english": "Set-top boxes may soon become obsolete as TVs add built-in cable functions",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "县域消费是观察中国内需的重要窗口，榜单形式直观、地域代入感强，各地网友关注自己家乡是否上榜。",
-      "share_angle": "用榜单讲中国下沉市场的购买力，解释\"县域经济\"为何成为消费新增长点，做英文版中国消费地理科普。",
+      "why_hot": "A high-ranking livelihood and technology topic: the headline suggests Chinese households may no longer need a separate cable/set-top box, with a related Baidu entry ('电视机将内置机顶盒功能') pointing to televisions integrating that function. Two entries on the same board on the same day indicate strong public interest in simpler, cheaper home TV service.",
+      "share_angle": "Explain how set-top boxes work today, why integrating the function into TVs could change living-room hardware and subscription habits, and what questions consumers should ask about compatibility, cost and who controls the interface. Frame as a consumer-tech shift, not a confirmed nationwide rollout.",
       "keywords": [
-        "county economy",
-        "consumption",
-        "domestic demand"
+        "set-top box",
+        "smart TV",
+        "cable TV",
+        "consumer tech",
+        "home entertainment"
       ]
     },
     {
-      "rank": 12,
-      "chinese_topic": "官方辟谣国盛民安养老补贴惠民工程",
+      "rank": 2,
+      "chinese_topic": "日本高市内阁全体阁僚提交辞呈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Officials debunk the 'Guosheng Min'an elderly care subsidy' program",
+      "official_english": "Japan PM Takaichi reshuffles cabinet; all ministers submit resignations",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "养老补贴是老年群体高度敏感的话题，涉诈信息传播快，官方辟谣直接关系普通家庭的财产安全。",
-      "share_angle": "做成\"长辈最容易遇到的几类假惠民项目\"防骗提醒，用英文讲清官方辟谣信息与辨别方法，实用性强、易转发。",
+      "why_hot": "Two of the day's top Baidu entries cover the same story from different angles — a cabinet reshuffle by Japanese Prime Minister Takaichi and the collective resignation of all cabinet ministers that precedes a reshuffle. Japanese domestic politics is a recurring high-interest international topic for Chinese audiences.",
+      "share_angle": "Offer a plain-language primer on how Japanese cabinet reshuffles work procedurally (collective resignation, reappointment), what the headline does and does not tell us about policy direction, and what to watch next. Avoid speculating about named ministers or policy outcomes not stated in the headline.",
       "keywords": [
-        "elderly care",
-        "rumor debunked",
-        "scam alert"
+        "Japan",
+        "cabinet reshuffle",
+        "Takaichi",
+        "politics",
+        "East Asia"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "美联储加息 黄金",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Fed rate move draws attention to gold prices",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A short but high-signal finance headline linking a U.S. Federal Reserve rate decision with gold — a pairing that reliably drives Chinese retail interest in savings, jewelry and gold investment.",
+      "share_angle": "Use it as an explainer hook: why gold often reacts to U.S. interest-rate expectations, how a stronger dollar and higher rates can pressure gold, and why gold still draws Chinese household demand. Be explicit that the headline alone does not specify the size, direction or timing of the Fed action.",
+      "keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "gold price",
+        "investing",
+        "macroeconomics"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "湖南航空 充电宝起火",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Power bank fire reported on a Hunan Airlines flight",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Aviation safety plus a device almost every traveler carries: a reported power-bank fire on a Hunan Airlines flight combines a concrete safety incident with practical concern for air passengers.",
+      "share_angle": "Focus on the safety rules rather than the incident details: why lithium batteries and power banks are restricted in cabins, what IATA and airline rules typically require, and what passengers should do if a device overheats. Flag that details of this specific event are not established by the headline alone.",
+      "keywords": [
+        "aviation safety",
+        "power bank",
+        "lithium battery",
+        "Hunan Airlines",
+        "air travel"
       ]
     },
     {
       "rank": 15,
-      "chinese_topic": "未来北京飞上海可能只需半小时",
+      "chinese_topic": "张一鸣成亚洲首富",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Beijing-to-Shanghai flight could take only half an hour in the future",
+      "official_english": "Zhang Yiming reportedly becomes Asia's richest person",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "京沪是全国最繁忙的航线之一，\"半小时到达\"极大冲击公众对出行时间的想象，指向未来航空技术方向。",
-      "share_angle": "从\"京沪半小时\"延伸讲未来高速航空/新型飞行器的想象空间，注意区分设想与已实现技术，做成英文科技前瞻解读。",
+      "why_hot": "Wealth rankings tied to China's tech sector consistently trend; the headline places ByteDance's founder at the top of Asia's rich list, which ties into broader questions about platform economics and founder wealth.",
+      "share_angle": "Use it to explain how such rankings are compiled and why valuations of privately held companies are estimates, not audited numbers. Discuss the tech-industry context rather than the individual's personal life. Note the source uncertainty around any specific fortune figure.",
       "keywords": [
-        "future aviation",
-        "Beijing-Shanghai",
-        "transport tech"
+        "Zhang Yiming",
+        "ByteDance",
+        "Asia",
+        "wealth ranking",
+        "tech industry"
       ]
     },
     {
       "rank": 11,
-      "chinese_topic": "王曼昱回应首次登顶女单世界第一",
+      "chinese_topic": "国乒被困日本机场 孙颖莎直接开练",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Manyu responds to reaching world No. 1 in women's singles for the first time",
+      "official_english": "Chinese table tennis team stranded at Japanese airport; Sun Yingsha trains on the spot",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "乒乓球是中国的国民项目，女单世界第一更替关注度高，运动员本人的回应自带传播力。",
-      "share_angle": "借世界第一更替讲中国乒乓球队的内部竞争与长期优势，配运动员公开表态，做成英文体育人物短评。",
+      "why_hot": "Sports plus travel disruption plus a well-known athlete: two Baidu entries describe Chinese national teams (table tennis and badminton) stuck at a Japanese airport, with players improvising training and self-organizing. It overlaps with Asian Games travel coverage.",
+      "share_angle": "Frame as a behind-the-scenes look at elite athlete logistics and contingency planning on the road: how teams keep up training when schedules break, and what travel delays mean for competition preparation. Keep to what the headlines state; avoid speculating about blame or event scheduling.",
       "keywords": [
         "table tennis",
-        "world No.1",
-        "sports"
+        "Sun Yingsha",
+        "airport delay",
+        "sports travel",
+        "Asian Games"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "日本茨城县地震 东京有明显震感",
+      "rank": 8,
+      "chinese_topic": "胖东来员工中秋福利：每人7箱",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Earthquake hits Ibaraki, Japan; strong shaking felt in Tokyo",
+      "official_english": "Pang Dong Lai staff receive seven boxes each as Mid-Autumn Festival benefit",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "邻国地震且首都圈有明显震感，涉及在日华人、赴日旅游与区域地质活动，信息需求集中在震级、影响与后续预警。",
-      "share_angle": "做地理科普：日本为何地震频发、震感如何传导到东京，并提示以官方通报为准，避免未经证实的影响描述。",
+      "why_hot": "Pang Dong Lai, a Henan retailer known for generous staff treatment, reliably generates discussion about labor welfare and corporate culture in China. The headline is concrete and festival-tied, making it easy for audiences to grasp.",
+      "share_angle": "Use it to talk about Chinese Mid-Autumn Festival workplace customs and why this particular retailer keeps going viral for employee benefits. Compare typical holiday-benefit practices without presenting this case as representative of all Chinese employers.",
       "keywords": [
-        "earthquake",
-        "Ibaraki Japan",
-        "seismic activity"
+        "Pang Dong Lai",
+        "Mid-Autumn Festival",
+        "employee benefits",
+        "retail",
+        "workplace culture"
       ]
     },
     {
-      "rank": 18,
-      "chinese_topic": "隐翅虫窗外排队等进家 女子吓坏",
+      "rank": 4,
+      "chinese_topic": "多年了 我们为什么执着于挖运河",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rove beetles queue outside windows trying to get indoors, alarming a resident",
+      "official_english": "Why China keeps digging canals",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "隐翅虫是夏秋季高发的\"毒虫\"话题，与居民日常居家安全直接相关，画面感强、季节性强。",
-      "share_angle": "做成季节性生活科普：隐翅虫是什么、为何集中出现、被接触后如何正确处理，强调以疾控与医疗建议为准。",
+      "why_hot": "An infrastructure-and-economy explainer style headline that has drawn wide attention: canal projects are a visible, long-running element of Chinese water transport and regional development planning.",
+      "share_angle": "Turn it into a geography-and-economics explainer: what inland waterway shipping offers compared with road and rail, why canal projects take decades, and the trade-offs around water use and ecology. Keep it explanatory rather than advocacy, and avoid citing project costs or completion dates not given in the source headline.",
       "keywords": [
-        "rove beetle",
-        "insect season",
-        "home safety"
+        "canals",
+        "inland shipping",
+        "infrastructure",
+        "water transport",
+        "regional development"
       ]
     }
   ]

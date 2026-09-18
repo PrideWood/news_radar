@@ -1,142 +1,142 @@
 {
   "date": "2026-09-18",
-  "updated_at": "2026-09-17T16:52:18+00:00",
+  "updated_at": "2026-09-18T04:36:48+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "楼市进入“二手房时代”",
+      "rank": 16,
+      "chinese_topic": "回应“国庆期间高铁涨价”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Housing market enters a 'second-hand home era'",
+      "official_english": "China Railway responds to 'National Day high-speed rail price hike'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Housing remains a core livelihood and economic concern, and shifts toward second-hand transactions draw wide public interest.",
-      "share_angle": "Explain what a second-hand-dominated market means for buyers, sellers, and local economies without predicting prices.",
+      "why_hot": "Public concern over holiday travel costs and rail pricing.",
+      "share_angle": "Explain how holiday rail pricing works, why fare changes draw attention, and what travelers should know.",
       "keywords": [
-        "housing market",
-        "second-hand homes",
-        "real estate"
+        "National Day travel",
+        "high-speed rail",
+        "ticket prices"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "中国房地产进入存量时代",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's real estate market enters a stock-based era",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Housing remains a major economic and livelihood issue in China.",
+      "share_angle": "Explain the shift from new construction to existing housing and what it means for buyers, developers, and local economies.",
+      "keywords": [
+        "real estate",
+        "China economy",
+        "housing market"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "苹果最贵手机还没开售就翻车了吗",
+      "chinese_topic": "宁德时代 至暗时刻",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Has Apple's most expensive phone stumbled before launch?",
+      "official_english": "CATL's 'darkest moment' trends online",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Apple product launches are closely watched, especially when headlines question early problems with a premium model.",
-      "share_angle": "Separate confirmed launch issues from speculation and explain how consumers can verify product claims.",
+      "why_hot": "CATL is a leading EV battery maker, and its challenges draw attention to the EV supply chain.",
+      "share_angle": "Explain CATL's role, current pressures, and what they signal for the EV battery industry.",
       "keywords": [
-        "Apple",
-        "smartphone launch",
+        "CATL",
+        "EV batteries",
+        "industry pressure"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "一个智能药盒卖3900元",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A smart pill box sells for 3,900 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Health technology pricing and elderly care are growing public concerns.",
+      "share_angle": "Look at smart health devices for aging populations and the debate over price versus value.",
+      "keywords": [
+        "smart health",
+        "elderly care",
         "consumer tech"
       ]
     },
     {
-      "rank": 17,
-      "chinese_topic": "中医暂不纳入首批医保医疗服务目录",
+      "rank": 15,
+      "chinese_topic": "新生入学被强制要求填写父母收入",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Traditional Chinese medicine temporarily not included in first batch of medical insurance service catalogue",
+      "official_english": "New students required to fill in parents' income",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health insurance coverage decisions affect patients, medical providers, and the traditional Chinese medicine sector.",
-      "share_angle": "Clarify what the first batch covers, what the exclusion means, and what remains undecided.",
+      "why_hot": "Education equity and privacy are sensitive topics for families.",
+      "share_angle": "Discuss school data collection, privacy, and fairness in education.",
       "keywords": [
-        "TCM",
-        "health insurance",
-        "medical services"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "夏粮旺季收购基本结束",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Summer grain procurement peak season basically concludes",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Grain procurement is tied to food security, farm incomes, and agricultural market stability.",
-      "share_angle": "Explain the annual summer grain purchase cycle and why its conclusion matters for food supply and farmers.",
-      "keywords": [
-        "summer grain",
-        "procurement",
-        "food security"
+        "education",
+        "privacy",
+        "school policy"
       ]
     },
     {
       "rank": 13,
-      "chinese_topic": "国产榴莲大丰收",
+      "chinese_topic": "新疆阿勒泰34万余只羊排队洗香香",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Domestic durian crop sees bumper harvest",
+      "official_english": "Over 340,000 sheep in Altay, Xinjiang queue up for washing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Durian is a popular imported fruit, and a domestic harvest raises interest in prices, farming, and supply chains.",
-      "share_angle": "Explain where domestic durians are grown, why the harvest matters, and what it may mean for consumers.",
+      "why_hot": "A vivid rural scene from Xinjiang that blends travel, agriculture, and animal care.",
+      "share_angle": "Introduce Altay's pastoral culture and why large-scale sheep washing happens.",
       "keywords": [
-        "durian",
-        "agriculture",
-        "harvest"
+        "Xinjiang",
+        "Altay",
+        "agriculture"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "婚服29.9元婚车自家车 极简婚礼火了",
+      "rank": 8,
+      "chinese_topic": "九一八事变爆发95周年",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Minimalist weddings trend: 29.9-yuan wedding dress and family car",
+      "official_english": "95th anniversary of the September 18 Incident",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Frugal and low-key wedding choices resonate amid changing social and economic attitudes.",
-      "share_angle": "Discuss minimalist wedding choices, budget pressures, and shifting cultural expectations around marriage.",
+      "why_hot": "A major historical anniversary widely commemorated in China.",
+      "share_angle": "Explain the Mukden Incident, its historical context, and how it is remembered today.",
       "keywords": [
-        "minimalist weddings",
-        "consumer culture",
-        "marriage"
+        "September 18 Incident",
+        "history",
+        "remembrance"
       ]
     },
     {
       "rank": 23,
-      "chinese_topic": "女孩为照顾弟弟错失保研被骂扶弟魔",
+      "chinese_topic": "婚服29.9元婚车自家车 极简婚礼火了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman misses postgraduate recommendation to care for brother, sparking debate over family duties",
+      "official_english": "Minimalist wedding goes viral: 29.9-yuan dress and family car",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Education, gender roles, and family obligations are sensitive social topics that often generate wide debate.",
-      "share_angle": "Discuss trade-offs between education and caregiving, and distinguish one personal story from broader social patterns.",
+      "why_hot": "Young people's changing attitudes toward wedding spending and consumption.",
+      "share_angle": "Explore the trend of low-cost, meaningful weddings amid economic and cultural shifts.",
       "keywords": [
-        "education",
-        "family caregiving",
-        "gender expectations"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "全款买房的人越来越多了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "More homebuyers are paying in full",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Home purchasing and financing choices are closely tied to household finances and confidence in the property market.",
-      "share_angle": "Explain what full-cash purchases may indicate about buyer profiles, credit conditions, and market sentiment.",
-      "keywords": [
-        "homebuying",
-        "cash purchases",
-        "real estate"
+        "minimalist wedding",
+        "consumption",
+        "youth culture"
       ]
     }
   ]

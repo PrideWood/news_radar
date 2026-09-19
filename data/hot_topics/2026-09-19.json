@@ -1,150 +1,142 @@
 {
   "date": "2026-09-19",
-  "updated_at": "2026-09-19T04:32:33+00:00",
+  "updated_at": "2026-09-19T15:49:39+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "扎实推进先进制造业高质量发展",
+      "chinese_topic": "持续做大做强先进制造业",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Solidly advance high-quality development of advanced manufacturing",
+      "official_english": "China continues to strengthen advanced manufacturing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ranks No. 1 on Baidu hot search; policy topic tied to China's industrial and economic priorities.",
-      "share_angle": "Explain what high-quality development of advanced manufacturing means and why it matters for jobs, supply chains, and technology competition.",
+      "why_hot": "Policy focus on advanced manufacturing aligns with economic priorities and industrial upgrading.",
+      "share_angle": "Explain what advanced manufacturing means, why it matters for China's economy, and examples of key sectors.",
       "keywords": [
         "advanced manufacturing",
-        "high-quality development",
-        "industrial policy",
-        "China economy"
+        "China economy",
+        "industrial upgrade"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "啥是“好房子” 怎样建设",
+      "rank": 2,
+      "chinese_topic": "亚运会开幕式",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What is a 'good house' and how should it be built?",
+      "official_english": "Asian Games opening ceremony",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ranks No. 4 on Baidu hot search; housing is a major livelihood concern.",
-      "share_angle": "Break down what a 'good house' means in terms of safety, comfort, green design, and affordability; avoid predicting policy details.",
+      "why_hot": "Major international sporting event draws national attention.",
+      "share_angle": "Highlight key moments, cultural performances, and the significance of hosting the Asian Games.",
       "keywords": [
-        "housing",
-        "good house",
-        "livelihood",
-        "construction"
+        "Asian Games",
+        "opening ceremony",
+        "sports"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "轿车在高铁站停了近7年 车主回应",
+      "chinese_topic": "传统豪车集体降价续命",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Car parked at high-speed rail station for nearly 7 years; owner responds",
+      "official_english": "Traditional luxury car brands cut prices to survive",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ranks No. 3 on Baidu hot search; unusual human-interest and transport/livelihood story.",
-      "share_angle": "Explain long-term parking rules, fees, and abandoned vehicle management; verify the owner's account and station response.",
+      "why_hot": "Reflects intense competition in China's auto market, especially with the rise of electric vehicles.",
+      "share_angle": "Discuss why luxury car brands are discounting, the impact of EV competition, and what it means for consumers.",
       "keywords": [
-        "parked car",
-        "high-speed rail station",
-        "seven years",
-        "owner response"
+        "luxury cars",
+        "price cuts",
+        "auto market"
       ]
     },
     {
-      "rank": 11,
-      "chinese_topic": "AI女演员访谈突然卡壳 下秒飙粤语",
+      "rank": 5,
+      "chinese_topic": "北大复旦校长接连发出警告",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "AI actress interview suddenly stalls, then switches to Cantonese",
+      "official_english": "Peking University and Fudan presidents issue warnings",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ranks No. 11 on Baidu hot search; AI-generated media is a growing tech and culture topic.",
-      "share_angle": "Explain how AI actors are created and why language-switching glitches raise questions about AI performance and credibility.",
+      "why_hot": "Top university leaders' warnings often signal concerns about education trends or social issues.",
+      "share_angle": "Caution: details of the warnings are not clear from the headline. Speculate responsibly on possible topics like AI in education or academic pressure.",
       "keywords": [
-        "AI actress",
-        "AI interview",
-        "Cantonese",
-        "generative AI"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "数学老师投300万拍电影 8天票房2万",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Math teacher invests 3 million yuan in film; 8-day box office reaches 20,000 yuan",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Ranks No. 7 on Baidu hot search; combines education, film, and personal investment.",
-      "share_angle": "Discuss the economics of low-budget film releases and the risks of self-funded cinema; treat box office figures as headline-level until verified.",
-      "keywords": [
-        "math teacher",
-        "film investment",
-        "box office",
-        "independent cinema"
-      ]
-    },
-    {
-      "rank": 12,
-      "chinese_topic": "这几个近视谣言 很多家长还在信",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "These myopia rumors are still believed by many parents",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Ranks No. 12 on Baidu hot search; parental concern over children's eyesight is widespread.",
-      "share_angle": "Review common myopia myths and evidence-based eye care; cite medical experts and avoid personal medical advice.",
-      "keywords": [
-        "myopia",
-        "children's eyesight",
-        "health rumors",
-        "parents"
+        "higher education",
+        "university presidents",
+        "warnings"
       ]
     },
     {
       "rank": 17,
-      "chinese_topic": "尘肺病人举报公司违法反被罚五万",
+      "chinese_topic": "央视曝光文玩玉米市场暗藏猫腻",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Pneumoconiosis patient who reported company violations is fined 50,000 yuan",
+      "official_english": "CCTV exposes hidden tricks in the cultural corn market",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ranks No. 17 on Baidu hot search; labor rights and occupational health are public-interest issues.",
-      "share_angle": "Explain the reported sequence of events and the legal questions around whistleblowing and fines; verify case details with official sources.",
+      "why_hot": "Consumer protection stories from state media often spark widespread discussion.",
+      "share_angle": "Explain what the 'cultural corn' market is, what tricks were exposed, and how consumers can avoid scams.",
       "keywords": [
-        "pneumoconiosis",
-        "occupational disease",
-        "labor rights",
-        "fine"
+        "CCTV",
+        "consumer rights",
+        "cultural corn"
       ]
     },
     {
-      "rank": 19,
-      "chinese_topic": "吉林出现野生东北虎“五虎同框”",
+      "rank": 24,
+      "chinese_topic": "公斤冻牛肉解冻后仅剩400克",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Five wild Amur tigers spotted together in Jilin",
+      "official_english": "1 kg frozen beef weighs only 400g after thawing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Ranks No. 19 on Baidu hot search; wildlife sightings attract public and scientific interest.",
-      "share_angle": "Explain Amur tiger conservation, habitat recovery, and safety guidance for local residents; verify location and footage.",
+      "why_hot": "Food safety and misleading packaging are common consumer concerns.",
+      "share_angle": "Discuss the issue of frozen food weight discrepancies, consumer rights, and how to check labels.",
       "keywords": [
-        "Amur tiger",
-        "Jilin",
-        "wildlife conservation",
-        "biodiversity"
+        "frozen beef",
+        "consumer rights",
+        "food safety"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "彭州山区蛇患严重致人死亡系谣言",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Rumor of severe snake infestation causing deaths in Pengzhou mountains debunked",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Rumor debunking highlights the importance of verifying online information.",
+      "share_angle": "Explain how the rumor spread, official response, and tips for identifying misinformation.",
+      "keywords": [
+        "rumor",
+        "snake infestation",
+        "public safety"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "亚运首个金牌日",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Asian Games first gold medal day",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Sports fans eagerly follow medal counts and standout performances.",
+      "share_angle": "Recap key gold medal wins, highlight athletes, and explain the significance of the first gold day.",
+      "keywords": [
+        "Asian Games",
+        "gold medal",
+        "sports"
       ]
     }
   ]

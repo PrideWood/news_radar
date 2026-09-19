@@ -1,142 +1,150 @@
 {
   "date": "2026-09-19",
-  "updated_at": "2026-09-18T16:20:14+00:00",
+  "updated_at": "2026-09-19T04:32:33+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "总书记为先进制造业指明方向",
+      "chinese_topic": "扎实推进先进制造业高质量发展",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "General Secretary charts direction for advanced manufacturing",
+      "official_english": "Solidly advance high-quality development of advanced manufacturing",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Top-ranked policy signal on advanced manufacturing, a core economic theme.",
-      "share_angle": "Explain why manufacturing upgrading matters for China’s economy, without adding unstated policy details.",
+      "why_hot": "Ranks No. 1 on Baidu hot search; policy topic tied to China's industrial and economic priorities.",
+      "share_angle": "Explain what high-quality development of advanced manufacturing means and why it matters for jobs, supply chains, and technology competition.",
       "keywords": [
         "advanced manufacturing",
-        "policy direction",
+        "high-quality development",
+        "industrial policy",
         "China economy"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "中国男篮不敌日本无缘决赛",
+      "rank": 4,
+      "chinese_topic": "啥是“好房子” 怎样建设",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China men's basketball loses to Japan, misses final",
+      "official_english": "What is a 'good house' and how should it be built?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "High-profile sports rivalry and tournament exit drive wide discussion.",
-      "share_angle": "Recap the result and its significance for Chinese basketball, sticking to the headline.",
+      "why_hot": "Ranks No. 4 on Baidu hot search; housing is a major livelihood concern.",
+      "share_angle": "Break down what a 'good house' means in terms of safety, comfort, green design, and affordability; avoid predicting policy details.",
       "keywords": [
-        "China men's basketball",
-        "Japan",
-        "tournament"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "养生的风终于吹到了月饼行业",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Health-conscious trend reaches the mooncake industry",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Mooncakes are a seasonal cultural staple, and health-focused versions reflect changing consumer tastes.",
-      "share_angle": "Look at how traditional festival foods are adapting to wellness trends.",
-      "keywords": [
-        "mooncakes",
-        "health trend",
-        "festival food"
+        "housing",
+        "good house",
+        "livelihood",
+        "construction"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "运动员展示亚运房间：全是纸板做的",
+      "chinese_topic": "轿车在高铁站停了近7年 车主回应",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Athletes show Asian Games rooms made entirely of cardboard",
+      "official_english": "Car parked at high-speed rail station for nearly 7 years; owner responds",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Athlete village design draws attention for sustainability and practicality.",
-      "share_angle": "Discuss sustainable design in major sports events and athlete village conditions.",
+      "why_hot": "Ranks No. 3 on Baidu hot search; unusual human-interest and transport/livelihood story.",
+      "share_angle": "Explain long-term parking rules, fees, and abandoned vehicle management; verify the owner's account and station response.",
       "keywords": [
-        "Asian Games",
-        "cardboard rooms",
-        "sustainable design"
+        "parked car",
+        "high-speed rail station",
+        "seven years",
+        "owner response"
       ]
     },
     {
-      "rank": 6,
-      "chinese_topic": "陕西秦王级大墓或为秦始皇嫡祖母",
+      "rank": 11,
+      "chinese_topic": "AI女演员访谈突然卡壳 下秒飙粤语",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Shaanxi Qin king-level tomb may be that of Qin Shi Huang's direct grandmother",
+      "official_english": "AI actress interview suddenly stalls, then switches to Cantonese",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Archaeology and Qin history attract wide public curiosity.",
-      "share_angle": "Explain the tomb discovery’s potential historical significance without overstating the identity.",
+      "why_hot": "Ranks No. 11 on Baidu hot search; AI-generated media is a growing tech and culture topic.",
+      "share_angle": "Explain how AI actors are created and why language-switching glitches raise questions about AI performance and credibility.",
       "keywords": [
-        "archaeology",
-        "Qin Shi Huang",
-        "Shaanxi tomb"
+        "AI actress",
+        "AI interview",
+        "Cantonese",
+        "generative AI"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "油价预计9月24日24时上调",
+      "rank": 7,
+      "chinese_topic": "数学老师投300万拍电影 8天票房2万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Fuel prices expected to rise at midnight on September 24",
+      "official_english": "Math teacher invests 3 million yuan in film; 8-day box office reaches 20,000 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Pump prices affect household budgets and transport costs.",
-      "share_angle": "Explain the expected adjustment and typical impact on consumers, avoiding predictions beyond the headline.",
+      "why_hot": "Ranks No. 7 on Baidu hot search; combines education, film, and personal investment.",
+      "share_angle": "Discuss the economics of low-budget film releases and the risks of self-funded cinema; treat box office figures as headline-level until verified.",
       "keywords": [
-        "fuel prices",
-        "oil price adjustment",
-        "cost of living"
+        "math teacher",
+        "film investment",
+        "box office",
+        "independent cinema"
       ]
     },
     {
-      "rank": 22,
-      "chinese_topic": "官方通报长江倾倒淤泥事件",
+      "rank": 12,
+      "chinese_topic": "这几个近视谣言 很多家长还在信",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Official notice issued on Yangtze River silt dumping incident",
+      "official_english": "These myopia rumors are still believed by many parents",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Environmental protection and river governance are high public-interest issues.",
-      "share_angle": "Summarize the official notice and why Yangtze ecological protection matters.",
+      "why_hot": "Ranks No. 12 on Baidu hot search; parental concern over children's eyesight is widespread.",
+      "share_angle": "Review common myopia myths and evidence-based eye care; cite medical experts and avoid personal medical advice.",
       "keywords": [
-        "Yangtze River",
-        "silt dumping",
-        "environmental governance"
+        "myopia",
+        "children's eyesight",
+        "health rumors",
+        "parents"
       ]
     },
     {
-      "rank": 10,
-      "chinese_topic": "超慢跑是一种更加友好的运动方式",
+      "rank": 17,
+      "chinese_topic": "尘肺病人举报公司违法反被罚五万",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Super-slow jogging: a more accessible way to exercise",
+      "official_english": "Pneumoconiosis patient who reported company violations is fined 50,000 yuan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Low-impact fitness trends appeal to beginners and older adults.",
-      "share_angle": "Explain the basics of super-slow jogging and why it is considered beginner-friendly.",
+      "why_hot": "Ranks No. 17 on Baidu hot search; labor rights and occupational health are public-interest issues.",
+      "share_angle": "Explain the reported sequence of events and the legal questions around whistleblowing and fines; verify case details with official sources.",
       "keywords": [
-        "super-slow jogging",
-        "fitness",
-        "low-impact exercise"
+        "pneumoconiosis",
+        "occupational disease",
+        "labor rights",
+        "fine"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "吉林出现野生东北虎“五虎同框”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Five wild Amur tigers spotted together in Jilin",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Ranks No. 19 on Baidu hot search; wildlife sightings attract public and scientific interest.",
+      "share_angle": "Explain Amur tiger conservation, habitat recovery, and safety guidance for local residents; verify location and footage.",
+      "keywords": [
+        "Amur tiger",
+        "Jilin",
+        "wildlife conservation",
+        "biodiversity"
       ]
     }
   ]

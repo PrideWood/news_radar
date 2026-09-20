@@ -1,142 +1,149 @@
 {
   "date": "2026-09-20",
-  "updated_at": "2026-09-20T04:49:36+00:00",
+  "updated_at": "2026-09-20T15:57:59+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
+      "rank": 1,
+      "chinese_topic": "做大做强先进制造业",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Building a stronger advanced manufacturing sector",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A top Baidu trending item, reflecting ongoing policy and public discussion about upgrading China's manufacturing base.",
+      "share_angle": "Explain what 'advanced manufacturing' means in practice and why industrial upgrading is a recurring economic priority.",
+      "keywords": [
+        "advanced manufacturing",
+        "industrial upgrading",
+        "China economy"
+      ]
+    },
+    {
       "rank": 2,
-      "chinese_topic": "中国代表团首金",
+      "chinese_topic": "人民日报评“第一学历歧视”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese delegation wins first gold medal",
+      "official_english": "People's Daily comments on 'first-degree discrimination'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "National pride and major sporting event draw widespread attention.",
-      "share_angle": "Explain which event and athlete secured the first gold, and what it means for the delegation.",
+      "why_hot": "A major state media outlet weighing in on hiring bias tied to applicants' undergraduate institutions, a sensitive education and employment issue.",
+      "share_angle": "Discuss how credential screening affects graduates and what fairer hiring might look like, noting that the details come from a headline.",
       "keywords": [
-        "China",
-        "first gold",
-        "sports"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "中国硬核科技与重大工程捷报频传",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China reports progress in key technologies and major engineering projects",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Highlights national technological and infrastructure achievements.",
-      "share_angle": "Summarize recent breakthroughs and their potential impact on industry and daily life.",
-      "keywords": [
-        "technology",
-        "engineering",
-        "China"
-      ]
-    },
-    {
-      "rank": 19,
-      "chinese_topic": "多家银行上调存款利率",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Several banks raise deposit interest rates",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Directly affects savers and signals shifts in monetary conditions.",
-      "share_angle": "Explain why banks are raising rates and what it means for personal savings and the economy.",
-      "keywords": [
-        "banks",
-        "deposit rates",
-        "economy"
+        "first-degree discrimination",
+        "education",
+        "hiring",
+        "People's Daily"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "彩礼降了",
+      "chinese_topic": "住建局回应5公里路面500个井盖",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Bride price declines",
+      "official_english": "Housing bureau responds to 500 manhole covers on 5-km road",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Touches on marriage customs and social pressures in many regions.",
-      "share_angle": "Discuss changing attitudes toward bride price and regional differences.",
+      "why_hot": "An unusual infrastructure detail drew public attention, prompting a local housing bureau response.",
+      "share_angle": "Look at urban road planning and maintenance standards, and why a high number of manhole covers can raise safety and efficiency questions.",
       "keywords": [
-        "bride price",
-        "marriage",
-        "society"
+        "manhole covers",
+        "urban infrastructure",
+        "housing bureau",
+        "road safety"
       ]
     },
     {
-      "rank": 1,
-      "chinese_topic": "以文化自觉 守护城市根脉",
+      "rank": 4,
+      "chinese_topic": "“安居钱”越来越好用了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Preserving urban heritage through cultural awareness",
+      "official_english": "'Housing money' becomes easier to use",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects growing emphasis on cultural identity and urban history.",
-      "share_angle": "Show examples of cities protecting their heritage and why it matters.",
+      "why_hot": "A livelihood and housing-related phrase trending on Baidu, likely tied to public discussion of housing fund or housing support policies.",
+      "share_angle": "Explain the general concept of housing-related funds and why easier access matters for residents, while avoiding specific policy claims not in the headline.",
       "keywords": [
-        "culture",
-        "heritage",
-        "cities"
+        "housing fund",
+        "livelihood",
+        "housing policy",
+        "China"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "湾区升明月 彩排",
+      "rank": 5,
+      "chinese_topic": "中美经贸磋商在美国纽约开始举行",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Greater Bay Area Rising Moon gala rehearsal",
+      "official_english": "China-U.S. economic and trade consultations begin in New York",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Major cultural event for the Greater Bay Area generates public interest.",
-      "share_angle": "Preview the gala, its performers, and its significance for regional culture.",
+      "why_hot": "High-level China-U.S. trade talks are a major economic and geopolitical story with global market implications.",
+      "share_angle": "Outline what economic and trade consultations typically cover and why New York is the venue, sticking to the headline-level development.",
+      "keywords": [
+        "China-U.S. trade",
+        "economic consultations",
+        "New York",
+        "geopolitics"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "潘展乐谈反超夺金：心里一直憋着口气",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Pan Zhanle on comeback gold: 'I had been holding my breath'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A star Chinese swimmer's dramatic comeback victory and post-race comments are drawing sports fans.",
+      "share_angle": "Focus on the athlete's mindset and competitive comeback, using only the headline quote and avoiding extra match details.",
+      "keywords": [
+        "Pan Zhanle",
+        "swimming",
+        "comeback",
+        "gold medal"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "湾区升明月",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "'Bay Area Rising Moon' cultural event",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A recurring cultural event in the Guangdong-Hong Kong-Macao Greater Bay Area is trending, likely due to its program or performances.",
+      "share_angle": "Introduce the Greater Bay Area cultural gala and its role in regional entertainment and cross-border cultural exchange.",
       "keywords": [
         "Greater Bay Area",
-        "gala",
-        "culture"
+        "cultural event",
+        "Bay Area Rising Moon",
+        "music gala"
       ]
     },
     {
-      "rank": 14,
-      "chinese_topic": "“衣中茅台”卖爆了：毛利率超爱马仕",
+      "rank": 9,
+      "chinese_topic": "西贝来到“生死线”边缘",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese clothing brand dubbed 'Moutai of apparel' sees booming sales with margins surpassing Hermes",
+      "official_english": "Xibei reaches the edge of a 'life-or-death line'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Business success story with high margins attracts consumer and investor interest.",
-      "share_angle": "Analyze the brand's strategy, pricing, and position in the luxury market.",
+      "why_hot": "A well-known Chinese restaurant chain facing business pressure is a closely watched economy and consumer story.",
+      "share_angle": "Discuss the challenges facing large restaurant chains and the broader dining sector, based only on the headline's framing.",
       "keywords": [
-        "fashion",
-        "business",
-        "luxury"
-      ]
-    },
-    {
-      "rank": 20,
-      "chinese_topic": "“只讲课不评职称”教授去世",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Professor who focused on teaching over titles dies",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Resonates with discussions about teaching dedication and academic evaluation.",
-      "share_angle": "Pay tribute to the professor's career and discuss the value of teaching versus titles.",
-      "keywords": [
-        "education",
-        "professor",
-        "teaching"
+        "Xibei",
+        "restaurant industry",
+        "business pressure",
+        "China economy"
       ]
     }
   ]

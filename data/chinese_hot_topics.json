@@ -1,142 +1,142 @@
 {
   "date": "2026-09-22",
-  "updated_at": "2026-09-21T18:12:03+00:00",
+  "updated_at": "2026-09-22T04:47:46+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "习近平复信美国10所高校青年学生",
+      "chinese_topic": "共同擘画中美关系新篇章",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping Replies to Young Students from 10 U.S. Universities",
+      "official_english": "Jointly charting a new chapter in China-US relations",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Top Baidu hot search; involves China-U.S. youth exchanges and a high-level diplomatic signal.",
-      "share_angle": "Explain the significance of Xi's reply to U.S. university students and how youth exchanges fit into China-U.S. relations.",
+      "why_hot": "Top of the Baidu hot list; China-US relations is a high-stakes topic that draws broad public attention in both countries.",
+      "share_angle": "Explain what this diplomatic framing means in practice — tone, agenda, and what to watch next — while noting that the headline itself carries no policy details.",
       "keywords": [
-        "Xi Jinping",
-        "U.S. universities",
-        "youth exchange"
+        "China-US relations",
+        "diplomacy",
+        "geopolitics"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "多地宣布结婚发钱",
+      "chinese_topic": "微信上新2大功能",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Multiple Places Announce Cash Incentives for Marriage",
+      "official_english": "WeChat rolls out two new features",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public debate over marriage incentives and demographic policy draws wide attention.",
-      "share_angle": "Compare local marriage incentive policies and discuss the demographic context without overstating their effects.",
+      "why_hot": "WeChat is used by over a billion people, so any app update instantly affects daily communication habits.",
+      "share_angle": "Walk through what changed for ordinary users, and be explicit that the headline does not specify which two features — confirm details before describing them.",
       "keywords": [
-        "marriage incentives",
-        "demographics",
-        "public policy"
+        "WeChat",
+        "app update",
+        "tech"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "商品消费扩容升级的三重机制",
+      "rank": 3,
+      "chinese_topic": "今年中秋高端月饼礼盒卖不动了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "The Three Mechanisms for Expanding and Upgrading Commodity Consumption",
+      "official_english": "Premium mooncake gift boxes see sluggish sales this Mid-Autumn Festival",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Economic policy and consumer spending remain key public concerns.",
-      "share_angle": "Break down the three mechanisms for an English audience and explain why consumption upgrading matters to China's economy.",
+      "why_hot": "Mooncakes are a seasonal staple, and weak high-end sales are being read as a signal about consumer spending.",
+      "share_angle": "Use it to discuss changing gift-giving norms and cautious consumption, without extrapolating to the whole economy from one category.",
       "keywords": [
-        "consumer spending",
-        "economic policy",
-        "consumption upgrade"
-      ]
-    },
-    {
-      "rank": 8,
-      "chinese_topic": "超7成肺癌病例不吸烟无粉尘暴露",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Over 70% of Lung Cancer Cases Occur in Non-Smokers Without Dust Exposure",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Health topic challenges the common association of lung cancer mainly with smoking or dust exposure.",
-      "share_angle": "Explain what the statistic means and discuss public health awareness, noting the headline's limits and avoiding medical advice.",
-      "keywords": [
-        "lung cancer",
-        "non-smokers",
-        "public health"
+        "Mid-Autumn Festival",
+        "mooncakes",
+        "consumption"
       ]
     },
     {
       "rank": 11,
-      "chinese_topic": "英特尔暴涨13%",
+      "chinese_topic": "Muse登顶 Meta靠agent扳回一局",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Intel Shares Surge 13%",
+      "official_english": "Muse reaches the top as Meta regains ground with AI agents",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sharp stock move in a major semiconductor company attracts market attention.",
-      "share_angle": "Explain the share surge and what investors are watching in the chip sector, noting the headline provides no cause.",
+      "why_hot": "AI model rankings and the agent race are among the fastest-moving tech stories, with strong interest from developers and investors.",
+      "share_angle": "Frame it as part of the agent-competition narrative; flag that the headline alone does not name the ranking or benchmarks involved.",
       "keywords": [
-        "Intel",
-        "semiconductor stocks",
-        "market rally"
+        "Meta",
+        "AI agents",
+        "Muse"
       ]
     },
     {
-      "rank": 15,
-      "chinese_topic": "众擎T800机器人一脚踢翻人类拳手",
+      "rank": 7,
+      "chinese_topic": "金牌再+1！盛李豪王子菲夺金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhongqing T800 Robot Kicks Over Human Boxer",
+      "official_english": "Another gold: Sheng Lihao and Wang Zifei take first place",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Viral robotics demonstration showing a humanoid robot kicking a human boxer.",
-      "share_angle": "Look at the demo as a robotics capability showcase while separating viral spectacle from real-world implications.",
+      "why_hot": "Medal wins by Chinese athletes reliably top the charts and drive patriotic engagement.",
+      "share_angle": "Recap the result and the athletes' background; note that the headline does not state the event or competition, so verify before publishing.",
       "keywords": [
-        "robotics",
-        "Zhongqing T800",
-        "human-robot interaction"
+        "gold medal",
+        "shooting",
+        "sports"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "珠海发放“安居房票”",
+      "rank": 4,
+      "chinese_topic": "共赴技能之约 同筑匠心之基",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Zhuhai Issues 'Affordable Housing Vouchers'",
+      "official_english": "Coming together for skills, building a foundation of craftsmanship",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Local housing support policy with direct livelihood impact.",
-      "share_angle": "Explain what 'affordable housing vouchers' mean in this local policy and how they fit into housing support measures.",
+      "why_hot": "Skills and vocational training campaigns resonate at a time of youth employment concerns and industrial upgrading.",
+      "share_angle": "Explain the skills-development push and why craftsmanship is being promoted, avoiding claims about specific programs not stated in the headline.",
       "keywords": [
-        "Zhuhai",
-        "housing vouchers",
-        "livelihood"
+        "skills",
+        "vocational training",
+        "craftsmanship"
       ]
     },
     {
-      "rank": 17,
-      "chinese_topic": "中国女排将与日本女排争冠",
+      "rank": 9,
+      "chinese_topic": "多家民营银行5年期定期存款重上架",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China Women's Volleyball Team to Face Japan in Final",
+      "official_english": "Several private banks bring back 5-year fixed-term deposits",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "China-Japan final in women's volleyball draws strong sports attention.",
-      "share_angle": "Preview the final and explain the significance of the China-Japan matchup in women's volleyball.",
+      "why_hot": "Deposit rates affect household savings directly, and product changes at private banks draw close attention from savers.",
+      "share_angle": "Discuss what returning long-term deposits may signal about funding needs and rates, without naming specific institutions or yields not in the headline.",
       "keywords": [
-        "women's volleyball",
-        "China vs Japan",
-        "sports final"
+        "private banks",
+        "deposits",
+        "interest rates"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "《复联4》等16部影片定档中秋档",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "16 films, including 'Avengers: Endgame', set for the Mid-Autumn release window",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Holiday box-office lineups are a staple culture story and a barometer for the film market.",
+      "share_angle": "Preview the holiday slate and box-office expectations; confirm the full film list and release dates before listing them.",
+      "keywords": [
+        "box office",
+        "Mid-Autumn",
+        "film releases"
       ]
     }
   ]

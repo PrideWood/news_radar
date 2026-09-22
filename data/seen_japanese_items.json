@@ -605,6 +605,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/15/news067.html",
       "title": "さくら田中社長「フルリモートは廃止しません」 GMOの“在宅勤務廃止”受け明言"
     },
+    "15c36e5682485d3d5eeb": {
+      "first_seen": "2026-09-22",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2139957.html",
+      "title": "ハサミをバージョンアップしてストレス低減 コクヨ・プラス・レイメイ等"
+    },
     "15c3a707661050a22ac5": {
       "first_seen": "2026-07-23",
       "link": "https://gigazine.net/news/20260723-moss-generating-electrical-waves",
@@ -1180,6 +1185,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/29/2000000934",
       "title": "大人向け「スーパーカー自転車」は和テイストだった リトラクタブルライトにRFID認証など装備満載"
     },
+    "271cd1fd7eb7c3b46b92": {
+      "first_seen": "2026-09-22",
+      "link": "https://gigazine.net/news/20260922-coffee-fat-muscle-sex-hormone",
+      "title": "コーヒーをよく飲む人は体脂肪が少なくて筋肉が多く性ホルモン濃度にも違いがあるとの研究結果"
+    },
     "27282700ab6ff35efca4": {
       "first_seen": "2026-06-18",
       "link": "https://www.itmedia.co.jp/news/articles/2606/18/news077.html",
@@ -1575,6 +1585,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
       "title": "「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる"
     },
+    "335b2ffb385ac2183470": {
+      "first_seen": "2026-09-22",
+      "link": "https://www.watch.impress.co.jp/docs/news/2142588.html",
+      "title": "「Grok 4.7」登場、長時間タスクも安定処理 価格はSolの半分以下"
+    },
     "3377dda33db2eddf7cbd": {
       "first_seen": "2026-06-28",
       "link": "https://gigazine.net/news/20260628-elmo",
@@ -1914,6 +1929,11 @@
       "first_seen": "2026-06-22",
       "link": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
       "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可"
+    },
+    "3e2e1d13ca5dd65f6028": {
+      "first_seen": "2026-09-22",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001669",
+      "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ"
     },
     "3e330335cdc761cb80bd": {
       "first_seen": "2026-08-22",
@@ -2589,6 +2609,11 @@
       "first_seen": "2026-07-19",
       "link": "https://gigazine.net/news/20260719-claude-fable-5-plan",
       "title": "Claude Fable 5が一部のサブスクプランで使用可能に"
+    },
+    "5524383366310940a652": {
+      "first_seen": "2026-09-22",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001667",
+      "title": "Google、「Googlebook」の予約受付開始 899ドル（約14万円）から"
     },
     "553a765a8458f6cead2c": {
       "first_seen": "2026-07-15",
@@ -3424,6 +3449,11 @@
       "first_seen": "2026-07-15",
       "link": "https://www.watch.impress.co.jp/docs/news/2125468.html",
       "title": "核融合発電施設の候補地を全国公募 30年代に発電実証へ"
+    },
+    "6fe6ca152e51aed88cf3": {
+      "first_seen": "2026-09-22",
+      "link": "https://gigazine.net/news/20260922-cheaper-ai-coding-cost",
+      "title": "単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果"
     },
     "701d2d61d53bf3814f00": {
       "first_seen": "2026-09-11",
@@ -4609,6 +4639,11 @@
       "first_seen": "2026-07-25",
       "link": "https://www.itmedia.co.jp/news/articles/2607/25/news015.html",
       "title": "“上下2階建てカメラ”の実力は？ 「OsmoPocket 4P」は撮影の幅をぐっと広げたジンバルカメラだった"
+    },
+    "94606c50cd26a8bec785": {
+      "first_seen": "2026-09-22",
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001649",
+      "title": "今度は“ディスプレイなし”のAIグラス、「Rokid Ai Glasses Style」を試す"
     },
     "948fa2a3482267037ee6": {
       "first_seen": "2026-07-09",
@@ -7489,6 +7524,11 @@
       "first_seen": "2026-08-08",
       "link": "https://www.watch.impress.co.jp/docs/news/2131629.html",
       "title": "ユニクロ、京都にグローバル旗艦店 河原町通り"
+    },
+    "ee1ee02e7a67a10ac3ec": {
+      "first_seen": "2026-09-22",
+      "link": "https://gigazine.net/news/20260922-cut-cable-disrupted-flights-across-us",
+      "title": "建設作業員がうっかり光ファイバーケーブルを切断したところ数千便のフライトが欠航・遅延する事態に"
     },
     "ee24b3521e15dccf72cd": {
       "first_seen": "2026-09-09",

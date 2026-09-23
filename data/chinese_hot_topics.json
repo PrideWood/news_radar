@@ -1,108 +1,125 @@
 {
   "date": "2026-09-23",
-  "updated_at": "2026-09-22T16:50:03+00:00",
+  "updated_at": "2026-09-23T04:39:38+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "中国女排夺冠！3-0横扫日本",
+      "rank": 8,
+      "chinese_topic": "教育部：学位跟着人口走",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China women's volleyball team wins title with 3-0 sweep over Japan",
+      "official_english": "Ministry of Education: degree allocations to follow population trends",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major national-team sports win over Japan draws broad attention on Baidu.",
-      "share_angle": "Explain the match context and what the title means for Chinese volleyball; avoid adding unverified competition details.",
+      "why_hot": "Education planning and demographic change are high public-interest topics.",
+      "share_angle": "Explain how population shifts may affect school places, degree quotas, and education planning.",
       "keywords": [
-        "China women's volleyball",
-        "3-0",
-        "Japan"
-      ]
-    },
-    {
-      "rank": 3,
-      "chinese_topic": "中国首批航天员已全部停航停训",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's first batch of astronauts have all stopped spaceflight and training",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "It marks a generational transition in China's human spaceflight program.",
-      "share_angle": "Look at the history of China's first astronaut cohort and what their retirement from flight and training means for the program.",
-      "keywords": [
-        "astronauts",
-        "spaceflight",
-        "China space program"
+        "education",
+        "degree supply",
+        "demographics"
       ]
     },
     {
       "rank": 4,
-      "chinese_topic": "G+6G 生产生活将有哪些变化",
+      "chinese_topic": "中国民企500强彰显韧性活力",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How G+6G may change production and daily life",
+      "official_english": "China's top 500 private enterprises show resilience and vitality",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Next-generation mobile connectivity is a key technology and lifestyle topic.",
-      "share_angle": "Explain in plain English what the headline-level discussion is about; clarify the network generation if official sources allow.",
+      "why_hot": "The annual ranking highlights the role and performance of private companies.",
+      "share_angle": "Break down what the ranking reflects about private-sector confidence and the economy.",
       "keywords": [
-        "G+6G",
-        "mobile networks",
-        "daily life"
+        "private enterprises",
+        "resilience",
+        "China economy"
       ]
     },
     {
-      "rank": 6,
-      "chinese_topic": "多家银行存款利息涨了",
+      "rank": 12,
+      "chinese_topic": "添加等于更安全、更健康吗",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Several banks have raised deposit interest rates",
+      "official_english": "Does 'added' mean safer or healthier?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Deposit rates affect household savings and economic expectations.",
-      "share_angle": "Explain what higher deposit rates can mean for savers and why banks may adjust rates.",
+      "why_hot": "Consumers often debate whether additives or added ingredients improve safety and health.",
+      "share_angle": "Help viewers read health and additive claims critically.",
       "keywords": [
-        "banks",
-        "deposit rates",
-        "savings"
+        "additives",
+        "health claims",
+        "consumer safety"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "“China Haul”火了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "'China Haul' goes viral",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A social-media shopping trend is drawing attention to Chinese consumer goods.",
+      "share_angle": "Explain the trend and what it says about cross-border e-commerce and consumer culture.",
+      "keywords": [
+        "China Haul",
+        "cross-border e-commerce",
+        "consumer trends"
       ]
     },
     {
       "rank": 10,
-      "chinese_topic": "今年秋冬将有超强厄尔尼诺事件",
+      "chinese_topic": "国庆将至 各地节日氛围陆续“上线”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A super El Niño event is expected this autumn and winter",
+      "official_english": "National Day approaches as festive atmosphere rolls out across China",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Climate pattern forecasts affect weather, agriculture, and disaster preparedness.",
-      "share_angle": "Explain El Niño in simple terms and why autumn-winter forecasts matter.",
+      "why_hot": "Holiday travel, celebrations, and consumer activity are timely public topics.",
+      "share_angle": "Preview how cities are preparing for the National Day holiday and what travelers should know.",
       "keywords": [
-        "El Niño",
-        "climate",
-        "autumn winter"
+        "National Day",
+        "holiday travel",
+        "festive events"
       ]
     },
     {
-      "rank": 11,
-      "chinese_topic": "中国发现超大型铜金矿",
+      "rank": 22,
+      "chinese_topic": "A股年内最低价新股开盘大涨580.75%",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China discovers a super-large copper-gold mine",
+      "official_english": "A-share's lowest-priced new stock of the year opens up 580.75%",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Resource discoveries are significant for industry and the economy.",
-      "share_angle": "Explain what a copper-gold mine means for supply and local development; verify location and reserves.",
+      "why_hot": "A sharp first-day IPO rally draws retail-investor attention.",
+      "share_angle": "Explain IPO pricing, first-day volatility, and investment risks.",
       "keywords": [
-        "copper",
-        "gold",
-        "mining"
+        "A-share",
+        "IPO",
+        "stock market"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "核载31吨装了123吨 司机叫冤",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Truck rated for 31 tonnes carried 123 tonnes; driver says he is wronged",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The extreme-overload case raises road-safety and enforcement questions.",
+      "share_angle": "Discuss truck safety, overloading incentives, and enforcement debates.",
+      "keywords": [
+        "road safety",
+        "overloading",
+        "logistics"
       ]
     },
     {
@@ -111,32 +128,15 @@
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Across mountains and seas, the 'Kuliang bond' continues",
+      "official_english": "'Kuliang friendship' story continues across mountains and seas",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A people-to-people friendship story topped Baidu's trending list.",
-      "share_angle": "Tell the cross-cultural friendship story in an accessible way; confirm names and historical background from reliable sources.",
+      "why_hot": "A cross-cultural friendship story resonates as a positive public topic.",
+      "share_angle": "Explore the local history and people-to-people exchange behind the Kuliang story.",
       "keywords": [
         "Kuliang",
-        "people-to-people exchange",
+        "cross-cultural exchange",
         "friendship"
-      ]
-    },
-    {
-      "rank": 5,
-      "chinese_topic": "老人心梗去世前5次打120未接通",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Elderly man died of heart attack after five unanswered calls to 120",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The case raises public concern about emergency medical response.",
-      "share_angle": "Discuss emergency response systems and what can be improved; handle sensitively and verify official accounts.",
-      "keywords": [
-        "120",
-        "emergency response",
-        "heart attack"
       ]
     }
   ]

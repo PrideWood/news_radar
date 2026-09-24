@@ -1,142 +1,142 @@
 {
   "date": "2026-09-24",
-  "updated_at": "2026-09-23T16:47:35+00:00",
+  "updated_at": "2026-09-24T04:40:24+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 2,
-      "chinese_topic": "习近平离京对美国进行国事访问",
+      "rank": 1,
+      "chinese_topic": "习近平抵达美国首都华盛顿",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xi Jinping leaves Beijing for a state visit to the United States",
+      "official_english": "Xi Jinping arrives in Washington, D.C.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major diplomatic event with global interest in US-China relations.",
-      "share_angle": "Summarize only confirmed itinerary and official statements; avoid speculation on outcomes.",
+      "why_hot": "High-level diplomatic visit draws widespread attention as it could shape China-US relations.",
+      "share_angle": "Explain the significance of a Chinese leader visiting the US capital and what it means for bilateral ties.",
       "keywords": [
         "Xi Jinping",
-        "state visit",
-        "US-China relations"
+        "Washington",
+        "China-US relations"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "习近平：中美应该成为伙伴而不是对手",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xi Jinping: China and the US should be partners, not rivals.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Direct quote from Xi on China-US relations sparks discussion on the future of bilateral ties.",
+      "share_angle": "Break down the quote and its implications for trade, security, and global cooperation.",
+      "keywords": [
+        "Xi Jinping",
+        "China-US",
+        "partnership"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "打一针管数月的降压疫苗要来了",
+      "chinese_topic": "“济公”游本昌去世",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Reported one-shot hypertension vaccine may last for months",
+      "official_english": "Actor You Benchang, known for 'Ji Gong', dies at 93.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Health innovation relevant to many hypertension patients; details need verification.",
-      "share_angle": "Explain what a vaccine-like treatment could mean and distinguish it from existing therapies.",
+      "why_hot": "Beloved actor who portrayed the iconic character Ji Gong passed away, prompting national remembrance.",
+      "share_angle": "Celebrate his legacy, from 'Ji Gong' to his final role in 'Blossoms Shanghai'.",
       "keywords": [
-        "hypertension vaccine",
-        "blood pressure",
-        "health technology"
+        "You Benchang",
+        "Ji Gong",
+        "obituary"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "中国接受过高等教育人口达2.7亿",
+      "rank": 8,
+      "chinese_topic": "升糖最快的主食不是米饭而是这6种",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's population with higher education reaches 270 million",
+      "official_english": "The six staple foods that raise blood sugar faster than rice.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Education expansion and labor-force quality are key economic and social indicators.",
-      "share_angle": "Use official statistics to explain what counts as higher education and what the number implies.",
+      "why_hot": "Health-conscious netizens seek practical dietary advice on blood sugar management.",
+      "share_angle": "Explain glycemic index and which common staples to watch out for.",
       "keywords": [
-        "higher education",
-        "population",
-        "China statistics"
+        "blood sugar",
+        "diet",
+        "health"
       ]
     },
     {
       "rank": 10,
-      "chinese_topic": "“十五五”时期将推动制定养老服务法",
+      "chinese_topic": "双节假期“菜篮子”有保障",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China to promote formulation of an elderly care service law during the 15th Five-Year Plan period",
+      "official_english": "Food supply guaranteed for upcoming double holiday.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Aging population and care services are major livelihood concerns.",
-      "share_angle": "Outline the policy goal and note that the law is still to be drafted.",
+      "why_hot": "As holidays approach, public concerns about food availability and prices rise.",
+      "share_angle": "Discuss how China ensures stable food supply during peak holiday seasons.",
       "keywords": [
-        "elderly care",
-        "15th Five-Year Plan",
-        "service law"
+        "food supply",
+        "holiday",
+        "livelihood"
       ]
     },
     {
-      "rank": 23,
-      "chinese_topic": "教育部：绩效分配向一线教师倾斜",
+      "rank": 17,
+      "chinese_topic": "林诗栋：日本队的厚度当今最强",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Education Ministry: performance pay distribution to favor frontline teachers",
+      "official_english": "Lin Shidong: Japan's team depth is currently the strongest.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Teacher pay and incentives are closely watched in education reform.",
-      "share_angle": "Explain the policy direction and what implementation details remain unclear.",
+      "why_hot": "Chinese table tennis star's comment on Japan's team strength sparks sports debate.",
+      "share_angle": "Analyze the competitive landscape of international table tennis.",
       "keywords": [
-        "education policy",
-        "teacher pay",
-        "performance pay"
+        "Lin Shidong",
+        "table tennis",
+        "Japan"
       ]
     },
     {
-      "rank": 6,
-      "chinese_topic": "中国女排夺冠 香港记者激动落泪",
+      "rank": 20,
+      "chinese_topic": "中国队两小时连夺9金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chinese women's volleyball team wins championship; Hong Kong journalist moved to tears",
+      "official_english": "China wins 9 gold medals in 2 hours.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A sports victory with an emotional moment that resonated online.",
-      "share_angle": "Recap the confirmed result and reactions; avoid unverified background claims.",
+      "why_hot": "Impressive medal haul in a short period excites sports fans nationwide.",
+      "share_angle": "Highlight the achievements and the events where China dominated.",
       "keywords": [
-        "Chinese women's volleyball",
-        "championship",
-        "Hong Kong journalist"
+        "China",
+        "gold medals",
+        "sports"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "余额宝将无法直接付款了吗",
+      "rank": 21,
+      "chinese_topic": "打一针管数月的降压疫苗要来了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Will Yu'ebao no longer support direct payments?",
+      "official_english": "Hypertension vaccine that lasts months per shot is coming.",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Widely used mobile payment and money-market fund feature; consumers want clarity.",
-      "share_angle": "Explain what is confirmed about payment rules and flag unanswered questions.",
+      "why_hot": "Potential new treatment for hypertension offers convenience and sparks medical interest.",
+      "share_angle": "Explain how a long-lasting vaccine could change hypertension management.",
       "keywords": [
-        "Yu'ebao",
-        "direct payments",
-        "consumer finance"
-      ]
-    },
-    {
-      "rank": 19,
-      "chinese_topic": "安徽发现2.4亿年前“巨鲎”足迹",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Anhui discovers 240-million-year-old 'giant horseshoe crab' footprints",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A paleontology discovery that connects science with local heritage.",
-      "share_angle": "Explain what trace fossils show and cite the research source if available.",
-      "keywords": [
-        "Anhui",
-        "horseshoe crab",
-        "paleontology"
+        "hypertension",
+        "vaccine",
+        "medical innovation"
       ]
     }
   ]

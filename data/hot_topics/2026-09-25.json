@@ -1,57 +1,125 @@
 {
   "date": "2026-09-25",
-  "updated_at": "2026-09-24T17:03:39+00:00",
+  "updated_at": "2026-09-25T04:50:04+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 4,
-      "chinese_topic": "世界技能大赛究竟比什么",
+      "rank": 1,
+      "chinese_topic": "习近平同美国总统特朗普会谈",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "What does the WorldSkills Competition actually test?",
+      "official_english": "Xi Jinping Holds Talks with U.S. President Trump",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public curiosity about the events and skills featured in the international vocational competition.",
-      "share_angle": "Break down the competition categories and why vocational skills are gaining attention in China.",
+      "why_hot": "A top-level meeting between the Chinese and U.S. presidents is the single biggest political and economic story of the day, drawing intense public interest in what it means for trade, diplomacy and the wider bilateral relationship.",
+      "share_angle": "Explain why head-of-state talks matter for ordinary people: trade, tariffs, technology and global stability, and how Chinese and U.S. media are framing the meeting differently.",
       "keywords": [
-        "WorldSkills",
-        "vocational education",
-        "skills competition"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "大熊猫“平平”“福双”将赴美",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Giant pandas Pingping and Fushuang to travel to the United States",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Panda exchanges are popular and often symbolize international friendship.",
-      "share_angle": "Explain the role of panda diplomacy and what the departure means for bilateral ties.",
-      "keywords": [
-        "giant pandas",
-        "Pingping",
-        "Fushuang"
+        "China-U.S. relations",
+        "summit diplomacy",
+        "head-of-state talks"
       ]
     },
     {
       "rank": 9,
-      "chinese_topic": "绿皮火车女性专属包房来了",
+      "chinese_topic": "马斯克黄仁勋等出席白宫欢迎宴会",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Women-only compartments introduced on green trains",
+      "official_english": "Musk, Huang and Other Tech Figures Attend White House State Dinner",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "New travel option raises discussions about safety and gender-specific services.",
-      "share_angle": "Discuss the rationale behind women-only compartments and reactions from travelers.",
+      "why_hot": "The presence of major tech and business figures at a White House state event ties the diplomatic story to the tech economy, which Chinese audiences follow closely.",
+      "share_angle": "Look at why tech leaders appear at diplomatic events and what business and technology issues sit behind the symbolism.",
       "keywords": [
-        "green trains",
-        "women-only",
-        "rail travel"
+        "tech leaders",
+        "state dinner",
+        "U.S.-China business"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "平均月薪16149元 这类人才紧缺",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Average Monthly Salary of 16,149 Yuan: These Skilled Workers Are in Short Supply",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A reported high average salary paired with a talent shortage speaks directly to jobs, career choices and wage trends, which are evergreen concerns for young Chinese workers.",
+      "share_angle": "Break down which skills are reportedly in demand, why shortages push pay up, and what it means for students choosing majors or careers.",
+      "keywords": [
+        "talent shortage",
+        "salary trends",
+        "employment"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "“中国天眼”发现脉冲星超1300颗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's FAST Telescope Has Discovered More Than 1,300 Pulsars",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A milestone count from China's flagship radio telescope is a clean, science-positive story that resonates with national pride and curiosity about astronomy.",
+      "share_angle": "Explain what pulsars are, why FAST's catalogue matters to global astronomy, and how China's big-science facilities contribute to research.",
+      "keywords": [
+        "FAST telescope",
+        "pulsars",
+        "astronomy"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "孙颖莎王楚钦零封张本美和松岛辉空",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Sun Yingsha and Wang Chuqin Beat Miwa Harimoto and Sora Matsushima Without Dropping a Game",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Table tennis is a sport where Chinese fans expect dominance, and a clean-sweep win over Japanese opponents quickly becomes a talking point.",
+      "share_angle": "Cover the match result and what it says about China's mixed-doubles strength and the rising Japanese pairing ahead of major tournaments.",
+      "keywords": [
+        "table tennis",
+        "mixed doubles",
+        "China vs Japan"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "世界技能大赛 为了更好的未来",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "WorldSkills Competition: For a Better Future",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A global vocational-skills competition connects to debates about vocational education, youth employment and the value of hands-on training.",
+      "share_angle": "Explain what the WorldSkills competition is, which skills are contested, and how vocational training is viewed in China today.",
+      "keywords": [
+        "WorldSkills",
+        "vocational education",
+        "skills training"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "跟着古诗追月亮",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chasing the Moon Through Classical Chinese Poetry",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Mid-Autumn season makes moon-themed classical poetry a warm, shareable cultural topic that fits the festival mood.",
+      "share_angle": "Pick a few famous moon poems, explain the imagery in plain English, and connect them to Mid-Autumn customs and family reunion themes.",
+      "keywords": [
+        "Mid-Autumn Festival",
+        "classical poetry",
+        "moon imagery"
       ]
     },
     {
@@ -60,83 +128,15 @@
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Unexpected gift cards from strangers? Beware of scams",
+      "official_english": "A Gift Card From an Unexpected Parcel? Watch Out for These Misconceptions",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumer safety alert about a common scam involving unsolicited packages.",
-      "share_angle": "Explain how the gift card scam works and how to avoid it.",
+      "why_hot": "Unexpected parcels containing gift cards are a widely discussed scam pattern, so the topic spreads fast as a practical consumer warning.",
+      "share_angle": "Explain the typical scam pattern, why the gift card is the bait, and simple rules for handling unsolicited deliveries and codes.",
       "keywords": [
-        "gift card scam",
-        "consumer alert",
-        "fraud prevention"
-      ]
-    },
-    {
-      "rank": 15,
-      "chinese_topic": "黑芝麻糊检出霉菌超标27倍 维维回应",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Black sesame paste found with mold 27 times over limit; Weiwei responds",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Food safety concerns after a major brand's product failed quality tests.",
-      "share_angle": "Cover the response and what consumers should know about food safety standards.",
-      "keywords": [
-        "food safety",
-        "Weiwei",
-        "black sesame paste"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "北大清华“一饼难求”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Peking and Tsinghua mooncakes in short supply",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "University-branded mooncakes become sought-after Mid-Autumn Festival items.",
-      "share_angle": "Explore the phenomenon of university-themed mooncakes and campus culture.",
-      "keywords": [
-        "mooncakes",
-        "Peking University",
-        "Tsinghua University"
-      ]
-    },
-    {
-      "rank": 21,
-      "chinese_topic": "多地商场把“C位”留给国之栋梁",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Malls across China give prime spots to national heroes",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Trend of honoring scientists and national figures in commercial spaces.",
-      "share_angle": "Discuss how public spaces are celebrating role models beyond entertainment stars.",
-      "keywords": [
-        "national heroes",
-        "malls",
-        "role models"
-      ]
-    },
-    {
-      "rank": 24,
-      "chinese_topic": "国乒女团亚运6连冠 3-0横扫日本",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China women's table tennis team wins 6th consecutive Asian Games title, sweeps Japan 3-0",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Major sports victory and continued dominance in table tennis.",
-      "share_angle": "Recap the match and what it means for China's table tennis legacy.",
-      "keywords": [
-        "table tennis",
-        "Asian Games",
-        "China women's team"
+        "delivery scam",
+        "gift card fraud",
+        "consumer safety"
       ]
     }
   ]

@@ -1,108 +1,82 @@
 {
   "date": "2026-09-26",
-  "updated_at": "2026-09-25T17:04:26+00:00",
+  "updated_at": "2026-09-26T04:50:30+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "中美建设性战略稳定关系",
+      "chinese_topic": "习近平圆满结束对美国的国事访问",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "\"Constructive strategic stability\" highlighted in China-U.S. relations",
+      "official_english": "Xi Jinping concludes state visit to the United States",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A top-trending phrase describing the framing of China-U.S. ties, drawing heavy search interest from users following major-power diplomacy and its economic implications.",
-      "share_angle": "Explain what the term \"strategic stability\" usually means in diplomacy, why the wording of a bilateral relationship matters, and what economic signals audiences should watch — without speculating on details not in the headline.",
+      "why_hot": "A major diplomatic event involving the world's two largest economies, drawing top public attention on Chinese platforms.",
+      "share_angle": "Explain the significance of the state visit and what it means for China-US relations in a neutral, factual way.",
       "keywords": [
-        "China-U.S. relations",
-        "strategic stability",
+        "Xi Jinping",
+        "state visit",
+        "United States",
+        "China-US relations",
         "diplomacy"
       ]
     },
     {
-      "rank": 18,
-      "chinese_topic": "四条高铁将开通",
+      "rank": 5,
+      "chinese_topic": "中国队 第100金",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Four high-speed rail lines set to open",
+      "official_english": "Chinese delegation reaches 100th gold medal",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Transport and travel topics spread quickly on Baidu, and new rail openings directly affect holiday travel, regional economies and property expectations.",
-      "share_angle": "Use it as a hook to explain how high-speed rail expansion changes travel times, regional economies and holiday travel planning in China.",
+      "why_hot": "A national sports milestone that generates broad patriotic interest and celebration online.",
+      "share_angle": "Provide context on China's medal milestones in international competition and what the achievement represents.",
       "keywords": [
-        "high-speed rail",
-        "transport",
-        "travel"
+        "Chinese delegation",
+        "100th gold",
+        "sports",
+        "milestone",
+        "competition"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "平陆运河首条外贸航线首艘货船抵越",
+      "rank": 8,
+      "chinese_topic": "比尔·盖茨警告AI或致十亿人死亡",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First foreign-trade cargo ship on Pinglu Canal route reaches Vietnam",
+      "official_english": "Bill Gates warns AI could cause a billion deaths",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A landmark infrastructure and trade milestone that links canal construction to shipping routes and cross-border commerce, a topic with broad economic interest.",
-      "share_angle": "Explain the Pinglu Canal project's stated purpose and why a first foreign-trade voyage is treated as a milestone, noting that details beyond the headline are still emerging.",
+      "why_hot": "AI safety and risk warnings from a prominent technology figure spark wide debate about the future of artificial intelligence.",
+      "share_angle": "Discuss the AI risk debate and how to interpret dramatic warnings attributed to tech leaders.",
       "keywords": [
-        "Pinglu Canal",
-        "trade route",
-        "infrastructure"
-      ]
-    },
-    {
-      "rank": 9,
-      "chinese_topic": "男乒新老交替阵痛期",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China men's table tennis faces a generational transition",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Table tennis is a high-attention sport in China, and discussion of a generational handover touches on fan debate about selection, form and future competition.",
-      "share_angle": "Explain how national teams manage veteran-to-rookie transitions in general terms, and why fans debate it — keeping it about structure and development rather than individual criticism.",
-      "keywords": [
-        "table tennis",
-        "generational change",
-        "sports development"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "岁陈妤颉 百米飞人大战金牌",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Chen Yujie wins gold in the 100m sprint showdown",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Sprint results at major meets reliably trend in China, especially when a young Chinese athlete takes a headline gold.",
-      "share_angle": "Use it to explain why Chinese audiences follow sprint breakthroughs and how the 100m remains the marquee athletics event. Avoid adding biographical or meet details not given in the topic.",
-      "keywords": [
-        "athletics",
-        "100m sprint",
-        "gold medal"
+        "Bill Gates",
+        "AI safety",
+        "artificial intelligence",
+        "technology risk",
+        "warning"
       ]
     },
     {
       "rank": 10,
-      "chinese_topic": "低糖月饼、文创月饼走俏",
+      "chinese_topic": "中美开启新一轮大熊猫保护国际合作",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Low-sugar and cultural-theme mooncakes gain popularity",
+      "official_english": "China and US launch new round of giant panda conservation cooperation",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Holiday consumer trends are seasonal hot topics, and these two categories reflect health awareness and design-driven spending.",
-      "share_angle": "Explain the Mid-Autumn Festival mooncake market as a lens on Chinese consumer trends: health-conscious choices, gift packaging and cultural merchandising.",
+      "why_hot": "Panda diplomacy remains a popular and positive symbol of China-US cooperation, combining culture, environment, and foreign relations.",
+      "share_angle": "Explain the history of panda diplomacy and what the new conservation cooperation involves.",
       "keywords": [
-        "Mid-Autumn Festival",
-        "mooncakes",
-        "consumer trends"
+        "giant panda",
+        "conservation",
+        "China-US cooperation",
+        "panda diplomacy",
+        "wildlife"
       ]
     },
     {
@@ -111,32 +85,74 @@
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that eating mooncakes with crab causes poisoning is false",
+      "official_english": "Claim that eating mooncakes and crabs together causes poisoning is false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Food-safety rumors spike during the Mid-Autumn holiday, and readers look for clear, quick debunking.",
-      "share_angle": "Use it as a fact-check explainer on how holiday food myths spread and what readers should rely on instead — noting that this topic only tells us the claim was ruled false.",
+      "why_hot": "Food safety myths spread quickly during traditional holiday seasons, and fact-checking topics attract public attention.",
+      "share_angle": "Debunk common food combination myths and explain the science of food safety in a clear, responsible manner.",
       "keywords": [
+        "mooncakes",
+        "crabs",
         "food safety",
-        "rumor",
-        "Mid-Autumn Festival"
+        "fact-check",
+        "misinformation"
       ]
     },
     {
-      "rank": 20,
-      "chinese_topic": "岁太姥爷辅导作业被气得文思泉涌",
+      "rank": 18,
+      "chinese_topic": "成都一栋楼开成三角梅瀑布",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Great-grandfather's homework tutoring session becomes an unexpected creative outlet",
+      "official_english": "Chengdu building covered in bougainvillea \"waterfall\"",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A light family-and-education story that resonates with parents and grandparents involved in homework help, a recurring pain point for Chinese families.",
-      "share_angle": "Discuss the everyday reality of family homework help and intergenerational caregiving in China, and why humorous family stories circulate so widely during holidays.",
+      "why_hot": "A visually striking local story that combines travel, urban beauty, and social media appeal.",
+      "share_angle": "Highlight Chengdu's urban scenery and the growing popularity of flower-viewing spots for travelers.",
       "keywords": [
+        "Chengdu",
+        "bougainvillea",
+        "travel",
+        "urban scenery",
+        "flowers"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "救命钱被转 银行1条提醒短信都没发",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Life-saving money transferred; bank sent no reminder text message",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Consumer financial protection and bank alert systems are practical livelihood issues that resonate with many users.",
+      "share_angle": "Discuss bank fraud alerts, consumer rights, and how customers can protect their funds.",
+      "keywords": [
+        "bank transfer",
+        "SMS alert",
+        "consumer protection",
+        "financial security",
+        "livelihood"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "陈妤颉赛后收到《五年高考三年模拟》",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chen Yujie receives \"Five-Year Gaokao, Three-Year Simulation\" after race",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A lighthearted story blending sports, education, and China's gaokao culture, making it highly shareable.",
+      "share_angle": "Explore the life of student-athletes and the cultural significance of gaokao preparation materials.",
+      "keywords": [
+        "Chen Yujie",
+        "student athlete",
+        "gaokao",
         "education",
-        "homework",
-        "family"
+        "sports"
       ]
     }
   ]

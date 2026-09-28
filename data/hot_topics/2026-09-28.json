@@ -1,108 +1,57 @@
 {
   "date": "2026-09-28",
-  "updated_at": "2026-09-27T16:54:12+00:00",
+  "updated_at": "2026-09-28T05:16:31+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
+      "rank": 1,
+      "chinese_topic": "习近平主席对美国进行国事访问纪实",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "President Xi Jinping's State Visit to the United States: A Documentary Recap",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A major diplomatic event between China and the United States; official recaps draw wide public attention.",
+      "share_angle": "Explain the significance of the state visit and what a state visit involves, without speculation.",
+      "keywords": [
+        "Xi Jinping",
+        "state visit",
+        "U.S.-China relations"
+      ]
+    },
+    {
       "rank": 2,
-      "chinese_topic": "王曼昱亚运女单冠军",
+      "chinese_topic": "亚运乒乓球女双中日争冠",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wang Manyu wins Asian Games women's singles title",
+      "official_english": "Asian Games Table Tennis Women's Doubles Final: China vs Japan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Asian Games results attract broad national and international attention, especially in table tennis, where Chinese athletes are closely followed.",
-      "share_angle": "Explain the Asian Games table tennis event and Wang Manyu's headline result without adding unverified match details.",
+      "why_hot": "A China-Japan final at a major regional sporting event; national rivalry drives high engagement.",
+      "share_angle": "Preview the China-Japan matchup and explain what it means for table tennis rivalry.",
       "keywords": [
-        "Wang Manyu",
         "Asian Games",
-        "table tennis"
-      ]
-    },
-    {
-      "rank": 8,
-      "chinese_topic": "中国连续5届世赛金牌第一",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China tops gold medal table for fifth consecutive WorldSkills Competition",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The topic highlights sustained national performance in vocational skills and international skills competitions.",
-      "share_angle": "Discuss what the WorldSkills Competition is and why vocational education and skilled labor matter.",
-      "keywords": [
-        "WorldSkills",
-        "vocational skills",
-        "gold medals"
-      ]
-    },
-    {
-      "rank": 21,
-      "chinese_topic": "豆包手机助手致歉",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Doubao mobile assistant issues apology",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "AI assistant products are widely used, and public apologies involving tech services quickly draw user attention.",
-      "share_angle": "Explain the growing role of AI assistants and why product reliability and user trust matter.",
-      "keywords": [
-        "Doubao",
-        "AI assistant",
-        "technology"
-      ]
-    },
-    {
-      "rank": 11,
-      "chinese_topic": "没有海却出海鲜 中国人怎么做到的",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "How does China produce seafood without a sea?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "The topic combines food, science, and supply-chain curiosity, making it accessible to a wide audience.",
-      "share_angle": "Explain inland aquaculture and how seafood can be produced far from the coast.",
-      "keywords": [
-        "seafood",
-        "aquaculture",
-        "food supply"
+        "table tennis",
+        "China vs Japan"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "贷款中介这几天集体删除朋友圈",
+      "chinese_topic": "欧洲人发现：中国车真香",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Loan intermediaries delete WeChat Moments posts en masse",
+      "official_english": "Europeans Find Chinese Cars Impressive",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Consumer finance and lending practices are high-interest livelihood issues, especially when intermediaries change behavior suddenly.",
-      "share_angle": "Explain what loan intermediaries do and why their promotional posts are drawing public scrutiny.",
+      "why_hot": "European consumer interest in Chinese cars, especially EVs, is a key economic and trade storyline.",
+      "share_angle": "Look at why Chinese cars are gaining traction in Europe, from price to EV technology.",
       "keywords": [
-        "loan intermediaries",
-        "consumer finance",
-        "WeChat Moments"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "下半年来最强冷空气",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Strongest cold air mass of the year's second half",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Weather changes affect daily life, travel, health, and agriculture, making cold waves a recurring public concern.",
-      "share_angle": "Explain seasonal cooling, cold-wave preparedness, and how people can adjust travel and daily routines.",
-      "keywords": [
-        "cold wave",
-        "weather",
-        "livelihood"
+        "Chinese cars",
+        "Europe",
+        "EV market"
       ]
     },
     {
@@ -111,11 +60,11 @@
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Americans eagerly await return of giant pandas to Atlanta",
+      "official_english": "Americans Eagerly Await Giant Pandas' Return to Atlanta",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Giant pandas are a cultural and diplomatic symbol, and panda exchanges attract international interest.",
-      "share_angle": "Discuss panda diplomacy and the cultural significance of panda exchanges between China and the United States.",
+      "why_hot": "Giant pandas are a popular symbol of China-U.S. exchange; their return is widely anticipated.",
+      "share_angle": "Discuss panda diplomacy and the role of zoos in cultural exchange.",
       "keywords": [
         "giant pandas",
         "Atlanta",
@@ -123,20 +72,71 @@
       ]
     },
     {
-      "rank": 15,
-      "chinese_topic": "没卖完的月饼去哪儿了",
+      "rank": 8,
+      "chinese_topic": "女子每月花3000元跨省2小时上班：划算",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Where do unsold mooncakes go?",
+      "official_english": "Woman Spends 3,000 Yuan a Month to Commute Two Hours Across Provinces for Work, Says It's Worth It",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "The topic connects a major festival tradition with public interest in food waste and retail practices.",
-      "share_angle": "Explain mooncake seasonality, surplus food handling, and consumer awareness around food waste.",
+      "why_hot": "A relatable lifestyle and cost-of-living topic about long-distance commuting.",
+      "share_angle": "Frame as a lifestyle and economics story about commuting costs and work-life choices.",
       "keywords": [
-        "mooncakes",
-        "food waste",
-        "festival"
+        "commuting",
+        "cost of living",
+        "work-life balance"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "教育部原副部长鲁昕被查",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Former Vice Minister of Education Lu Xin Under Investigation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Anti-corruption and education governance are public-interest topics; an official investigation draws attention.",
+      "share_angle": "Explain China's anti-corruption system and education policy oversight.",
+      "keywords": [
+        "Lu Xin",
+        "anti-corruption",
+        "education ministry"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "武契奇宣布辞职",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Vučić Announces Resignation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Leadership change in a European country with close China ties; international news interest.",
+      "share_angle": "Provide context on Serbia's political landscape and China-Serbia relations.",
+      "keywords": [
+        "Vučić",
+        "Serbia",
+        "resignation"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "多方回应五常大米造假乱象",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple Parties Respond to Wuchang Rice Counterfeiting Chaos",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Food authenticity and agricultural branding are consumer-protection concerns.",
+      "share_angle": "Explain why regional brands like Wuchang rice are vulnerable to counterfeiting and what consumers can do.",
+      "keywords": [
+        "Wuchang rice",
+        "counterfeiting",
+        "food safety"
       ]
     }
   ]

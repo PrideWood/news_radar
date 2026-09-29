@@ -1,142 +1,142 @@
 {
   "date": "2026-09-29",
-  "updated_at": "2026-09-28T19:36:57+00:00",
+  "updated_at": "2026-09-29T05:38:08+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 14,
-      "chinese_topic": "SpaceX“星舰”首次成功进入地球轨道",
+      "rank": 1,
+      "chinese_topic": "习近平给四川大学全体师生回信",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "SpaceX's Starship successfully enters Earth orbit for the first time",
+      "official_english": "Xi Jinping replies to letter from faculty and students of Sichuan University",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major global spaceflight milestone that draws broad interest in science and technology.",
-      "share_angle": "Explain the significance of reaching orbit in simple terms and what it could mean for future space missions, while noting that details remain limited to the headline.",
+      "why_hot": "Top-ranked official education and political story; a reply to a major university draws national attention.",
+      "share_angle": "Explain what the reply signals for higher education and youth expectations, staying close to the headline and avoiding speculation.",
       "keywords": [
-        "SpaceX",
-        "Starship",
-        "spaceflight"
+        "Xi Jinping",
+        "Sichuan University",
+        "education"
       ]
     },
     {
       "rank": 3,
-      "chinese_topic": "骗子骗了8省11地超1亿元补贴",
+      "chinese_topic": "中国制图将还原火星前世今生",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Scammers defrauded over 100 million yuan in subsidies across 8 provinces and 11 places",
+      "official_english": "Chinese mapping project to reconstruct the past and present of Mars",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public concern about fraud, public funds, and subsidy oversight.",
-      "share_angle": "Break down why subsidy fraud matters for public budgets and how oversight gaps can be addressed, based only on the reported scope.",
+      "why_hot": "Mars science and China's planetary mapping plans are compelling public-interest science topics.",
+      "share_angle": "Break down what mapping Mars' past and present could mean, without overclaiming results beyond the headline.",
       "keywords": [
-        "fraud",
-        "subsidies",
-        "public funds"
+        "Mars",
+        "planetary science",
+        "China space"
       ]
     },
     {
-      "rank": 5,
-      "chinese_topic": "购房者加价抢购上海“老破小”",
+      "rank": 13,
+      "chinese_topic": "老年人越来越多 养老床位却连降3年",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Homebuyers bid up Shanghai's 'old and small' apartments",
+      "official_english": "As China's elderly population grows, nursing care beds fall for a third straight year",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Housing remains a core economic and livelihood issue, especially in major cities.",
-      "share_angle": "Discuss what the trend says about urban housing demand and affordability, without speculating beyond the headline.",
+      "why_hot": "Aging demographics and elder-care capacity are major livelihood issues.",
+      "share_angle": "Explain the gap between rising demand and falling bed numbers, and discuss policy and market factors cautiously.",
       "keywords": [
-        "Shanghai",
-        "housing",
-        "real estate"
+        "aging",
+        "elder care",
+        "nursing beds"
       ]
     },
     {
-      "rank": 10,
-      "chinese_topic": "万亿元城市“开抢”年轻人",
+      "rank": 11,
+      "chinese_topic": "“火车票候补妙招”是假的",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Trillion-yuan cities 'scramble' for young people",
+      "official_english": "Online 'train ticket waitlist hacks' are false",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Demographic shifts and talent competition are closely tied to local economies.",
-      "share_angle": "Explain how cities compete for young workers and what policies might be involved, while staying within the topic wording.",
+      "why_hot": "Holiday travelers look for ticket tips, and viral waitlist hacks raise misinformation concerns.",
+      "share_angle": "Warn audiences against unofficial ticket-buying tricks and point them to official channels.",
       "keywords": [
-        "young people",
-        "cities",
-        "talent"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "林诗栋4比0王楚钦男单夺冠",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Lin Shidong beats Wang Chuqin 4-0 to win men's singles title",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A high-profile table tennis result involving two well-known Chinese players.",
-      "share_angle": "Summarize the match outcome and its significance in the tournament, without adding unverified details.",
-      "keywords": [
-        "table tennis",
-        "Lin Shidong",
-        "Wang Chuqin"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "美民众热切期待见到“平平”“福双”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "US public eagerly await seeing 'Pingping' and 'Fushuang'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Panda-related news often attracts international cultural interest.",
-      "share_angle": "Introduce the panda pair and the public enthusiasm as a cultural exchange story, based on the headline.",
-      "keywords": [
-        "pandas",
-        "Pingping",
-        "Fushuang"
-      ]
-    },
-    {
-      "rank": 12,
-      "chinese_topic": "“给12306发信息能抢到票”不实",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Claim that texting 12306 can secure train tickets is false",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Holiday travel and ticket-buying tips are highly practical for the public.",
-      "share_angle": "Clarify the misinformation and remind viewers to use official channels, without repeating unverified methods.",
-      "keywords": [
-        "12306",
         "train tickets",
+        "waitlist",
         "misinformation"
       ]
     },
     {
-      "rank": 16,
-      "chinese_topic": "中国队女子4×100米接力夺金",
+      "rank": 15,
+      "chinese_topic": "男子被狗咬伤为省钱没打疫苗离世",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China wins women's 4x100m relay gold",
+      "official_english": "Man dies after skipping rabies vaccine to save money following dog bite",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A major athletics achievement that resonates with national sports audiences.",
-      "share_angle": "Report the relay gold and its team significance, staying close to the headline.",
+      "why_hot": "A public health tragedy highlighting rabies risks and vaccine access or cost issues.",
+      "share_angle": "Use as a public-health caution about timely medical care, avoiding blame or graphic detail.",
       "keywords": [
-        "China",
-        "women's relay",
-        "athletics"
+        "rabies",
+        "dog bite",
+        "public health"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "女子每天5点起床从杭州到上海上班",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Woman wakes at 5 a.m. daily to commute from Hangzhou to Shanghai for work",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Extreme commuting reflects housing, work and transport pressures in major city clusters.",
+      "share_angle": "Discuss cross-city commuting and work-life balance without reducing it to a purely personal choice.",
+      "keywords": [
+        "commuting",
+        "Hangzhou",
+        "Shanghai"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "华为Mate90系列国庆当天开售",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Huawei Mate 90 series to go on sale on National Day",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Huawei product launches attract major consumer and technology interest.",
+      "share_angle": "Explain launch timing and market expectations, avoiding unverified specifications.",
+      "keywords": [
+        "Huawei",
+        "Mate 90",
+        "consumer tech"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "水贝金饰降价卖爆了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Gold jewelry sales surge in Shuibei as prices drop",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Gold prices and consumer demand are closely watched economic signals.",
+      "share_angle": "Explain gold consumption trends and what a price drop means for buyers and markets.",
+      "keywords": [
+        "gold",
+        "Shuibei",
+        "consumer spending"
       ]
     }
   ]

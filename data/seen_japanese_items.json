@@ -745,6 +745,11 @@
       "link": "https://gigazine.net/news/20260816-ai-text-watermarking",
       "title": "AI生成テキストの「透かし」が埋め込まれる仕組み"
     },
+    "189796e59c925ec27786": {
+      "first_seen": "2026-09-29",
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001816",
+      "title": "斜めの屋根、三角形の家……なぜ「フシギな物件」は存在するのか"
+    },
     "18de9dda3a5350393018": {
       "first_seen": "2026-07-30",
       "link": "https://gigazine.net/news/20260730-low-sugar-early-life-alzheimers-risk",
@@ -3700,6 +3705,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2122966.html",
       "title": "ローソン、店内調理の弁当をオフィスに届ける実証実験"
     },
+    "706f635dfed1e38579b6": {
+      "first_seen": "2026-09-29",
+      "link": "https://www.watch.impress.co.jp/docs/news/2144029.html",
+      "title": "ファミマ、コーヒーマシンの液晶に広告"
+    },
     "707a22ef0be8aa5408e9": {
       "first_seen": "2026-06-22",
       "link": "https://www.watch.impress.co.jp/docs/news/2118904.html",
@@ -5635,6 +5645,11 @@
       "link": "https://gigazine.net/news/20260625-fujitsu-photon",
       "title": "富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発"
     },
+    "a9a4d50daa596d4deb3e": {
+      "first_seen": "2026-09-29",
+      "link": "https://gigazine.net/news/20260929-spacex-starship-orbit",
+      "title": "SpaceXの二段式超大型ロケット兼宇宙船「Starship」が14回目の飛行試験で初めて軌道に到達"
+    },
     "a9b1de3da254c76c13b0": {
       "first_seen": "2026-07-08",
       "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171421000.html",
@@ -6384,6 +6399,11 @@
       "first_seen": "2026-09-16",
       "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001492",
       "title": "日本郵便、荷物の本人確認をICチップ付き身分証4種に限定 スマホのマイナカードで受け取れる場合も"
+    },
+    "c0d5a00db7d2886d2a42": {
+      "first_seen": "2026-09-29",
+      "link": "https://gigazine.net/news/20260929-venting-doesnt-reduce-anger",
+      "title": "「怒り」をぶちまけても気持ちは晴れない、怒りへの効果的な対処法とは何なのか？"
     },
     "c0d84453904a6ca16abf": {
       "first_seen": "2026-08-24",
@@ -7475,6 +7495,11 @@
       "link": "https://gigazine.net/news/20260614-recent-developments-in-llm-architectures",
       "title": "AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か？"
     },
+    "e189c1871eb26ccddb4a": {
+      "first_seen": "2026-09-29",
+      "link": "https://www.watch.impress.co.jp/docs/news/2144072.html",
+      "title": "Yahoo!きっず、12月4日にサービス終了 29年のサービスに幕"
+    },
     "e192045e2fc5cefbe446": {
       "first_seen": "2026-07-11",
       "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
@@ -7664,6 +7689,11 @@
       "first_seen": "2026-09-05",
       "link": "https://www.watch.impress.co.jp/docs/news/2136597.html",
       "title": "セイコー、ファン投票カラーのダイバーズウォッチ"
+    },
+    "e60f361f3cccd39d3680": {
+      "first_seen": "2026-09-29",
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001787",
+      "title": "旭化成ホームズの社内システムが地震で全停止……したらどうする？ 同社グループが本当にやった災害訓練"
     },
     "e61169c85c16cd628e8f": {
       "first_seen": "2026-06-20",
@@ -7969,6 +7999,11 @@
       "first_seen": "2026-08-03",
       "link": "https://www.watch.impress.co.jp/docs/news/2130067.html",
       "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証"
+    },
+    "ed0a76a20591f2dfc1e0": {
+      "first_seen": "2026-09-29",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2142860.html",
+      "title": "10月1日の酒税改正でビール値下げ、新ジャンル値上げ どうする、家飲み派!?"
     },
     "ed8e44badcc9ff129d69": {
       "first_seen": "2026-06-23",
@@ -8289,6 +8324,11 @@
       "first_seen": "2026-09-27",
       "link": "https://gigazine.net/news/20260926-beijing-ban-drone",
       "title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ"
+    },
+    "f65623f72f835bc485c8": {
+      "first_seen": "2026-09-29",
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001785",
+      "title": "出社日 vs. 在宅日、運動量はこれだけ違う??ハイブリッドワーカー100人弱の太ももにデバイス装着し計測"
     },
     "f696132b5a90a4579b9b": {
       "first_seen": "2026-08-17",

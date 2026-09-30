@@ -1,150 +1,142 @@
 {
   "date": "2026-09-30",
-  "updated_at": "2026-09-29T18:02:57+00:00",
+  "updated_at": "2026-09-30T05:26:26+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "三张照片 见证中美关系的刻度",
+      "chinese_topic": "习近平出席向人民英雄敬献花篮仪式",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Three photos seen as a gauge of China-US relations",
+      "official_english": "Xi Jinping attends ceremony to present flower baskets to people's heroes",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Sits at No. 1 on Baidu's realtime board, so it is the single most-viewed topic of the day; the framing suggests three widely circulated photos are being read as a snapshot of the current state of China-US ties. The specific photos and their context are not given in the topic text.",
-      "share_angle": "Explain why symbolic images (handshakes, seating, distance) become shorthand for diplomatic temperature, and walk through what to look for before drawing conclusions. Flag clearly that the underlying photos are unverified in the source text.",
+      "why_hot": "Top-ranked Baidu hot topic; an official ceremony honoring people's heroes draws broad national attention.",
+      "share_angle": "Explain what the ceremony is and why official commemoration events matter in China today.",
       "keywords": [
-        "China-US relations",
-        "diplomacy",
-        "photos",
-        "symbolism"
+        "Xi Jinping",
+        "ceremony",
+        "people's heroes"
       ]
     },
     {
       "rank": 2,
-      "chinese_topic": "房地产迎来史诗级大招",
+      "chinese_topic": "“免费试用”被扣738元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China's property market braces for 'epic-scale' policy push",
+      "official_english": "User charged 738 yuan after a \"free trial\" offer",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Housing policy affects household wealth, mortgage holders and local government finances, so any hint of a large-scale stimulus package dominates discussion. The topic text does not specify which measures are involved.",
-      "share_angle": "Set up a plain-English explainer on how Chinese property policy is usually delivered (rates, down payments, purchase limits, developer funding) and tell viewers what to verify once official documents appear rather than relying on the 'epic' label.",
+      "why_hot": "High-ranking Baidu consumer-rights topic; free-trial billing traps are widely relatable.",
+      "share_angle": "Walk through how \"free trial\" subscriptions can turn into charges and what users can check.",
       "keywords": [
-        "property market",
-        "housing policy",
-        "stimulus",
-        "China economy"
+        "free trial",
+        "subscription trap",
+        "consumer rights"
       ]
     },
     {
       "rank": 5,
-      "chinese_topic": "重大利好！央行“四箭齐发”",
+      "chinese_topic": "中国最大淡水湖鄱阳湖水位骤降",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Central bank unveils 'four arrows' of policy support",
+      "official_english": "Water level of Poyang Lake, China's largest freshwater lake, drops sharply",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Monetary policy moves are read as signals for stocks, mortgages and the yuan, and the 'four arrows' metaphor implies a coordinated package announced at once. The headline does not state which four tools were used.",
-      "share_angle": "Explain the standard toolkit the People's Bank of China uses (interest rates, reserve requirements, relending, liquidity operations) and how each one reaches ordinary people, while noting the topic text alone does not confirm details.",
+      "why_hot": "High Baidu ranking; a sharp water-level drop at a major lake raises environmental and livelihood concerns.",
+      "share_angle": "Look at why Poyang Lake's water level matters and how seasonal changes affect the region.",
       "keywords": [
-        "PBOC",
-        "monetary policy",
-        "interest rates",
-        "liquidity"
+        "Poyang Lake",
+        "water level",
+        "drought"
       ]
     },
     {
-      "rank": 4,
-      "chinese_topic": "中国已建成世界规模最大的教育体系",
+      "rank": 7,
+      "chinese_topic": "台湾以东海域地震",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China says it has built the world's largest education system",
+      "official_english": "Earthquake strikes waters east of Taiwan",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Education reaches nearly every family, and a claim about scale invites comparison on quality, funding and rural-urban gaps. The topic text gives the claim only, without supporting statistics.",
-      "share_angle": "Break down what 'largest' measures (enrolment, schools, teachers) versus what it does not (outcomes, spending per student), and compare with other large systems. Keep the framing descriptive rather than promotional.",
+      "why_hot": "High Baidu ranking; offshore earthquakes in the region draw immediate public safety and science interest.",
+      "share_angle": "Explain basic earthquake context and why offshore quakes near Taiwan are closely monitored.",
       "keywords": [
-        "education",
-        "enrolment",
-        "China",
-        "public policy"
+        "Taiwan",
+        "earthquake",
+        "seismic activity"
       ]
     },
     {
       "rank": 8,
-      "chinese_topic": "“小孩姐”陈妤颉极限逆转",
+      "chinese_topic": "十一档新机大战",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Teen athlete Chen Yujie pulls off a dramatic comeback win",
+      "official_english": "New smartphone battle for the National Day holiday season",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A young athlete nicknamed 'kid sister' by Chinese fans winning from behind is a classic feel-good sports moment that travels easily across platforms. The topic text does not name the event or the opponent.",
-      "share_angle": "Use the clip as a gateway to talk about China's youth athletics pipeline and how viral nicknames shape an athlete's public image — and confirm the competition details before describing the race.",
+      "why_hot": "High Baidu ranking; the National Day holiday is a major consumer season for electronics in China.",
+      "share_angle": "Preview the main phone launches and what the holiday sales battle means for consumers.",
       "keywords": [
-        "Chen Yujie",
-        "athletics",
-        "comeback",
-        "youth sports"
+        "smartphones",
+        "National Day",
+        "consumer tech"
       ]
     },
     {
-      "rank": 11,
-      "chinese_topic": "老人报警丢4万民警找出23万",
+      "rank": 10,
+      "chinese_topic": "缅甸妙瓦底电诈园公开招募成员",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Man reports losing 40,000 yuan; police find 230,000",
+      "official_english": "Myanmar's Myawaddy scam compound openly recruits members",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A wholesome twist — police recover far more than the reported loss — makes it an easy, shareable local-news story with a positive tone. Details such as location and the reason for the discrepancy are not in the topic text.",
-      "share_angle": "Short human-interest segment: what happens procedurally when someone files a lost-property report, and why cash kept at home is a recurring theme among older residents. Avoid speculating about the family situation.",
+      "why_hot": "High Baidu ranking; cross-border scam operations are a public safety issue with regional impact.",
+      "share_angle": "Explain how scam compounds operate and why recruitment reports raise regional concerns.",
       "keywords": [
-        "lost property",
-        "police",
-        "elderly",
-        "cash"
+        "Myawaddy",
+        "scam compound",
+        "transnational crime"
       ]
     },
     {
-      "rank": 21,
-      "chinese_topic": "中国男排3比2战胜韩国",
+      "rank": 13,
+      "chinese_topic": "广州楼市新政",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China men's volleyball beats South Korea 3-2",
+      "official_english": "Guangzhou introduces a new property market policy",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A five-set win over a regional rival gives fans a clear result to rally around and drives highlight-sharing. The topic text does not say which tournament or stage the match belonged to.",
-      "share_angle": "Quick sports explainer on China's men's volleyball standing in Asia and why five-set wins matter for ranking points — confirm the competition name first.",
+      "why_hot": "High Baidu ranking; property policy is closely watched for its economic and livelihood impact.",
+      "share_angle": "Break down what Guangzhou's new policy changes and what it may mean for buyers and the market.",
       "keywords": [
-        "volleyball",
-        "China",
-        "South Korea",
-        "sports"
+        "Guangzhou",
+        "property policy",
+        "housing market"
       ]
     },
     {
-      "rank": 19,
-      "chinese_topic": "北京办抓“毛毛虫”大赛 2天抓7万条",
+      "rank": 12,
+      "chinese_topic": "弹力袜是静脉曲张治疗神器？系夸大",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Beijing holds caterpillar-catching contest, 70,000 caught in two days",
+      "official_english": "Compression socks as a \"miracle\" treatment for varicose veins? Claim is exaggerated",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A quirky civic campaign that turns pest control into a public competition, with a striking number attached — the kind of story that spreads for its novelty. The species involved and the organisers are not specified in the topic text.",
-      "share_angle": "Explain the urban forestry logic behind pest-control campaigns, why an unusual headline number can be misleading (units, counting method, area covered), and how other cities handle similar outbreaks.",
+      "why_hot": "High Baidu ranking; health misinformation and consumer protection around medical products draw wide interest.",
+      "share_angle": "Separate evidence from marketing claims about compression socks and varicose veins.",
       "keywords": [
-        "Beijing",
-        "caterpillars",
-        "urban forestry",
-        "pest control"
+        "compression socks",
+        "varicose veins",
+        "health misinformation"
       ]
     }
   ]

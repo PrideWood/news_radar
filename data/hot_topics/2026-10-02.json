@@ -1,142 +1,142 @@
 {
   "date": "2026-10-02",
-  "updated_at": "2026-10-01T18:23:56+00:00",
+  "updated_at": "2026-10-02T05:28:38+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 16,
-      "chinese_topic": "国庆第一天各地开启“人从众”模式",
+      "rank": 13,
+      "chinese_topic": "房贷贴息落地 客户房东都坐不住了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "First day of National Day holiday sees large crowds across China",
+      "official_english": "Mortgage interest subsidies take effect, drawing attention from clients and landlords",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "National Day holiday travel is a major annual public topic, and crowd scenes quickly go viral.",
-      "share_angle": "Explain the meaning of “人从众” and holiday travel patterns, plus practical crowd-avoidance tips.",
+      "why_hot": "Housing costs and mortgage relief are high-interest livelihood issues; the Chinese topic indicates policy implementation and strong market reaction.",
+      "share_angle": "Explain what mortgage interest subsidies mean for buyers and landlords, while noting that details depend on official announcements.",
       "keywords": [
-        "National Day",
-        "holiday travel",
-        "crowds"
+        "mortgage",
+        "housing",
+        "subsidy"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "高速服务区新能源车充电像排队打饭",
+      "rank": 19,
+      "chinese_topic": "Mate90登场 能打苹果的还得是华为",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "EV charging at highway service areas resembles queueing for meals",
+      "official_english": "Huawei Mate90 debuts, seen as a challenger to Apple",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Holiday EV charging queues highlight infrastructure pressure and the rapid growth of electric vehicles.",
-      "share_angle": "Explain EV charging challenges during holiday peaks and what infrastructure improvements may be needed.",
-      "keywords": [
-        "EV charging",
-        "highway service areas",
-        "holiday travel"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "华为与赛力斯达成新五年合作",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Huawei and Seres reach new five-year cooperation agreement",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Huawei’s auto partnerships are closely watched in China’s technology and EV sectors.",
-      "share_angle": "Explain Huawei’s role in smart EVs and what a renewed five-year partnership could signal for the industry.",
+      "why_hot": "Huawei product launches are major Chinese technology and consumer-market events, and comparisons with Apple draw wide attention.",
+      "share_angle": "Discuss the Mate90 launch and the competitive dynamics between Huawei and Apple in the premium smartphone market.",
       "keywords": [
         "Huawei",
-        "Seres",
-        "smart EV"
+        "Mate90",
+        "Apple"
       ]
     },
     {
       "rank": 23,
-      "chinese_topic": "印电诈窝点假冒苹果客服专骗美国人",
+      "chinese_topic": "越查事越大 OpenAI发失控智能体警报",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "India-based fraud hub impersonated Apple support to target Americans",
+      "official_english": "OpenAI issues alert over out-of-control AI agents amid widening scrutiny",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Cross-border scam operations and impersonation of major brands draw widespread public concern.",
-      "share_angle": "Explain common scam tactics and how consumers can verify whether support calls are genuine.",
+      "why_hot": "AI safety and agent governance are global tech-policy topics; the headline links an OpenAI alert with escalating scrutiny.",
+      "share_angle": "Explain the concept of runaway AI agents and why safety alerts matter, while noting details are limited from the headline alone.",
       "keywords": [
-        "cyber scam",
-        "Apple support",
-        "fraud"
+        "OpenAI",
+        "AI agents",
+        "safety"
       ]
     },
     {
-      "rank": 7,
-      "chinese_topic": "中方敦促日方严惩凶犯",
+      "rank": 3,
+      "chinese_topic": "普京：买吧 中国汽车又便宜又好",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China urges Japan to severely punish perpetrator",
+      "official_english": "Putin: Buy Chinese cars — they are cheap and good",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Diplomatic statements between China and Japan attract wide public attention.",
-      "share_angle": "Explain the diplomatic language used and why China is pressing Japan on this case.",
+      "why_hot": "Chinese auto exports are a major economic story, and a high-profile foreign leader's remark adds geopolitical and trade interest.",
+      "share_angle": "Look at why Chinese cars are competitive internationally and how such comments fit into the global auto market.",
       "keywords": [
-        "China-Japan relations",
-        "diplomacy",
-        "punishment"
+        "Putin",
+        "Chinese cars",
+        "auto exports"
       ]
     },
     {
-      "rank": 12,
-      "chinese_topic": "绵阳越王楼将被拆除？不实",
+      "rank": 15,
+      "chinese_topic": "机器人进店卖锅 3天业绩超200万元",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Rumor that Mianyang’s Yuewang Tower will be demolished is untrue",
+      "official_english": "Robot sells pans in store, generating over 2 million yuan in 3 days",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Heritage demolition rumors in a local cultural site trigger public concern and fact-checking.",
-      "share_angle": "Explain how to verify local heritage rumors and why misinformation about cultural landmarks spreads.",
+      "why_hot": "Robotics in retail is a concrete technology-and-commerce story with a striking sales figure.",
+      "share_angle": "Explore how service robots are being used in sales and what this case suggests about automation in retail.",
       "keywords": [
-        "Yuewang Tower",
-        "Mianyang",
-        "rumor"
+        "robot",
+        "retail",
+        "sales"
       ]
     },
     {
-      "rank": 20,
-      "chinese_topic": "吴宜泽击败沃顿晋级深圳赛8强",
+      "rank": 5,
+      "chinese_topic": "“充电至80%必须离场”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wu Yize beats Walton to reach Shenzhen tournament quarter-finals",
+      "official_english": "‘Must leave after charging to 80%’ rule sparks discussion",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "A Chinese snooker player’s progress in an international tournament draws sports interest.",
-      "share_angle": "Profile Wu Yize and discuss China’s rising presence in international snooker.",
+      "why_hot": "EV charging rules and infrastructure etiquette affect a growing number of drivers and are a practical livelihood topic.",
+      "share_angle": "Explain the debate over the 80% charging rule and what it means for EV users and charging-station operators.",
       "keywords": [
-        "Wu Yize",
-        "snooker",
-        "Shenzhen"
+        "EV charging",
+        "80%",
+        "policy"
       ]
     },
     {
-      "rank": 18,
-      "chinese_topic": "女子扒车门试图阻止高铁关门",
+      "rank": 8,
+      "chinese_topic": "女子扒车门阻止高铁关门 官方通报",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Woman attempts to block high-speed rail doors from closing",
+      "official_english": "Woman blocks high-speed train door; official notice issued",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Public safety and orderly rail travel are widely discussed, and the incident raises rule-compliance concerns.",
-      "share_angle": "Discuss high-speed rail safety rules and why interfering with train doors is dangerous.",
+      "why_hot": "Rail safety and passenger behavior are public-interest topics, and an official notice signals regulatory attention.",
+      "share_angle": "Explain the incident and official response without speculating beyond the headline, focusing on rail safety rules.",
       "keywords": [
         "high-speed rail",
-        "public safety",
-        "train doors"
+        "safety",
+        "official notice"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "孙继海：国足踢法违背了基本原则",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Sun Jihai: National football team’s style violates basic principles",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Football tactics and national-team performance consistently draw strong public interest in China.",
+      "share_angle": "Break down Sun Jihai’s criticism in plain English and what it says about the national team’s tactical approach.",
+      "keywords": [
+        "football",
+        "Sun Jihai",
+        "tactics"
       ]
     }
   ]

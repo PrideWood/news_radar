@@ -1,158 +1,143 @@
 {
   "date": "2026-10-04",
-  "updated_at": "2026-10-03T16:10:08+00:00",
+  "updated_at": "2026-10-04T05:44:55+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 6,
-      "chinese_topic": "国庆出游用AI 第一批人已被坑惨",
+      "rank": 11,
+      "chinese_topic": "系外行星无线电信号首次被捕获",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "National Day travel using AI: early users report being badly burned",
+      "official_english": "Radio signal from an exoplanet reportedly captured for the first time",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Timely during the National Day holiday and combines AI hype with practical travel concerns.",
-      "share_angle": "Explain common ways AI trip planning can go wrong and how travelers can cross-check AI-generated advice.",
+      "why_hot": "A rare astronomy claim with broad global curiosity; headline-level interest centers on whether this marks a first in exoplanet observation.",
+      "share_angle": "Explain why a detected radio signal from an exoplanet would matter, and clearly flag that the Chinese topic only reports a claimed first capture without further details.",
       "keywords": [
-        "AI travel",
-        "National Day holiday",
-        "travel planning",
-        "AI 出游",
-        "避坑"
+        "exoplanet",
+        "radio signal",
+        "astronomy"
       ]
     },
     {
-      "rank": 2,
-      "chinese_topic": "长假第3天不少家庭已“战火纷飞”",
+      "rank": 21,
+      "chinese_topic": "服务区闪充变慢充 车企们纷纷回应",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "By day three of the long holiday, many families are already 'at war'",
+      "official_english": "Fast charging at service areas slows down; automakers respond",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Relatable family-conflict angle during a long national holiday.",
-      "share_angle": "Discuss holiday family tensions, expectations, communication, and travel stress without personal attacks.",
+      "why_hot": "Touches EV owners' holiday travel experience and consumer expectations around charging speed, with multiple automakers drawn into the discussion.",
+      "share_angle": "Frame it as a consumer-experience and EV-infrastructure question: why advertised fast charging may not always deliver, and what automakers are saying.",
       "keywords": [
-        "long holiday",
-        "family conflict",
-        "holiday stress",
-        "长假",
-        "家庭关系"
-      ]
-    },
-    {
-      "rank": 4,
-      "chinese_topic": "国庆长假自驾出行 怎么开才安全",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "National Day self-driving trips: how to drive safely",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Holiday self-driving safety is a practical livelihood topic.",
-      "share_angle": "Summarize safe-driving basics for long holiday road trips: rest, planning, congestion, and weather.",
-      "keywords": [
-        "self-driving",
-        "road safety",
-        "National Day holiday",
-        "自驾",
-        "出行安全"
-      ]
-    },
-    {
-      "rank": 7,
-      "chinese_topic": "中国队169金89银83铜",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Team China records 169 gold, 89 silver and 83 bronze medals",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Major sports medal tally draws national attention and pride.",
-      "share_angle": "Explain the competition context and what the medal tally means, while avoiding uncorroborated details.",
-      "keywords": [
-        "Team China",
-        "medal tally",
-        "sports",
-        "中国队",
-        "奖牌榜"
-      ]
-    },
-    {
-      "rank": 14,
-      "chinese_topic": "冷空气来袭 气温将大范围创新低",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Cold front to bring widespread record-low temperatures",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Weather shift affects travel, health, and daily routines.",
-      "share_angle": "Explain cold-wave preparedness, temperature drops, and how to adjust travel plans.",
-      "keywords": [
-        "cold front",
-        "temperature drop",
-        "weather",
-        "冷空气",
-        "气温创新低"
-      ]
-    },
-    {
-      "rank": 16,
-      "chinese_topic": "越来越多小城“通飞机”了",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "More small cities are getting air links",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Air connectivity for smaller cities touches travel, regional development, and livelihoods.",
-      "share_angle": "Explain what new air routes mean for small-city residents, tourism, and local economies.",
-      "keywords": [
-        "small cities",
-        "air routes",
-        "regional development",
-        "小城",
-        "通飞机"
+        "EV charging",
+        "service areas",
+        "automakers"
       ]
     },
     {
       "rank": 22,
-      "chinese_topic": "金价银价“巨震”",
+      "chinese_topic": "金价坐“过山车”谁在入手",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Gold and silver prices see sharp swings",
+      "official_english": "Gold prices swing like a roller coaster; who is buying?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Precious-metal volatility is a major economy and personal-finance topic.",
-      "share_angle": "Explain why gold and silver can swing sharply and what consumers or investors should watch.",
+      "why_hot": "Gold is a closely watched household asset topic, and sharp price moves prompt public debate about buying, selling and risk.",
+      "share_angle": "Use the headline as a lead to discuss why volatile gold prices attract attention and what kinds of buyers typically respond, without predicting prices.",
       "keywords": [
-        "gold price",
-        "silver price",
-        "market volatility",
-        "金价",
-        "银价"
+        "gold prices",
+        "household investment",
+        "market volatility"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "药品开封后没过期就能接着吃？误区",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Can opened medicine still be taken before its expiry date? A common misconception",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Everyday health-literacy issue affecting households; the expiration date is often misunderstood after a package is opened.",
+      "share_angle": "Explain the difference between shelf life and post-opening use, and encourage readers to check labels or ask pharmacists rather than rely on expiry dates alone.",
+      "keywords": [
+        "medicine safety",
+        "expiry date",
+        "health literacy"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "高铁座椅成HPV感染重灾区？医生辟谣",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Are high-speed rail seats a major source of HPV infection? Doctors debunk the claim",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Combines public transport hygiene concerns with a viral health claim, and the debunking by doctors draws wide attention.",
+      "share_angle": "Focus on how to evaluate viral health claims about public surfaces, and summarize the debunking angle without amplifying unsupported fears.",
+      "keywords": [
+        "HPV",
+        "high-speed rail",
+        "health misinformation"
       ]
     },
     {
       "rank": 20,
-      "chinese_topic": "纯电车主称增程车应让出充电桩",
+      "chinese_topic": "黑河早市火了 俄罗斯“常态化串门”",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Battery EV owners say extended-range EVs should yield charging spots",
+      "official_english": "Heihe morning market draws attention as Russians make 'regular cross-border visits'",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "Reflects growing EV adoption and tensions over public charging infrastructure.",
-      "share_angle": "Explain different EV types, charging etiquette, and infrastructure pressure during holiday travel.",
+      "why_hot": "A lively cross-border culture and travel story from a border city, showing everyday exchanges between Chinese and Russian residents.",
+      "share_angle": "Highlight the local market and cross-border daily life angle, and explain why border-city tourism and small-scale trade attract interest.",
       "keywords": [
-        "EV charging",
-        "extended-range EV",
-        "charging etiquette",
-        "纯电车",
-        "充电桩"
+        "Heihe",
+        "cross-border exchange",
+        "morning market"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "旅居客涌入云南贵州买房",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Long-stay visitors drive home purchases in Yunnan and Guizhou",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Links lifestyle migration, tourism and regional real estate demand, a trend with economic and livelihood implications.",
+      "share_angle": "Discuss the 'slow travel' or long-stay migration trend and its effect on local housing demand, noting that the topic is a headline-level trend rather than a full market report.",
+      "keywords": [
+        "Yunnan",
+        "Guizhou",
+        "long-stay travel",
+        "housing demand"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "男子高速开智驾睡着 拍摄者发声",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Man falls asleep with assisted driving on highway; person who filmed speaks out",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Raises public safety questions about driver-assistance systems and driver responsibility, amplified by the person who filmed the scene speaking out.",
+      "share_angle": "Use it as a safety reminder about assisted driving limits and the driver's legal responsibility, avoiding speculation about the specific case.",
+      "keywords": [
+        "assisted driving",
+        "road safety",
+        "driver responsibility"
       ]
     }
   ]

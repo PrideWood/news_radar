@@ -1,91 +1,91 @@
 {
   "date": "2026-10-05",
-  "updated_at": "2026-10-04T16:48:49+00:00",
+  "updated_at": "2026-10-05T05:29:32+00:00",
   "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
   "topics": [
     {
-      "rank": 4,
-      "chinese_topic": "全国客流持续高位运行",
+      "rank": 7,
+      "chinese_topic": "用户投诉说脏话 AI客服回复也含脏话",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Nationwide passenger flows remain at high levels during the National Day holiday travel period",
+      "official_english": "User Complaint with Profanity, AI Customer Service Reply Also Contains Profanity",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "国庆假期出行高峰，客流、交通、景区承载量是全国性民生话题，数据与现场情况都容易引发讨论。",
-      "share_angle": "用一张“假期出行”全景图讲清客流为何集中、铁路公路民航各自压力点在哪，以及这对旅行计划意味着什么。",
+      "why_hot": "A case of AI customer service mirroring a user's profanity has sparked discussion about AI safety and service quality.",
+      "share_angle": "Explore how AI language models can inadvertently reproduce user input, and what this means for customer service automation.",
       "keywords": [
-        "国庆出行",
-        "客流高峰",
-        "交通运输"
-      ]
-    },
-    {
-      "rank": 2,
-      "chinese_topic": "万游客涌入小县城 文旅局长给铺床",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "A small county draws tens of thousands of visitors, with its culture and tourism chief helping to make hotel beds",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "县域旅游热度与基层干部“下场服务”的反差感强，折射小城接住大客流的现实压力。",
-      "share_angle": "从“反向旅游”和县域文旅供给角度切入：流量来了，小县城的住宿、服务与治理能不能跟上。",
-      "keywords": [
-        "县域旅游",
-        "文旅局长",
-        "小城旅游"
-      ]
-    },
-    {
-      "rank": 6,
-      "chinese_topic": "耐克为何“失宠”",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why Nike has 'lost favor'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "国际运动品牌在中国市场的表现牵动消费、就业与本土品牌竞争，属于典型商业消费话题。",
-      "share_angle": "讲清楚“失宠”背后可能的消费趋势变化与本土替代，而不是只谈一个品牌的输赢。注意区分事实与猜测。",
-      "keywords": [
-        "耐克",
-        "消费趋势",
-        "运动品牌"
-      ]
-    },
-    {
-      "rank": 17,
-      "chinese_topic": "雷军一口气刷完7期民间拆车视频",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Xiaomi's Lei Jun watches all seven episodes of independent car-teardown videos",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "新能源车企与民间测评、拆车内容生态的互动，涉及产品口碑与消费者信任，科技商业属性强。",
-      "share_angle": "聊聊车企高管为何重视民间测评内容，以及“拆车视频”这类硬核内容对购车决策的影响。",
-      "keywords": [
-        "雷军",
-        "新能源汽车",
-        "拆车测评"
+        "AI customer service",
+        "profanity",
+        "AI safety"
       ]
     },
     {
       "rank": 10,
-      "chinese_topic": "官方通报“阿尔山景区200一晚酒店”",
+      "chinese_topic": "超10万份孕妇血样被偷运出境",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Official notice issued over reports of a 200-yuan-per-night hotel at the Arxan scenic area",
+      "official_english": "Over 100,000 Pregnant Women's Blood Samples Smuggled Out of the Country",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "假期住宿价格与景区服务是游客最敏感的痛点，官方回应让话题从吐槽升级为公共治理讨论。",
-      "share_angle": "梳理事件中“价格—服务—监管”的链条，讨论景区住宿定价与游客预期如何平衡。以官方通报为准，不扩散未证实细节。",
+      "why_hot": "The scale of the alleged smuggling raises concerns about public health, bioethics, and border security.",
+      "share_angle": "Discuss the implications for genetic privacy, health regulations, and cross-border biosafety.",
       "keywords": [
-        "阿尔山",
-        "景区住宿",
-        "官方通报"
+        "blood samples",
+        "smuggling",
+        "public health"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "俄罗斯人抢购中国电动车",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Russians Rush to Buy Chinese Electric Vehicles",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Growing demand for Chinese EVs in Russia reflects shifting trade patterns and market opportunities.",
+      "share_angle": "Analyze the rise of Chinese EV exports and what it says about global automotive competition.",
+      "keywords": [
+        "electric vehicles",
+        "China-Russia trade",
+        "EV market"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "诺奖奖金再涨 历届得主奖金花哪了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nobel Prize Money Increases Again; Where Have Past Winners Spent Their Prize Money?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The annual Nobel Prize season draws attention to the award's value and how laureates use their winnings.",
+      "share_angle": "Look at the history of Nobel Prize amounts and the diverse ways winners have spent their awards.",
+      "keywords": [
+        "Nobel Prize",
+        "prize money",
+        "laureates"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "位华人科学家成诺奖热门人选",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese Scientist Becomes Hot Candidate for Nobel Prize",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "As Nobel Prize announcements approach, speculation about potential Chinese laureates attracts public interest.",
+      "share_angle": "Discuss the significance of Chinese scientists in global research and the anticipation around Nobel Prizes.",
+      "keywords": [
+        "Nobel Prize",
+        "Chinese scientist",
+        "science"
       ]
     },
     {
@@ -94,49 +94,49 @@
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Holiday travelers warned to guard against ticket-booking scams",
+      "official_english": "National Day Travel: Beware of Ticket Fraud Traps",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "假期抢票需求集中，票务诈骗高发，属于实用型安全提醒，转发价值高。",
-      "share_angle": "做一份“避坑清单”：常见票务诈骗套路与核实渠道，强调通过正规平台购票。",
+      "why_hot": "During the National Day holiday, travel demand surges, making ticket scams a common risk.",
+      "share_angle": "Provide tips on how to identify and avoid ticket fraud during peak travel seasons.",
       "keywords": [
-        "票务诈骗",
-        "假期出行",
-        "安全提醒"
+        "National Day travel",
+        "ticket fraud",
+        "travel safety"
       ]
     },
     {
-      "rank": 14,
-      "chinese_topic": "江苏高速临时开放500公里应急车道",
+      "rank": 20,
+      "chinese_topic": "名校校友捐赠越来越卷 钱都花哪了",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Jiangsu temporarily opens 500 km of expressway emergency lanes to ease holiday traffic",
+      "official_english": "Alumni Donations to Elite Schools Increasingly Competitive; Where Does the Money Go?",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "假期返程拥堵下的交通管理措施，直接关系驾车出行体验与道路安全。",
-      "share_angle": "解释临时开放应急车道的适用条件与风险，提醒驾驶人遵守现场标志和交警指挥。",
+      "why_hot": "The growing competition in alumni donations raises questions about transparency and use of funds in higher education.",
+      "share_angle": "Examine the trends in university fundraising and how donations are allocated.",
       "keywords": [
-        "江苏高速",
-        "应急车道",
-        "假期交通"
+        "alumni donations",
+        "higher education",
+        "fundraising"
       ]
     },
     {
-      "rank": 8,
-      "chinese_topic": "吴宜泽击败袁思俊夺冠",
+      "rank": 5,
+      "chinese_topic": "松岛辉空成史上最年轻世界第一",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Wu Yize defeats Yuan Sijun to win a snooker title",
+      "official_english": "Sora Matsushima Becomes Youngest World No. 1 in History",
       "official_english_source": "Suggested wording",
       "official_english_url": "",
-      "why_hot": "中国斯诺克年轻选手之间的冠军争夺，成绩话题度高，也带动对项目发展的关注。",
-      "share_angle": "从这场中国选手会师讲中国斯诺克新生代的整体崛起，避免用未证实的赛事细节填充。",
+      "why_hot": "A young athlete setting a historic record often captures public attention.",
+      "share_angle": "Highlight the achievement and what it means for the sport and for young athletes.",
       "keywords": [
-        "斯诺克",
-        "吴宜泽",
-        "中国选手"
+        "Sora Matsushima",
+        "world No. 1",
+        "youngest record"
       ]
     }
   ]

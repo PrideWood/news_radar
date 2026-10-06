@@ -1,143 +1,63 @@
 {
   "date": "2026-10-06",
-  "updated_at": "2026-10-06T06:14:05+00:00",
-  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "updated_at": "2026-10-06T14:46:03+00:00",
+  "source_note": "Items are collected directly from public trend pages without model processing.",
   "topics": [
     {
       "rank": 1,
-      "chinese_topic": "民生为大 把老百姓的事办实办好",
+      "chinese_topic": "听总书记谈“奋斗”",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Livelihoods are paramount: delivering solid results for the people",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Ranks at the top of Baidu's hot list, indicating broad public interest in livelihood governance and public services.",
-      "share_angle": "Explain the slogan and why livelihood issues—jobs, services, daily needs—drive Chinese public conversation; avoid claiming specific new policies.",
-      "keywords": [
-        "民生",
-        "公共服务",
-        "治理"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     },
     {
-      "rank": 24,
-      "chinese_topic": "全球纯油车份额跌破50% 中国跌最猛",
+      "rank": 2,
+      "chinese_topic": "下次回来就是2027年了",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Global share of pure gasoline vehicles drops below 50%, with China seeing the steepest fall",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "High on Baidu, reflecting interest in the global auto market shift and China's electric-vehicle transition.",
-      "share_angle": "Break down what a sub-50% share for pure gasoline cars means for automakers, consumers, and energy transition; cite only the headline's figures.",
-      "keywords": [
-        "纯油车",
-        "新能源汽车",
-        "汽车市场"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     },
     {
-      "rank": 20,
-      "chinese_topic": "用光控制大脑 诺奖成果解读来了",
+      "rank": 3,
+      "chinese_topic": "人国足0比1不敌塔吉克斯坦",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Using light to control the brain: Nobel Prize research explained",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "A science explainer tied to Nobel Prize recognition is drawing public curiosity on Baidu.",
-      "share_angle": "Introduce optogenetics-style brain research in plain English: how light can influence neurons and why it matters, without overstating clinical applications.",
-      "keywords": [
-        "光遗传学",
-        "脑科学",
-        "诺贝尔奖"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     },
     {
       "rank": 4,
-      "chinese_topic": "“宝藏小城”藏不住了",
+      "chinese_topic": "一批大国重器与重点工程迎来新突破",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Hidden gem small towns are being discovered",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Travelers are seeking less crowded destinations, making this a timely holiday-season topic.",
-      "share_angle": "Discuss the appeal of small-town tourism for local economies and culture, plus responsible travel tips.",
-      "keywords": [
-        "宝藏小城",
-        "文旅",
-        "小众旅游"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     },
     {
       "rank": 5,
-      "chinese_topic": "售罄为何第三方还有票",
+      "chinese_topic": "“16条人命只剩5具尸体1份骨灰”",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Why are tickets still available from third parties after an official sellout?",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Ticket scarcity and resale frustrate consumers, especially around holidays and major events.",
-      "share_angle": "Explain official ticketing versus third-party resale, consumer protection issues, and how fans can avoid scams.",
-      "keywords": [
-        "票务",
-        "第三方平台",
-        "消费者权益"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "失语老人用废旧物品手搓一座城堡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     },
     {
       "rank": 7,
-      "chinese_topic": "泰山躲雨80元1小时？景区回应",
+      "chinese_topic": "睡眠开始出现这种问题说明你可能老了",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "80 yuan an hour to shelter from rain at Mount Tai? Scenic area responds",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Tourism pricing and service quality during holiday travel draw intense public scrutiny.",
-      "share_angle": "Summarize the scenic area's response as reported and discuss tourist-site pricing transparency; do not assert unverified details.",
-      "keywords": [
-        "泰山",
-        "景区收费",
-        "旅游服务"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     },
     {
-      "rank": 10,
-      "chinese_topic": "中新网评“三片回锅肉105元”",
+      "rank": 8,
+      "chinese_topic": "孩子打印作业开销让家长直呼扛不住",
       "platform": "Baidu",
       "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "China News Service comments on 'three slices of twice-cooked pork for 105 yuan'",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Food pricing and tourism dining costs resonate with consumers during the holiday period.",
-      "share_angle": "Use the commentary to discuss restaurant pricing transparency, local food culture, and consumer expectations.",
-      "keywords": [
-        "回锅肉",
-        "餐饮价格",
-        "消费"
-      ]
-    },
-    {
-      "rank": 21,
-      "chinese_topic": "年轻人婚礼 不早起不请司仪不办仪式",
-      "platform": "Baidu",
-      "heat": "hot",
-      "source_url": "https://top.baidu.com/board?tab=realtime",
-      "official_english": "Young couples choose weddings without early starts, emcees, or ceremonies",
-      "official_english_source": "Suggested wording",
-      "official_english_url": "",
-      "why_hot": "Changing wedding habits reflect generational shifts in culture, spending, and family expectations.",
-      "share_angle": "Explore why some young Chinese couples are simplifying weddings and what it says about cost, time, and personal priorities.",
-      "keywords": [
-        "婚礼",
-        "年轻人",
-        "消费观念"
-      ]
+      "source_url": "https://top.baidu.com/board?tab=realtime"
     }
   ]
 }

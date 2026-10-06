@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22T04:47:46+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "共同擘画中美关系新篇章",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Jointly charting a new chapter in China-US relations",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Top of the Baidu hot list; China-US relations is a high-stakes topic that draws broad public attention in both countries.",
+      "share_angle": "Explain what this diplomatic framing means in practice — tone, agenda, and what to watch next — while noting that the headline itself carries no policy details.",
+      "keywords": [
+        "China-US relations",
+        "diplomacy",
+        "geopolitics"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "微信上新2大功能",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "WeChat rolls out two new features",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "WeChat is used by over a billion people, so any app update instantly affects daily communication habits.",
+      "share_angle": "Walk through what changed for ordinary users, and be explicit that the headline does not specify which two features — confirm details before describing them.",
+      "keywords": [
+        "WeChat",
+        "app update",
+        "tech"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "今年中秋高端月饼礼盒卖不动了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Premium mooncake gift boxes see sluggish sales this Mid-Autumn Festival",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Mooncakes are a seasonal staple, and weak high-end sales are being read as a signal about consumer spending.",
+      "share_angle": "Use it to discuss changing gift-giving norms and cautious consumption, without extrapolating to the whole economy from one category.",
+      "keywords": [
+        "Mid-Autumn Festival",
+        "mooncakes",
+        "consumption"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "Muse登顶 Meta靠agent扳回一局",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Muse reaches the top as Meta regains ground with AI agents",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "AI model rankings and the agent race are among the fastest-moving tech stories, with strong interest from developers and investors.",
+      "share_angle": "Frame it as part of the agent-competition narrative; flag that the headline alone does not name the ranking or benchmarks involved.",
+      "keywords": [
+        "Meta",
+        "AI agents",
+        "Muse"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "金牌再+1！盛李豪王子菲夺金",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Another gold: Sheng Lihao and Wang Zifei take first place",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Medal wins by Chinese athletes reliably top the charts and drive patriotic engagement.",
+      "share_angle": "Recap the result and the athletes' background; note that the headline does not state the event or competition, so verify before publishing.",
+      "keywords": [
+        "gold medal",
+        "shooting",
+        "sports"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "共赴技能之约 同筑匠心之基",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Coming together for skills, building a foundation of craftsmanship",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Skills and vocational training campaigns resonate at a time of youth employment concerns and industrial upgrading.",
+      "share_angle": "Explain the skills-development push and why craftsmanship is being promoted, avoiding claims about specific programs not stated in the headline.",
+      "keywords": [
+        "skills",
+        "vocational training",
+        "craftsmanship"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "多家民营银行5年期定期存款重上架",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Several private banks bring back 5-year fixed-term deposits",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Deposit rates affect household savings directly, and product changes at private banks draw close attention from savers.",
+      "share_angle": "Discuss what returning long-term deposits may signal about funding needs and rates, without naming specific institutions or yields not in the headline.",
+      "keywords": [
+        "private banks",
+        "deposits",
+        "interest rates"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "《复联4》等16部影片定档中秋档",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "16 films, including 'Avengers: Endgame', set for the Mid-Autumn release window",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Holiday box-office lineups are a staple culture story and a barometer for the film market.",
+      "share_angle": "Preview the holiday slate and box-office expectations; confirm the full film list and release dates before listing them.",
+      "keywords": [
+        "box office",
+        "Mid-Autumn",
+        "film releases"
+      ]
+    }
+  ]
+}

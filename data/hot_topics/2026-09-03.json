@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-03",
+  "updated_at": "2026-09-03T04:19:08+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 4,
+      "chinese_topic": "中国人民抗日战争胜利81周年纪念日",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China Marks 81st Anniversary of Victory in the Chinese People's War of Resistance Against Japanese Aggression",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "September 3 is an officially observed date in China for the victory over Japan, and this topic rallies commemorative posts and reflections online.",
+      "share_angle": "Explain the date's meaning in Chinese public memory and how this annual commemoration is framed for Chinese audiences.",
+      "keywords": [
+        "Victory Day",
+        "World War II",
+        "commemoration",
+        "China"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "全球股市大反转",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Global Stock Markets Stage a Major Reversal",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Sharp swings in stock markets immediately affect portfolios and sentiment, so the word \"reversal\" draws broad investor attention worldwide.",
+      "share_angle": "Explain what a market reversal is, how talk of one spreads before full data is available, and why headlines like this should be read with care.",
+      "keywords": [
+        "global markets",
+        "reversal",
+        "investor sentiment",
+        "volatility"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "微信新功能专治各种看不见",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "WeChat Introduces a New Feature to Tackle Different \"Can't See\" Issues",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The headline is deliberately vague, so users are curious to learn what the new update actually does and how it changes everyday messaging.",
+      "share_angle": "Avoid overclaiming about the feature; instead show how Chinese audiences discover app changes through cryptic update notes and viral discussions.",
+      "keywords": [
+        "WeChat",
+        "update",
+        "feature",
+        "user experience"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "荷兰将约86吨黄金储备从美加转至英国",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Netherlands Shifts About 86 Tons of Gold Reserves From US and Canada to UK",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Gold-transfer stories mix mystery with finance, prompting questions about why countries keep bullion abroad and what such a move might signal.",
+      "share_angle": "Offer a quick explainer on central bank gold storage, the history of overseas reserves, and how gold-repatriation stories are reported.",
+      "keywords": [
+        "gold reserves",
+        "Netherlands",
+        "central banks",
+        "finance"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "七日酒店遭7天酒店索赔10万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "7 Days Inn Sues Qiri Hotel for 100,000 Yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The two hotel names both connect to the idea of \"seven days,\" making this a simple but sharp example of a brand-name dispute.",
+      "share_angle": "Use the case to discuss trademarks, business naming, and why even a small wording difference can become a legal problem.",
+      "keywords": [
+        "trademark",
+        "hotel",
+        "lawsuit",
+        "branding"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "广西横州养蛇厂家：养蛇是为了救人",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Snake Breeding Business in Hengzhou, Guangxi Says Raising Snakes Is for Saving Lives",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The phrase contrasts an often-feared animal with a life-saving purpose, prompting both curiosity and debate.",
+      "share_angle": "Give a balanced look at how snake breeding can be linked to medical needs and why the industry remains controversial.",
+      "keywords": [
+        "snake breeding",
+        "Guangxi",
+        "life-saving",
+        "public health"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "《后西游记》没真人演员却拿下收视第1",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "\"The Later Journey to the West\" Tops TV Ratings Without Using Real Actors",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A familiar story remade without real actors raises questions about how television content is produced today and what audiences expect from performances.",
+      "share_angle": "Use this as a hook to discuss virtual characters, changing acting standards, and how entertainment trends are shaped by new production methods.",
+      "keywords": [
+        "TV ratings",
+        "The Later Journey to the West",
+        "virtual production",
+        "entertainment"
+      ]
+    },
+    {
+      "rank": 1,
+      "chinese_topic": "时光见证中埃情谊历久弥新",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China-Egypt Friendship Stands the Test of Time",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The phrase appears as a leading Baidu hot list item with official-style language, signaling media attention to the long-running China-Egypt relationship.",
+      "share_angle": "Provide background on China-Egypt exchanges and decode the diplomatic phrasing used in Chinese official narratives.",
+      "keywords": [
+        "China-Egypt relations",
+        "diplomacy",
+        "bilateral ties",
+        "friendship"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-11",
+  "updated_at": "2026-09-11T04:31:45+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "香港 烟盒设计",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Hong Kong cigarette packet design",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Appears high on Baidu's real-time hot list, reflecting public interest in Hong Kong tobacco packaging policy and public health.",
+      "share_angle": "Explain the debate over cigarette packaging design and what it means for tobacco control.",
+      "keywords": [
+        "Hong Kong",
+        "cigarette packaging",
+        "public health"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "美企为何看好“中国机遇2.0”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Why US companies are optimistic about 'China Opportunity 2.0'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu amid interest in foreign business sentiment toward China.",
+      "share_angle": "Break down the phrase 'China Opportunity 2.0' and what it signals for foreign investment.",
+      "keywords": [
+        "US companies",
+        "China Opportunity 2.0",
+        "foreign investment"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "普京抵达印度",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Putin arrives in India",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High on Baidu's hot list, reflecting interest in Russia-India diplomacy.",
+      "share_angle": "Explain the visit's context and possible agenda in neutral terms.",
+      "keywords": [
+        "Putin",
+        "India",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "AI短剧“1岁命人掌嘴4岁肃清朝堂”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "AI short drama: '1-year-old orders slaps, 4-year-old purges the court'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu, highlighting concern and curiosity about absurd AI-generated short dramas.",
+      "share_angle": "Discuss how AI tools are flooding short-video platforms with bizarre historical plots.",
+      "keywords": [
+        "AI short drama",
+        "short video",
+        "content moderation"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "开学季防病毒 这些误区要注意",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Back-to-school virus prevention: misconceptions to avoid",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Back-to-school health advice is trending as families seek practical prevention guidance.",
+      "share_angle": "Correct common misconceptions about virus prevention for students and parents.",
+      "keywords": [
+        "back to school",
+        "virus prevention",
+        "health myths"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "大学“一床难求” 高教大省出手",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "University housing shortage: major higher-education province takes action",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as students and parents discuss crowded campus housing.",
+      "share_angle": "Explain the dorm shortage and what provincial measures may mean for university expansion.",
+      "keywords": [
+        "university housing",
+        "dorm shortage",
+        "higher education"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "苹果首款天价折叠屏 被炒到了9万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Apple's first foldable screen reportedly priced at 90,000 yuan on resale market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High on Baidu's hot list amid consumer interest in Apple's foldable device and resale prices.",
+      "share_angle": "Explain the resale hype and what it says about demand for foldable tech.",
+      "keywords": [
+        "Apple",
+        "foldable screen",
+        "resale market"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "亚运会首战 中国男篮大胜哈萨克斯坦",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Asian Games opener: China men's basketball beats Kazakhstan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu after China's men's basketball team won its first Asian Games match.",
+      "share_angle": "Recap the game and what it means for China's tournament run.",
+      "keywords": [
+        "Asian Games",
+        "China men's basketball",
+        "Kazakhstan"
+      ]
+    }
+  ]
+}

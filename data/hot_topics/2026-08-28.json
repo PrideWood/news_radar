@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28T11:18:42+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 16,
+      "chinese_topic": "西藏泥石流已致5人遇难558人失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tibet mudslide leaves 5 dead and 558 missing",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The confirmed death toll and large number of missing people make this the most serious ongoing disaster story on Chinese social media.",
+      "share_angle": "Explain what is known about the Tibet mudslide, why the missing count is high, and what rescue teams are doing on the ground.",
+      "keywords": [
+        "Tibet",
+        "mudslide",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 1,
+      "chinese_topic": "中央政治局部署西藏泥石流救援工作",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "CPC leadership deploys rescue work after Tibet mudslide",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Top-level government attention signals the national importance of the disaster and shapes public expectations for rescue efforts.",
+      "share_angle": "Break down how China's disaster-response system mobilizes from central decision-making to local operations.",
+      "keywords": [
+        "Communist Party",
+        "disaster response",
+        "Tibet mudslide"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "西藏泥石流三维影像图首次公布",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "3D imagery of Tibet mudslide released for first time",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The release of 3D disaster imagery helps the public visualize the scale of the mudslide and the terrain challenges facing rescuers.",
+      "share_angle": "Use the 3D map as a visual aid to explain how geologists and rescue teams assess landslide risks.",
+      "keywords": [
+        "3D mapping",
+        "Tibet",
+        "geology"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "普热普强藏布堰塞湖水面积减少",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Water area of landslide dammed lake in Tibet decreases",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A shrinking barrier lake is a positive sign that the immediate risk of a secondary flood may be easing.",
+      "share_angle": "Explain what a landslide dammed lake is and why its water level is closely watched after major landslides.",
+      "keywords": [
+        "barrier lake",
+        "Tibet",
+        "flood risk"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "中国数据产业规模超6万亿元",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's data industry exceeds 6 trillion yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A major economic indicator shows the growing role of data-related industries in China’s digital economy.",
+      "share_angle": "Put the 6-trillion-yuan figure in context: what counts as the data industry and why it matters for jobs and innovation.",
+      "keywords": [
+        "data industry",
+        "digital economy",
+        "China economy"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "岁大三学生3年考了100个证",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Third-year college student earns 100 certificates in three years",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A student collecting 100 certificates in three years sparks debate about whether certificates boost employability or reflect credential inflation.",
+      "share_angle": "Explore different opinions: does a pile of certificates prove skills, or does it reveal pressure in China’s job market?",
+      "keywords": [
+        "college student",
+        "certificates",
+        "employability"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "常冰玉6‑3奥沙利文 中国包揽冠亚军",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chang Bingyu beats O'Sullivan 6-3 as China takes top two places",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A young Chinese player defeating a world snooker star and China sweeping the top two spots is a major sports surprise.",
+      "share_angle": "Introduce Chang Bingyu as a rising post-2000s athlete and explain the significance of the result for Chinese snooker.",
+      "keywords": [
+        "snooker",
+        "Chang Bingyu",
+        "O'Sullivan"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "中国人口出生率回落：男孩仍比女孩多",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's birth rate declines, boys still outnumber girls",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Demographic trends are a persistent public concern in China, and the gender ratio at birth remains a sensitive social issue.",
+      "share_angle": "Explain what the latest birth-rate data says, why the gender imbalance persists, and what it may mean for families and policy.",
+      "keywords": [
+        "birth rate",
+        "gender ratio",
+        "China demographics"
+      ]
+    }
+  ]
+}

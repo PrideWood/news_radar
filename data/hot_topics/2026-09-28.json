@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-28",
+  "updated_at": "2026-09-28T05:16:31+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平主席对美国进行国事访问纪实",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "President Xi Jinping's State Visit to the United States: A Documentary Recap",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A major diplomatic event between China and the United States; official recaps draw wide public attention.",
+      "share_angle": "Explain the significance of the state visit and what a state visit involves, without speculation.",
+      "keywords": [
+        "Xi Jinping",
+        "state visit",
+        "U.S.-China relations"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "亚运乒乓球女双中日争冠",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Asian Games Table Tennis Women's Doubles Final: China vs Japan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A China-Japan final at a major regional sporting event; national rivalry drives high engagement.",
+      "share_angle": "Preview the China-Japan matchup and explain what it means for table tennis rivalry.",
+      "keywords": [
+        "Asian Games",
+        "table tennis",
+        "China vs Japan"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "欧洲人发现：中国车真香",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Europeans Find Chinese Cars Impressive",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "European consumer interest in Chinese cars, especially EVs, is a key economic and trade storyline.",
+      "share_angle": "Look at why Chinese cars are gaining traction in Europe, from price to EV technology.",
+      "keywords": [
+        "Chinese cars",
+        "Europe",
+        "EV market"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "美民众热烈期盼大熊猫重返亚特兰大",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Americans Eagerly Await Giant Pandas' Return to Atlanta",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Giant pandas are a popular symbol of China-U.S. exchange; their return is widely anticipated.",
+      "share_angle": "Discuss panda diplomacy and the role of zoos in cultural exchange.",
+      "keywords": [
+        "giant pandas",
+        "Atlanta",
+        "panda diplomacy"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "女子每月花3000元跨省2小时上班：划算",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Woman Spends 3,000 Yuan a Month to Commute Two Hours Across Provinces for Work, Says It's Worth It",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A relatable lifestyle and cost-of-living topic about long-distance commuting.",
+      "share_angle": "Frame as a lifestyle and economics story about commuting costs and work-life choices.",
+      "keywords": [
+        "commuting",
+        "cost of living",
+        "work-life balance"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "教育部原副部长鲁昕被查",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Former Vice Minister of Education Lu Xin Under Investigation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Anti-corruption and education governance are public-interest topics; an official investigation draws attention.",
+      "share_angle": "Explain China's anti-corruption system and education policy oversight.",
+      "keywords": [
+        "Lu Xin",
+        "anti-corruption",
+        "education ministry"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "武契奇宣布辞职",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Vučić Announces Resignation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Leadership change in a European country with close China ties; international news interest.",
+      "share_angle": "Provide context on Serbia's political landscape and China-Serbia relations.",
+      "keywords": [
+        "Vučić",
+        "Serbia",
+        "resignation"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "多方回应五常大米造假乱象",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple Parties Respond to Wuchang Rice Counterfeiting Chaos",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Food authenticity and agricultural branding are consumer-protection concerns.",
+      "share_angle": "Explain why regional brands like Wuchang rice are vulnerable to counterfeiting and what consumers can do.",
+      "keywords": [
+        "Wuchang rice",
+        "counterfeiting",
+        "food safety"
+      ]
+    }
+  ]
+}

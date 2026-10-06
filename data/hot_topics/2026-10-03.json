@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-03",
+  "updated_at": "2026-10-03T05:11:39+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "中国第一高铁站客流又“爆”了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Passenger flow surges again at China’s busiest high-speed rail station",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Holiday travel demand and the scale of China’s high-speed rail network make station crowd levels a major public topic.",
+      "share_angle": "Explain how holiday travel peaks stress-test China’s rail system and what it means for travelers.",
+      "keywords": [
+        "high-speed rail",
+        "holiday travel",
+        "passenger flow"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "诺贝尔奖奖金上涨",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nobel Prize award amount increases",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Nobel Prize announcements draw global science interest, and changes to the prize sum add an economic angle.",
+      "share_angle": "Explain the Nobel Prize’s significance and discuss the reported increase in the award amount.",
+      "keywords": [
+        "Nobel Prize",
+        "science",
+        "award"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "老外逛华强北空手来拖箱走",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Foreign visitors arrive empty-handed at Huaqiangbei and leave with suitcases",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Huaqiangbei is a global symbol of China’s electronics supply chain and cross-border shopping.",
+      "share_angle": "Look at how foreign buyers experience Shenzhen’s electronics market and what it says about China’s tech manufacturing and tourism.",
+      "keywords": [
+        "Huaqiangbei",
+        "electronics",
+        "Shenzhen"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "现在的酒店为什么都不查房了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Why do hotels no longer check rooms before checkout?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Hotel service changes affect many travelers and reflect broader shifts in consumer trust and operations.",
+      "share_angle": "Discuss changing hotel checkout practices, technology, and customer-service expectations.",
+      "keywords": [
+        "hotels",
+        "travel",
+        "consumer service"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "韩国“梦之队”完败给中国队",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Korean 'dream team' loses decisively to Chinese team",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "China-Korea sports matchups often attract intense attention, especially when a heavily promoted team loses.",
+      "share_angle": "Cover the result carefully and explain the rivalry without overstating details not in the headline.",
+      "keywords": [
+        "sports",
+        "China",
+        "South Korea"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "四川一公司国庆节不放假被举报不实",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Report that a Sichuan company skipped the National Day holiday is untrue",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Holiday work rules and labor complaints are sensitive livelihood issues during National Day.",
+      "share_angle": "Explain the labor-law context and how online claims can be debunked or misreported.",
+      "keywords": [
+        "labor",
+        "National Day",
+        "misinformation"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "一座商场挤停了一个地铁站",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Crowd surge at a shopping mall halts a subway station",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Large holiday crowds and urban transport safety are practical public concerns.",
+      "share_angle": "Discuss crowd management, holiday shopping, and subway safety planning.",
+      "keywords": [
+        "crowd safety",
+        "subway",
+        "shopping mall"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "一家三口吃清洗过的鸡蛋后集体中毒",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Family of three suffers food poisoning after eating washed eggs",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Food safety and egg handling are practical household health topics.",
+      "share_angle": "Explain safe egg storage and handling, noting uncertainty about the specific cause.",
+      "keywords": [
+        "food safety",
+        "eggs",
+        "health"
+      ]
+    }
+  ]
+}

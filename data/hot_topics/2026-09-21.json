@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-21",
+  "updated_at": "2026-09-21T04:49:59+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 5,
+      "chinese_topic": "预制菜风波一年 “倒闭”缠住西贝",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A year after the prepared-food controversy, Xibei is dogged by 'closure' talk",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; touches on food-industry reputation, prepared dishes, and restaurant business pressures.",
+      "share_angle": "Explain the prepared-food debate and what the 'closure' narrative means for restaurant chains and consumers, without asserting unverified financial details.",
+      "keywords": [
+        "prepared food",
+        "Xibei",
+        "restaurant industry"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "吸烟 取消学费减免",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Smoking and the cancellation of tuition fee reductions",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; raises questions about student conduct rules, tuition waivers, and campus policy.",
+      "share_angle": "Break down the policy debate: should smoking affect scholarships or tuition reductions, and how do universities enforce conduct rules?",
+      "keywords": [
+        "smoking",
+        "tuition reduction",
+        "campus policy"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "歼-35A官方代号正式公布",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Official designation for the J-35A announced",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; public interest in China's military aviation and official aircraft designations.",
+      "share_angle": "Explain what an official aircraft designation means and why the J-35A name matters for public and defense watchers, based only on the headline.",
+      "keywords": [
+        "J-35A",
+        "military aviation",
+        "official designation"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "不学医也能拿医师证？两地回应",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Can people without medical study get a physician license? Two localities respond",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; touches on medical licensing standards, public health, and regulatory response.",
+      "share_angle": "Explain the licensing question and the two local responses as a case study in how medical credentials are regulated.",
+      "keywords": [
+        "physician license",
+        "medical education",
+        "regulatory response"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "护学岗全是老年人 “自愿”能实现吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "School safety patrols staffed by elderly people: can 'voluntary' service be sustained?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; highlights aging communities, school safety, and the limits of volunteer labor.",
+      "share_angle": "Discuss the tension between relying on elderly volunteers for school safety and the meaning of genuine voluntary service.",
+      "keywords": [
+        "school safety",
+        "elderly volunteers",
+        "volunteerism"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "一天11枚金牌！这是中国队的金牌速度",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "11 gold medals in one day: Team China's gold-medal pace",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; sports fans are focused on China's medal haul and competition momentum.",
+      "share_angle": "Summarize the day's medal achievements and what a multi-gold day signals for Team China's performance.",
+      "keywords": [
+        "Team China",
+        "gold medals",
+        "sports"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "为省燃气买“聚能环”妻儿中毒死亡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "To save gas, family buys an 'energy ring'; wife and children die of poisoning",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; raises consumer safety concerns around gas-saving devices and household gas safety.",
+      "share_angle": "Use the case to discuss product safety, gas appliance risks, and how to evaluate energy-saving claims, without adding unverified details.",
+      "keywords": [
+        "gas safety",
+        "energy-saving device",
+        "consumer protection"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "装了智能门铃发现邻居总来蹭鞋泥",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "After installing a smart doorbell, resident discovers neighbor frequently coming to wipe off shoe mud",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu; combines smart-home technology, neighborly disputes, and everyday privacy questions.",
+      "share_angle": "Talk about smart doorbell adoption, doorstep etiquette, and how home cameras can surface awkward neighbor behavior.",
+      "keywords": [
+        "smart doorbell",
+        "neighbor dispute",
+        "home technology"
+      ]
+    }
+  ]
+}

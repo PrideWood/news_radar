@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-23",
+  "updated_at": "2026-09-23T04:39:38+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 8,
+      "chinese_topic": "教育部：学位跟着人口走",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Ministry of Education: degree allocations to follow population trends",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Education planning and demographic change are high public-interest topics.",
+      "share_angle": "Explain how population shifts may affect school places, degree quotas, and education planning.",
+      "keywords": [
+        "education",
+        "degree supply",
+        "demographics"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "中国民企500强彰显韧性活力",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's top 500 private enterprises show resilience and vitality",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The annual ranking highlights the role and performance of private companies.",
+      "share_angle": "Break down what the ranking reflects about private-sector confidence and the economy.",
+      "keywords": [
+        "private enterprises",
+        "resilience",
+        "China economy"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "添加等于更安全、更健康吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Does 'added' mean safer or healthier?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Consumers often debate whether additives or added ingredients improve safety and health.",
+      "share_angle": "Help viewers read health and additive claims critically.",
+      "keywords": [
+        "additives",
+        "health claims",
+        "consumer safety"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "“China Haul”火了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "'China Haul' goes viral",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A social-media shopping trend is drawing attention to Chinese consumer goods.",
+      "share_angle": "Explain the trend and what it says about cross-border e-commerce and consumer culture.",
+      "keywords": [
+        "China Haul",
+        "cross-border e-commerce",
+        "consumer trends"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "国庆将至 各地节日氛围陆续“上线”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "National Day approaches as festive atmosphere rolls out across China",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Holiday travel, celebrations, and consumer activity are timely public topics.",
+      "share_angle": "Preview how cities are preparing for the National Day holiday and what travelers should know.",
+      "keywords": [
+        "National Day",
+        "holiday travel",
+        "festive events"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "A股年内最低价新股开盘大涨580.75%",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A-share's lowest-priced new stock of the year opens up 580.75%",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A sharp first-day IPO rally draws retail-investor attention.",
+      "share_angle": "Explain IPO pricing, first-day volatility, and investment risks.",
+      "keywords": [
+        "A-share",
+        "IPO",
+        "stock market"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "核载31吨装了123吨 司机叫冤",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Truck rated for 31 tonnes carried 123 tonnes; driver says he is wronged",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The extreme-overload case raises road-safety and enforcement questions.",
+      "share_angle": "Discuss truck safety, overloading incentives, and enforcement debates.",
+      "keywords": [
+        "road safety",
+        "overloading",
+        "logistics"
+      ]
+    },
+    {
+      "rank": 1,
+      "chinese_topic": "跨越山海续写“鼓岭情缘”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "'Kuliang friendship' story continues across mountains and seas",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A cross-cultural friendship story resonates as a positive public topic.",
+      "share_angle": "Explore the local history and people-to-people exchange behind the Kuliang story.",
+      "keywords": [
+        "Kuliang",
+        "cross-cultural exchange",
+        "friendship"
+      ]
+    }
+  ]
+}

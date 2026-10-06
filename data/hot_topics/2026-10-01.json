@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-01",
+  "updated_at": "2026-10-01T05:44:27+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 4,
+      "chinese_topic": "我爱你中国！庆祝新中国成立77周年",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Celebrating the 77th Anniversary of the Founding of the People's Republic of China",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "National Day 2026 marks the 77th anniversary of the PRC's founding, and patriotic tributes dominate search traffic on October 1. Related holiday-celebration topics also trend in the same list.",
+      "share_angle": "Explain what National Day means in China today: the official ceremonies, how ordinary people mark the week-long holiday, and why patriotic content surges every October 1.",
+      "keywords": [
+        "National Day",
+        "PRC anniversary",
+        "patriotism"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "华为Mate90系列价格",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Huawei Mate 90 Series Pricing Draws Attention",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Pricing is the most-searched detail whenever Huawei launches a flagship lineup, and it feeds wider discussion of China's premium smartphone competition and consumer spending.",
+      "share_angle": "Walk viewers through why Huawei flagship pricing is treated as a national tech story — chip supply, brand positioning, and how it compares with rivals at home and abroad. Note that only the pricing topic is trending; confirm figures before quoting.",
+      "keywords": [
+        "Huawei",
+        "Mate 90",
+        "smartphone pricing"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "年全国办理结婚登记676.5万对",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nationwide Marriage Registrations Reported at 6.765 Million Couples",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Marriage numbers are a closely watched social indicator tied to birth rates, housing demand and family policy. The trending headline omits the year, so the reporting period should be confirmed before citing.",
+      "share_angle": "Use the figure as a hook to explain China's marriage-rate debate: what drives the trend, how policy has responded, and why demographers watch it so closely.",
+      "keywords": [
+        "marriage registrations",
+        "demographics",
+        "birth rate"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "成都天府广场6.2万人观看升旗仪式",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "62,000 Attend Flag-Raising Ceremony at Chengdu Tianfu Square",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Mass flag-raising ceremonies on National Day morning are a recurring holiday scene, and the Chengdu turnout gives the story a concrete, visual local angle.",
+      "share_angle": "Show how National Day is observed outside Beijing — city-level ceremonies, crowd turnout, and the travel patterns of the holiday week.",
+      "keywords": [
+        "Chengdu",
+        "flag-raising",
+        "National Day holiday"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "中国选手0.002秒之差无缘冠军",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese Athlete Misses Title by 0.002 Seconds",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A margin of two thousandths of a second is a dramatic, shareable sports result and fits the National Day holiday mood of following Chinese athletes.",
+      "share_angle": "Use the near-miss to explain how timing is measured in the sport involved and what such razor-thin margins mean for athletes and rankings. The headline does not name the event or athlete, so verify before stating specifics.",
+      "keywords": [
+        "Chinese athlete",
+        "photo finish",
+        "sports"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "喝无醇啤酒开车不算酒驾？不实",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Claim That Non-Alcoholic Beer Does Not Count as Drunk Driving Is False",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Fact-check topics spike during long holidays when drinking and driving rise, and this one corrects a common misconception about alcohol-free products.",
+      "share_angle": "Explain why low- or no-alcohol beer can still register on a breath test, and what Chinese traffic rules say about blood-alcohol limits. Stick to the debunk in the headline unless an authoritative source is cited.",
+      "keywords": [
+        "drunk driving",
+        "non-alcoholic beer",
+        "fact check"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "农民交公粮能否视同缴社保",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Should Farmers' Historical Grain Tax Payments Count as Social Security Contributions?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It touches rural pensions and intergenerational fairness, a long-running livelihood debate that resurfaces whenever social-security policy is discussed.",
+      "share_angle": "Lay out the question viewers keep asking — whether the abolished agricultural grain tax should be treated as pension contributions — and explain the current rural pension system framework. Avoid implying any policy change without an official announcement.",
+      "keywords": [
+        "rural pensions",
+        "grain tax",
+        "social security"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "“比亚迪不是特斯拉对手”应验了吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Has the Claim That BYD Is No Match for Tesla Held Up?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Rivalry between China's largest EV maker and Tesla is a perennial debate, revived by sales figures and product news, so the topic rides on both tech and market interest.",
+      "share_angle": "Frame the comparison around publicly reported metrics — deliveries, revenue, market share, overseas expansion — and explain what such comparisons can and cannot show.",
+      "keywords": [
+        "BYD",
+        "Tesla",
+        "electric vehicles"
+      ]
+    }
+  ]
+}

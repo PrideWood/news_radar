@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-24",
+  "updated_at": "2026-08-24T13:07:23+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "印度洋发生沉船 多名中国船员失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese Crew Members Missing After Shipwreck in Indian Ocean",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A shipwreck in the Indian Ocean with Chinese crew members missing is a major international safety incident that draws immediate public concern.",
+      "share_angle": "Explain what is known so far from official reports, emphasize the need to wait for verified updates, and discuss why maritime rescue and crew safety matter.",
+      "keywords": [
+        "Indian Ocean",
+        "shipwreck",
+        "Chinese crew",
+        "maritime safety",
+        "missing"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "广西洪灾",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Guangxi Hit by Flooding",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Flooding in Guangxi threatens lives and property, and people are closely watching rescue and disaster-response efforts.",
+      "share_angle": "Give a neutral update on the flooding, stress the importance of reliable information during disasters, and explain how emergency responses are being organized.",
+      "keywords": [
+        "Guangxi",
+        "flood",
+        "disaster response",
+        "rescue",
+        "rainstorm"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "嫦娥七号为何不能过几天再发",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Why Chang'e 7 Cannot Launch a Few Days Later",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Moon missions have strict launch windows, and public curiosity about the timing offers a chance to explain orbital mechanics and mission planning.",
+      "share_angle": "Break down why lunar launch windows are so precise and how timing affects the overall mission plan.",
+      "keywords": [
+        "Chang'e 7",
+        "lunar mission",
+        "launch window",
+        "space science",
+        "China space"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "中国机器人连刷人类世界纪录",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese Robots Break Multiple Human World Records",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Robot breakthroughs are a milestone in AI and robotics, and they capture public imagination about machine capabilities.",
+      "share_angle": "Highlight the significance of recent robotics advances in China and discuss what breaking human records could mean for future applications.",
+      "keywords": [
+        "robot",
+        "world record",
+        "AI",
+        "robotics",
+        "China tech"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "教育部：一年级不布置书面家庭作业",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Ministry of Education: No Written Homework for First Graders",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Homework policy directly affects families and fuels debate about academic pressure on young children.",
+      "share_angle": "Examine the policy intention and practical questions for parents and schools, and connect it to broader efforts to reduce homework burden.",
+      "keywords": [
+        "education policy",
+        "homework",
+        "first grade",
+        "Ministry of Education",
+        "burden reduction"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "有单位违规发放工资津贴突击花钱",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Some Units Found Illegally Issuing Salaries and Subsidies and Rushing Spending",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "News about irregular pay and spending by public institutions touches on fiscal discipline and oversight of public money.",
+      "share_angle": "Explain what kinds of violations are typically flagged in audits and why checks on public spending matter.",
+      "keywords": [
+        "public spending",
+        "salaries",
+        "subsidies",
+        "audit",
+        "fiscal discipline"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "中国女排3比0横扫伊朗队",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China Women's Volleyball Team Sweeps Iran 3-0",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The national women's volleyball team is a source of pride, and a clear win stirs excitement among fans.",
+      "share_angle": "Recap the result and discuss the team's momentum and what the win signals for upcoming competitions.",
+      "keywords": [
+        "Chinese women's volleyball",
+        "Iran",
+        "3-0",
+        "volleyball",
+        "Team China"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "回应无座票二等座同价",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Railway Responds to Concern Over No-Seat Tickets Priced Same as Second-Class Seats",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Ticket pricing affects millions of train passengers and has sparked discussion about fairness and service quality.",
+      "share_angle": "Explain both sides of the pricing issue and how the railway operator has responded, while focusing on consumer concerns.",
+      "keywords": [
+        "no-seat ticket",
+        "second-class seat",
+        "train fare",
+        "China Railway",
+        "consumer rights"
+      ]
+    }
+  ]
+}

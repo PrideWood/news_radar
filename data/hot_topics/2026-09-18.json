@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-18",
+  "updated_at": "2026-09-18T04:36:48+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 16,
+      "chinese_topic": "回应“国庆期间高铁涨价”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China Railway responds to 'National Day high-speed rail price hike'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Public concern over holiday travel costs and rail pricing.",
+      "share_angle": "Explain how holiday rail pricing works, why fare changes draw attention, and what travelers should know.",
+      "keywords": [
+        "National Day travel",
+        "high-speed rail",
+        "ticket prices"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "中国房地产进入存量时代",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's real estate market enters a stock-based era",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Housing remains a major economic and livelihood issue in China.",
+      "share_angle": "Explain the shift from new construction to existing housing and what it means for buyers, developers, and local economies.",
+      "keywords": [
+        "real estate",
+        "China economy",
+        "housing market"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "宁德时代 至暗时刻",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "CATL's 'darkest moment' trends online",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "CATL is a leading EV battery maker, and its challenges draw attention to the EV supply chain.",
+      "share_angle": "Explain CATL's role, current pressures, and what they signal for the EV battery industry.",
+      "keywords": [
+        "CATL",
+        "EV batteries",
+        "industry pressure"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "一个智能药盒卖3900元",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A smart pill box sells for 3,900 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Health technology pricing and elderly care are growing public concerns.",
+      "share_angle": "Look at smart health devices for aging populations and the debate over price versus value.",
+      "keywords": [
+        "smart health",
+        "elderly care",
+        "consumer tech"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "新生入学被强制要求填写父母收入",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "New students required to fill in parents' income",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Education equity and privacy are sensitive topics for families.",
+      "share_angle": "Discuss school data collection, privacy, and fairness in education.",
+      "keywords": [
+        "education",
+        "privacy",
+        "school policy"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "新疆阿勒泰34万余只羊排队洗香香",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Over 340,000 sheep in Altay, Xinjiang queue up for washing",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A vivid rural scene from Xinjiang that blends travel, agriculture, and animal care.",
+      "share_angle": "Introduce Altay's pastoral culture and why large-scale sheep washing happens.",
+      "keywords": [
+        "Xinjiang",
+        "Altay",
+        "agriculture"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "九一八事变爆发95周年",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "95th anniversary of the September 18 Incident",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A major historical anniversary widely commemorated in China.",
+      "share_angle": "Explain the Mukden Incident, its historical context, and how it is remembered today.",
+      "keywords": [
+        "September 18 Incident",
+        "history",
+        "remembrance"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "婚服29.9元婚车自家车 极简婚礼火了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Minimalist wedding goes viral: 29.9-yuan dress and family car",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Young people's changing attitudes toward wedding spending and consumption.",
+      "share_angle": "Explore the trend of low-cost, meaningful weddings amid economic and cultural shifts.",
+      "keywords": [
+        "minimalist wedding",
+        "consumption",
+        "youth culture"
+      ]
+    }
+  ]
+}

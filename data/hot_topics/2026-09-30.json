@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-30",
+  "updated_at": "2026-09-30T05:26:26+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平出席向人民英雄敬献花篮仪式",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xi Jinping attends ceremony to present flower baskets to people's heroes",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Top-ranked Baidu hot topic; an official ceremony honoring people's heroes draws broad national attention.",
+      "share_angle": "Explain what the ceremony is and why official commemoration events matter in China today.",
+      "keywords": [
+        "Xi Jinping",
+        "ceremony",
+        "people's heroes"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "“免费试用”被扣738元",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "User charged 738 yuan after a \"free trial\" offer",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High-ranking Baidu consumer-rights topic; free-trial billing traps are widely relatable.",
+      "share_angle": "Walk through how \"free trial\" subscriptions can turn into charges and what users can check.",
+      "keywords": [
+        "free trial",
+        "subscription trap",
+        "consumer rights"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "中国最大淡水湖鄱阳湖水位骤降",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Water level of Poyang Lake, China's largest freshwater lake, drops sharply",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High Baidu ranking; a sharp water-level drop at a major lake raises environmental and livelihood concerns.",
+      "share_angle": "Look at why Poyang Lake's water level matters and how seasonal changes affect the region.",
+      "keywords": [
+        "Poyang Lake",
+        "water level",
+        "drought"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "台湾以东海域地震",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Earthquake strikes waters east of Taiwan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High Baidu ranking; offshore earthquakes in the region draw immediate public safety and science interest.",
+      "share_angle": "Explain basic earthquake context and why offshore quakes near Taiwan are closely monitored.",
+      "keywords": [
+        "Taiwan",
+        "earthquake",
+        "seismic activity"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "十一档新机大战",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "New smartphone battle for the National Day holiday season",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High Baidu ranking; the National Day holiday is a major consumer season for electronics in China.",
+      "share_angle": "Preview the main phone launches and what the holiday sales battle means for consumers.",
+      "keywords": [
+        "smartphones",
+        "National Day",
+        "consumer tech"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "缅甸妙瓦底电诈园公开招募成员",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Myanmar's Myawaddy scam compound openly recruits members",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High Baidu ranking; cross-border scam operations are a public safety issue with regional impact.",
+      "share_angle": "Explain how scam compounds operate and why recruitment reports raise regional concerns.",
+      "keywords": [
+        "Myawaddy",
+        "scam compound",
+        "transnational crime"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "广州楼市新政",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Guangzhou introduces a new property market policy",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High Baidu ranking; property policy is closely watched for its economic and livelihood impact.",
+      "share_angle": "Break down what Guangzhou's new policy changes and what it may mean for buyers and the market.",
+      "keywords": [
+        "Guangzhou",
+        "property policy",
+        "housing market"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "弹力袜是静脉曲张治疗神器？系夸大",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Compression socks as a \"miracle\" treatment for varicose veins? Claim is exaggerated",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High Baidu ranking; health misinformation and consumer protection around medical products draw wide interest.",
+      "share_angle": "Separate evidence from marketing claims about compression socks and varicose veins.",
+      "keywords": [
+        "compression socks",
+        "varicose veins",
+        "health misinformation"
+      ]
+    }
+  ]
+}

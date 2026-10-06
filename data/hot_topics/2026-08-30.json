@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-30",
+  "updated_at": "2026-08-30T05:19:56+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平离京出席2026年上合组织峰会",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "President Xi Jinping leaves Beijing for 2026 SCO Summit",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The president's trip to the SCO summit is a leading diplomatic story, with attention focused on regional cooperation and China's role.",
+      "share_angle": "Explain what the Shanghai Cooperation Organization is, who is attending, and what the key agenda items are.",
+      "keywords": [
+        "Xi Jinping",
+        "SCO",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "西藏泥石流已致16人遇难546人失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tibet mudslide leaves 16 dead, 546 missing",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A major mudslide in Tibet has caused a heavy death toll, with many people still missing, making it the focus of emergency response and public concern.",
+      "share_angle": "Provide a clear factual update on the confirmed figures and what is known so far.",
+      "keywords": [
+        "Tibet",
+        "mudslide",
+        "missing"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "尼泊尔泥石流灾害已致734人死亡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nepal mudslide disaster leaves 734 dead",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The scale of loss from the Nepal mudslide has made it a major international disaster story and a regional focus of concern.",
+      "share_angle": "Put the death toll in context and outline the humanitarian and rescue challenges facing Nepal.",
+      "keywords": [
+        "Nepal",
+        "mudslide",
+        "death toll"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "多地立法严控学生带手机入校",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple regions legislate strict control on students bringing phones to school",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Local rules on phones in schools have reignited a nationwide debate about education, distraction and student well-being.",
+      "share_angle": "Compare the new rules and present the arguments for and against restricting phones on campus.",
+      "keywords": [
+        "school phone ban",
+        "education",
+        "student well-being"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "宝马5系 不到27万了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "BMW 5 Series drops below 270,000 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A sudden price drop in a luxury sedan has drawn attention to the increasingly competitive auto market in China.",
+      "share_angle": "Explain what is driving the price cut and what it signals for consumers and the auto industry.",
+      "keywords": [
+        "BMW",
+        "price cut",
+        "auto market"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "余承东：新三折叠业界最薄尺寸最大",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Yu Chengdong: New tri-fold phone is industry's thinnest with largest screen",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A major tech executive's latest claim about a tri-fold phone has sparked excitement over the next step in foldable devices.",
+      "share_angle": "Break down the new device's selling points and why the foldable phone market is heating up.",
+      "keywords": [
+        "tri-fold phone",
+        "foldable phones",
+        "consumer tech"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "常冰玉10-7击败世界第一赵心童夺冠",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chang Bingyu beats world No.1 Zhao Xintong 10-7 to win title",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A high-profile snooker final produced a surprising result as Chang Bingyu defeated the world number one to take the title.",
+      "share_angle": "Recap the match and explain what the upset means for both players and the sport's growing audience in China.",
+      "keywords": [
+        "snooker",
+        "Chang Bingyu",
+        "Zhao Xintong"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "河南5人吃生鱼片全部确诊肝吸虫病",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Five people in Henan diagnosed with liver fluke disease after eating raw fish",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A food safety case involving raw fish has put the health risks of a common dining habit back in the spotlight.",
+      "share_angle": "Explain what liver fluke disease is, how raw freshwater fish can transmit it, and how to prevent infection.",
+      "keywords": [
+        "liver fluke",
+        "raw fish",
+        "food safety"
+      ]
+    }
+  ]
+}

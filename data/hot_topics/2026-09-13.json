@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-13",
+  "updated_at": "2026-09-13T04:41:41+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平会见印度总理莫迪",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xi Jinping meets Indian Prime Minister Modi",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Top trending topic on Baidu; major diplomatic meeting between China and India.",
+      "share_angle": "Explain the significance of the meeting for China-India relations and regional diplomacy, based on official readouts.",
+      "keywords": [
+        "Xi Jinping",
+        "Modi",
+        "China-India relations",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "文字失语症",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese netizens discuss 'text aphasia' and its impact on expression",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as people debate whether digital communication is eroding language skills.",
+      "share_angle": "Explore the phenomenon of 'text aphasia,' why it resonates, and tips for maintaining expressive language.",
+      "keywords": [
+        "text aphasia",
+        "language",
+        "digital communication",
+        "social media"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "服贸会见证中国服务贸易焕新升级",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "CIFTIS witnesses upgrade of China's service trade",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as the China International Fair for Trade in Services highlights economic developments.",
+      "share_angle": "Break down what CIFTIS is, key sectors in China's service trade, and why it matters for global business.",
+      "keywords": [
+        "CIFTIS",
+        "service trade",
+        "China economy",
+        "trade fair"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "年轻人开始规划提前退休了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Young Chinese people begin planning for early retirement",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as discussions about work-life balance and financial independence grow.",
+      "share_angle": "Discuss the FIRE movement in China, generational attitudes toward work, and the feasibility of early retirement.",
+      "keywords": [
+        "early retirement",
+        "FIRE movement",
+        "young people",
+        "work-life balance"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "敬一丹去世",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese TV host Jing Yidan reported dead",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Top trending topic on Baidu with multiple related entries; high public interest in the passing of the respected journalist.",
+      "share_angle": "Pay tribute to Jing Yidan's career in Chinese journalism and broadcasting, using verified official statements.",
+      "keywords": [
+        "Jing Yidan",
+        "CCTV",
+        "journalist",
+        "obituary"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "男生去年考上北大放弃 今年又进北大",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese student re-admitted to Peking University after giving up last year's offer",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as an inspiring story of persistence and educational choice.",
+      "share_angle": "Explore the student's decision to forgo and then reapply, and what it says about college admissions and personal determination.",
+      "keywords": [
+        "Peking University",
+        "college admission",
+        "student",
+        "education"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "“麻袋女孩”到中南大报到",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Girl nicknamed 'Sack Girl' enrolls at Zhongnan University of Economics and Law",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as a heartwarming story of a student from a humble background starting university.",
+      "share_angle": "Highlight the student's journey, the nickname's origin, and the broader conversation about educational access.",
+      "keywords": [
+        "Sack Girl",
+        "Zhongnan University",
+        "education",
+        "university enrollment"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "莱巴金娜登顶世界第一",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Elena Rybakina becomes world No. 1",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Trending on Baidu as the tennis player reaches the top WTA ranking.",
+      "share_angle": "Discuss Rybakina's rise to world No. 1, her recent performances, and what it means for women's tennis.",
+      "keywords": [
+        "Elena Rybakina",
+        "tennis",
+        "WTA",
+        "world No. 1"
+      ]
+    }
+  ]
+}

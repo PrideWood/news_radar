@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-27",
+  "updated_at": "2026-08-27T09:39:00+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "李强抵达西藏吉隆指导抢险救灾工作",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Premier Li Qiang arrives in Gyirong, Xizang to guide disaster relief work",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A severe disaster in Gyirong drew a top-level government response, and the premier's on-site presence made relief efforts a national focus.",
+      "share_angle": "Use the story to explain how China coordinates large-scale disaster response and why border towns like Gyirong require special attention.",
+      "keywords": [
+        "Premier Li Qiang",
+        "Gyirong",
+        "Xizang",
+        "disaster relief",
+        "emergency response"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "西藏泥石流已致3人遇难558人失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xizang mudslide leaves 3 dead and 558 unaccounted for",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The unusually high number of unaccounted-for people makes this a rapidly evolving disaster story and a top public concern.",
+      "share_angle": "Clarify the scale of the disaster, rescue difficulties, and how terms like 'unaccounted for' are used in official reporting.",
+      "keywords": [
+        "Xizang",
+        "mudslide",
+        "missing",
+        "landslide",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "江西省省长叶建春被查",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Jiangxi Governor Ye Jianchun placed under investigation",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A sitting provincial governor being publicly named in an anti-corruption investigation is a major political story in China.",
+      "share_angle": "Explain the standard anti-corruption procedure and stress that conclusions should wait for official announcements.",
+      "keywords": [
+        "Jiangxi",
+        "Ye Jianchun",
+        "anti-corruption",
+        "investigation",
+        "China politics"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "中方：尼泊尔一侧失联中国公民近百人",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China says nearly 100 Chinese citizens unaccounted for on Nepal side",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The safety of overseas Chinese citizens is an emotional topic, especially when many people are unaccounted for after flooding in Nepal.",
+      "share_angle": "Focus on consular protection, cross-border rescue challenges, and practical advice for nationals in disaster-hit areas.",
+      "keywords": [
+        "Chinese citizens",
+        "Nepal",
+        "consular protection",
+        "floods",
+        "unaccounted for"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "尼泊尔山洪死亡人数升至270人",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Death toll from flash floods in Nepal rises to 270",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The mounting human toll in Nepal highlights the severity of the Himalayan flood disaster and draws regional attention.",
+      "share_angle": "Use this to show the disaster's regional significance and the humanitarian challenges facing Nepal.",
+      "keywords": [
+        "Nepal",
+        "flash floods",
+        "death toll",
+        "humanitarian",
+        "South Asia"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "人民币买卖新规来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "New rules on RMB purchase and sale take effect",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Currency rules affect foreign exchange, investment, and daily financial choices, so the new regulation quickly sparked public questions.",
+      "share_angle": "Explain the practical impact of the new RMB rules on individuals and businesses without giving financial advice.",
+      "keywords": [
+        "RMB",
+        "currency rules",
+        "foreign exchange",
+        "China economy",
+        "finance"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "人民日报：“维权”岂能当生意",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "People's Daily: Rights protection should not become a business",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "An official newspaper commentary on the commercialization of rights protection triggered debate over consumer activism and abuse of legal claims.",
+      "share_angle": "Translate the editorial's argument and present balanced views on where legitimate consumer rights end and profit-driven claims begin.",
+      "keywords": [
+        "People's Daily",
+        "rights protection",
+        "consumer activism",
+        "editorial",
+        "China"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "填志愿和父母吵了18年来最厉害的架",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Student says college application triggered biggest fight with parents in 18 years",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It is college application season in China, and family disagreements over schools and majors resonate with millions of students and parents.",
+      "share_angle": "Explore the generational gap in education choices and the pressure Chinese families face during application season.",
+      "keywords": [
+        "college application",
+        "gaokao",
+        "family",
+        "education",
+        "youth"
+      ]
+    }
+  ]
+}

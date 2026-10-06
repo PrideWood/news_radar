@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-09",
+  "updated_at": "2026-09-09T04:35:25+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 4,
+      "chinese_topic": "服贸会今日开幕",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China International Fair for Trade in Services opens in Beijing today",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The fair is a major annual event for global trade in services, and its opening is a top economy-and-policy topic on Chinese social media.",
+      "share_angle": "Use it to explain what CIFTIS is, why services trade matters to China and other economies, and what industries are being showcased.",
+      "keywords": [
+        "CIFTIS",
+        "trade in services",
+        "Beijing",
+        "economy",
+        "opening-up"
+      ]
+    },
+    {
+      "rank": 13,
+      "chinese_topic": "香港首任特首董建华逝世",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tung Chee-hwa, Hong Kong's first chief executive, passes away",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Tung Chee-hwa was a historic figure as the first chief executive of the Hong Kong Special Administrative Region, so his death dominates news feeds.",
+      "share_angle": "Recount his role in Hong Kong's early years after the handover and note the broad reactions without speculating on private details.",
+      "keywords": [
+        "Tung Chee-hwa",
+        "Hong Kong",
+        "first chief executive",
+        "obituary"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "华为小米抢先苹果把折叠屏卖到2万元",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Huawei and Xiaomi race ahead of Apple with foldable phones priced around 20,000 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Foldable phones are a visible premium smartphone battleground, and Chinese brands pricing them near 20,000 yuan before Apple sparks a wide tech debate.",
+      "share_angle": "Compare the foldable strategies of Huawei, Xiaomi and Apple, and explain why premium pricing and hardware design matter in the Chinese market.",
+      "keywords": [
+        "foldable phones",
+        "Huawei",
+        "Xiaomi",
+        "Apple",
+        "premium smartphones"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "航天员在太空烤上了小蛋糕",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese astronauts bake small cakes in space",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Space life videos are always popular, and seeing astronauts bake small cakes adds a warm, human angle to orbital science.",
+      "share_angle": "Explain how baking works in microgravity and why food experiments matter for long-duration space missions.",
+      "keywords": [
+        "space station",
+        "astronauts",
+        "microgravity",
+        "space food"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "郑钦文父亲：这个时候的她最可怕",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Zheng Qinwen's father says she is most formidable at this moment",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Zheng Qinwen is one of the most followed Chinese athletes, so her father's comment about her mental edge quickly becomes a sports conversation online.",
+      "share_angle": "Use the quote to discuss what top-level tennis demands mentally and why Chinese fans track Zheng Qinwen's form closely.",
+      "keywords": [
+        "Zheng Qinwen",
+        "tennis",
+        "sports psychology",
+        "China sports"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "海底捞暴跌",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Haidilao shares plunge",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Haidilao is a well-known hotpot brand, and a sudden sharp drop attracts attention from both investors and consumers.",
+      "share_angle": "Explain what this market move means for the company and what it might or might not say about Chinese consumer sentiment.",
+      "keywords": [
+        "Haidilao",
+        "hotpot",
+        "stock market",
+        "consumer stocks"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "燃油车真卖不动了吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Are fuel-powered cars really not selling?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "With China's rapid shift toward electric vehicles, many internet users now question the future of traditional gasoline cars.",
+      "share_angle": "Use this trending question to explain the fuel-to-EV transition in China's auto market and the choices buyers face.",
+      "keywords": [
+        "fuel cars",
+        "gasoline cars",
+        "electric vehicles",
+        "auto market"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "高考数学132分 开学考只考了12分",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Student scores 132 in gaokao math but only 12 in back-to-school test",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The huge gap between an excellent gaokao math score and a very low opening-school test score touches off debate about exams, study habits and learning pressure.",
+      "share_angle": "Explain the Chinese context of gaokao and back-to-school tests, then explore why such score gaps trigger anxiety among parents and students.",
+      "keywords": [
+        "gaokao",
+        "math",
+        "back-to-school test",
+        "education"
+      ]
+    }
+  ]
+}

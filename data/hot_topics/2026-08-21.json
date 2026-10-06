@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-21",
+  "updated_at": "2026-08-21T13:05:22+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 5,
+      "chinese_topic": "多家车企因门把手安全隐患召回汽车",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple automakers recall vehicles over door handle safety defect",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Safety recalls involving several car brands directly affect consumers and trigger nationwide discussion on quality control and accountability.",
+      "share_angle": "Explain the recall trend and what it says about auto safety oversight and consumer protection in China.",
+      "keywords": [
+        "auto recall",
+        "door handle",
+        "car safety",
+        "consumer rights"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "台风沙德尔周日或升级为超强台风",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Typhoon Shadel may become a super typhoon by Sunday",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A potentially powerful typhoon heading toward affected areas raises public concern over travel disruptions, property damage and emergency preparedness.",
+      "share_angle": "Use the typhoon as a lens to show how coastal China issues warnings and prepares for extreme weather.",
+      "keywords": [
+        "typhoon",
+        "Shadel",
+        "super typhoon",
+        "disaster preparedness"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "公司把工位搬到50公里外逼员工辞职",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Company moves workspaces 50 km away, allegedly to force resignations",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The tactic of moving workplaces far away to pressure staff to quit has gone viral because it highlights job insecurity and workers' rights.",
+      "share_angle": "Frame it as a 'quiet firing' case that resonates with workers worldwide and discuss how employees can respond.",
+      "keywords": [
+        "workplace rights",
+        "quiet firing",
+        "labor dispute",
+        "China"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "湖北快递员被罚100元结束生命不实",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Claims that a Hubei courier died after being fined 100 yuan are false",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "An emotionally charged claim about a courier's death was widely shared before being denied, fueling concerns about misinformation and working conditions.",
+      "share_angle": "Use it as a case study in online rumor and fact-checking, emphasizing caution before sharing unconfirmed stories.",
+      "keywords": [
+        "misinformation",
+        "fact-check",
+        "courier",
+        "Hubei"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "经央行公告停止流通的人民币可以买卖",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "PBOC says discontinued renminbi notes are allowed to be bought and sold",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The announcement that old renminbi notes can be traded legally sparks curiosity about whether old money in drawers and collections is valuable.",
+      "share_angle": "Turn it into a guide to collecting discontinued banknotes and the rules for trading them.",
+      "keywords": [
+        "renminbi",
+        "PBOC",
+        "currency collecting",
+        "legal tender"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "微信测试“按住转文字”新功能",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "WeChat tests 'press and hold to convert voice to text' feature",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Any change to WeChat's interface affects hundreds of millions of users, and the new voice-to-text test immediately sparked debates about convenience and privacy.",
+      "share_angle": "Focus on how the feature could make voice messaging more usable and what it signals about WeChat's AI tools.",
+      "keywords": [
+        "WeChat",
+        "voice-to-text",
+        "new feature",
+        "AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "创历史新高！中国44名专家获奖",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Chinese experts win awards in record numbers: 44 honored",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A record number of Chinese specialists winning awards feeds national pride and draws attention to China's growing scientific and technical workforce.",
+      "share_angle": "Connect the awards to China's investment in research and the global race for scientific talent.",
+      "keywords": [
+        "Chinese experts",
+        "awards",
+        "scientific research",
+        "record"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "八两秤摊主怒怼顾客：不骗人我吃啥",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Vendor with short-weight scale retorts: 'If I don't cheat, what would I eat?'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The shopkeeper's blunt answer to being caught using a short-weight scale angered customers and renewed calls for stronger consumer protection.",
+      "share_angle": "Highlight the everyday impact of inaccurate scales and why market regulators step in.",
+      "keywords": [
+        "short-weight",
+        "consumer protection",
+        "market regulation",
+        "viral"
+      ]
+    }
+  ]
+}

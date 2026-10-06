@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-27",
+  "updated_at": "2026-09-27T05:12:56+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "河南一技校101名毕业生入职北大",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "101 graduates from a Henan technical school join Peking University",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It highlights vocational education outcomes and challenges assumptions about technical-school graduates and elite institutions.",
+      "share_angle": "Use it to discuss vocational training, skills-based hiring, and changing perceptions of technical education in China.",
+      "keywords": [
+        "vocational education",
+        "Peking University",
+        "Henan"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "九天揽月、向海筑能！多项工程获突破",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Breakthroughs reported in multiple engineering projects, from lunar exploration to marine energy",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It signals progress in major science and engineering fields that often draw national attention.",
+      "share_angle": "Explain what kinds of engineering milestones are involved and why they matter, while noting the headline only summarizes the breakthroughs.",
+      "keywords": [
+        "engineering",
+        "lunar exploration",
+        "marine energy"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "OpenAI再暂停最先进模型训练",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "OpenAI again pauses training of its most advanced model",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "AI safety, regulation, and the pace of frontier model development remain major global technology concerns.",
+      "share_angle": "Discuss what a pause in frontier-model training could mean for AI safety debates, without assuming details not in the headline.",
+      "keywords": [
+        "OpenAI",
+        "AI safety",
+        "frontier models"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "特斯拉一个月降价两次惹怒新车主",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tesla cuts prices twice in one month, angering new car owners",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "EV pricing and consumer fairness are closely watched in China's competitive electric-vehicle market.",
+      "share_angle": "Explain how frequent price cuts affect buyers, resale value, and competition in the EV sector.",
+      "keywords": [
+        "Tesla",
+        "EV prices",
+        "consumers"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "无糖月饼能敞开吃？误区",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Can sugar-free mooncakes be eaten freely? A common misconception",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Mid-Autumn Festival food and health claims are timely and widely shared.",
+      "share_angle": "Clarify that 'sugar-free' does not automatically mean unlimited or calorie-free, based on general nutrition principles.",
+      "keywords": [
+        "sugar-free",
+        "mooncakes",
+        "health"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "北京天空出现丁达尔光瀑",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tyndall effect 'light waterfall' appears in Beijing sky",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Unusual atmospheric light displays are visually striking and often go viral.",
+      "share_angle": "Explain the Tyndall effect and how light scattering creates such displays.",
+      "keywords": [
+        "Tyndall effect",
+        "Beijing",
+        "weather"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "自由式小轮车亚运历史首金",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Historic first Asian Games gold in freestyle BMX",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A first-ever Asian Games gold in a newer action-sport discipline draws attention.",
+      "share_angle": "Look at the rise of freestyle BMX in Asia and what a historic first gold means for the sport.",
+      "keywords": [
+        "freestyle BMX",
+        "Asian Games",
+        "gold medal"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "Claude刷新物理学世界纪录",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Claude reportedly sets a physics world record",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It touches on AI capabilities in scientific or technical tasks, a fast-moving area.",
+      "share_angle": "Discuss what kind of physics-related benchmark or record is involved, while noting the headline's claim needs confirmation.",
+      "keywords": [
+        "Claude",
+        "AI",
+        "physics"
+      ]
+    }
+  ]
+}

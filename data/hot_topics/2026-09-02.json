@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-02",
+  "updated_at": "2026-09-02T04:24:38+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "比什凯克再聚首 共赴上合新征程",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "SCO Leaders Meet Again in Bishkek for a New Chapter",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It marks another major diplomatic gathering, with regional cooperation and China's role in the Shanghai Cooperation Organization drawing wide attention.",
+      "share_angle": "Explain what the SCO is, why Bishkek matters, and what a 'new journey' could mean for member states.",
+      "keywords": [
+        "SCO",
+        "Bishkek",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "温州多地紧急通知：停课一天",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Wenzhou Issues Emergency One-Day Class Suspensions in Multiple Areas",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "An abrupt one-day school suspension directly affects families and prompts questions about safety and contingency planning.",
+      "share_angle": "Break down how Chinese cities announce emergency school closures and what it means for parents and students.",
+      "keywords": [
+        "Wenzhou",
+        "school suspension",
+        "emergency"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "这届学生的名字都很个性",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "This Generation of Students Has Very Distinctive Names",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A viral discussion about students' highly individual names taps into Chinese naming culture, generational identity and family expectations.",
+      "share_angle": "Use real-name trends to explain how Chinese parents choose names and how characters can carry cultural weight.",
+      "keywords": [
+        "Chinese names",
+        "naming culture",
+        "students"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "中国运载火箭为啥叫长征",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Why Is China's Launch Vehicle Called the Long March?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It connects aerospace engineering with a famous chapter of Chinese revolutionary history, and many people are learning the origin story for the first time.",
+      "share_angle": "Tell the story behind the Long March rocket name and what it symbolizes in China's space program.",
+      "keywords": [
+        "Long March",
+        "rocket",
+        "China space"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "吉隆口岸核心区救援通道已抢通",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Rescue Passage Opened in Core Area of Gyirong Port",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Rescue access in the Gyirong Port area is seen as vital progress amid ongoing disaster response, and the public is following updates closely.",
+      "share_angle": "Explain where Gyirong Port is, why the rescue passage matters, and how emergency access is being restored.",
+      "keywords": [
+        "Gyirong Port",
+        "rescue",
+        "disaster response"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "网红村支书因女儿重度抑郁决定辞职",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Village Party Secretary Resigns Over Daughter's Severe Depression",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A viral village official's resignation puts a personal face on severe depression and ignites conversations about mental health, parenting and public roles.",
+      "share_angle": "Frame it as a conversation starter about mental health awareness and the pressures faced by parents in public life.",
+      "keywords": [
+        "mental health",
+        "depression",
+        "village official"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "全国小学初中已全部替换新教材",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "New Textbooks Fully Rolled Out Across Primary and Junior High Schools Nationwide",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The full switch to new textbooks affects millions of students and teachers at the start of the school year, making education policy a household subject.",
+      "share_angle": "Highlight what the new textbook rollout means for students and how curriculum updates reflect broader educational goals.",
+      "keywords": [
+        "textbooks",
+        "education reform",
+        "school year"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "“药中茅台”片仔癀跌落神坛",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Pien Tze Huang, Known as 'Medicine Moutai,' Falls From Pedestal",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The fall of a once-iconic traditional Chinese medicine brand, called the 'Moutai of medicines,' sparks discussion about its products, pricing and reputation.",
+      "share_angle": "Introduce Pien Tze Huang's status in China and what its decline reveals about the traditional Chinese medicine industry.",
+      "keywords": [
+        "Pien Tze Huang",
+        "traditional Chinese medicine",
+        "market"
+      ]
+    }
+  ]
+}

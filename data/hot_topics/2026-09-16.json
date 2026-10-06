@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-16",
+  "updated_at": "2026-09-16T04:43:51+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平致吉林大学建校80周年的贺信",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xi Jinping sends congratulatory letter on the 80th anniversary of Jilin University",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A top leader’s letter to a major Chinese university draws national attention and highlights higher-education milestones.",
+      "share_angle": "Use it to explain the role of official congratulatory letters and China’s higher-education anniversaries in English.",
+      "keywords": [
+        "Xi Jinping",
+        "Jilin University",
+        "higher education"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "电动汽车充电不花钱 多地试点",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple regions pilot free charging for electric vehicles",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Free EV charging pilots could lower running costs and influence consumer adoption of electric cars.",
+      "share_angle": "Explain how charging costs fit into China’s EV adoption story and what local pilots may signal.",
+      "keywords": [
+        "electric vehicles",
+        "charging",
+        "pilot program"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "影院不再只放电影",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Cinemas diversify beyond film screenings",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Cinemas exploring non-film uses reflects changing entertainment consumption and pressure on traditional movie theaters.",
+      "share_angle": "Discuss how Chinese cinemas are adapting their business models beyond box-office screenings.",
+      "keywords": [
+        "cinemas",
+        "movie theaters",
+        "business model"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "“订单绕了一圈还是回到中国”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "“Orders that went around the world came back to China”",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Supply-chain shifts and manufacturing competitiveness are closely watched amid global trade changes.",
+      "share_angle": "Break down why some orders may return to China and what it says about supply chains and manufacturing.",
+      "keywords": [
+        "orders",
+        "supply chain",
+        "manufacturing"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "昔日“彩电大王”要退市了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Former “color TV king” faces delisting",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The delisting of a once-iconic TV brand highlights market competition and industrial change in China’s consumer electronics sector.",
+      "share_angle": "Use it to explain how once-dominant consumer brands can decline as markets and technology shift.",
+      "keywords": [
+        "color TV",
+        "delisting",
+        "consumer electronics"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "南京一高校学生大晚上排长队洗澡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "University students in Nanjing queue late at night for showers",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Campus living conditions and student welfare are common public concerns in China.",
+      "share_angle": "Discuss campus facilities and how students’ daily experiences can become national talking points.",
+      "keywords": [
+        "university",
+        "students",
+        "campus facilities"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "小伙211毕业卖手机第1个月赚3万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "211 graduate earns 30,000 yuan in first month selling phones",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Youth employment and non-traditional career paths attract widespread discussion in China.",
+      "share_angle": "Explore changing attitudes toward elite university graduates, blue-collar work, and income expectations.",
+      "keywords": [
+        "youth employment",
+        "211 university",
+        "career path"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "A股大反攻",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "A-shares stage major rebound",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Stock market moves affect household wealth, investor sentiment, and broader economic confidence.",
+      "share_angle": "Explain what a broad A-share rebound means for Chinese investors and economic sentiment.",
+      "keywords": [
+        "A-shares",
+        "stock market",
+        "rebound"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-02",
+  "updated_at": "2026-10-02T05:28:38+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 13,
+      "chinese_topic": "房贷贴息落地 客户房东都坐不住了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Mortgage interest subsidies take effect, drawing attention from clients and landlords",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Housing costs and mortgage relief are high-interest livelihood issues; the Chinese topic indicates policy implementation and strong market reaction.",
+      "share_angle": "Explain what mortgage interest subsidies mean for buyers and landlords, while noting that details depend on official announcements.",
+      "keywords": [
+        "mortgage",
+        "housing",
+        "subsidy"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "Mate90登场 能打苹果的还得是华为",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Huawei Mate90 debuts, seen as a challenger to Apple",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Huawei product launches are major Chinese technology and consumer-market events, and comparisons with Apple draw wide attention.",
+      "share_angle": "Discuss the Mate90 launch and the competitive dynamics between Huawei and Apple in the premium smartphone market.",
+      "keywords": [
+        "Huawei",
+        "Mate90",
+        "Apple"
+      ]
+    },
+    {
+      "rank": 23,
+      "chinese_topic": "越查事越大 OpenAI发失控智能体警报",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "OpenAI issues alert over out-of-control AI agents amid widening scrutiny",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "AI safety and agent governance are global tech-policy topics; the headline links an OpenAI alert with escalating scrutiny.",
+      "share_angle": "Explain the concept of runaway AI agents and why safety alerts matter, while noting details are limited from the headline alone.",
+      "keywords": [
+        "OpenAI",
+        "AI agents",
+        "safety"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "普京：买吧 中国汽车又便宜又好",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Putin: Buy Chinese cars — they are cheap and good",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Chinese auto exports are a major economic story, and a high-profile foreign leader's remark adds geopolitical and trade interest.",
+      "share_angle": "Look at why Chinese cars are competitive internationally and how such comments fit into the global auto market.",
+      "keywords": [
+        "Putin",
+        "Chinese cars",
+        "auto exports"
+      ]
+    },
+    {
+      "rank": 15,
+      "chinese_topic": "机器人进店卖锅 3天业绩超200万元",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Robot sells pans in store, generating over 2 million yuan in 3 days",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Robotics in retail is a concrete technology-and-commerce story with a striking sales figure.",
+      "share_angle": "Explore how service robots are being used in sales and what this case suggests about automation in retail.",
+      "keywords": [
+        "robot",
+        "retail",
+        "sales"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "“充电至80%必须离场”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "‘Must leave after charging to 80%’ rule sparks discussion",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "EV charging rules and infrastructure etiquette affect a growing number of drivers and are a practical livelihood topic.",
+      "share_angle": "Explain the debate over the 80% charging rule and what it means for EV users and charging-station operators.",
+      "keywords": [
+        "EV charging",
+        "80%",
+        "policy"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "女子扒车门阻止高铁关门 官方通报",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Woman blocks high-speed train door; official notice issued",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Rail safety and passenger behavior are public-interest topics, and an official notice signals regulatory attention.",
+      "share_angle": "Explain the incident and official response without speculating beyond the headline, focusing on rail safety rules.",
+      "keywords": [
+        "high-speed rail",
+        "safety",
+        "official notice"
+      ]
+    },
+    {
+      "rank": 11,
+      "chinese_topic": "孙继海：国足踢法违背了基本原则",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Sun Jihai: National football team’s style violates basic principles",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Football tactics and national-team performance consistently draw strong public interest in China.",
+      "share_angle": "Break down Sun Jihai’s criticism in plain English and what it says about the national team’s tactical approach.",
+      "keywords": [
+        "football",
+        "Sun Jihai",
+        "tactics"
+      ]
+    }
+  ]
+}

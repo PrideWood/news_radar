@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-04",
+  "updated_at": "2026-10-04T05:44:55+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 11,
+      "chinese_topic": "系外行星无线电信号首次被捕获",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Radio signal from an exoplanet reportedly captured for the first time",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A rare astronomy claim with broad global curiosity; headline-level interest centers on whether this marks a first in exoplanet observation.",
+      "share_angle": "Explain why a detected radio signal from an exoplanet would matter, and clearly flag that the Chinese topic only reports a claimed first capture without further details.",
+      "keywords": [
+        "exoplanet",
+        "radio signal",
+        "astronomy"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "服务区闪充变慢充 车企们纷纷回应",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Fast charging at service areas slows down; automakers respond",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Touches EV owners' holiday travel experience and consumer expectations around charging speed, with multiple automakers drawn into the discussion.",
+      "share_angle": "Frame it as a consumer-experience and EV-infrastructure question: why advertised fast charging may not always deliver, and what automakers are saying.",
+      "keywords": [
+        "EV charging",
+        "service areas",
+        "automakers"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "金价坐“过山车”谁在入手",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Gold prices swing like a roller coaster; who is buying?",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Gold is a closely watched household asset topic, and sharp price moves prompt public debate about buying, selling and risk.",
+      "share_angle": "Use the headline as a lead to discuss why volatile gold prices attract attention and what kinds of buyers typically respond, without predicting prices.",
+      "keywords": [
+        "gold prices",
+        "household investment",
+        "market volatility"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "药品开封后没过期就能接着吃？误区",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Can opened medicine still be taken before its expiry date? A common misconception",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Everyday health-literacy issue affecting households; the expiration date is often misunderstood after a package is opened.",
+      "share_angle": "Explain the difference between shelf life and post-opening use, and encourage readers to check labels or ask pharmacists rather than rely on expiry dates alone.",
+      "keywords": [
+        "medicine safety",
+        "expiry date",
+        "health literacy"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "高铁座椅成HPV感染重灾区？医生辟谣",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Are high-speed rail seats a major source of HPV infection? Doctors debunk the claim",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Combines public transport hygiene concerns with a viral health claim, and the debunking by doctors draws wide attention.",
+      "share_angle": "Focus on how to evaluate viral health claims about public surfaces, and summarize the debunking angle without amplifying unsupported fears.",
+      "keywords": [
+        "HPV",
+        "high-speed rail",
+        "health misinformation"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "黑河早市火了 俄罗斯“常态化串门”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Heihe morning market draws attention as Russians make 'regular cross-border visits'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A lively cross-border culture and travel story from a border city, showing everyday exchanges between Chinese and Russian residents.",
+      "share_angle": "Highlight the local market and cross-border daily life angle, and explain why border-city tourism and small-scale trade attract interest.",
+      "keywords": [
+        "Heihe",
+        "cross-border exchange",
+        "morning market"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "旅居客涌入云南贵州买房",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Long-stay visitors drive home purchases in Yunnan and Guizhou",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Links lifestyle migration, tourism and regional real estate demand, a trend with economic and livelihood implications.",
+      "share_angle": "Discuss the 'slow travel' or long-stay migration trend and its effect on local housing demand, noting that the topic is a headline-level trend rather than a full market report.",
+      "keywords": [
+        "Yunnan",
+        "Guizhou",
+        "long-stay travel",
+        "housing demand"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "男子高速开智驾睡着 拍摄者发声",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Man falls asleep with assisted driving on highway; person who filmed speaks out",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Raises public safety questions about driver-assistance systems and driver responsibility, amplified by the person who filmed the scene speaking out.",
+      "share_angle": "Use it as a safety reminder about assisted driving limits and the driver's legal responsibility, avoiding speculation about the specific case.",
+      "keywords": [
+        "assisted driving",
+        "road safety",
+        "driver responsibility"
+      ]
+    }
+  ]
+}

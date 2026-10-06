@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-07",
+  "updated_at": "2026-09-07T04:34:16+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习主席中亚中东行的三点启示",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Three takeaways from President Xi Jinping's visit to Central Asia and the Middle East",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The leading Baidu item as state media distills the diplomatic significance of Xi's latest overseas trip.",
+      "share_angle": "Help overseas viewers understand why Chinese media frame the trip with these three themes and what it may signal for regional diplomacy.",
+      "keywords": [
+        "Xi Jinping",
+        "Central Asia",
+        "Middle East",
+        "diplomacy",
+        "takeaways"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "教师 手机恐惧症",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Teachers' 'phone phobia' sparks online discussion",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The phrase resonates with educators and parents, sparking debate over smartphones and the digital pressures of modern teaching.",
+      "share_angle": "Invite teachers and parents to discuss whether mobile communication has made the teaching profession more stressful.",
+      "keywords": [
+        "teachers",
+        "phone phobia",
+        "education",
+        "digital stress"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "特斯拉降价",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Tesla cuts prices",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Tesla's pricing moves in the Chinese market quickly attract attention because they affect consumers and EV competition.",
+      "share_angle": "Break down what the price cut means for car buyers and what it reveals about China's competitive electric-vehicle market.",
+      "keywords": [
+        "Tesla",
+        "price cut",
+        "electric vehicles",
+        "China auto market"
+      ]
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "人民日报曝光非法码头4年关不掉",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "People's Daily exposes illegal dock that has stayed open for four years",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "State-media reporting on an illegal dock that reportedly remained open for years raises questions about local enforcement and accountability.",
+      "share_angle": "Use the case to discuss environmental enforcement, local governance, and how watchdog journalism can push for action.",
+      "keywords": [
+        "People's Daily",
+        "illegal dock",
+        "environmental enforcement",
+        "local government"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "贵州3名未成年女孩接连失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Three underage girls reported missing in Guizhou",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "News of several minors going missing in one province has triggered widespread public concern for child safety.",
+      "share_angle": "Stress the need for verified updates when minors are involved and explain why missing-child cases draw urgent attention online.",
+      "keywords": [
+        "missing girls",
+        "Guizhou",
+        "minors",
+        "child safety"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "“毁草原种枸杞”系谣言",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Claim that goji berry planting destroyed grassland is debunked",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A viral claim about goji berry farming wrecking grassland has been debunked, spurring discussion of misinformation around agriculture and the environment.",
+      "share_angle": "Use the debunking as a case study of how rural and environmental rumors spread online and how fact-checkers respond.",
+      "keywords": [
+        "goji berry",
+        "grassland",
+        "rumor",
+        "fact-check"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "多地楼市有新变化",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Multiple Chinese cities see new changes in the property market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Housing remains a top livelihood issue, so fresh policy shifts across several cities are being watched closely by buyers and investors.",
+      "share_angle": "Explain what the varied local measures have in common and what they may mean for home buyers.",
+      "keywords": [
+        "property market",
+        "housing policy",
+        "Chinese cities",
+        "home buyers"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "国乒男单三人扎堆下半区",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Three Chinese men's table tennis players placed in the same half of the draw",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Table tennis fans are debating the draw after three Chinese men's singles players ended up in the lower half, raising the possibility of early teammate matchups.",
+      "share_angle": "Explain the draw system and how the same-half placement might affect China's medal chances and early matches.",
+      "keywords": [
+        "table tennis",
+        "men's singles",
+        "draw",
+        "China team"
+      ]
+    }
+  ]
+}

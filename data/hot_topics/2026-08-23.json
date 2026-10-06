@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-23",
+  "updated_at": "2026-08-23T12:57:14+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "总书记为何强调文和旅的融合",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "General Secretary stresses importance of integrating culture and tourism",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This is a top policy topic on Baidu, reflecting public interest in how culture and tourism are being linked under a major national strategy.",
+      "share_angle": "Explain what culture-tourism integration means, why leaders are emphasizing it now, and how it could affect travel and local development in China.",
+      "keywords": [
+        "culture",
+        "tourism",
+        "policy"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "三部门指导调查“甲醛白菜”问题",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Three departments instruct investigation into 'formaldehyde cabbage' issue",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The word 'formaldehyde' on food triggers strong consumer concern, and the three-department response signals a high-level probe.",
+      "share_angle": "Break down what the formaldehyde cabbage report involves, what investigators are checking, and what it means for vegetable safety.",
+      "keywords": [
+        "food safety",
+        "formaldehyde",
+        "inspection"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "中国汽车出口激增",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China's auto exports surge sharply",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Growing vehicle shipments are an important sign of China's manufacturing strength and an often-cited economic bright spot.",
+      "share_angle": "Examine the numbers behind China's auto export boom, the main markets, and what it says about the global car industry.",
+      "keywords": [
+        "auto exports",
+        "China economy",
+        "manufacturing"
+      ]
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "元成本卖到598元 企业被罚3.8亿",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Company fined 380 million yuan over low-cost product sold at 598 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A huge penalty over an extremely marked-up product draws attention to price gouging and consumer protection in China.",
+      "share_angle": "Explain why the company was fined, how the markup happened, and what this case shows about market regulation.",
+      "keywords": [
+        "price gouging",
+        "penalty",
+        "consumer protection"
+      ]
+    },
+    {
+      "rank": 12,
+      "chinese_topic": "飞机散云止雨加重内蒙古旱情不实",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Claim that aircraft cloud dispersal worsened Inner Mongolia drought is false",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "With parts of Inner Mongolia facing drought, a viral claim blaming aircraft only added confusion, so the clarification became hot.",
+      "share_angle": "Separate fact from rumor by explaining what the viral claim said, how weather modification works, and what the official response says.",
+      "keywords": [
+        "drought",
+        "weather modification",
+        "fact check"
+      ]
+    },
+    {
+      "rank": 22,
+      "chinese_topic": "机器人打太极上演“鲤鱼打挺”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Robot performs tai chi and a 'carp flip'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A robot combining martial arts and acrobatics is a visual hit and shows progress in robotics and AI.",
+      "share_angle": "Show the robot's moves and discuss how Chinese robotics teams are blending tradition with cutting-edge technology.",
+      "keywords": [
+        "robot",
+        "tai chi",
+        "AI technology"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "台风沙德尔有2种路径 正面影响华东",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Typhoon Sadel: two possible tracks, direct impact expected in East China",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A typhoon with an uncertain path and potential direct hit on the densely populated East China coast keeps the public on alert.",
+      "share_angle": "Walk through the two forecast scenarios, the areas at risk, and what precautions residents should take.",
+      "keywords": [
+        "typhoon",
+        "East China",
+        "disaster preparedness"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "杭州有人拍到罕见“精灵闪电”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Rare 'sprites' lightning captured in Hangzhou",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Sprites are a rarely seen upper-atmospheric phenomenon, so footage taken in Hangzhou quickly excited science fans.",
+      "share_angle": "Explain what sprites are, why they are hard to capture, and what the footage tells us about the atmosphere.",
+      "keywords": [
+        "sprites",
+        "lightning",
+        "atmosphere"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-29",
+  "updated_at": "2026-08-29T06:59:58+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "尼泊尔山洪已致626人遇难2426人失联",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Nepal flash floods leave 626 dead and 2,426 missing",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A large-scale disaster with a heavy death toll and thousands missing has drawn international attention.",
+      "share_angle": "Explain the disaster's scale, the rescue challenges, and why this is drawing global concern.",
+      "keywords": [
+        "Nepal floods",
+        "disaster",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "西藏吉隆口岸搜救加紧进行",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Rescue operations intensified at Gyirong port in Tibet",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The rescue is directly connected to disaster response and public concern for safety in the region.",
+      "share_angle": "What rescue operations at the border port involve and why Gyirong is strategically important.",
+      "keywords": [
+        "Tibet",
+        "Gyirong",
+        "rescue"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "长鑫LPDDR6内存正式量产",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "CXMT begins mass production of LPDDR6 memory",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A domestic memory chip breakthrough is a major milestone for China's technology industry.",
+      "share_angle": "Why LPDDR6 mass production matters for China's semiconductor supply chain and global competition.",
+      "keywords": [
+        "CXMT",
+        "LPDDR6",
+        "semiconductor"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "网友建议取消ETC 官方回应",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Authorities respond to public suggestion to cancel ETC",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "ETC affects millions of drivers, and the official response touches on daily commuting pain points.",
+      "share_angle": "Break down the official response and the practical issues behind ETC complaints.",
+      "keywords": [
+        "ETC",
+        "transport",
+        "official response"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "两部门发文确保：能拿房再还贷",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Two government departments issue document to ensure homebuyers can get housing before repaying loans",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Housing pre-sale rules affect homebuyers nationwide, and this policy signal has generated wide discussion.",
+      "share_angle": "What 'get the keys before paying the mortgage' would mean for homebuyers and developers.",
+      "keywords": [
+        "housing policy",
+        "homebuyers",
+        "mortgage"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "股价0.85元 “中华老字号”锁定退市",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China time-honored brand locks in delisting as share price falls to 0.85 yuan",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A well-known traditional brand facing delisting sparks discussion about brand renewal and capital markets.",
+      "share_angle": "Lessons from a legacy brand's struggle in a changing market.",
+      "keywords": [
+        "delisting",
+        "time-honored brand",
+        "stock market"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "国乒总教练回应王楚钦孙颖莎放弃参赛",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China table tennis head coach responds to Wang Chuqin and Sun Yingsha skipping event",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Fans care about top players' schedules, workload and team strategy for major competitions.",
+      "share_angle": "The coach's explanation and how elite athletes manage their competitive calendars.",
+      "keywords": [
+        "table tennis",
+        "Wang Chuqin",
+        "Sun Yingsha"
+      ]
+    },
+    {
+      "rank": 19,
+      "chinese_topic": "电话手表越来越像手机",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Children's phone watches are becoming more like smartphones",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Parents worry about screen time, distraction, and data safety, making this a broad family concern.",
+      "share_angle": "The trade-off between connectivity and child protection in smart wearable devices.",
+      "keywords": [
+        "smartwatch",
+        "children",
+        "screen time"
+      ]
+    }
+  ]
+}

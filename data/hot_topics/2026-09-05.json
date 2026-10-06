@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05T15:05:22+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "“上合大家庭”众行致远",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "The 'SCO family' advances together on a shared path",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "This is the top-trending item on Baidu and centers on official Chinese messaging about cooperation within the Shanghai Cooperation Organization.",
+      "share_angle": "Explain the phrase 'SCO family' and why Chinese internet users are seeing this diplomatic theme at the top of the hot list.",
+      "keywords": [
+        "SCO",
+        "Shanghai Cooperation Organization",
+        "diplomacy"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "DeepSeek被曝将采购16万颗华为芯片",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "DeepSeek reportedly plans to buy 160,000 Huawei chips",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It combines two names that dominate China's AI discussion: the fast-rising model maker DeepSeek and domestic chip giant Huawei.",
+      "share_angle": "Break down what a reported large-scale Huawei chip order would mean for China's AI supply chain.",
+      "keywords": [
+        "DeepSeek",
+        "Huawei",
+        "AI chips"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "新能源汽车动力电池将迎“退役潮”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Power batteries from new energy vehicles are set to enter a 'retirement wave'",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "It points to a mounting practical problem from China's rapid electric-vehicle adoption: what to do with large numbers of aging batteries.",
+      "share_angle": "Use this hook to explain China's EV boom and the emerging battery-recycling industry.",
+      "keywords": [
+        "EV batteries",
+        "battery recycling",
+        "new energy vehicles"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "生育险、长护险、医保报销迎新变化",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Maternity insurance, long-term care insurance and medical reimbursement to see new changes",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Insurance and reimbursement rules directly affect household finances, and any policy adjustment quickly becomes a livelihood topic.",
+      "share_angle": "Explain the practical impact of these insurance changes on ordinary Chinese workers and families.",
+      "keywords": [
+        "maternity insurance",
+        "long-term care insurance",
+        "healthcare"
+      ]
+    },
+    {
+      "rank": 16,
+      "chinese_topic": "长沙女子新房门窗缝隙能塞进4根手指",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Woman in Changsha says gaps in a new home's doors and windows can fit four fingers",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A vivid housing-quality complaint is striking a nerve with Chinese internet users concerned about the cost and quality of new homes.",
+      "share_angle": "Discuss the story behind the complaint and what it reveals about home-buyer rights and construction quality checks.",
+      "keywords": [
+        "housing quality",
+        "Changsha",
+        "consumer rights"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "多地精神病院更名",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Psychiatric hospitals in multiple regions are changing their names",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A wave of hospital renames around the country is prompting online discussion about mental-health stigma and public attitudes.",
+      "share_angle": "Look at why hospitals are rebranding and whether name changes can help normalize mental health care.",
+      "keywords": [
+        "psychiatric hospitals",
+        "mental health",
+        "renaming"
+      ]
+    },
+    {
+      "rank": 14,
+      "chinese_topic": "上大学前几天档案被当垃圾扔了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Student's personal record thrown away as garbage days before university enrollment",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The news touches on a subtle administrative system that still matters a great deal in China: the personal archive that follows students into adulthood.",
+      "share_angle": "Explain what a Chinese student archive is and why throwing it away can create real problems.",
+      "keywords": [
+        "student archive",
+        "personal records",
+        "university enrollment"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "吉隆泥石流发生23分钟后航拍首次公开",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "First aerial footage from the Gyirong mudslide released, shot 23 minutes after it began",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Natural disaster footage is among the most-shared content on Chinese social media, especially when it shows the first minutes of a major event.",
+      "share_angle": "Provide context on the Gyirong mudslide and explain why the aerial video became a major point of attention.",
+      "keywords": [
+        "Gyirong",
+        "mudslide",
+        "aerial footage"
+      ]
+    }
+  ]
+}

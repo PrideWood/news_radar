@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-24",
+  "updated_at": "2026-09-24T04:40:24+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平抵达美国首都华盛顿",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xi Jinping arrives in Washington, D.C.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "High-level diplomatic visit draws widespread attention as it could shape China-US relations.",
+      "share_angle": "Explain the significance of a Chinese leader visiting the US capital and what it means for bilateral ties.",
+      "keywords": [
+        "Xi Jinping",
+        "Washington",
+        "China-US relations"
+      ]
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "习近平：中美应该成为伙伴而不是对手",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Xi Jinping: China and the US should be partners, not rivals.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Direct quote from Xi on China-US relations sparks discussion on the future of bilateral ties.",
+      "share_angle": "Break down the quote and its implications for trade, security, and global cooperation.",
+      "keywords": [
+        "Xi Jinping",
+        "China-US",
+        "partnership"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "“济公”游本昌去世",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Actor You Benchang, known for 'Ji Gong', dies at 93.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Beloved actor who portrayed the iconic character Ji Gong passed away, prompting national remembrance.",
+      "share_angle": "Celebrate his legacy, from 'Ji Gong' to his final role in 'Blossoms Shanghai'.",
+      "keywords": [
+        "You Benchang",
+        "Ji Gong",
+        "obituary"
+      ]
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "升糖最快的主食不是米饭而是这6种",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "The six staple foods that raise blood sugar faster than rice.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Health-conscious netizens seek practical dietary advice on blood sugar management.",
+      "share_angle": "Explain glycemic index and which common staples to watch out for.",
+      "keywords": [
+        "blood sugar",
+        "diet",
+        "health"
+      ]
+    },
+    {
+      "rank": 10,
+      "chinese_topic": "双节假期“菜篮子”有保障",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Food supply guaranteed for upcoming double holiday.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "As holidays approach, public concerns about food availability and prices rise.",
+      "share_angle": "Discuss how China ensures stable food supply during peak holiday seasons.",
+      "keywords": [
+        "food supply",
+        "holiday",
+        "livelihood"
+      ]
+    },
+    {
+      "rank": 17,
+      "chinese_topic": "林诗栋：日本队的厚度当今最强",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Lin Shidong: Japan's team depth is currently the strongest.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Chinese table tennis star's comment on Japan's team strength sparks sports debate.",
+      "share_angle": "Analyze the competitive landscape of international table tennis.",
+      "keywords": [
+        "Lin Shidong",
+        "table tennis",
+        "Japan"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "中国队两小时连夺9金",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China wins 9 gold medals in 2 hours.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Impressive medal haul in a short period excites sports fans nationwide.",
+      "share_angle": "Highlight the achievements and the events where China dominated.",
+      "keywords": [
+        "China",
+        "gold medals",
+        "sports"
+      ]
+    },
+    {
+      "rank": 21,
+      "chinese_topic": "打一针管数月的降压疫苗要来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Hypertension vaccine that lasts months per shot is coming.",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Potential new treatment for hypertension offers convenience and sparks medical interest.",
+      "share_angle": "Explain how a long-lasting vaccine could change hypertension management.",
+      "keywords": [
+        "hypertension",
+        "vaccine",
+        "medical innovation"
+      ]
+    }
+  ]
+}

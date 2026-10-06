@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-08",
+  "updated_at": "2026-09-08T04:28:47+00:00",
+  "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+  "topics": [
+    {
+      "rank": 2,
+      "chinese_topic": "铜价“爆了”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Copper prices surge sharply",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Copper is widely followed as an economic bellwether, and the sharp price rise has drawn attention from investors, manufacturers and analysts.",
+      "share_angle": "Explain what copper prices signal about global and Chinese economic activity, and how commodity swings affect consumers.",
+      "keywords": [
+        "copper price",
+        "economy",
+        "commodities",
+        "market"
+      ]
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "数贸会一大批新技术新产品即将解锁",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Digital Trade Expo set to unveil new technologies and products",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Digital trade is a major growth area, and the upcoming expo is seen as a window into China's latest tech and product innovations.",
+      "share_angle": "Introduce what a digital trade expo is and why new technology showcases matter for businesses and global digital trade.",
+      "keywords": [
+        "digital trade",
+        "expo",
+        "technology",
+        "innovation",
+        "China"
+      ]
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "考研圈大地震！顶尖名校陆续停招学硕",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Top universities suspend academic master's programs amid graduate admission changes",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The news directly affects current and prospective postgraduate applicants in China and has reignited debate about graduate education.",
+      "share_angle": "Explain the distinction between academic and professional master's degrees in China and what this shift could mean for students.",
+      "keywords": [
+        "postgraduate entrance exam",
+        "graduate education",
+        "academic master's degree",
+        "university admissions"
+      ]
+    },
+    {
+      "rank": 9,
+      "chinese_topic": "华为、小米、苹果对决“万元机”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Huawei, Xiaomi and Apple battle in the high-end '10,000-yuan' smartphone market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "Smartphone consumers are closely comparing premium models from Chinese and global brands in an increasingly competitive high-end segment.",
+      "share_angle": "Break down how top phone makers are vying for the premium market in China and what features or services set them apart.",
+      "keywords": [
+        "Huawei",
+        "Xiaomi",
+        "Apple",
+        "smartphones",
+        "premium market"
+      ]
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "今年下半年最强冷空气来袭",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China braces for the strongest cold snap of the second half of the year",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A sharp temperature drop can affect daily life, travel, agriculture and heating preparation across large parts of China.",
+      "share_angle": "Explain how severe cold-air events are forecast and how Chinese cities usually respond to protect residents and infrastructure.",
+      "keywords": [
+        "cold wave",
+        "weather",
+        "China",
+        "temperature drop"
+      ]
+    },
+    {
+      "rank": 18,
+      "chinese_topic": "现房销售开始站上“C位”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Completed-home sales begin to take center stage in China's property market",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "As buyers worry about off-plan housing delivery, demand for ready-to-move-in homes is gaining more attention in China's property market.",
+      "share_angle": "Explain the difference between buying off-plan and completed homes, and why the shift matters for homebuyers and developers.",
+      "keywords": [
+        "property market",
+        "completed homes",
+        "housing",
+        "homebuyers"
+      ]
+    },
+    {
+      "rank": 24,
+      "chinese_topic": "物业回应禁止新能源车进地库：怕爆炸",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "Property management explains ban on new-energy vehicles in underground garages over explosion concerns",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "The topic touches on electric-vehicle safety perceptions, residential property rules and consumer rights, generating wide public discussion.",
+      "share_angle": "Use the case to explore the balance between EV adoption, safety rules and community management in Chinese cities.",
+      "keywords": [
+        "electric vehicles",
+        "EV safety",
+        "parking",
+        "property management"
+      ]
+    },
+    {
+      "rank": 20,
+      "chinese_topic": "U20女足世界杯中国队5比0大胜",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime",
+      "official_english": "China records 5-0 victory at the U-20 Women's World Cup",
+      "official_english_source": "Suggested wording",
+      "official_english_url": "",
+      "why_hot": "A dominant win by China's U-20 women's football team has excited fans and highlighted the country's next generation of women's players.",
+      "share_angle": "Highlight the result and explain why strong youth-team performances can shape the future of women's football in China.",
+      "keywords": [
+        "U20 Women's World Cup",
+        "China women's football",
+        "5-0 win",
+        "sports"
+      ]
+    }
+  ]
+}

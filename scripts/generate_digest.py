@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Generate a daily English close-reading news recommendation digest.
+"""Fetch daily news metadata and public source summaries.
 
-The script stores only metadata, links, public summaries, and teaching notes.
+The script stores only metadata, links, and public summaries.
 It intentionally does not download or persist full article text.
 """
 
@@ -18,7 +18,6 @@ import json
 import os
 import re
 import sys
-import textwrap
 import time
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -30,12 +29,6 @@ import feedparser
 import requests
 import yaml
 from bs4 import BeautifulSoup
-
-try:
-    from openai import OpenAI
-except ImportError:  # pragma: no cover - requirements installs this in CI.
-    OpenAI = None
-
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCES = ROOT / "sources.yaml"
@@ -443,8 +436,6 @@ def prefilter(
     for candidate in candidates:
         if candidate.key in seen:
             continue
-        if not is_probably_relevant(candidate):
-            continue
         unique.setdefault(candidate.key, candidate)
     grouped: dict[str, list[Candidate]] = defaultdict(list)
     for candidate in unique.values():
@@ -472,168 +463,6 @@ def prefilter(
                 if len(balanced) >= max_candidates:
                     return balanced
     return balanced
-
-
-def build_llm_prompt(candidates: list[Candidate], count: int) -> str:
-    distinct_outlets = len({candidate.outlet for candidate in candidates})
-    required_outlets = min(count, distinct_outlets)
-    payload = [
-        {
-            "id": candidate.key,
-            "title": candidate.title,
-            "outlet": candidate.outlet,
-            "publication_date": candidate.publication_date,
-            "link": candidate.link,
-            "source_topic_hint": candidate.default_topic,
-            "article_type_hint": candidate.article_type_hint,
-            "public_access_hint": candidate.public_access,
-            "public_summary_or_excerpt": candidate.summary,
-        }
-        for candidate in candidates
-    ]
-    return textwrap.dedent(
-        f"""
-        You are selecting English news/article recommendations for short close-reading videos.
-        Choose {count} articles from the candidate metadata below.
-
-        Selection goals:
-        {BALANCE_HINT}
-
-        Source-diversity requirements:
-        - Use at least {required_outlets} different outlets in the {count}-item result.
-        - Do not select more than one item from an outlet when enough distinct outlets are available.
-        - Include different geographic and editorial perspectives where the supplied candidates support it.
-
-        Topic menu:
-        {json.dumps(TARGET_TOPICS, ensure_ascii=False)}
-
-        For each selected item, return:
-        id, title, outlet, publication_date, link, topic, article_type, tone,
-        why_it_is_worth_teaching, why_ordinary_viewers_may_care, language_value,
-        suggested_video_angle, expressions_to_teach (3-5 strings),
-        estimated_difficulty (B1/B2/C1/C2), estimated_video_length (5 min/10 min/15 min),
-        publicly_accessible, priority_score (1-10).
-
-        Use only the supplied metadata and public summary/excerpt. Do not invent article facts.
-        Favor clear English, human interest, practical insight, science/culture explainers,
-        and stories with warmth, curiosity, or public-interest value.
-
-        Return strict JSON with this shape:
-        {{"recommendations":[{{...}}]}}
-
-        Candidates:
-        {json.dumps(payload, ensure_ascii=False, indent=2)}
-        """
-    ).strip()
-
-
-def call_llm(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
-    if OpenAI is None:
-        raise RuntimeError("openai package is not installed")
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set")
-
-    base_url = os.getenv("OPENAI_BASE_URL")
-    client = OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key)
-    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-    response = client.chat.completions.create(
-        model=model,
-        temperature=0.35,
-        response_format={"type": "json_object"},
-        messages=[
-            {
-                "role": "system",
-                "content": "You are a careful editor for English close-reading video lessons.",
-            },
-            {"role": "user", "content": build_llm_prompt(candidates, count)},
-        ],
-    )
-    content = response.choices[0].message.content or "{}"
-    parsed = json.loads(content)
-    recommendations = parsed.get("recommendations", [])
-    if not isinstance(recommendations, list):
-        raise RuntimeError("LLM response did not contain a recommendations list")
-    return recommendations
-
-
-def build_japanese_llm_prompt(candidates: list[Candidate], count: int) -> str:
-    distinct_outlets = len({candidate.outlet for candidate in candidates})
-    max_per_outlet = max(1, (count + distinct_outlets - 1) // distinct_outlets)
-    payload = [
-        {
-            "id": candidate.key,
-            "title": candidate.title,
-            "outlet": candidate.outlet,
-            "publication_date": candidate.publication_date,
-            "link": candidate.link,
-            "source_topic_hint": candidate.default_topic,
-            "material_type_hint": candidate.article_type_hint,
-            "public_access_hint": candidate.public_access,
-            "public_summary_or_excerpt": candidate.summary,
-        }
-        for candidate in candidates
-    ]
-    return textwrap.dedent(
-        f"""
-        You are selecting Japanese close-reading recommendations for Chinese-speaking Japanese learners.
-        Choose {count} public Japanese-language items from the candidate metadata below.
-
-        Selection goals:
-        {JAPANESE_BALANCE_HINT}
-
-        Source-diversity requirement:
-        - Use all {distinct_outlets} available outlets when possible, with no more than {max_per_outlet} selections from one outlet.
-
-        For each selected item, return:
-        id, title, outlet, publication_date, link, topic, article_type, tone,
-        why_it_is_worth_teaching, why_ordinary_viewers_may_care, language_value,
-        suggested_video_angle, expressions_to_teach (3-5 Japanese strings),
-        estimated_difficulty (N4/N3/N2/N1), estimated_video_length (5 min/10 min/15 min),
-        publicly_accessible, priority_score (1-10).
-
-        Use only the supplied metadata and public summary/excerpt. Do not invent article facts.
-        The item does not have to be hard news; public internet pages with strong language-learning value are welcome.
-        Favor useful vocabulary, natural collocations, particles, sentence endings, kanji words, polite/plain style contrasts,
-        and clear written Japanese.
-
-        Return strict JSON with this shape:
-        {{"recommendations":[{{...}}]}}
-
-        Candidates:
-        {json.dumps(payload, ensure_ascii=False, indent=2)}
-        """
-    ).strip()
-
-
-def call_japanese_llm(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
-    if OpenAI is None:
-        raise RuntimeError("openai package is not installed")
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set")
-
-    base_url = os.getenv("OPENAI_BASE_URL")
-    client = OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key)
-    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-    response = client.chat.completions.create(
-        model=model,
-        temperature=0.35,
-        response_format={"type": "json_object"},
-        messages=[
-            {
-                "role": "system",
-                "content": "You are a careful editor for Japanese close-reading lessons. Be practical, concise, and learner-focused.",
-            },
-            {"role": "user", "content": build_japanese_llm_prompt(candidates, count)},
-        ],
-    )
-    content = response.choices[0].message.content or "{}"
-    parsed = json.loads(content)
-    recommendations = parsed.get("recommendations", [])
-    if not isinstance(recommendations, list):
-        raise RuntimeError("LLM response did not contain a recommendations list")
-    return recommendations
 
 
 def decode_json_fragment(value: str) -> str:
@@ -705,90 +534,6 @@ def collect_official_english_headlines(timeout: int, limit: int = 36) -> list[di
         except Exception as exc:
             print(f"Warning: failed to fetch official English headlines from {source['outlet']}: {exc}", file=sys.stderr)
     return headlines[:limit]
-
-
-def build_hot_topics_prompt(
-    candidates: list[HotTopicCandidate],
-    official_headlines: list[dict[str, str]],
-    count: int,
-    digest_date: str,
-) -> str:
-    payload = [dataclasses.asdict(topic) for topic in candidates]
-    return textwrap.dedent(
-        f"""
-        You are preparing shareable topic leads for a Chinese creator who explains news in English.
-        Select the {count} strongest topics from today's Chinese internet hot-topic candidates.
-
-        Date: {digest_date}
-
-        Goals:
-        - Prefer public-interest, technology, education, culture, economy, science, travel, sports, or livelihood topics.
-        - Avoid pure celebrity gossip, fan-club disputes, graphic crime, and topics that cannot be responsibly summarized from a headline.
-        - If an official English headline below clearly matches a Chinese topic, use that headline and source URL.
-        - If no official match is clear, write a neutral official-style English wording and set official_english_source to "Suggested wording".
-        - Do not invent concrete facts beyond the supplied Chinese topic text and official English headlines.
-
-        Return strict JSON:
-        {{
-          "topics": [
-            {{
-              "rank": 1,
-              "chinese_topic": "...",
-              "platform": "...",
-              "heat": "...",
-              "source_url": "...",
-              "official_english": "...",
-              "official_english_source": "...",
-              "official_english_url": "...",
-              "why_hot": "...",
-              "share_angle": "...",
-              "keywords": ["...", "...", "..."]
-            }}
-          ]
-        }}
-
-        Chinese hot-topic candidates:
-        {json.dumps(payload, ensure_ascii=False, indent=2)}
-
-        Official English headline candidates:
-        {json.dumps(official_headlines, ensure_ascii=False, indent=2)}
-        """
-    ).strip()
-
-
-def call_hot_topics_llm(
-    candidates: list[HotTopicCandidate],
-    official_headlines: list[dict[str, str]],
-    count: int,
-    digest_date: str,
-) -> list[dict[str, Any]]:
-    if OpenAI is None:
-        raise RuntimeError("openai package is not installed")
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set")
-
-    base_url = os.getenv("OPENAI_BASE_URL")
-    client = OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key)
-    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-    response = client.chat.completions.create(
-        model=model,
-        temperature=0.25,
-        response_format={"type": "json_object"},
-        messages=[
-            {
-                "role": "system",
-                "content": "You are a careful bilingual news editor. Be concise, neutral, and transparent about uncertainty.",
-            },
-            {"role": "user", "content": build_hot_topics_prompt(candidates, official_headlines, count, digest_date)},
-        ],
-    )
-    content = response.choices[0].message.content or "{}"
-    parsed = json.loads(content)
-    topics = parsed.get("topics", [])
-    if not isinstance(topics, list):
-        raise RuntimeError("LLM response did not contain a topics list")
-    return topics
 
 
 def heuristic_hot_topics(candidates: list[HotTopicCandidate], count: int) -> list[dict[str, Any]]:
@@ -876,7 +621,7 @@ def write_hot_topics(path: Path, digest_date: str, topics: list[dict[str, Any]])
     payload = {
         "date": digest_date,
         "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
-        "source_note": "Chinese hot-topic candidates are collected from public trend pages; English wording is matched to supplied official English headlines when possible, otherwise suggested neutrally.",
+        "source_note": "Items are collected directly from public trend pages without model processing.",
         "topics": topics,
     }
     with path.open("w", encoding="utf-8") as handle:
@@ -934,23 +679,7 @@ def generate_hot_topics(
     candidates = collect_hot_topics(timeout)
     if not candidates:
         raise RuntimeError("No Chinese hot-topic candidates found")
-    official_headlines = collect_official_english_headlines(timeout)
-    if no_llm:
-        topics = heuristic_hot_topics(candidates, count)
-    else:
-        try:
-            topics = call_hot_topics_llm(candidates, official_headlines, count, digest_date)
-        except Exception as exc:
-            print(f"Warning: failed to generate hot topics with LLM, using fallback: {exc}", file=sys.stderr)
-            topics = heuristic_hot_topics(candidates, count)
-    topics = ensure_hot_topic_fields(topics, candidates, official_headlines)[:count]
-    if len(topics) < count:
-        used_ranks = {int(topic["rank"]) for topic in topics}
-        fallback = heuristic_hot_topics(
-            [candidate for candidate in candidates if candidate.rank not in used_ranks],
-            count - len(topics),
-        )
-        topics.extend(ensure_hot_topic_fields(fallback, candidates, official_headlines))
+    topics = [dataclasses.asdict(candidate) for candidate in candidates[:count]]
     write_hot_topics_outputs(path, hot_topics_dir, index_path, digest_date, topics)
     return topics
 
@@ -1121,78 +850,35 @@ def md_escape(value: Any) -> str:
     return text.replace("\n", " ").strip()
 
 
+def raw_items(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
+    return [{"id": candidate.key, **dataclasses.asdict(candidate)} for candidate in candidates[:count]]
+
+
 def render_digest(path: Path, digest_date: str, recommendations: list[dict[str, Any]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    lines = [
-        f"# Daily English Close-Reading Recommendations - {digest_date}",
-        "",
-        "A balanced set of public English articles for short close-reading videos. The notes are based on source metadata, links, and short public summaries/previews only.",
-        "",
-    ]
-    for index, item in enumerate(recommendations, start=1):
-        expressions = item.get("expressions_to_teach") or item.get("suggested_expressions") or []
-        if isinstance(expressions, str):
-            expressions = [expressions]
-        lines.extend(
-            [
-                f"## {index}. {md_escape(item.get('title'))}",
-                "",
-                f"- **Outlet:** {md_escape(item.get('outlet'))}",
-                f"- **Publication date:** {md_escape(item.get('publication_date') or 'Not listed')}",
-                f"- **Link:** {md_escape(item.get('link'))}",
-                f"- **Topic:** {md_escape(item.get('topic'))}",
-                f"- **Article type:** {md_escape(item.get('article_type'))}",
-                f"- **Tone:** {md_escape(item.get('tone'))}",
-                f"- **Why it is worth teaching:** {md_escape(item.get('why_it_is_worth_teaching'))}",
-                f"- **Why ordinary viewers may care:** {md_escape(item.get('why_ordinary_viewers_may_care'))}",
-                f"- **Language value:** {md_escape(item.get('language_value'))}",
-                f"- **Suggested video angle:** {md_escape(item.get('suggested_video_angle'))}",
-                f"- **Suggested expressions to teach:** {', '.join(md_escape(expr) for expr in expressions[:5])}",
-                f"- **Estimated difficulty:** {md_escape(item.get('estimated_difficulty'))}",
-                f"- **Estimated video length:** {md_escape(item.get('estimated_video_length'))}",
-                f"- **Seems publicly accessible:** {md_escape(item.get('publicly_accessible'))}",
-                f"- **Priority score:** {md_escape(item.get('priority_score'))}/10",
-                "",
-            ]
-        )
+    existing_sections = []
+    if path.exists():
+        existing_sections = re.split(r"^##\s+", path.read_text(encoding="utf-8"), flags=re.MULTILINE)[1:]
+    new_links = {str(item.get("link", "")) for item in recommendations}
+    lines = [f"# News Radar - {digest_date}", "", "Public source metadata and summaries.", ""]
+    for index, item in enumerate(recommendations, 1):
+        lines.extend([
+            f"## {index}. {md_escape(item.get('title'))}", "",
+            f"- **Outlet:** {md_escape(item.get('outlet'))}",
+            f"- **Publication date:** {md_escape(item.get('publication_date') or 'Not listed')}",
+            f"- **Link:** {md_escape(item.get('link'))}",
+            f"- **Summary:** {md_escape(item.get('summary') or '')}", "",
+        ])
+    # Preserve earlier same-day items while replacing refreshed entries by URL.
+    for section in existing_sections:
+        match = re.search(r"^- \*\*Link:\*\*\s*(.*)$", section, re.MULTILINE)
+        if match and match.group(1).strip() not in new_links:
+            lines.append("## " + section.rstrip() + "\n")
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
 def render_japanese_digest(path: Path, digest_date: str, recommendations: list[dict[str, Any]]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    lines = [
-        f"# Daily Japanese Close-Reading Recommendations - {digest_date}",
-        "",
-        "A balanced set of public Japanese-language materials for short close-reading lessons. The notes are based on source metadata, links, and short public summaries/previews only.",
-        "",
-    ]
-    for index, item in enumerate(recommendations, start=1):
-        expressions = item.get("expressions_to_teach") or item.get("suggested_expressions") or []
-        if isinstance(expressions, str):
-            expressions = [expressions]
-        lines.extend(
-            [
-                f"## {index}. {md_escape(item.get('title'))}",
-                "",
-                f"- **Outlet:** {md_escape(item.get('outlet'))}",
-                f"- **Publication date:** {md_escape(item.get('publication_date') or 'Not listed')}",
-                f"- **Link:** {md_escape(item.get('link'))}",
-                f"- **Topic:** {md_escape(item.get('topic'))}",
-                f"- **Article type:** {md_escape(item.get('article_type'))}",
-                f"- **Tone:** {md_escape(item.get('tone'))}",
-                f"- **Why it is worth teaching:** {md_escape(item.get('why_it_is_worth_teaching'))}",
-                f"- **Why ordinary viewers may care:** {md_escape(item.get('why_ordinary_viewers_may_care'))}",
-                f"- **Language value:** {md_escape(item.get('language_value'))}",
-                f"- **Suggested video angle:** {md_escape(item.get('suggested_video_angle'))}",
-                f"- **Suggested expressions to teach:** {', '.join(md_escape(expr) for expr in expressions[:5])}",
-                f"- **Estimated difficulty:** {md_escape(item.get('estimated_difficulty'))}",
-                f"- **Estimated video length:** {md_escape(item.get('estimated_video_length'))}",
-                f"- **Seems publicly accessible:** {md_escape(item.get('publicly_accessible'))}",
-                f"- **Priority score:** {md_escape(item.get('priority_score'))}/10",
-                "",
-            ]
-        )
-    path.write_text("\n".join(lines), encoding="utf-8")
+    render_digest(path, digest_date, recommendations)
 
 
 def update_seen(state: dict[str, Any], recommendations: list[dict[str, Any]], digest_date: str) -> None:
@@ -1247,18 +933,11 @@ def generate_japanese_digest(
     candidates = collect_candidates({"sources": JAPANESE_SOURCES}, timeout)
     candidates = prefilter(candidates, state, max_candidates)
     if not candidates:
+        if (output_dir / f"{digest_date}.md").exists():
+            return []
         raise RuntimeError("No new Japanese candidate items found after fetching and deduplication")
 
-    if no_llm:
-        recommendations = heuristic_japanese_recommendations(candidates, count)
-    else:
-        recommendations = call_japanese_llm(candidates, count)
-    recommendations = finalize_recommendations(
-        recommendations,
-        candidates,
-        count,
-        heuristic_japanese_recommendations,
-    )
+    recommendations = raw_items(candidates, count)
 
     if not recommendations:
         raise RuntimeError("No Japanese recommendations were selected")
@@ -1284,11 +963,11 @@ def main() -> int:
     parser.add_argument("--japanese-state", type=Path, default=DEFAULT_JAPANESE_STATE)
     parser.add_argument("--japanese-output-dir", type=Path, default=DEFAULT_JAPANESE_DIGEST_DIR)
     parser.add_argument("--japanese-index", type=Path, default=DEFAULT_JAPANESE_DIGEST_INDEX)
-    parser.add_argument("--count", type=int, default=8)
-    parser.add_argument("--japanese-count", type=int, default=8)
+    parser.add_argument("--count", type=int, default=80)
+    parser.add_argument("--japanese-count", type=int, default=80)
     parser.add_argument("--max-candidates", type=int, default=80)
     parser.add_argument("--timeout", type=int, default=20)
-    parser.add_argument("--no-llm", action="store_true", help="Use deterministic fallback for local smoke tests.")
+    parser.add_argument("--no-llm", action="store_true", help="Deprecated compatibility flag; all runs fetch metadata only.")
     parser.add_argument("--topics-only", action="store_true", help="Update Chinese hot topics without generating a digest.")
     parser.add_argument("--skip-hot-topics", action="store_true", help="Generate the digest without updating Chinese hot topics.")
     parser.add_argument("--japanese-only", action="store_true", help="Update Japanese close-reading recommendations without generating the English digest.")
@@ -1337,21 +1016,13 @@ def main() -> int:
     candidates = collect_candidates(config, args.timeout)
     candidates = prefilter(candidates, state, args.max_candidates)
     if not candidates:
-        raise RuntimeError("No new candidate articles found after fetching and deduplication")
+        if (args.output_dir / f"{args.date}.md").exists():
+            print("No new English items; retaining today's collected items")
+        else:
+            raise RuntimeError("No new candidate articles found after fetching and deduplication")
 
-    if args.no_llm:
-        recommendations = heuristic_recommendations(candidates, args.count)
-    else:
-        recommendations = call_llm(candidates, args.count)
-    recommendations = finalize_recommendations(
-        recommendations,
-        candidates,
-        args.count,
-        heuristic_recommendations,
-    )
+    recommendations = raw_items(candidates, args.count)
 
-    if not recommendations:
-        raise RuntimeError("No recommendations were selected")
 
     digest_path = args.output_dir / f"{args.date}.md"
     render_digest(digest_path, args.date, recommendations)

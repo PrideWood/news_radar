@@ -177,3 +177,43 @@ class ProvenanceTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FetchOnlyTests(unittest.TestCase):
+    def test_default_run_preserves_source_summary_without_model(self):
+        candidate = make_candidate("Alpha", 1)
+        candidate.summary = "The actual summary supplied by the feed."
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            args = ["generate_digest.py", "--date", "2026-10-06", "--state", str(root / "seen.json"),
+                    "--output-dir", str(root / "digests"), "--index", str(root / "index.json"),
+                    "--skip-hot-topics", "--skip-japanese"]
+            with mock.patch("sys.argv", args), mock.patch.object(digest, "collect_candidates", return_value=[candidate]):
+                self.assertEqual(digest.main(), 0)
+            content = (root / "digests/2026-10-06.md").read_text()
+            self.assertIn(candidate.summary, content)
+            self.assertIn(candidate.link, content)
+            self.assertNotIn("Priority score", content)
+            self.assertNotIn("teaching", content)
+            self.assertFalse(hasattr(digest, "call_llm"))
+
+    def test_same_day_refresh_retains_earlier_items(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            path = Path(temp_dir) / "2026-10-06.md"
+            first = make_candidate("Alpha", 1)
+            second = make_candidate("Beta", 1)
+            digest.render_digest(path, "2026-10-06", digest.raw_items([first], 1))
+            digest.render_digest(path, "2026-10-06", digest.raw_items([second], 1))
+            content = path.read_text()
+            self.assertIn(first.link, content)
+            self.assertIn(second.link, content)
+
+    def test_hot_topics_use_only_fetched_fields(self):
+        candidate = digest.HotTopicCandidate(1, "原始话题", "Baidu", "123", "https://top.baidu.com/")
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            with mock.patch.object(digest, "collect_hot_topics", return_value=[candidate]), mock.patch.object(
+                digest, "collect_official_english_headlines", side_effect=AssertionError("Unexpected extra processing")
+            ):
+                topics = digest.generate_hot_topics(root / "latest.json", root / "topics", root / "index.json", "2026-10-06", 10, False)
+            self.assertEqual(topics, [digest.dataclasses.asdict(candidate)])

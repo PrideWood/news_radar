@@ -1,211 +1,32 @@
-# News Radar: Daily English Close-Reading Digest
+# News Radar
 
-This project generates one Markdown digest per day under `digests/YYYY-MM-DD.md`. Each digest recommends 5-10 publicly accessible English news, feature, or magazine-style articles that are suitable for short close-reading videos. It can also generate a separate Japanese close-reading digest under `japanese_digests/YYYY-MM-DD.md`.
+抓取公开 RSS 和新闻索引页的标题、来源、日期、链接及来源提供的摘要，直接在静态页面展示。英文、日文和国内热点均不调用大模型，无需 API 密钥，也不生成评分、难度、翻译或教学建议。不抓取文章全文。
 
-The generator uses RSS feeds or public index pages for article metadata. It stores only metadata, links, short public summaries/previews, and teaching suggestions. It does not download or store full copyrighted article text.
-
-## What It Produces
-
-Each recommendation includes:
-
-- title, outlet, publication date, and link
-- topic, article type, and tone
-- why it is worth teaching
-- why ordinary viewers may care
-- language value
-- suggested video angle
-- 3-5 expressions to teach
-- estimated CEFR difficulty and video length
-- public-access estimate
-- priority score from 1 to 10
-
-The generator also writes `data/chinese_hot_topics.json` with eight Chinese internet hot topics for the day. Each topic includes the Chinese topic text, a neutral official-style English wording or matched official English headline when available, a short reason it is hot, a share angle, and keywords for later AI-assisted content preparation.
-
-Japanese recommendations use public Japanese-language metadata from news, technology, internet culture, and public-information sources. They are selected for language-learning value across JLPT-style levels N4-N1 and are not limited to hard news.
-
-The daily mix aims to include short news, human-interest or uplifting stories, a science or technology explainer, an education/youth/culture story, a serious public-interest story, and one surprising wildcard. The default source list spans international broadcasters, public institutions, universities, independent magazines, and specialist science, culture, technology, environment, and solutions-journalism outlets.
-
-## Setup
-
-Install dependencies:
+## 本地使用
 
 ```bash
 pip install -r requirements.txt
-```
-
-Set your OpenAI API key:
-
-```bash
-export OPENAI_API_KEY="your_api_key_here"
-```
-
-Optionally set the model:
-
-```bash
-export OPENAI_MODEL="gpt-4o-mini"
-```
-
-For DeepSeek or another OpenAI-compatible provider, also set a base URL:
-
-```bash
-export OPENAI_API_KEY="your_deepseek_key_here"
-export OPENAI_BASE_URL="https://api.deepseek.com"
-export OPENAI_MODEL="deepseek-chat"
-```
-
-Generate today's digest:
-
-```bash
 python scripts/generate_digest.py
-```
-
-Generate a specific date:
-
-```bash
-python scripts/generate_digest.py --date 2026-05-24
-```
-
-Run a local smoke test without an LLM:
-
-```bash
-python scripts/generate_digest.py --no-llm
-```
-
-Update only the Japanese close-reading data:
-
-```bash
-python scripts/generate_digest.py --japanese-only
-```
-
-Update only the Chinese hot topics data:
-
-```bash
-python scripts/generate_digest.py --topics-only
-```
-
-The `--no-llm` mode is for development only. In normal use, the LLM is used only for scoring, selection, and teaching suggestions from metadata and short public excerpts.
-
-## Frontend Reader
-
-Start a local static server from the project root:
-
-```bash
 python3 -m http.server 8000
 ```
 
-Then open:
+打开 http://127.0.0.1:8000/ ，通过内容分类、日期和搜索查看条目。
 
-```text
-http://127.0.0.1:8000/
+摘要来自 RSS 或公开索引页，清除 HTML 并截取到 520 个字符。来源未提供摘要时，页面显示提示并保留原文链接。历史文稿没有保存原始摘要的条目也显示该提示，不使用旧的教学建议充当摘要。
+
+## 抓取选项
+
+```bash
+python scripts/generate_digest.py --date 2026-10-06
+python scripts/generate_digest.py --japanese-only
+python scripts/generate_digest.py --topics-only
+python scripts/generate_digest.py --count 80 --japanese-count 80 --max-candidates 80
 ```
 
-The reader loads `data/digests_index.json`, lists available daily English digests, renders each recommendation as a card, and supports search plus B1/B2/C1/C2 filtering. It also loads `data/chinese_hot_topics.json` in the "国内热点话题" view and `data/japanese_digests_index.json` in the "日文精读推荐" view, where filtering uses N4/N3/N2/N1. The digest generator updates indexes automatically whenever it writes new Markdown files.
+默认每种语言最多保存 80 条，按来源轮流取条目，使用链接去重。`--no-llm` 仅为旧命令兼容参数；所有运行均不使用大模型。英文源配置在 `sources.yaml`，日文和国内热点源在抓取脚本中。单个来源失败不会丢弃其他来源的结果。
 
-Each English or Japanese article can be marked as closely read after its teaching video is complete. Marks are stored in the current browser. The "数据统计" page summarizes a selected date range with source, recommendation-score, and CEFR difficulty distributions, completion totals, and a daily teaching-video check-in calendar.
+每日文稿位于 `digests/` 和 `japanese_digests/`，热点位于 `data/hot_topics/`。页面通过对应索引加载数据。历史文件保留，旧的评分和教学字段不在页面展示。
 
-## GitHub Pages
+## 自动更新与发布
 
-This project includes a static GitHub Pages workflow at `.github/workflows/pages.yml`.
-
-After pushing the repository to GitHub:
-
-1. Open the repository on GitHub.
-2. Go to `Settings` -> `Pages`.
-3. Under `Build and deployment`, set `Source` to `GitHub Actions`.
-4. Run the `Deploy GitHub Pages` workflow manually, or push to `main`.
-
-Your site will be available at:
-
-```text
-https://<your-github-username>.github.io/news_radar/
-```
-
-If you add a custom domain in `Settings` -> `Pages`, GitHub will serve the same static reader from that domain. The API key is not exposed to the frontend because it stays in GitHub Actions secrets.
-
-For a custom subdomain such as `news.example.com`, create a DNS `CNAME` record pointing to:
-
-```text
-<your-github-username>.github.io
-```
-
-## GitHub Actions
-
-The workflow at `.github/workflows/daily-digest.yml` runs every day at `08:10` and `20:10` in Beijing/Shanghai time, and can also be started manually with `workflow_dispatch`.
-The generator uses the `Asia/Shanghai` date by default, so scheduled and manual runs both create the digest for the expected local day.
-After generating and committing the new digest, it deploys GitHub Pages directly so the site updates without manually running the Pages workflow.
-
-Required repository secret:
-
-- `OPENAI_API_KEY`
-
-Optional repository variable:
-
-- `OPENAI_MODEL`, defaults to `gpt-4o-mini`
-- `OPENAI_BASE_URL`, for DeepSeek or other OpenAI-compatible providers
-- `NEWS_RADAR_TIMEZONE`, defaults to `Asia/Shanghai`
-
-The workflow commits new files in `digests/` and `japanese_digests/`, updates `data/seen_articles.json` and `data/seen_japanese_items.json` for deduplication, updates both frontend indexes, and writes `data/chinese_hot_topics.json` for the hot-topic view. If the English digest for the day already exists, the workflow refreshes the hot-topic and Japanese data.
-
-## Customizing Sources
-
-Edit `sources.yaml`.
-
-For RSS feeds, add:
-
-```yaml
-- name: Example Source
-  outlet: Example
-  url: https://example.com/rss
-  source_type: rss
-  default_topic: Culture and everyday life
-  article_type_hint: feature
-  public_access: likely public
-```
-
-For a public index page, add selectors:
-
-```yaml
-- name: Example Index
-  outlet: Example
-  url: https://example.com/latest
-  source_type: html
-  item_selector: article
-  title_selector: h2
-  link_selector: a[href]
-  summary_selector: p
-  default_topic: Public-interest stories
-```
-
-You can pause a source with:
-
-```yaml
-enabled: false
-```
-
-The generator validates source names, URLs, types, and item limits before fetching. Enabled sources are fetched concurrently, and failures are reported individually without discarding results from healthy sources.
-
-## Source Diversity
-
-Source diversity is enforced at two stages:
-
-- Before model selection, candidates are sampled round-robin by outlet, with a per-outlet cap. A high-volume feed therefore cannot fill the entire candidate window.
-- During and after model selection, the generator asks for the widest possible outlet mix, accepts only IDs from fetched candidates, restores the original title/link/outlet metadata, and fills any rejected or duplicate choices with deterministic diverse fallbacks.
-
-With the default count of eight and at least eight healthy outlets in the candidate pool, the final digest contains eight different outlets. Disabled entries in `sources.yaml` document retired or blocked feeds so they are not retried on every run.
-
-## Deduplication
-
-Recommended articles are recorded in `data/seen_articles.json`. The generator skips previously recommended URLs so the same article is not selected repeatedly. The state file is capped automatically to keep the repository small.
-
-## Selection Criteria
-
-The system favors articles that are:
-
-- publicly accessible or have a meaningful public preview
-- written in clear, high-quality English
-- useful for close reading in a short video
-- interesting to ordinary viewers
-- rich in vocabulary, sentence structure, narrative technique, or explanatory value
-- positive, engaging, thought-provoking, or practically useful
-
-It avoids celebrity gossip, pure market updates, highly technical specialist reports, strongly partisan opinion pieces, graphic crime stories without public-interest value, mostly paywalled articles, repetitive breaking news, and lists that feel too negative or heavy.
+`.github/workflows/daily-digest.yml` 每天北京时间 08:10 和 20:10 抓取、提交数据并部署 GitHub Pages，也可手动运行。无需配置 OpenAI 或其他模型密钥。GitHub Pages 设置中选择 GitHub Actions 作为部署来源；`.github/workflows/pages.yml` 也支持推送后部署。

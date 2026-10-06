@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updated_at": "2026-10-06T14:46:03+00:00",
+  "updated_at": "2026-10-06T15:01:07+00:00",
   "source_note": "Items are collected directly from public trend pages without model processing.",
   "topics": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "rank": 6,
-      "chinese_topic": "失语老人用废旧物品手搓一座城堡",
+      "chinese_topic": "央视调查后 “牛奶湖”发布通告",
       "platform": "Baidu",
       "heat": "hot",
       "source_url": "https://top.baidu.com/board?tab=realtime"

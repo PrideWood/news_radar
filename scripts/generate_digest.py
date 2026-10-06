@@ -55,13 +55,6 @@ HOT_TOPIC_SOURCES = [
     },
 ]
 
-OFFICIAL_ENGLISH_SOURCES = [
-    {
-        "outlet": "China Daily",
-        "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
-    },
-]
-
 JAPANESE_SOURCES = [
     {
         "name": "NHK News",
@@ -409,21 +402,6 @@ def collect_candidates(config: dict[str, Any], timeout: int) -> list[Candidate]:
     return [candidate for source_results in results for candidate in source_results]
 
 
-def is_probably_relevant(candidate: Candidate) -> bool:
-    text = f"{candidate.title} {candidate.summary} {candidate.default_topic}".lower()
-    avoid = [
-        "stock market",
-        "shares fall",
-        "earnings call",
-        "celebrity gossip",
-        "graphic video",
-        "murder trial",
-    ]
-    if any(term in text for term in avoid):
-        return False
-    return True
-
-
 def prefilter(
     candidates: list[Candidate],
     state: dict[str, Any],
@@ -510,110 +488,13 @@ def collect_hot_topics(timeout: int, limit: int = 24) -> list[HotTopicCandidate]
                         platform=source["platform"],
                         heat="hot",
                         source_url=source["url"],
-                    )
                 )
+            )
                 if len(topics) >= limit:
                     return topics
         except Exception as exc:
             print(f"Warning: failed to fetch hot topics from {source['platform']}: {exc}", file=sys.stderr)
     return topics
-
-
-def collect_official_english_headlines(timeout: int, limit: int = 36) -> list[dict[str, str]]:
-    headlines: list[dict[str, str]] = []
-    for source in OFFICIAL_ENGLISH_SOURCES:
-        try:
-            response = get_with_retry(source["url"], timeout, "NewsRadarDigest/1.0")
-            response.raise_for_status()
-            parsed = feedparser.parse(response.content)
-            for entry in parsed.entries[:limit]:
-                title = clean_text(entry.get("title"), 180)
-                link = entry.get("link") or source["url"]
-                if title:
-                    headlines.append({"outlet": source["outlet"], "title": title, "url": link})
-        except Exception as exc:
-            print(f"Warning: failed to fetch official English headlines from {source['outlet']}: {exc}", file=sys.stderr)
-    return headlines[:limit]
-
-
-def heuristic_hot_topics(candidates: list[HotTopicCandidate], count: int) -> list[dict[str, Any]]:
-    picked = []
-    for candidate in candidates[:count]:
-        picked.append(
-            {
-                "rank": candidate.rank,
-                "chinese_topic": candidate.chinese_topic,
-                "platform": candidate.platform,
-                "heat": candidate.heat,
-                "source_url": candidate.source_url,
-                "official_english": f"Chinese online users discuss: {candidate.chinese_topic}",
-                "official_english_source": "Suggested wording",
-                "official_english_url": "",
-                "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-                "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
-                "keywords": ["Chinese web", "hot topic", "English framing"],
-            }
-        )
-    return picked
-
-
-def ensure_hot_topic_fields(
-    topics: list[dict[str, Any]],
-    candidates: list[HotTopicCandidate],
-    official_headlines: list[dict[str, str]] | None = None,
-) -> list[dict[str, Any]]:
-    """Restore source-controlled provenance and discard duplicate/unknown topics."""
-    by_topic = {candidate.chinese_topic: candidate for candidate in candidates}
-    by_rank = {candidate.rank: candidate for candidate in candidates}
-    official_by_url = {
-        headline["url"]: headline
-        for headline in (official_headlines or [])
-        if headline.get("url")
-    }
-    enriched: list[dict[str, Any]] = []
-    used_ranks: set[int] = set()
-    for topic in topics:
-        if not isinstance(topic, dict):
-            continue
-        candidate = by_topic.get(str(topic.get("chinese_topic", "")))
-        if not candidate:
-            try:
-                candidate = by_rank.get(int(topic.get("rank", 0)))
-            except (TypeError, ValueError):
-                candidate = None
-        if not candidate or candidate.rank in used_ranks:
-            continue
-        used_ranks.add(candidate.rank)
-
-        item = dict(topic)
-        item.update(
-            {
-                "rank": candidate.rank,
-                "chinese_topic": candidate.chinese_topic,
-                "platform": candidate.platform,
-                "heat": candidate.heat,
-                "source_url": candidate.source_url,
-            }
-        )
-        official_url = str(item.get("official_english_url", ""))
-        matched_headline = official_by_url.get(official_url)
-        if matched_headline:
-            item["official_english"] = matched_headline["title"]
-            item["official_english_source"] = matched_headline["outlet"]
-        else:
-            item["official_english_url"] = ""
-            item["official_english_source"] = "Suggested wording"
-        defaults = {
-            "official_english": f"Chinese online users discuss: {candidate.chinese_topic}",
-            "why_hot": "This topic appeared in a public Chinese hot-topic list and may be useful as a timely discussion lead.",
-            "share_angle": "Use the Chinese topic as the hook, then ask what neutral English wording best captures it.",
-            "keywords": ["Chinese web", "hot topic", "English framing"],
-        }
-        for field, default in defaults.items():
-            if not item.get(field):
-                item[field] = default
-        enriched.append(item)
-    return enriched
 
 
 def write_hot_topics(path: Path, digest_date: str, topics: list[dict[str, Any]]) -> None:
@@ -673,7 +554,6 @@ def generate_hot_topics(
     index_path: Path,
     digest_date: str,
     timeout: int,
-    no_llm: bool,
     count: int = 8,
 ) -> list[dict[str, Any]]:
     candidates = collect_hot_topics(timeout)
@@ -682,167 +562,6 @@ def generate_hot_topics(
     topics = [dataclasses.asdict(candidate) for candidate in candidates[:count]]
     write_hot_topics_outputs(path, hot_topics_dir, index_path, digest_date, topics)
     return topics
-
-
-def heuristic_recommendations(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
-    """Development fallback used when no API key is available."""
-    topic_keywords = [
-        ("AI, technology, and daily life", ["ai", "technology", "app", "robot", "phone"]),
-        ("Education, learning, schools, teachers, and students", ["school", "student", "teacher", "college"]),
-        ("Science discoveries explained for general readers", ["science", "study", "research", "space", "climate"]),
-        ("Health, psychology, habits, sleep, exercise, and wellbeing", ["health", "sleep", "exercise", "mental"]),
-        ("Culture, language, books, film, music, museums, and art", ["book", "film", "music", "museum", "art"]),
-        ("Environment, animals, climate adaptation, and nature restoration", ["climate", "wildlife", "nature", "river"]),
-    ]
-    picked: list[dict[str, Any]] = []
-    used_outlets: set[str] = set()
-    for candidate in candidates:
-        text = f"{candidate.title} {candidate.summary}".lower()
-        topic = candidate.default_topic
-        for possible, keywords in topic_keywords:
-            if any(re.search(rf"(?<!\w){re.escape(keyword)}(?!\w)", text) for keyword in keywords):
-                topic = possible
-                break
-        score = 8 if candidate.outlet not in used_outlets else 6
-        used_outlets.add(candidate.outlet)
-        picked.append(
-            {
-                "id": candidate.key,
-                "title": candidate.title,
-                "outlet": candidate.outlet,
-                "publication_date": candidate.publication_date,
-                "link": candidate.link,
-                "topic": topic,
-                "article_type": candidate.article_type_hint,
-                "tone": "curious",
-                "why_it_is_worth_teaching": "The metadata suggests a clear, current story with useful vocabulary and room for close reading.",
-                "why_ordinary_viewers_may_care": "It connects a public issue or everyday trend to questions viewers can discuss from daily life.",
-                "language_value": "Good for practicing headline language, concise summaries, cause-and-effect phrasing, and evaluative adjectives.",
-                "suggested_video_angle": "Open with the question behind the headline, then unpack the article's key claim and useful expressions.",
-                "expressions_to_teach": ["shed light on", "raise questions about", "a growing trend", "in everyday life"],
-                "estimated_difficulty": "B2",
-                "estimated_video_length": "10 min",
-                "publicly_accessible": candidate.public_access,
-                "priority_score": score,
-            }
-        )
-        if len(picked) >= count:
-            break
-    return picked
-
-
-def heuristic_japanese_recommendations(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
-    """Development fallback used when no API key is available."""
-    levels = ["N4", "N3", "N2", "N1"]
-    picked: list[dict[str, Any]] = []
-    used_outlets: set[str] = set()
-    for index, candidate in enumerate(candidates):
-        level = levels[min(index % len(levels), len(levels) - 1)]
-        score = 8 if candidate.outlet not in used_outlets else 6
-        used_outlets.add(candidate.outlet)
-        picked.append(
-            {
-                "id": candidate.key,
-                "title": candidate.title,
-                "outlet": candidate.outlet,
-                "publication_date": candidate.publication_date,
-                "link": candidate.link,
-                "topic": candidate.default_topic,
-                "article_type": candidate.article_type_hint,
-                "tone": "実用的",
-                "why_it_is_worth_teaching": "公開メタデータから、語彙・文型・書き言葉の観察に使いやすい題材だと判断できます。",
-                "why_ordinary_viewers_may_care": "日本語学習者がニュース、ネット文化、日常生活の語彙を自然な文脈で確認できます。",
-                "language_value": "見出し表現、漢字語、助詞、連体修飾、文末表現を短い精読で扱いやすい素材です。",
-                "suggested_video_angle": "見出しのキーワードを確認し、本文で使われる自然な言い換えや文型を拾って解説する。",
-                "expressions_to_teach": ["〜について", "〜によると", "〜として", "〜をめぐる"],
-                "estimated_difficulty": level,
-                "estimated_video_length": "10 min",
-                "publicly_accessible": candidate.public_access,
-                "priority_score": score,
-            }
-        )
-        if len(picked) >= count:
-            break
-    return picked
-
-
-def ensure_candidate_fields(recommendation: dict[str, Any], candidate_by_id: dict[str, Candidate]) -> dict[str, Any]:
-    """Restore fields whose provenance must come from the fetched candidate."""
-    candidate = candidate_by_id.get(str(recommendation.get("id", "")))
-    if not candidate:
-        return dict(recommendation)
-    enriched = dict(recommendation)
-    enriched.update(
-        {
-            "id": candidate.key,
-            "title": candidate.title,
-            "outlet": candidate.outlet,
-            "publication_date": candidate.publication_date,
-            "link": candidate.link,
-            "publicly_accessible": candidate.public_access,
-        }
-    )
-    try:
-        enriched["priority_score"] = max(1, min(10, int(enriched.get("priority_score", 5))))
-    except (TypeError, ValueError):
-        enriched["priority_score"] = 5
-    expressions = enriched.get("expressions_to_teach") or enriched.get("suggested_expressions") or []
-    if isinstance(expressions, str):
-        expressions = [expressions]
-    enriched["expressions_to_teach"] = [str(value) for value in expressions if value][:5]
-    return enriched
-
-
-def finalize_recommendations(
-    recommendations: list[dict[str, Any]],
-    candidates: list[Candidate],
-    count: int,
-    fallback_builder: Any,
-) -> list[dict[str, Any]]:
-    """Validate model choices, enforce outlet diversity, and fill short results."""
-    candidate_by_id = {candidate.key: candidate for candidate in candidates}
-    distinct_outlets = len({candidate.outlet for candidate in candidates})
-    outlet_limit = 1 if distinct_outlets >= count else max(1, (count + distinct_outlets - 1) // distinct_outlets)
-    selected: list[dict[str, Any]] = []
-    selected_ids: set[str] = set()
-    outlet_counts: dict[str, int] = defaultdict(int)
-
-    fallback_items = fallback_builder(candidates, len(candidates))
-    fallback_by_id = {
-        str(item.get("id", "")): item
-        for item in fallback_items
-        if isinstance(item, dict) and item.get("id")
-    }
-    proposed_items = [*recommendations, *fallback_items]
-
-    def add_items(enforce_outlet_limit: bool) -> None:
-        for item in proposed_items:
-            if not isinstance(item, dict):
-                continue
-            candidate_id = str(item.get("id", ""))
-            candidate = candidate_by_id.get(candidate_id)
-            if not candidate or candidate_id in selected_ids:
-                continue
-            if enforce_outlet_limit and outlet_counts[candidate.outlet] >= outlet_limit:
-                continue
-            enriched = dict(fallback_by_id.get(candidate_id, {}))
-            enriched.update(
-                {
-                    key: value
-                    for key, value in item.items()
-                    if value is not None and value != "" and value != []
-                }
-            )
-            selected.append(ensure_candidate_fields(enriched, candidate_by_id))
-            selected_ids.add(candidate_id)
-            outlet_counts[candidate.outlet] += 1
-            if len(selected) >= count:
-                return
-
-    add_items(enforce_outlet_limit=True)
-    if len(selected) < count:
-        add_items(enforce_outlet_limit=False)
-    return selected
 
 
 def md_escape(value: Any) -> str:
@@ -854,14 +573,14 @@ def raw_items(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
     return [{"id": candidate.key, **dataclasses.asdict(candidate)} for candidate in candidates[:count]]
 
 
-def render_digest(path: Path, digest_date: str, recommendations: list[dict[str, Any]]) -> None:
+def render_digest(path: Path, digest_date: str, items: list[dict[str, Any]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     existing_sections = []
     if path.exists():
         existing_sections = re.split(r"^##\s+", path.read_text(encoding="utf-8"), flags=re.MULTILINE)[1:]
-    new_links = {str(item.get("link", "")) for item in recommendations}
+    new_links = {str(item.get("link", "")) for item in items}
     lines = [f"# News Radar - {digest_date}", "", "Public source metadata and summaries.", ""]
-    for index, item in enumerate(recommendations, 1):
+    for index, item in enumerate(items, 1):
         lines.extend([
             f"## {index}. {md_escape(item.get('title'))}", "",
             f"- **Outlet:** {md_escape(item.get('outlet'))}",
@@ -873,17 +592,20 @@ def render_digest(path: Path, digest_date: str, recommendations: list[dict[str, 
     for section in existing_sections:
         match = re.search(r"^- \*\*Link:\*\*\s*(.*)$", section, re.MULTILINE)
         if match and match.group(1).strip() not in new_links:
-            lines.append("## " + section.rstrip() + "\n")
+            heading, _, body = section.partition("\n")
+            heading = re.sub(r"^\d+\.\s*", "", heading)
+            index = sum(line.startswith("## ") for line in lines) + 1
+            lines.append(f"## {index}. {heading}\n{body.rstrip()}\n")
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def render_japanese_digest(path: Path, digest_date: str, recommendations: list[dict[str, Any]]) -> None:
-    render_digest(path, digest_date, recommendations)
+def render_japanese_digest(path: Path, digest_date: str, items: list[dict[str, Any]]) -> None:
+    render_digest(path, digest_date, items)
 
 
-def update_seen(state: dict[str, Any], recommendations: list[dict[str, Any]], digest_date: str) -> None:
+def update_seen(state: dict[str, Any], items: list[dict[str, Any]], digest_date: str) -> None:
     seen = state.setdefault("seen", {})
-    for item in recommendations:
+    for item in items:
         key = str(item.get("id") or hashlib.sha256(str(item.get("link", "")).encode("utf-8")).hexdigest()[:20])
         seen.setdefault(
             key,
@@ -927,7 +649,6 @@ def generate_japanese_digest(
     count: int,
     max_candidates: int,
     timeout: int,
-    no_llm: bool,
 ) -> list[dict[str, Any]]:
     state = load_state(state_path)
     candidates = collect_candidates({"sources": JAPANESE_SOURCES}, timeout)
@@ -937,17 +658,17 @@ def generate_japanese_digest(
             return []
         raise RuntimeError("No new Japanese candidate items found after fetching and deduplication")
 
-    recommendations = raw_items(candidates, count)
+    items = raw_items(candidates, count)
 
-    if not recommendations:
-        raise RuntimeError("No Japanese recommendations were selected")
+    if not items:
+        raise RuntimeError("No Japanese items were selected")
 
     digest_path = output_dir / f"{digest_date}.md"
-    render_japanese_digest(digest_path, digest_date, recommendations)
-    update_seen(state, recommendations, digest_date)
+    render_japanese_digest(digest_path, digest_date, items)
+    update_seen(state, items, digest_date)
     save_state(state_path, state)
     update_digest_index(output_dir, index_path, "japanese_digests")
-    return recommendations
+    return items
 
 
 def main() -> int:
@@ -970,8 +691,8 @@ def main() -> int:
     parser.add_argument("--no-llm", action="store_true", help="Deprecated compatibility flag; all runs fetch metadata only.")
     parser.add_argument("--topics-only", action="store_true", help="Update Chinese hot topics without generating a digest.")
     parser.add_argument("--skip-hot-topics", action="store_true", help="Generate the digest without updating Chinese hot topics.")
-    parser.add_argument("--japanese-only", action="store_true", help="Update Japanese close-reading recommendations without generating the English digest.")
-    parser.add_argument("--skip-japanese", action="store_true", help="Generate the English digest without updating Japanese recommendations.")
+    parser.add_argument("--japanese-only", action="store_true", help="Update Japanese items without generating the English digest.")
+    parser.add_argument("--skip-japanese", action="store_true", help="Generate the English digest without updating Japanese items.")
     args = parser.parse_args()
 
     try:
@@ -981,7 +702,7 @@ def main() -> int:
     if args.count < 1 or args.japanese_count < 1:
         parser.error("--count and --japanese-count must be positive")
     if args.max_candidates < max(args.count, args.japanese_count):
-        parser.error("--max-candidates must be at least as large as the requested recommendation counts")
+        parser.error("--max-candidates must be at least as large as the requested item counts")
     if args.timeout < 1:
         parser.error("--timeout must be positive")
 
@@ -992,13 +713,12 @@ def main() -> int:
             args.hot_topics_index,
             args.date,
             args.timeout,
-            args.no_llm,
         )
         print(f"Wrote {args.hot_topics_dir / (args.date + '.json')} with {len(topics)} hot topics")
         return 0
 
     if args.japanese_only:
-        recommendations = generate_japanese_digest(
+        items = generate_japanese_digest(
             args.date,
             args.japanese_state,
             args.japanese_output_dir,
@@ -1006,9 +726,8 @@ def main() -> int:
             args.japanese_count,
             args.max_candidates,
             args.timeout,
-            args.no_llm,
         )
-        print(f"Wrote {args.japanese_output_dir / (args.date + '.md')} with {len(recommendations)} Japanese recommendations")
+        print(f"Wrote {args.japanese_output_dir / (args.date + '.md')} with {len(items)} Japanese items")
         return 0
 
     config = load_yaml(args.sources)
@@ -1021,12 +740,11 @@ def main() -> int:
         else:
             raise RuntimeError("No new candidate articles found after fetching and deduplication")
 
-    recommendations = raw_items(candidates, args.count)
-
+    items = raw_items(candidates, args.count)
 
     digest_path = args.output_dir / f"{args.date}.md"
-    render_digest(digest_path, args.date, recommendations)
-    update_seen(state, recommendations, args.date)
+    render_digest(digest_path, args.date, items)
+    update_seen(state, items, args.date)
     save_state(args.state, state)
     update_digest_index(args.output_dir, args.index)
     if not args.skip_hot_topics:
@@ -1037,14 +755,13 @@ def main() -> int:
                 args.hot_topics_index,
                 args.date,
                 args.timeout,
-                args.no_llm,
             )
             print(f"Wrote {args.hot_topics_dir / (args.date + '.json')} with {len(topics)} hot topics")
         except Exception as exc:
             print(f"Warning: failed to update Chinese hot topics: {exc}", file=sys.stderr)
     if not args.skip_japanese:
         try:
-            japanese_recommendations = generate_japanese_digest(
+            japanese_items = generate_japanese_digest(
                 args.date,
                 args.japanese_state,
                 args.japanese_output_dir,
@@ -1052,12 +769,11 @@ def main() -> int:
                 args.japanese_count,
                 args.max_candidates,
                 args.timeout,
-                args.no_llm,
             )
-            print(f"Wrote {args.japanese_output_dir / (args.date + '.md')} with {len(japanese_recommendations)} Japanese recommendations")
+            print(f"Wrote {args.japanese_output_dir / (args.date + '.md')} with {len(japanese_items)} Japanese items")
         except Exception as exc:
-            print(f"Warning: failed to update Japanese recommendations: {exc}", file=sys.stderr)
-    print(f"Wrote {digest_path} with {len(recommendations)} recommendations")
+            print(f"Warning: failed to update Japanese items: {exc}", file=sys.stderr)
+    print(f"Wrote {digest_path} with {len(items)} items")
     return 0
 
 

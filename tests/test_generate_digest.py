@@ -79,91 +79,13 @@ class DiversityTests(unittest.TestCase):
         self.assertEqual({item.outlet for item in selected[:3]}, {"Alpha", "Beta", "Gamma"})
         self.assertEqual({item.outlet for item in selected[3:]}, {"Alpha", "Beta", "Gamma"})
 
-    def test_finalize_recommendations_locks_provenance_and_fills_diversely(self):
-        alpha_one = make_candidate("Alpha", 1)
-        alpha_two = make_candidate("Alpha", 2)
-        beta = make_candidate("Beta", 1)
-        gamma = make_candidate("Gamma", 1)
-        candidates = [alpha_one, alpha_two, beta, gamma]
-        model_items = [
-            {
-                "id": alpha_one.key,
-                "title": "Invented title",
-                "outlet": "Invented outlet",
-                "link": "javascript:alert(1)",
-                "priority_score": 99,
-            },
-            {"id": alpha_two.key},
-            {"id": "unknown", "link": "https://invented.example"},
-        ]
-
-        finalized = digest.finalize_recommendations(
-            model_items,
-            candidates,
-            count=3,
-            fallback_builder=digest.heuristic_recommendations,
-        )
-
-        self.assertEqual(len(finalized), 3)
-        self.assertEqual({item["outlet"] for item in finalized}, {"Alpha", "Beta", "Gamma"})
-        first = finalized[0]
-        self.assertEqual(first["title"], alpha_one.title)
-        self.assertEqual(first["link"], alpha_one.link)
-        self.assertEqual(first["priority_score"], 10)
-
     def test_prefilter_skips_seen_candidates(self):
         seen = make_candidate("Alpha", 1)
         fresh = make_candidate("Beta", 1)
         selected = digest.prefilter([seen, fresh], {"seen": {seen.key: {}}}, max_candidates=5)
         self.assertEqual([item.key for item in selected], [fresh.key])
 
-    def test_heuristic_topic_keywords_match_whole_words(self):
-        candidate = make_candidate("Alpha", 1)
-        candidate.title = "Amid drought, rivers are drying up"
-        candidate.default_topic = "Environment and climate"
-        recommendation = digest.heuristic_recommendations([candidate], 1)[0]
-        self.assertEqual(recommendation["topic"], "Environment and climate")
-
-    def test_finalize_relaxes_cap_when_an_outlet_has_too_few_items(self):
-        candidates = [
-            make_candidate("Alpha", 1),
-            make_candidate("Alpha", 2),
-            make_candidate("Alpha", 3),
-            make_candidate("Beta", 1),
-        ]
-        finalized = digest.finalize_recommendations(
-            [],
-            candidates,
-            count=4,
-            fallback_builder=digest.heuristic_recommendations,
-        )
-        self.assertEqual(len(finalized), 4)
-        self.assertEqual({item["outlet"] for item in finalized}, {"Alpha", "Beta"})
-
-
 class ProvenanceTests(unittest.TestCase):
-    def test_hot_topic_provenance_and_official_url_are_allowlisted(self):
-        candidate = digest.HotTopicCandidate(1, "测试话题", "Baidu", "hot", "https://top.baidu.com/")
-        topics = [
-            {
-                "rank": 1,
-                "chinese_topic": "被改写的话题",
-                "platform": "Fake",
-                "source_url": "javascript:alert(1)",
-                "official_english": "Suggested headline",
-                "official_english_source": "Fake outlet",
-                "official_english_url": "https://fake.example/story",
-            }
-        ]
-        result = digest.ensure_hot_topic_fields(topics, [candidate], [
-            {"outlet": "China Daily", "title": "Official", "url": "https://official.example/story"}
-        ])
-        self.assertEqual(result[0]["chinese_topic"], candidate.chinese_topic)
-        self.assertEqual(result[0]["platform"], candidate.platform)
-        self.assertEqual(result[0]["source_url"], candidate.source_url)
-        self.assertEqual(result[0]["official_english_url"], "")
-        self.assertEqual(result[0]["official_english_source"], "Suggested wording")
-
     def test_digest_index_uses_each_files_modification_time(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
@@ -175,8 +97,6 @@ class ProvenanceTests(unittest.TestCase):
             self.assertEqual(index["digests"][0]["updated_at"], expected)
 
 
-if __name__ == "__main__":
-    unittest.main()
 
 
 class FetchOnlyTests(unittest.TestCase):
@@ -208,12 +128,26 @@ class FetchOnlyTests(unittest.TestCase):
             self.assertIn(first.link, content)
             self.assertIn(second.link, content)
 
+    def test_japanese_fetch_preserves_summary_even_with_old_api_environment(self):
+        candidate = make_candidate("NHK", 1)
+        candidate.summary = "公開ソースの概要。"
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            with mock.patch.object(digest, "collect_candidates", return_value=[candidate]), mock.patch.dict(
+                digest.os.environ, {"OPENAI_API_KEY": "unused", "OPENAI_BASE_URL": "https://api.deepseek.com"}
+            ):
+                items = digest.generate_japanese_digest("2026-10-06", root / "seen.json", root / "news", root / "index.json", 80, 80, 10)
+            self.assertEqual(items[0]["summary"], candidate.summary)
+            self.assertIn(candidate.summary, (root / "news/2026-10-06.md").read_text())
+
     def test_hot_topics_use_only_fetched_fields(self):
         candidate = digest.HotTopicCandidate(1, "原始话题", "Baidu", "123", "https://top.baidu.com/")
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            with mock.patch.object(digest, "collect_hot_topics", return_value=[candidate]), mock.patch.object(
-                digest, "collect_official_english_headlines", side_effect=AssertionError("Unexpected extra processing")
-            ):
-                topics = digest.generate_hot_topics(root / "latest.json", root / "topics", root / "index.json", "2026-10-06", 10, False)
+            with mock.patch.object(digest, "collect_hot_topics", return_value=[candidate]):
+                topics = digest.generate_hot_topics(root / "latest.json", root / "topics", root / "index.json", "2026-10-06", 10)
             self.assertEqual(topics, [digest.dataclasses.asdict(candidate)])
+
+
+if __name__ == "__main__":
+    unittest.main()

@@ -30,10 +30,20 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v6
 
+      - name: Prepare public site files
+        run: |
+          mkdir -p _site
+          cp index.html app.js styles.css site.webmanifest .nojekyll *.png *.ico _site/
+          cp -R digests japanese_digests _site/
+          mkdir -p _site/data
+          cp data/*index.json data/chinese_hot_topics.json _site/data/
+          cp -R data/hot_topics _site/data/
+          if [ -f CNAME ]; then cp CNAME _site/; fi
+
       - name: Upload static site
         uses: actions/upload-pages-artifact@v5
         with:
-          path: .
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment

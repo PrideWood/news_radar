@@ -1,4 +1,4 @@
-name: Daily English News Digest
+name: Fetch News and Deploy
 
 on:
   schedule:
@@ -36,7 +36,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate digest
+      - name: Fetch news metadata
         env:
           NEWS_RADAR_TIMEZONE: Asia/Shanghai
           TZ: Asia/Shanghai
@@ -49,7 +49,7 @@ jobs:
           test -s "japanese_digests/${digest_date}.md"
           test -s "data/japanese_digests_index.json"
 
-      - name: Commit digest
+      - name: Commit fetched news
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -73,10 +73,20 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v6
 
+      - name: Prepare public site files
+        run: |
+          mkdir -p _site
+          cp index.html app.js styles.css site.webmanifest .nojekyll *.png *.ico _site/
+          cp -R digests japanese_digests _site/
+          mkdir -p _site/data
+          cp data/*index.json data/chinese_hot_topics.json _site/data/
+          cp -R data/hot_topics _site/data/
+          if [ -f CNAME ]; then cp CNAME _site/; fi
+
       - name: Upload static site
         uses: actions/upload-pages-artifact@v5
         with:
-          path: .
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment

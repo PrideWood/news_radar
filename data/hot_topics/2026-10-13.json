@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-13",
+  "updated_at": "2026-10-12T21:12:58+00:00",
+  "source_note": "Items are collected directly from public trend pages without model processing.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平同达达埃互致贺电",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "两款燃油车重回销量榜前十",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "“共享儿女”你能接受吗",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "外国游客爱上中国科技",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "小学门口的水钻贴纸在外网火了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "李娜自曝宣布退役后一个月怀孕",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "女子长假把宠物鸡寄养在养鸡场",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "郑钦文收入97%来自品牌代言",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    }
+  ]
+}

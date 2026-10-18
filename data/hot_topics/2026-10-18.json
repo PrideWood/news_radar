@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-18",
+  "updated_at": "2026-10-18T04:22:34+00:00",
+  "source_note": "Items are collected directly from public trend pages without model processing.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "绿色之路",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "周末打虎！黄日波被查",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "人民日报评演唱会门票被炒至25万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "本周我国硬核成果密集上新",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "员工仅1人的空壳公司中标3000万项目",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "司机将女子放进后备箱致其失温死亡",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "爸爸AB型血妈妈A型血 女儿O型血",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "“2700元搞死一家店铺”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    }
+  ]
+}

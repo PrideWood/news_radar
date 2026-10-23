@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-24",
+  "updated_at": "2026-10-23T16:56:51+00:00",
+  "source_note": "Items are collected directly from public trend pages without model processing.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "党和人民军队铿锵前进的制胜之道",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "网红拼豆店 倒闭潮",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "哈啰顺风车 涉黄",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "人民子弟兵投入西藏巴青抗震救灾",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "未成年人向火锅小便 家长被判赔220万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "岁女孩卖妈妈金项链 金店当面熔化",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "红果短剧开始“筛人”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "新人结婚 大鹏：这照片就是我随的份子",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    }
+  ]
+}

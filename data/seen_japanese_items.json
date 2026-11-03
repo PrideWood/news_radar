@@ -1565,11 +1565,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001710",
       "title": "顔面に電気を流すと記憶力アップ？ あごにパッチ電極を貼り人間で実験、結果は……"
     },
-    "1b5b6258972376baed69": {
-      "first_seen": "2026-06-20",
-      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015155191000.html",
-      "title": "東北南部と新潟県含む北陸が梅雨入り 激しい雨のおそれ"
-    },
     "1ba67f4cf40f97f0525d": {
       "first_seen": "2026-10-29",
       "link": "https://www.watch.impress.co.jp/docs/news/2151893.html",
@@ -1804,11 +1799,6 @@
       "first_seen": "2026-09-19",
       "link": "https://www.watch.impress.co.jp/docs/news/2142062.html",
       "title": "Microsoft Wordで「ChatGPT」が利用可能に 文書の作成や編集に対応"
-    },
-    "1f10d2d4a9a610d83f64": {
-      "first_seen": "2026-06-20",
-      "link": "https://www.watch.impress.co.jp/docs/news/2118707.html",
-      "title": "OpenAI、Codexが作業を見て覚える「Record& Replay」"
     },
     "1f224114849313801f1a": {
       "first_seen": "2026-10-06",
@@ -2470,11 +2460,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2120897.html",
       "title": "モス、銀座に高級バーガー+バルの新業態「MOSH」"
     },
-    "28bbd721a842d2a98b90": {
-      "first_seen": "2026-06-20",
-      "link": "https://gigazine.net/news/20260620-open-vehicles",
-      "title": "電気自動車にオープンソースのテレメトリ機能を導入して充電セッションなど車両の状態を監視・制御できる「Open Vehicles」プロジェクトとは？"
-    },
     "28bd48b35bc969776e3f": {
       "first_seen": "2026-06-30",
       "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164771000.html",
@@ -3014,11 +2999,6 @@
       "first_seen": "2026-10-26",
       "link": "https://www.watch.impress.co.jp/docs/series/nishida/2150995.html",
       "title": "【西田宗千佳のイマトミライ】MetaのパーソナルAI「Muse」日本上陸 iPhone Duoと相性抜群な次の”競争軸”"
-    },
-    "324d33fa2b018469844f": {
-      "first_seen": "2026-06-20",
-      "link": "https://www.watch.impress.co.jp/docs/news/2118677.html",
-      "title": "ビックカメラ、ヨドバシ上陸の「池袋」限定でポイントアップ 「池祭」開催"
     },
     "32a655e49c55c3ad9393": {
       "first_seen": "2026-07-13",
@@ -5214,6 +5194,11 @@
       "first_seen": "2026-10-23",
       "link": "https://gigazine.net/news/20261023-cashapp-open-stolen-name",
       "title": "他人に個人情報を悪用されて決済アカウントを作られた女性が逮捕され懲役6年の可能性"
+    },
+    "5914068349a790b1be0b": {
+      "first_seen": "2026-11-04",
+      "link": "https://gigazine.net/news/20261103-pizza-bot",
+      "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能"
     },
     "5922013436681ec3cb2f": {
       "first_seen": "2026-06-22",
@@ -9620,6 +9605,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000688",
       "title": "Anthropic、8月末にもIPO申請書類を公開か 調達額はSpaceXの過去最大に匹敵と米報道"
     },
+    "a7ed2ffe711cbeb212a6": {
+      "first_seen": "2026-11-04",
+      "link": "https://gigazine.net/news/20261103-very-slow-running-benefit-brain",
+      "title": "歩くのと同じくらいゆっくりなランニングでも気分が良くなって認知機能が向上する"
+    },
     "a7f2c561b4c715fb0789": {
       "first_seen": "2026-10-12",
       "link": "https://gigazine.net/news/20261011-apple-configurator",
@@ -9949,6 +9939,11 @@
       "first_seen": "2026-10-15",
       "link": "https://www.watch.impress.co.jp/docs/news/2148012.html",
       "title": "三井住友カード、ハローキティの「プラチナプリファード」 年会費3.3万円"
+    },
+    "aeb8b54afc713dec40e5": {
+      "first_seen": "2026-11-04",
+      "link": "https://gigazine.net/news/20261103-protecting-against-retry-storms",
+      "title": "Uberはリトライストームからどのように身を守っているのか"
     },
     "aedec33881b615fc4d02": {
       "first_seen": "2026-10-24",
@@ -11749,6 +11744,11 @@
       "first_seen": "2026-10-20",
       "link": "https://www.watch.impress.co.jp/docs/topic/2147284.html",
       "title": "なぜいま「ピックルボール」が人気なのか 誰でも楽しめるルールとちょうどいい運動量"
+    },
+    "cbdf32b55c99253f72cf": {
+      "first_seen": "2026-11-04",
+      "link": "https://gigazine.net/news/20261103-hataya-led-light",
+      "title": "車で踏んでも壊れないLEDテープライトを買ったので実際に車で踏んでみた"
     },
     "cc19a1d331ca7f326ac5": {
       "first_seen": "2026-10-19",

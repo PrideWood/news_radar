@@ -1195,15 +1195,15 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2146710.html",
       "title": "XREAL、95g以下のAndroid XRグラス「AURA」 約23万円"
     },
-    "1460a27d8901c8e6d33d": {
-      "first_seen": "2026-06-27",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120569.html",
-      "title": "OpenAI「GPT-5.6」発表 最上位「Sol」など3モデルを政府要請で段階提供"
-    },
     "147efce8026a82825102": {
       "first_seen": "2026-07-30",
       "link": "https://www.watch.impress.co.jp/docs/news/2129332.html",
       "title": "はやぶさ2、トリフネへの最接近距離は400mと判明 フライバイ探査で世界記録"
+    },
+    "148939d3e85ea69fb8ce": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002894",
+      "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に"
     },
     "14b183f01b779817100d": {
       "first_seen": "2026-10-25",
@@ -1474,6 +1474,11 @@
       "first_seen": "2026-08-17",
       "link": "https://gigazine.net/news/20260816-cyberpower-st425jp",
       "title": "格安かつコンパクトでUPS・雷サージ機能を有する「CyberPower ST425JP」レビュー"
+    },
+    "19f60e2121707dda2a0c": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event",
+      "title": "ユニクロのグローバル旗艦店「ユニクロ 京都」が京都河原町にオープンするので記者発表会＆メディア先行内覧会に行ってきたよレポート"
     },
     "1a036a428882e231d8cd": {
       "first_seen": "2026-08-24",
@@ -1884,6 +1889,11 @@
       "first_seen": "2026-07-20",
       "link": "https://www.itmedia.co.jp/news/articles/2607/19/news004.html",
       "title": "サウナ週4回で認知症リスク66%減？ 中年男性2000人以上を20年追跡したフィンランドの研究"
+    },
+    "20fc0333fd5d9e44587d": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-us-data-center-vote-reject",
+      "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持"
     },
     "212aea18b5a29977c168": {
       "first_seen": "2026-10-09",
@@ -2364,11 +2374,6 @@
       "first_seen": "2026-10-28",
       "link": "https://www.watch.impress.co.jp/docs/news/2151535.html",
       "title": "富士フイルム、チェキフィルムに「第3の色合い」 増産計画も"
-    },
-    "27384d54a0caf30c4596": {
-      "first_seen": "2026-06-27",
-      "link": "https://gigazine.net/news/20260626-youtube-shorts-experience-updates-features",
-      "title": "YouTubeショートのアップデートで「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能に"
     },
     "2743cb3421ae56d2a820": {
       "first_seen": "2026-08-20",
@@ -3355,6 +3360,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2150172.html",
       "title": "PHPの重大脆弱性、発見したのは「GPT-5.6Sol」 OpenAIが防御連携を呼びかけ"
     },
+    "37ba864ed0e2bd0748fa": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler",
+      "title": "ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ"
+    },
     "37e5c75f6e0a7a95e218": {
       "first_seen": "2026-09-22",
       "link": "https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass",
@@ -4005,6 +4015,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2146044.html",
       "title": "遊休トンネル活用の地中型データセンター 三井不動産らが日本初"
     },
+    "436c0e4892565df6a3dd": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910",
+      "title": "不正アクセスで停止の「ふるさとチョイス」6日再開 まずWeb版から"
+    },
     "436fb95b145df1cdabd8": {
       "first_seen": "2026-09-05",
       "link": "https://gigazine.net/news/20260904-torikichi-ramen",
@@ -4039,6 +4054,11 @@
       "first_seen": "2026-08-03",
       "link": "https://www.watch.impress.co.jp/docs/news/2129582.html",
       "title": "ファミマ、45%増量キャンペーン“おかわり”開催 13商品"
+    },
+    "43e171a5ebc4d8a02551": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-nintendo-switch-cartridge-chip-manufacturer-data-centers",
+      "title": "Nintendo Switchのゲームカード用ROMサプライヤーがROM生産を段階的に終了、物理メディア業界にさらなる打撃"
     },
     "43e481c0d5c2ac498b37": {
       "first_seen": "2026-11-03",
@@ -4429,6 +4449,11 @@
       "first_seen": "2026-09-20",
       "link": "https://gigazine.net/news/20260920-philips-thermal-box",
       "title": "屋外イベントで使う持ち運び用冷蔵庫としてPhilipsの車載用サーマルボックスを買ってみた、マイナス22度まで冷やせるので冷凍ラムネもOK"
+    },
+    "4ba89e9cd4c8427531a9": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-guide",
+      "title": "嵐電コラボTシャツなど京都ゆかりの商品もあるユニクロのグローバル旗艦店「ユニクロ 京都」の内部はこんな感じ"
     },
     "4bac378c8e2f3a300de6": {
       "first_seen": "2026-08-21",
@@ -4850,6 +4875,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002050",
       "title": "eスポーツもカロリーを消費する？ 運動と比較した値は……チェコの研究者などが調査"
     },
+    "5305e53bab2c27231ea4": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154028.html",
+      "title": "PFN、スマホでオフライン翻訳「PLaMo 3 Translate」"
+    },
     "5313aeb69ab02528a70a": {
       "first_seen": "2026-08-25",
       "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000759",
@@ -4959,6 +4989,11 @@
       "first_seen": "2026-10-16",
       "link": "https://www.watch.impress.co.jp/docs/news/2148395.html",
       "title": "スマホを持つだけで通過 JR東「ウォークスルー改札」がCEATECで体験できる"
+    },
+    "54e2eaa946684823752b": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-funimation-shutdown-legally-rip-anime",
+      "title": "アニメ配信サービスの終了でDVDやBlu-rayの「合法コピー」を可能にするためDMCA免除を求める動きが進んでいる"
     },
     "54e8934d06cfbb4f359e": {
       "first_seen": "2026-10-14",
@@ -5220,6 +5255,11 @@
       "link": "https://gigazine.net/news/20261020-apple-pro-and-tell",
       "title": "Appleが10月28日午前10時(太平洋標準時)にロサンゼルスで「Pro and tell」イベントを開催すると発表、初のタッチスクリーン搭載MacBook・M6搭載の14インチMacBook Proなど"
     },
+    "58cabcafe82cb55e21ec": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link",
+      "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始"
+    },
     "58e2ed9e140d9054bc34": {
       "first_seen": "2026-07-30",
       "link": "https://www.itmedia.co.jp/news/article/2607/30/2000000279",
@@ -5465,11 +5505,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2149643.html",
       "title": "絶版マンガ配信の「マンガ図書館Z」、出版社の新作も有料販売"
     },
-    "5e2e7be6389983d9af91": {
-      "first_seen": "2026-06-27",
-      "link": "https://gigazine.net/news/20260627-setpose-3d",
-      "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」"
-    },
     "5e39e5a5b839528a204f": {
       "first_seen": "2026-07-12",
       "link": "https://gigazine.net/news/20260712-anker-soundcore-p42i",
@@ -5604,11 +5639,6 @@
       "first_seen": "2026-09-24",
       "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674",
       "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に"
-    },
-    "6074525b44eb16b1aa04": {
-      "first_seen": "2026-06-27",
-      "link": "https://gigazine.net/news/20260626-china-anthropic-api",
-      "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？"
     },
     "6077d9399e9c3dae9b4b": {
       "first_seen": "2026-10-01",
@@ -6015,11 +6045,6 @@
       "link": "https://gigazine.net/news/20261022-node-js-security-releases",
       "title": "Node.jsがセキュリティアップデートで「22.23.4」「24.22.1」「26.12.1」配信、全体で10件の脆弱性を修正"
     },
-    "66cc5cf488bacae76870": {
-      "first_seen": "2026-06-27",
-      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162731000.html",
-      "title": "台風7号 温帯低気圧に 引き続き土砂災害など十分注意を"
-    },
     "66fba288ccf8ec2c0769": {
       "first_seen": "2026-10-16",
       "link": "https://gigazine.net/news/20261016-ternary-bonsai-2-2b-4b-9b",
@@ -6100,11 +6125,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564",
       "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開"
     },
-    "681c5b73a4c301265eb2": {
-      "first_seen": "2026-06-27",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news136.html",
-      "title": "「モバイルバッテリー発火」に備え、新幹線に「防火ブランケット」配備 JRグループ5社 8月までに"
-    },
     "681cd394c8f9649c4d4c": {
       "first_seen": "2026-10-22",
       "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002451",
@@ -6180,10 +6200,10 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
       "title": "Anthropic、Claudeの使い方を振り返る新機能「reflect」（振り返り）追加──AIとの付き合い方を見直すために"
     },
-    "6985ce2ad1768fe44bd9": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news059.html",
-      "title": "IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化"
+    "69a7f4ef393c2a2a2d09": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154053.html",
+      "title": "LINEヤフー、株主優待を導入 ヤフショ商品券最大50万円分"
     },
     "69e36c32c17c37f34d45": {
       "first_seen": "2026-10-12",
@@ -6430,11 +6450,6 @@
       "link": "https://gigazine.net/news/20260826-micro-bites-cookie-from-plastic-bottle",
       "title": "プラスチックごみから生み出されたクッキー「μBites」"
     },
-    "6de9d75ecaef3b92e735": {
-      "first_seen": "2026-06-27",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120504.html",
-      "title": "Bluesky、ユーザー数が4500万人を突破"
-    },
     "6e32701a36e711679a12": {
       "first_seen": "2026-07-29",
       "link": "https://www.watch.impress.co.jp/docs/news/2128989.html",
@@ -6640,6 +6655,11 @@
       "link": "https://gigazine.net/news/20260921-military-freezers",
       "title": "軍の売店の冷凍庫にハッキング攻撃か、冷蔵・冷凍食品売り場が国家安全保障上の脅威になる可能性"
     },
+    "71a2d3e8348a5240ef05": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002912",
+      "title": "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も"
+    },
     "71abb7a55bebc53b2696": {
       "first_seen": "2026-09-11",
       "link": "https://gigazine.net/news/20260910-marathon-runner-cannabis-like-chemicals",
@@ -6789,6 +6809,11 @@
       "first_seen": "2026-08-31",
       "link": "https://gigazine.net/news/20260831-draw-reveal-parkinsons-disease-99-accuracy",
       "title": "「図形の描き方」でパーキンソン病を99％の精度で識別できる可能性"
+    },
+    "7473aa5af04e42acacef": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-starbucks-merryberrychocolatelatte",
+      "title": "華やかなベリーの香りとビターなチョコレートの風味がベストマッチしたスタバのチルドカップ「メリーベリーチョコレートラテ」"
     },
     "74da702e78be6bddce5f": {
       "first_seen": "2026-07-26",
@@ -7340,11 +7365,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2149742.html",
       "title": "ガーミン、ゴルフのフォームデータを記録するGPSウォッチ「Approach S72」"
     },
-    "7e039378318f52fcb5d4": {
-      "first_seen": "2026-06-27",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/27/news006.html",
-      "title": "ソニー「α7R VI」は弱点が見当たらない高画質モデル ディテールの描写力と正確なAFは「さすが」の一言"
-    },
     "7e0f1c6f68d782c744e1": {
       "first_seen": "2026-09-03",
       "link": "https://gigazine.net/news/20260902-acecook-kawasaki-ahomenn",
@@ -7880,6 +7900,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/04/2000000366",
       "title": "EU、AIの透明性義務の適用を開始 生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ"
     },
+    "87ad8087be15da4ac23a": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154107.html",
+      "title": "ドコモ、不正アクセスで最大30万件の情報漏えい My docomoとオンラインショップ"
+    },
     "87b4be77c44c92ff3752": {
       "first_seen": "2026-09-18",
       "link": "https://www.watch.impress.co.jp/docs/news/2141703.html",
@@ -7949,11 +7974,6 @@
       "first_seen": "2026-07-27",
       "link": "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
       "title": "ChatGPTとClaude、そろって音声機能強化 Codexでエージェントに“声だけで指示”も可能に"
-    },
-    "88e44b4b598bebe2313e": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
-      "title": "防衛省は“認知戦”にどう挑む ウクライナ脅かすAIフェイク、偽アカウントへの対応は 分析資料を公開"
     },
     "89033fa77eee215a1865": {
       "first_seen": "2026-09-23",
@@ -8374,6 +8394,11 @@
       "first_seen": "2026-08-22",
       "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000598",
       "title": "コードが書けない筆者が愛車用にアプリを2本自作 「AI製アプリで起業」の夢膨らむも、見えた有料化の壁"
+    },
+    "917f568180b4fb75c39e": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002921",
+      "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク"
     },
     "91924ea465932c23b2b0": {
       "first_seen": "2026-10-24",
@@ -8980,11 +9005,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002888",
       "title": "米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇"
     },
-    "9b21ce1d90d0eb2d8df3": {
-      "first_seen": "2026-06-27",
-      "link": "https://www.watch.impress.co.jp/docs/news/2119763.html",
-      "title": "G-SHOCK、上品な“漆黒”でみせる2100シリーズ4機種"
-    },
     "9b33588729d3d9d9e3ef": {
       "first_seen": "2026-11-03",
       "link": "https://gigazine.net/news/20261102-haas-ja-v1-asr",
@@ -9230,11 +9250,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002257",
       "title": "デンマークの880万人分流出、原因はパスワード「123456」 ハッカー「侵入は難しくなかった」 現地報道"
     },
-    "9f7dcce1d4750ba95d73": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news041.html",
-      "title": "女性の“痛み”軽視されがち？ 「訴えがおおげさ」は偏見か 2万件の医療記録、2024年の分析結果は"
-    },
     "9f9a0898c6c890a4cc72": {
       "first_seen": "2026-08-06",
       "link": "https://www.watch.impress.co.jp/docs/news/2131251.html",
@@ -9434,11 +9449,6 @@
       "first_seen": "2026-10-08",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002113",
       "title": "ニッスイ子会社で入出荷停止 IDCFクラウド影響か 委託先データセンターに不正アクセス"
-    },
-    "a3ce64af0d8ed2b490e8": {
-      "first_seen": "2026-06-27",
-      "link": "https://gigazine.net/news/20260627-ultrasound-espresso-machine",
-      "title": "超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？"
     },
     "a3cfa737d77949351ecd": {
       "first_seen": "2026-07-21",
@@ -10305,11 +10315,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002179",
       "title": "山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘"
     },
-    "b4212a5c6a6e2565def1": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2120198.html",
-      "title": "【鈴木淳也のPay Attention】「コンビニ」の限界を超える ローソンの地域・オフィス・ミニスーパー新戦略"
-    },
     "b424ef89184b1bf109b5": {
       "first_seen": "2026-09-05",
       "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001163",
@@ -10645,11 +10650,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2127397.html",
       "title": "顔写真からビックリマン風キャラ生成 Tシャツ・アクキーなど本格展開"
     },
-    "b9a2741fd4675c139fb3": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120423.html",
-      "title": "Yahoo!ショッピングでも超PayPay祭 22%ポイント還元や50%オフ"
-    },
     "b9ada4277a1a4c8fcaab": {
       "first_seen": "2026-10-08",
       "link": "https://gigazine.net/news/20261008-astronaut-pikachu",
@@ -10854,11 +10854,6 @@
       "first_seen": "2026-07-26",
       "link": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
       "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別"
-    },
-    "bd9e73b3bd90d8964a8f": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news081.html",
-      "title": "お湯が固形化したみたい？ 「STTA テックオシボリ」担当者に聞いた新素材の特性と“気持ち良さ”の秘密"
     },
     "bdb55a05c4d795013e29": {
       "first_seen": "2026-10-14",
@@ -11305,11 +11300,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2140643.html",
       "title": "衣類を手のひらサイズに圧縮「Pocket Tips」 羽田空港などで導入へ"
     },
-    "c4f047d2ae45d2506a5e": {
-      "first_seen": "2026-06-27",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120457.html",
-      "title": "横浜市瀬谷区に「イオンスタイル三ツ境」 7月開業 三ツ境駅徒歩4分"
-    },
     "c4f13979b14147f38296": {
       "first_seen": "2026-11-05",
       "link": "https://gigazine.net/news/20261104-billboard-hacked",
@@ -11374,6 +11364,11 @@
       "first_seen": "2026-10-28",
       "link": "https://www.watch.impress.co.jp/docs/news/2151544.html",
       "title": "iOS 27.2公開 Siri AI対応やカメラのSiriモードなど"
+    },
+    "c5ec9f572f820fda77ea": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154069.html",
+      "title": "楽天証券、1500万口座突破 7カ月で100万口座増"
     },
     "c5f07268a7b8fdb962cd": {
       "first_seen": "2026-09-01",
@@ -11520,6 +11515,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001623",
       "title": "東京ゲームショウのグッズがメルカリに続々出品 「ビジネスデイなのに」など批判の声"
     },
+    "c7fb96599970eb03f41c": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154084.html",
+      "title": "新Kindle出揃う 「価格勝負」から「薄くて上質・カラフル」に"
+    },
     "c7fe23f04236b00b6e2f": {
       "first_seen": "2026-10-23",
       "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002532",
@@ -11539,11 +11539,6 @@
       "first_seen": "2026-08-11",
       "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000486",
       "title": "AIが変えた震災支援……熊本の被災者がスマホで作った「イマココナビ」活況 “乱立”に課題も"
-    },
-    "c8347a3726034e050261": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120361.html",
-      "title": "空調服の撥水・UVカットマウンテンパーカー 男女兼用・4WAY"
     },
     "c84c581dc53be7311da4": {
       "first_seen": "2026-09-08",
@@ -11589,6 +11584,11 @@
       "first_seen": "2026-07-15",
       "link": "https://gigazine.net/news/20260715-thunder-3-yuuki-ikeda-interview",
       "title": "『サンダー３』原作者・池田祐輝さんにインタビュー、アニメの感想から独特なマンガの描き方まで1時間たっぷり語ってもらいました"
+    },
+    "c90e3bddabf8cffac9dd": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-sasaki-kuranosuke",
+      "title": "佐々木蔵之介さんが「ユニクロ 京都」のオープンに先駆けてトークイベントに登場"
     },
     "c933b9dcfcd859453449": {
       "first_seen": "2026-07-04",
@@ -11740,11 +11740,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002573",
       "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表"
     },
-    "cb5d3e1f74d88b8ad84d": {
-      "first_seen": "2026-06-26",
-      "link": "https://gigazine.net/news/20260626-ford-rehire-inspectors",
-      "title": "自動車大手のフォードでAI主導の自動化がうまくいかず人間のベテラン技術者を再雇用せざるを得ない事態に"
-    },
     "cb676a5c82de6dc7ed5b": {
       "first_seen": "2026-10-25",
       "link": "https://gigazine.net/news/20261025-seeing-theory",
@@ -11820,20 +11815,10 @@
       "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001016",
       "title": "福島大がネット動画に苦言、学歴YouTuberの“放射能いじり”念頭か 「尊厳傷つけることあってはならない」"
     },
-    "ccc7915469c58ddd4b88": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news069.html",
-      "title": "YouTube、「ショート動画」を2倍速で再生可能に 「低評価」ボタンは廃止"
-    },
     "ccf3bb9871b95692fa0b": {
       "first_seen": "2026-10-15",
       "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002287",
       "title": "「YouTube Music」、生成AIで作られた楽曲にラベル表示"
-    },
-    "cd041917e715660a5152": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2118992.html",
-      "title": "“都会のローカル線”大阪「汐見橋線」全踏破 派手さはなくとも地域を支える"
     },
     "cd05a21edd59a98c1fc6": {
       "first_seen": "2026-08-29",
@@ -11994,11 +11979,6 @@
       "first_seen": "2026-10-06",
       "link": "https://www.watch.impress.co.jp/docs/news/2145985.html",
       "title": "ゆうちょ銀、ファミマのATMを終了 27年1月から"
-    },
-    "d0193db9a68843943b4c": {
-      "first_seen": "2026-06-27",
-      "link": "https://gigazine.net/news/20260627-flocking-birds-fish-soft-crystal",
-      "title": "鳥や魚の群れは「柔らかい結晶」のように動いているという研究結果"
     },
     "d019d0a0879721454fe7": {
       "first_seen": "2026-10-01",
@@ -12595,6 +12575,11 @@
       "link": "https://gigazine.net/news/20260717-nissin-hiyashi-cupnoodle-kimchi-lemon",
       "title": "カップヌードル史上初の冷水で作れて暑い夏にぴったりな「冷しカップヌードル ピリ辛キムチ味／鶏塩レモン味」を食べてみた"
     },
+    "da7b248b57e15c2fd9c8": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked",
+      "title": "フランスの血液保存施設で冷蔵庫の設定を-30℃から110℃に引き上げるサイバー攻撃が発生、迅速な対応で血液製剤は無事"
+    },
     "da96ca698ea1749d4d7f": {
       "first_seen": "2026-09-28",
       "link": "https://www.watch.impress.co.jp/docs/news/2143695.html",
@@ -13090,6 +13075,11 @@
       "link": "https://gigazine.net/news/20261014-super-ice-ten-times-stronger",
       "title": "通常の氷の約10倍の圧縮強度を持つ「スーパーアイス」が開発される"
     },
+    "e1a2179a18cc02ea2b1b": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154001.html",
+      "title": "MUFG「エムット」、Google Health連携で日常＋金融サービスへ進化"
+    },
     "e1a93be4e8ce50437cf4": {
       "first_seen": "2026-10-19",
       "link": "https://www.watch.impress.co.jp/docs/news/2149251.html",
@@ -13154,6 +13144,11 @@
       "first_seen": "2026-07-24",
       "link": "https://www.watch.impress.co.jp/docs/news/2127687.html",
       "title": "東京アプリの1.1万ポイント、PayPayとWAON POINTの交換に対応"
+    },
+    "e23f2bcc1d3da70ee92a": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-ai-shodo",
+      "title": "AIに無理やり書道をやらせる「AI書道コンクール」が登場、画像生成AIではなく言語モデルに挑戦させる"
     },
     "e2912c692f6ba5d54a48": {
       "first_seen": "2026-08-26",
@@ -13495,6 +13490,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2120926.html",
       "title": "Yahoo!ニュース「ヤフコメまとめ」開始 論点を要約・グラフで可視化"
     },
+    "e75b9d4a14c5b84018d5": {
+      "first_seen": "2026-11-06",
+      "link": "https://gigazine.net/news/20261105-bluetooth-hdt",
+      "title": "Bluetoothの通信速度を約4倍に引き上げる「Bluetooth HDT」が正式採用される、2027年にはロスレス音声対応製品が登場へ"
+    },
     "e76fd9bf5c4d35e7e165": {
       "first_seen": "2026-10-19",
       "link": "https://www.watch.impress.co.jp/docs/news/2149235.html",
@@ -13830,6 +13830,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002160",
       "title": "新gTLD申請、日本からも多数 講談社「.manga」、東映アニメ「.anime」、ドコモ「.docomo」など"
     },
+    "ec7d0b8f7b7db6d36426": {
+      "first_seen": "2026-11-06",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154002.html",
+      "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ"
+    },
     "ec7e75f183e9b13657b2": {
       "first_seen": "2026-09-12",
       "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001427",
@@ -14094,11 +14099,6 @@
       "first_seen": "2026-10-24",
       "link": "https://www.watch.impress.co.jp/docs/news/2150944.html",
       "title": "不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請"
-    },
-    "f040ffb7e66b312bc5ab": {
-      "first_seen": "2026-06-26",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120470.html",
-      "title": "JR各社、新幹線に防火毛布・バケツ配備 モバイルバッテリ発火対策"
     },
     "f0a4bc226a7ef611b8df": {
       "first_seen": "2026-06-28",

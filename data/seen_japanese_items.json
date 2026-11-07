@@ -475,11 +475,6 @@
       "link": "https://gigazine.net/news/20261014-google-serp-tool-poisoned",
       "title": "Googleの検索結果を収集するツールに通常とは異なるサイトが表示されているとの調査結果"
     },
-    "0746c575941b0ac23223": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news094.html",
-      "title": "キャンメイクの“高クオリティ”「AI社員」、SNSで評価割れる「実物に近づけたAIと実物の写真は違う」"
-    },
     "0762fbaeab076d12511e": {
       "first_seen": "2026-08-25",
       "link": "https://gigazine.net/news/20260824-chipmaking-cram-schools",
@@ -2215,11 +2210,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002209",
       "title": "SpaceXAI、Xのユーザー名を「SpaceXSI」に変更 “AI呼称やめる”宣言から1週間ほどで"
     },
-    "24fa0dde710315bf2225": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
-      "title": "Anthropicの営業はAIエージェントをこう使う！ 日本法人メンバーが明かす手の内"
-    },
     "250136d62c7749246855": {
       "first_seen": "2026-09-07",
       "link": "https://www.watch.impress.co.jp/docs/news/2138659.html",
@@ -2460,11 +2450,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002413",
       "title": "メドレー、不正アクセスで停止中のサービスを作り直して再開へ 従来システムは再稼働させず"
     },
-    "28bda694d9fd1db0ba54": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.watch.impress.co.jp/docs/news/2121668.html",
-      "title": "Threadsが3周年 国内利用は前年比2.3倍で「インスタとは違う」成長"
-    },
     "28cdd118bdb3d7c19845": {
       "first_seen": "2026-10-09",
       "link": "https://gigazine.net/news/20261008-virtual-biology-initiative",
@@ -2574,6 +2559,11 @@
       "first_seen": "2026-10-12",
       "link": "https://gigazine.net/news/20261011-number-of-kids-affect-lifespan",
       "title": "「出産した回数」が母親の寿命に影響を与える可能性がある"
+    },
+    "2a3db9a7987586894882": {
+      "first_seen": "2026-11-08",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154571.html",
+      "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」"
     },
     "2a5711ba5b25ef0cf151": {
       "first_seen": "2026-10-29",
@@ -2720,6 +2710,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/10/news089.html",
       "title": "相手を嫌いになる脳の仕組み、東京大が解明 光でマウスの感情操作に成功 うつ病治療に期待"
     },
+    "2c986c44c790212b5aef": {
+      "first_seen": "2026-11-08",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154541.html",
+      "title": "傑作《黒船屋》が約40年ぶりに東京へ! 約500点で迫る大正ロマンの旗手「竹久夢二」"
+    },
     "2caf4c23f0f220928728": {
       "first_seen": "2026-09-18",
       "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001577",
@@ -2764,11 +2759,6 @@
       "first_seen": "2026-10-03",
       "link": "https://gigazine.net/news/20261002-sns-harming-democracy-global-survey",
       "title": "「SNSは民主主義に悪影響を与える」と考える人の割合が日本を含む37カ国の調査で大幅に増加"
-    },
-    "2da11d6db9726978f5b8": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news030.html",
-      "title": "「赤」と「緑」を見分けられる仕組みを世界初解明、色覚障害の理解へ一歩 名工大や東大などがScience誌で発表"
     },
     "2da501b86f3a9e17bc85": {
       "first_seen": "2026-10-17",
@@ -3454,11 +3444,6 @@
       "first_seen": "2026-08-14",
       "link": "https://www.watch.impress.co.jp/docs/news/2132778.html",
       "title": "NearMe「時間貸切」サービス 大阪や北海道などへ拡大"
-    },
-    "3977a4b2ad25f8a76c01": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.watch.impress.co.jp/docs/news/2121812.html",
-      "title": "LINEとPayPayがついに連携 LINEからPayPay送金可能に"
     },
     "397f3a2a74ac0a1efc1e": {
       "first_seen": "2026-09-01",
@@ -6150,6 +6135,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002367",
       "title": "「Renta!」が臨時メンテナンスでサービス停止 再開時期示さず"
     },
+    "68369c4f1f3c205196ef": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261107-harmony",
+      "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能"
+    },
     "684147c9457dcad5f379": {
       "first_seen": "2026-09-10",
       "link": "https://www.watch.impress.co.jp/docs/news/2139549.html",
@@ -6294,6 +6284,11 @@
       "first_seen": "2026-10-16",
       "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002299",
       "title": "Microsoft、3つの国際的な犯罪ネットサービスを解体へ 日本狙った詐欺がきっかけ"
+    },
+    "6b5aca5fa614518368e7": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261107-godzilla-1million-domestic-audience",
+      "title": "映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破"
     },
     "6bad19df21498c120b79": {
       "first_seen": "2026-10-24",
@@ -12500,6 +12495,11 @@
       "link": "https://gigazine.net/news/20260827-yawamochi-ice-hojicha",
       "title": "黒糖わらびもちの入ったアイス「やわもちアイス ほうじ茶わらび」試食レビュー、ほうじ茶と黒糖の相性がいい感じ"
     },
+    "d8aeffdf6e5a72fa5f5b": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261107-kindle-2026-review",
+      "title": "「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？"
+    },
     "d8e4375a71808daf489f": {
       "first_seen": "2026-10-17",
       "link": "https://gigazine.net/news/20261016-nvidia-nemotron-3-5-bolt-74b-a9b-24gb",
@@ -14875,6 +14875,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2149546.html",
       "title": "「最先端モデルも信頼できない」 マイクロソフトが企業AIエージェントの統制強化策"
     },
+    "fda54062f8544dd1fa1d": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives",
+      "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？"
+    },
     "fde9cf6a94149d0626c1": {
       "first_seen": "2026-07-07",
       "link": "https://www.watch.impress.co.jp/docs/news/2122980.html",
@@ -14919,11 +14924,6 @@
       "first_seen": "2026-10-15",
       "link": "https://gigazine.net/news/20261015-jev-1-14",
       "title": "Jevが画像入力に対応＆長大コンテキストに対応＆意思決定モデルのベンチマークテストも発表"
-    },
-    "fe9975cbd7fc08ecddc0": {
-      "first_seen": "2026-07-01",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165461000.html",
-      "title": "「路線価」全国平均 過去最大の上昇率 観光地で大幅上昇目立つ"
     },
     "fedfd15ea4985e5432b8": {
       "first_seen": "2026-08-31",

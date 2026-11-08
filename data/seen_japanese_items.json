@@ -4915,11 +4915,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2135362.html",
       "title": "ウェザーニュース、地震到達まであと何秒? がわかる新機能"
     },
-    "536188ac7eca1bf4d36e": {
-      "first_seen": "2026-07-02",
-      "link": "https://gigazine.net/news/20260702-what-is-dtd-atopia",
-      "title": "自分の家の中でも迷子になってしまう「発達性地誌的見当識障害」とは？"
-    },
     "538885e48ea2a9504bb2": {
       "first_seen": "2026-10-08",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002120",
@@ -8725,6 +8720,11 @@
       "link": "https://www.itmedia.co.jp/news/articles/2607/10/news032.html",
       "title": "「虚数」は量子力学に必須ではなかった？ 「実数」だけで矛盾なく記述できる──ドイツの研究チームが物理学誌で発表"
     },
+    "96e4ea629234c916860e": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261108-spymarks-not-watermarks",
+      "title": "AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している"
+    },
     "971600f4e71b8e82f82a": {
       "first_seen": "2026-09-05",
       "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001174",
@@ -9044,11 +9044,6 @@
       "first_seen": "2026-10-19",
       "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353",
       "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減"
-    },
-    "9b7470d59bae83eaaeb8": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2120369.html",
-      "title": "仕事中にパンダと運動 「HUAWEI WATCH FIT 5」のミニストレッチが楽しい【ミニレビュー】"
     },
     "9b786131d488044cfe9b": {
       "first_seen": "2026-07-12",
@@ -9709,11 +9704,6 @@
       "first_seen": "2026-10-18",
       "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2148557.html",
       "title": "ゴミ捨てラクな掃除機が欲しいという話 (ポッドキャストやってます)"
-    },
-    "a8a2e3209d30ebfd1b00": {
-      "first_seen": "2026-07-02",
-      "link": "https://www.watch.impress.co.jp/docs/news/2121792.html",
-      "title": "ドトール値上げ ブレンドコーヒー280円→300円"
     },
     "a8aed29dac8c575df6e2": {
       "first_seen": "2026-09-08",
@@ -11459,6 +11449,11 @@
       "first_seen": "2026-10-30",
       "link": "https://gigazine.net/news/20261030-dhs-officials-data-leak",
       "title": "国土安全保障省の職員4万1000人分の個人情報が流出、ICEによる移民取り締まり強化への反発か"
+    },
+    "c6d7b70ba272cceafb25": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261108-pupils-dilation-surprise",
+      "title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説"
     },
     "c6f7efcedc5270b41e20": {
       "first_seen": "2026-08-09",
@@ -13814,6 +13809,11 @@
       "first_seen": "2026-10-30",
       "link": "https://gigazine.net/news/20261029-ollama-open-webui-local-ai",
       "title": "Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた"
+    },
+    "ebaa8af60afda712a850": {
+      "first_seen": "2026-11-08",
+      "link": "https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us",
+      "title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される"
     },
     "ebabe64d9c5214da53aa": {
       "first_seen": "2026-10-08",

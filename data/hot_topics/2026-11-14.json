@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-14",
+  "updated_at": "2026-11-13T19:32:30+00:00",
+  "source_note": "Items are collected directly from public trend pages without model processing.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "习近平对国企党建工作作出重要指示",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "飞秒手术全球1000万例中国750万例",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "黑人牙膏 别信口开河",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "带你探访全国首家科技成果超市",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "央行出手！2000亿元买断式逆回购来了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "磁带怎么突然打赢复活赛了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "零元面馆附近商户：确实伤害到我们了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "大衣哥称不直播带货：把控不了产品",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    }
+  ]
+}

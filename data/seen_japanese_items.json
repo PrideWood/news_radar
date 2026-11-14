@@ -1995,6 +1995,11 @@
       "link": "https://gigazine.net/news/20261026-steal-my-bitcoin",
       "title": "PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される"
     },
+    "21f7d233b0d2a0e110c8": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261114-sugar-substitutes-cognitive-decline",
+      "title": "摂取量が多い人ほど認知機能が速く低下する傾向が見られた6種の甘味料とは？"
+    },
     "2233400e44bc3adc3421": {
       "first_seen": "2026-10-31",
       "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol",
@@ -2430,11 +2435,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2152648.html",
       "title": "ファミマ駐車場に楽天モバイルの移動型ショップ「気軽に相談」"
     },
-    "2834a1cebf2fab1dd580": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news052.html",
-      "title": "LINEヤフー、「Yahoo!天気」などで生成AI活用「天気コーデ」提供開始 外出先の天気や気温に応じた服装を画像で"
-    },
     "2859d2de8aa4d9572e9b": {
       "first_seen": "2026-10-10",
       "link": "https://gigazine.net/news/20261009-anthropic-oss-scanner",
@@ -2835,11 +2835,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2139200.html",
       "title": "JR九州、クレカ乗車の対象駅拡大 福北ゆたか線・香椎線・若松線"
     },
-    "2f152ef9197c1d9f83b6": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126920.html",
-      "title": "JR西日本、「忘れ物傘」を1本199円から販売 姫路で実証実験"
-    },
     "2f38fa9454c3f598478f": {
       "first_seen": "2026-08-16",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2131604.html",
@@ -3189,11 +3184,6 @@
       "first_seen": "2026-11-09",
       "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003012",
       "title": "早稲田大、PHP脆弱性への対応中に不正アクセス発見 個人情報約3400件流出確認"
-    },
-    "358d9ef17da2a1493360": {
-      "first_seen": "2026-07-22",
-      "link": "https://gigazine.net/news/20260722-meta-storykit",
-      "title": "主人公・舞台・要素を選ぶだけで子ども向けの物語をAI生成するアプリ「StoryKit」をMetaがリリース"
     },
     "359638a406588ead7f64": {
       "first_seen": "2026-08-03",
@@ -3944,11 +3934,6 @@
       "first_seen": "2026-08-06",
       "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000414",
       "title": "ローソン、「鍋さばきロボ」導入拡大 やきそば・チャーハンなどを高火力でスピード調理"
-    },
-    "41b8894e5aa38bd6b076": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126810.html",
-      "title": "青山、ビジネス向け「空調ウエア」 ファン稼働時の膨らみ抑制"
     },
     "41bacdfe71687b7fc196": {
       "first_seen": "2026-10-31",
@@ -6710,6 +6695,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2140006.html",
       "title": "鳥貴族、10月1日に値上げ 390円→410円"
     },
+    "73b0ee5881e0d25f531d": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261114-mitra",
+      "title": "無料で時間管理用のカレンダーとタスク管理用のToDoアプリの両方を1つのタイムラインにまとめる「Mitra」、CalDAV・Googleカレンダー・Appleカレンダー・Notion・Todoist・Tempoと双方向同期可能"
+    },
     "73b63724bfbc37833de1": {
       "first_seen": "2026-10-08",
       "link": "https://gigazine.net/news/20261007-slovenia-si-domain-surge-trump-super-intelligence",
@@ -8159,6 +8149,11 @@
       "first_seen": "2026-09-11",
       "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001376",
       "title": "スーパーでおなじみ「呼び込み君」に新型 26年越しの“新曲”も配信"
+    },
+    "8d3ff0fe3858f983fbc5": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261114-japanese-wives-earn-more-husbands-households",
+      "title": "日本では妻の収入が増えると夫はより多くの家事をするようになるのか？"
     },
     "8d75bd3e7899d875cb51": {
       "first_seen": "2026-10-24",
@@ -10829,6 +10824,11 @@
       "first_seen": "2026-07-22",
       "link": "https://gigazine.net/news/20260722-qwen-image-3",
       "title": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに"
+    },
+    "bd0799bf1bd672925204": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261114-10-billion-sparks",
+      "title": "高速回転するホイールが発する火花を超スローモーションで捉えたムービー"
     },
     "bd28e38215a682f65b1d": {
       "first_seen": "2026-09-25",

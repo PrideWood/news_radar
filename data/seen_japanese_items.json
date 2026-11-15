@@ -4165,11 +4165,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2146066.html",
       "title": "イオンモールアプリ刷新 駐車場チェックイン、レストラン順番待ち予約対応"
     },
-    "4640b94e6770c723b768": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news081.html",
-      "title": "中高生に人気の「setlog」を40代が使ってみた 撮るものがなくて天井を撮る日々でも……"
-    },
     "4653b1a2ca1efc0dedb5": {
       "first_seen": "2026-07-31",
       "link": "https://gigazine.net/news/20260731-anthropeum",
@@ -5515,6 +5510,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2146457.html",
       "title": "富士フイルム、手のひらサイズカメラ「instax Pal 2」 新プリンターも"
     },
+    "5e879fba7c1d655d96d3": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261115-dayjob-tax",
+      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明"
+    },
     "5eabd1e29eea43aa8bec": {
       "first_seen": "2026-10-22",
       "link": "https://gigazine.net/news/20261022-permit-pending",
@@ -5720,6 +5720,11 @@
       "link": "https://gigazine.net/news/20261023-physical-activity-delays-ovarian-aging",
       "title": "運動が卵巣の老化を遅らせるかもしれない、運動の効果を薬剤で模倣できる可能性も"
     },
+    "61fa4aeaa60b52d7104a": {
+      "first_seen": "2026-11-15",
+      "link": "https://www.watch.impress.co.jp/docs/news/2156391.html",
+      "title": "Googleウォレット、スマートロックのデジタルキーを追加可能に"
+    },
     "620ce19b26afaccbdb7c": {
       "first_seen": "2026-10-31",
       "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002733",
@@ -5889,6 +5894,11 @@
       "first_seen": "2026-11-03",
       "link": "https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use",
       "title": "音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開"
+    },
+    "64dd7e9ba1f132b13b50": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261115-more-education-reduces-dementia-risk",
+      "title": "「義務教育期間を1年延ばす」という政策が後の認知症発症率を大きく引き下げた可能性"
     },
     "64e4535bf6b78e6ae145": {
       "first_seen": "2026-07-26",
@@ -7700,6 +7710,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2127172.html",
       "title": "iPhoneからAndroidへの移行、アプリ不要・eSIMも対象でさらに簡単に"
     },
+    "84e4172272accd3ba216": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling",
+      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか"
+    },
     "84f36cc49b0be2b7a24c": {
       "first_seen": "2026-11-12",
       "link": "https://www.watch.impress.co.jp/docs/news/2155885.html",
@@ -7869,11 +7884,6 @@
       "first_seen": "2026-09-18",
       "link": "https://www.watch.impress.co.jp/docs/news/2141703.html",
       "title": "ユニクロ、カスタムオーダースーツのダイレクト配送 最短5日でお届け"
-    },
-    "87d621e378a054610923": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/21/news078.html",
-      "title": "痛いの痛いの、なぜ“飛んでいく”？ 「さすると痛みが引く」仕組み、九州大が解明"
     },
     "87dc36cb693abcf9430d": {
       "first_seen": "2026-10-22",
@@ -8139,11 +8149,6 @@
       "first_seen": "2026-09-24",
       "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673",
       "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減"
-    },
-    "8d2b17a39354fbd3c071": {
-      "first_seen": "2026-07-22",
-      "link": "https://gigazine.net/news/20260722-firefox-153",
-      "title": "「Firefox 153」正式版リリース、ウェブページのQRコード生成やPDF結合に対応"
     },
     "8d3ae7fdbe83129035dd": {
       "first_seen": "2026-09-11",
@@ -9155,11 +9160,6 @@
       "link": "https://gigazine.net/news/20261004-decompiling-a-nintendo-64-game",
       "title": "ニンテンドー64のゲームを84日間で逆コンパイル"
     },
-    "9e9d14cd58a50fa78e99": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126989.html",
-      "title": "都内の銭湯料金、大人550円→600円に"
-    },
     "9e9ec8de1368f2ede7ae": {
       "first_seen": "2026-08-05",
       "link": "https://gigazine.net/news/20260805-8-myths-software-engineering-gen-ai",
@@ -9264,11 +9264,6 @@
       "first_seen": "2026-08-12",
       "link": "https://www.watch.impress.co.jp/docs/news/2132175.html",
       "title": "Gemini、10億ユーザーを突破 2年半で最速成長"
-    },
-    "a10b1d57027a69ed9ec8": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入"
     },
     "a146f8afda91540d97a7": {
       "first_seen": "2026-07-25",
@@ -9569,11 +9564,6 @@
       "first_seen": "2026-10-14",
       "link": "https://gigazine.net/news/20261014-microsoft-xbox-labs",
       "title": "Microsoftが「XBOX LABS」を立ち上げ、AIを活用したレトロゲームの移植が目標か"
-    },
-    "a67eb9ee73c9ba7c0d99": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126973.html",
-      "title": "松屋銀座、新館「並木通り館」9月5日開業 アニメ・マンガ・ゲームを集結"
     },
     "a686c5d7fa4ed6b2f71f": {
       "first_seen": "2026-11-06",
@@ -10009,11 +9999,6 @@
       "first_seen": "2026-07-23",
       "link": "https://gigazine.net/news/20260723-first-humanoid-robots-surgery-live-animals",
       "title": "外科医に遠隔操作された人型ロボットが「生きたブタの腹腔鏡手術」に史上初めて成功"
-    },
-    "af729f10c7ea47fc3eeb": {
-      "first_seen": "2026-07-22",
-      "link": "https://gigazine.net/news/20260722-pumpkin-peel-packaging-food-fresh",
-      "title": "捨てられる「カボチャの皮」を使ってプラスチックより高機能な食品包装を作ることに九州大学が成功"
     },
     "af783865309eb5b70cf2": {
       "first_seen": "2026-08-18",
@@ -13785,6 +13770,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000728",
       "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案"
     },
+    "eabd2e63328f2930e2b2": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261115-narcissists-sns",
+      "title": "ナルシシストはSNSの登場で増加しているのか？"
+    },
     "eac1acd2a0d3f0adc6d2": {
       "first_seen": "2026-09-10",
       "link": "https://www.watch.impress.co.jp/docs/news/2139385.html",
@@ -14385,6 +14375,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002176",
       "title": "韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作られた“履歴書”から浮上"
     },
+    "f5a356cf53a0ab84bf69": {
+      "first_seen": "2026-11-15",
+      "link": "https://gigazine.net/news/20261115-sony-nw-wm1zm3-wm1am3-zx900",
+      "title": "ソニーの65万円超する金メッキ無酸素銅シャーシ採用のゴールデンなプレミアムウォークマン「NW-WM1ZM3」フォトレビュー"
+    },
     "f5b419c8bbccd5da7c2c": {
       "first_seen": "2026-10-18",
       "link": "https://gigazine.net/news/20261018-nier-automata-machiasobi31",
@@ -14644,6 +14639,11 @@
       "first_seen": "2026-08-14",
       "link": "https://gigazine.net/news/20260814-matsuya-horumon-yakiniku",
       "title": "松屋のホルモン＆カルビでお肉たっぷりな「牛カルビホルモン丼」＆香ばしい焼き目の「牛焼肉丼」試食レビュー"
+    },
+    "f935290b94c60fb4d57f": {
+      "first_seen": "2026-11-15",
+      "link": "https://www.itmedia.co.jp/news/article/2611/15/2000003207",
+      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続"
     },
     "f940d8627d24b811c044": {
       "first_seen": "2026-08-08",

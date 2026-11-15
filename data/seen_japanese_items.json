@@ -1300,11 +1300,6 @@
       "link": "https://www.watch.impress.co.jp/docs/topic/2139957.html",
       "title": "ハサミをバージョンアップしてストレス低減 コクヨ・プラス・レイメイ等"
     },
-    "15c3a707661050a22ac5": {
-      "first_seen": "2026-07-23",
-      "link": "https://gigazine.net/news/20260723-moss-generating-electrical-waves",
-      "title": "コケはニューロンに似た驚くほど複雑な電気活動を示すとの研究結果"
-    },
     "15de14a3b3e4179bbae1": {
       "first_seen": "2026-10-13",
       "link": "https://gigazine.net/news/20261013-ledger-nano-x-implant",
@@ -1774,6 +1769,11 @@
       "first_seen": "2026-11-13",
       "link": "https://gigazine.net/news/20261112-google-gmail-photos-search-ads",
       "title": "GmailやGoogleフォトの情報をGoogle検索のAIや広告に使わせないための設定方法まとめ"
+    },
+    "1eae14abf1d27ed2e7f5": {
+      "first_seen": "2026-11-16",
+      "link": "https://gigazine.net/news/20261115-stand-with-jensen",
+      "title": "ジェンスン・フアンのNVIDIAのCEO復帰を求める署名が10万筆を突破、イーロン・マスクらも署名"
     },
     "1ed1f904639aad45fb95": {
       "first_seen": "2026-10-09",
@@ -3599,6 +3599,11 @@
       "first_seen": "2026-11-06",
       "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002952",
       "title": "消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告"
+    },
+    "3bf3fab707b3b8f50ebd": {
+      "first_seen": "2026-11-16",
+      "link": "https://www.watch.impress.co.jp/docs/news/2156511.html",
+      "title": "X、投稿できる画像数を最大20枚まで拡大"
     },
     "3bf9d5d1eeb6faa2b31a": {
       "first_seen": "2026-07-25",
@@ -5844,6 +5849,11 @@
       "first_seen": "2026-10-22",
       "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002488",
       "title": "Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏"
+    },
+    "64117c3f83d0de438d22": {
+      "first_seen": "2026-11-16",
+      "link": "https://gigazine.net/news/20261115-editsqlite",
+      "title": "無料でSQLiteデータベース（.sqlite・.db）・.sqlダンプファイル・CSVファイルなどを編集・変換できる「editsqlite」"
     },
     "642063d537fe89eaf614": {
       "first_seen": "2026-09-11",
@@ -8820,6 +8830,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001197",
       "title": "サントリー新商品の店頭POPに“生成AI疑惑” 成分表示にも誤りで物議……同社に事実関係を聞いた"
     },
+    "9942ba1792a798faa512": {
+      "first_seen": "2026-11-16",
+      "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage",
+      "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー"
+    },
     "99456278b432c62e1d13": {
       "first_seen": "2026-10-21",
       "link": "https://gigazine.net/news/20261021-meta-muse-hits-10-million-us",
@@ -9684,6 +9699,11 @@
       "first_seen": "2026-10-17",
       "link": "https://gigazine.net/news/20261017-agentsview",
       "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能"
+    },
+    "a8f2fda0063d050ec7b1": {
+      "first_seen": "2026-11-16",
+      "link": "https://gigazine.net/news/20261115-mac-datacenter-namespace",
+      "title": "大量のMacBook Proでデータセンターを構築した企業が「なぜMacなのか」を解説"
     },
     "a8fbfdb31a83d1aacd84": {
       "first_seen": "2026-10-29",
@@ -10605,11 +10625,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2147050.html",
       "title": "Geminiは同僚 グーグルから「Geminiエージェント」登場"
     },
-    "b935d19ad6c0d6c98081": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126925.html",
-      "title": "山陽新幹線こだま号、「山陽ブルー」の新デザインに 今冬運行開始"
-    },
     "b9438eb2b5d79ff8026d": {
       "first_seen": "2026-10-24",
       "link": "https://www.watch.impress.co.jp/docs/news/2150807.html",
@@ -10804,11 +10819,6 @@
       "first_seen": "2026-10-24",
       "link": "https://gigazine.net/news/20261024-access",
       "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ"
-    },
-    "bca6a7ed910da1c3c83e": {
-      "first_seen": "2026-07-22",
-      "link": "https://gigazine.net/news/20260722-qwen-image-3",
-      "title": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに"
     },
     "bd0799bf1bd672925204": {
       "first_seen": "2026-11-15",
@@ -11200,11 +11210,6 @@
       "link": "https://gigazine.net/news/20261023-arc-end",
       "title": "ブラウザ「Arc」が2026年末でサービス終了へ"
     },
-    "c29f54b4ebe8f77bc838": {
-      "first_seen": "2026-07-22",
-      "link": "https://gigazine.net/news/20260722-tyrannosaurus-rex-fossil-sold",
-      "title": "ティラノサウルス・レックスの化石が化石史上最高額で落札される、研究者は「公共機関ではなく個人が所有すると研究が停滞する」と指摘"
-    },
     "c2a65fb00b6d06e24dc7": {
       "first_seen": "2026-10-30",
       "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002734",
@@ -11324,11 +11329,6 @@
       "first_seen": "2026-08-30",
       "link": "https://gigazine.net/news/20260828-is-github-cooked",
       "title": "GitHubが落ちまくっている履歴を集計しているサイト「Is GitHub Cooked？」"
-    },
-    "c49ef45d0bdf8ab00ffa": {
-      "first_seen": "2026-07-22",
-      "link": "https://www.watch.impress.co.jp/docs/series/yoshimura/2125838.html",
-      "title": "【文具知新】進化系クリップボード3選 縦横兼用・二つ折りなど多彩なワザが光る!"
     },
     "c4c8f32e454351ad983c": {
       "first_seen": "2026-09-15",
@@ -12455,11 +12455,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002806",
       "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」"
     },
-    "d7ae44423a39cf860ed6": {
-      "first_seen": "2026-07-22",
-      "link": "https://gigazine.net/news/20260722-usb-cheat-sheet",
-      "title": "USB早見表、規格ごとの速度・配線・給電能力がひと目でわかる"
-    },
     "d7b17e042ee861a75776": {
       "first_seen": "2026-10-16",
       "link": "https://gigazine.net/news/20261015-sakana-chat-my-fish",
@@ -13209,6 +13204,11 @@
       "first_seen": "2026-10-23",
       "link": "https://gigazine.net/news/20261022-making-solar-panels-with-microwave",
       "title": "家庭にある電子レンジを使って「ソーラーパネル」を作る方法とは？"
+    },
+    "e2b46bb21cf952981fa8": {
+      "first_seen": "2026-11-16",
+      "link": "https://gigazine.net/news/20261116-guerrilla-bike-lanes",
+      "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例"
     },
     "e2b51586e7ef70c3f7ad": {
       "first_seen": "2026-10-15",

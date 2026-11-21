@@ -165,11 +165,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2155258.html",
       "title": "アドビとグーグルが提携拡大 Geminiで画像・PDF編集 GmailからAcrobat"
     },
-    "02cc50c90f04f83651b6": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000494",
-      "title": "ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ"
-    },
     "02cefd533ec79d999864": {
       "first_seen": "2026-11-04",
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866",
@@ -829,6 +824,11 @@
       "first_seen": "2026-11-10",
       "link": "https://gigazine.net/news/20261110-animal-protein-lower-testosterone",
       "title": "「肉を食べるとテストステロンが増える」という説は本当なのか？"
+    },
+    "0cb532aa53bb663d0565": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261121-wyrmrss",
+      "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能"
     },
     "0cc025f005cce3983b0a": {
       "first_seen": "2026-10-03",
@@ -1725,6 +1725,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000546",
       "title": "「水没した車、自分でエンジンかけないで」「EVはむやみに触らないで」 火災発生のおそれ"
     },
+    "1e970bf8328db1c29e8d": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.itmedia.co.jp/news/article/2611/21/2000003387",
+      "title": "AIは人並みに動画編集できる？ “バズる切り抜き”からガジェット開封動画まで2つのツールを試す"
+    },
     "1e97762846ec18d04e3f": {
       "first_seen": "2026-10-09",
       "link": "https://gigazine.net/news/20261008-nous-research-fundraise",
@@ -2294,11 +2299,6 @@
       "first_seen": "2026-11-21",
       "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2157644.html",
       "title": "一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた"
-    },
-    "265c489c4cea0beddbfb": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.watch.impress.co.jp/docs/news/2131974.html",
-      "title": "VAIO、内蔵カメラで血管や心拍情報を測定できる世界初PC"
     },
     "2680ac431c77b0afcac1": {
       "first_seen": "2026-09-03",
@@ -3275,6 +3275,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2149591.html",
       "title": "ファーウェイ、「WATCH GT 7 Pro」など新スマートウォッチ eSIM対応モデルも"
     },
+    "36f3b12458095e389637": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.watch.impress.co.jp/docs/news/2158432.html",
+      "title": "動画配信の「Apple TV」が月額600円に 6カ月間50%OFFキャンペーン"
+    },
     "36fbd3e81360e09ee945": {
       "first_seen": "2026-10-16",
       "link": "https://gigazine.net/news/20261015-clova-email",
@@ -3609,6 +3614,11 @@
       "first_seen": "2026-11-06",
       "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002952",
       "title": "消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告"
+    },
+    "3bed4f1076ffea8831e4": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen",
+      "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる"
     },
     "3bf3fab707b3b8f50ebd": {
       "first_seen": "2026-11-16",
@@ -4025,11 +4035,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000583",
       "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は"
     },
-    "425d6fa37a243bcaa0cf": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.watch.impress.co.jp/docs/news/2131955.html",
-      "title": "車がぶつかっても折れない「曲がるゲートバー」 JR西など"
-    },
     "42fdd6159cdfc8f07345": {
       "first_seen": "2026-10-23",
       "link": "https://www.watch.impress.co.jp/docs/news/2150567.html",
@@ -4174,11 +4179,6 @@
       "first_seen": "2026-11-14",
       "link": "https://gigazine.net/news/20261113-energy-drink-cardiac-arrest",
       "title": "エナジードリンクに関連する心停止の報告頻度はノンカフェイン製品の約11倍、特に若年層で報告が目立つ"
-    },
-    "45cf8e6d85542589889d": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.watch.impress.co.jp/docs/news/2132147.html",
-      "title": "ソニーとTSMC、熊本にスマホ向け次世代センサー新拠点 29年量産へ"
     },
     "45e2ff8c3554a479426c": {
       "first_seen": "2026-10-10",
@@ -4449,11 +4449,6 @@
       "first_seen": "2026-10-18",
       "link": "https://www.watch.impress.co.jp/docs/news/2148343.html",
       "title": "スント、19年ぶり刷新のアウトドア時計「Suunto Core 2」"
-    },
-    "4b142afeda982d270e4d": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000495",
-      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に"
     },
     "4b15be8b9fee6ebf4601": {
       "first_seen": "2026-10-09",
@@ -5295,11 +5290,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002890",
       "title": "仏血液センターの冷蔵設備にサイバー攻撃 温度設定を不正変更、血液製剤への被害は回避"
     },
-    "59575ce7417dab361a05": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2131822.html",
-      "title": "「海外旅行保険はクレカでOK」時代は終わった? 「利用付帯」は旅行前に注意を"
-    },
     "595c4098674e3e033198": {
       "first_seen": "2026-11-17",
       "link": "https://gigazine.net/news/20261117-foreign-infruencer-donetsk",
@@ -6124,11 +6114,6 @@
       "first_seen": "2026-11-21",
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み"
-    },
-    "68651984ee95962ae128": {
-      "first_seen": "2026-08-11",
-      "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data",
-      "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している"
     },
     "6865308c679db9d0d32d": {
       "first_seen": "2026-10-22",
@@ -7454,6 +7439,11 @@
       "first_seen": "2026-10-11",
       "link": "https://gigazine.net/news/20261010-cancers-infection",
       "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される"
+    },
+    "7f95cef4be1f55ec57af": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.watch.impress.co.jp/docs/news/2158335.html",
+      "title": "ゴッホ「星月夜」だけじゃない! オルセー美術館「いまを生きる歓び」展で名画再発見"
     },
     "7fac2ea3ccd964be3c34": {
       "first_seen": "2026-10-21",
@@ -9389,11 +9379,6 @@
       "first_seen": "2026-08-24",
       "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000691",
       "title": "FANZA、成人向けAI創作・公開サービス「FANZAスタジオ」発表 先行体験は8月24日から"
-    },
-    "a39474f91fbb5df75a24": {
-      "first_seen": "2026-08-11",
-      "link": "https://gigazine.net/news/20260811-weight-loss-drugs-hair-loss-risk",
-      "title": "マンジャロやオゼンピックなどダイエットに使われるGLP-1受容体作動薬は「ハゲ」のリスクを高める可能性"
     },
     "a39591fcd658f380afb5": {
       "first_seen": "2026-09-17",
@@ -12425,6 +12410,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000490",
       "title": "韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった"
     },
+    "d6c572de015c81dd29e6": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261121-ai-agents-leak-secrets",
+      "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果"
+    },
     "d6c6c8593bef5e334f8c": {
       "first_seen": "2026-11-18",
       "link": "https://gigazine.net/news/20261118-psychopathy-sadism-more-appealing-dates",
@@ -12634,6 +12624,11 @@
       "first_seen": "2026-09-10",
       "link": "https://www.watch.impress.co.jp/docs/news/2139467.html",
       "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS"
+    },
+    "d9c5bf5b23d33a19527c": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261121-job-becomes-calling-well-being",
+      "title": "自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？"
     },
     "d9d3816be88f71d57844": {
       "first_seen": "2026-11-06",
@@ -14869,6 +14864,11 @@
       "first_seen": "2026-11-08",
       "link": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives",
       "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？"
+    },
+    "fda5f48b24cab617a413": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261121-aliexpress-sale",
+      "title": "AlibabaのECサイト・AliExpressのブラックフライデーセールでミニPCはむしろ値上がりしていた"
     },
     "fdec030ad0c1c96f146d": {
       "first_seen": "2026-10-29",

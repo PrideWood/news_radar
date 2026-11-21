@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-22",
+  "updated_at": "2026-11-21T19:04:44+00:00",
+  "source_note": "Items are collected directly from public trend pages without model processing.",
+  "topics": [
+    {
+      "rank": 1,
+      "chinese_topic": "看五十年的中国就来深圳",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 2,
+      "chinese_topic": "羽绒服生意变天了",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 3,
+      "chinese_topic": "多家银行发债按下“暂停键”",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 4,
+      "chinese_topic": "“深圳展望”为何成APEC新的里程碑",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 5,
+      "chinese_topic": "菲总统夸赞中方选曲温暖贴心",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 6,
+      "chinese_topic": "男子曾用八千赚百万 如今负债千万",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 7,
+      "chinese_topic": "后小伙放弃高薪工作到大凉山支教",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    },
+    {
+      "rank": 8,
+      "chinese_topic": "《两京十五日》成毅演技",
+      "platform": "Baidu",
+      "heat": "hot",
+      "source_url": "https://top.baidu.com/board?tab=realtime"
+    }
+  ]
+}

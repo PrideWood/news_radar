@@ -980,11 +980,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002060",
       "title": "相次ぐ不正アクセス受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け"
     },
-    "0f7be5478b3355c0484c": {
-      "first_seen": "2026-08-12",
-      "link": "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai",
-      "title": "AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる"
-    },
     "0f86208e3400cc093308": {
       "first_seen": "2026-10-08",
       "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002119",
@@ -1149,11 +1144,6 @@
       "first_seen": "2026-08-19",
       "link": "https://gigazine.net/news/20260819-chatgpt-for-teens",
       "title": "18歳未満のためのChatGPTが登場、学習支援や保護者による管理機能などを搭載"
-    },
-    "131a957cc3816fb6459f": {
-      "first_seen": "2026-08-12",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000471",
-      "title": "「食事中に水を飲むと食べ過ぎない」、実はウソ？ 食べる量を左右していたのは…… 米研究者が検証"
     },
     "133646f9a4a4d8b936a9": {
       "first_seen": "2026-10-16",
@@ -3670,6 +3660,11 @@
       "link": "https://gigazine.net/news/20261119-bosses-brag-own-good-deeds-risk",
       "title": "「自分の倫理的行動」ばかりを自慢する上司は従業員を不快にさせている可能性があるとの研究結果"
     },
+    "3cd56350c6eed0aeeb2a": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.watch.impress.co.jp/docs/news/2157861.html",
+      "title": "沖縄・首里城正殿、11月23日公開 火災から復元"
+    },
     "3cd59ee20444ee405c77": {
       "first_seen": "2026-10-08",
       "link": "https://gigazine.net/news/20261007-chatgpt-adding-real-cartoonists-signatures-fake",
@@ -4899,6 +4894,11 @@
       "first_seen": "2026-10-20",
       "link": "https://www.watch.impress.co.jp/docs/news/2149394.html",
       "title": "「Androidのマイナンバーカード」ついにスタート スマホだけで本人確認"
+    },
+    "5270580480fd2d3cdbe2": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved",
+      "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中"
     },
     "52a3949449db929aecdd": {
       "first_seen": "2026-11-19",
@@ -6759,6 +6759,11 @@
       "first_seen": "2026-10-07",
       "link": "https://gigazine.net/news/20261007-universal-coaster-screams-noise",
       "title": "ユニバーサル・スタジオ・ハリウッドの新アトラクション「ワイルド・スピード：ハリウッド・ドリフト」に乗った客の絶叫に近隣住民から苦情が相次ぐ"
+    },
+    "740858978adcbdc76cca": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2156000.html",
+      "title": "何枚も撮りたくなる小型カメラ「instax Pal 2」 エフェクトも豊富【ミニレビュー】"
     },
     "740f0e67c9157eb0e435": {
       "first_seen": "2026-09-12",
@@ -9705,6 +9710,11 @@
       "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析"
     },
+    "a9c8ea10e88fa8539624": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance",
+      "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘"
+    },
     "a9f061ebfc5e2c3c3e51": {
       "first_seen": "2026-09-30",
       "link": "https://www.watch.impress.co.jp/docs/news/2144172.html",
@@ -10315,11 +10325,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002216",
       "title": "JR東・京急・東武など鉄道7社、「磁気乗車券」廃止へ 27年春から「QR乗車券」に"
     },
-    "b4d6bed914c8d0569def": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.watch.impress.co.jp/docs/news/2132136.html",
-      "title": "YouTube、収益化参加基準を引き上げ 365日間で8000時間再生など"
-    },
     "b5217f9d765a4fb4c1a7": {
       "first_seen": "2026-11-03",
       "link": "https://gigazine.net/news/20261102-nanochat-jp",
@@ -10665,6 +10670,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851",
       "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上"
     },
+    "bb1a99c5772850eec1f9": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich",
+      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？"
+    },
     "bb2636d8e0cd7c453980": {
       "first_seen": "2026-11-14",
       "link": "https://www.watch.impress.co.jp/docs/news/2156377.html",
@@ -10990,6 +11000,11 @@
       "link": "https://gigazine.net/news/20261111-hhkb-professional-elite-usage",
       "title": "「Happy Hacking Keyboard(HHKB)」シリーズ30周年記念の60％キーボード「HHKB Professional Elite」はどんな打ち心地なのか？実際にタイピングしてみた"
     },
+    "c09cbc1e7131bddbc9d1": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261122-work-at-office",
+      "title": "出社してオフィスで働く頻度の最適解とは？"
+    },
     "c0ba168f513ebf599cba": {
       "first_seen": "2026-09-16",
       "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001492",
@@ -11249,11 +11264,6 @@
       "first_seen": "2026-10-22",
       "link": "https://www.watch.impress.co.jp/docs/news/2150269.html",
       "title": "Google CloudでOpenAIの「GPT-6 Astra」などが利用可能に"
-    },
-    "c39bc82d9528cf281eca": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000474",
-      "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査"
     },
     "c3a64e3058bbf74bd0dc": {
       "first_seen": "2026-08-29",
@@ -11530,11 +11540,6 @@
       "link": "https://gigazine.net/news/20261028-discord-discoverable-servers-summary",
       "title": "Discordのチャット内容がGoogleなどの検索結果に表示されるようになる"
     },
-    "c80e4e482818c33bc006": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000486",
-      "title": "AIが変えた震災支援……熊本の被災者がスマホで作った「イマココナビ」活況 “乱立”に課題も"
-    },
     "c82c0a185691514f5382": {
       "first_seen": "2026-11-16",
       "link": "https://gigazine.net/news/20261116-qwen4-max",
@@ -11710,11 +11715,6 @@
       "link": "https://gigazine.net/news/20261013-lightbulb-computer",
       "title": "あらゆる場所をディスプレイにする未来のPC「電球型コンピューター」のビジョン"
     },
-    "ca896ef8685c90ab5bd2": {
-      "first_seen": "2026-08-11",
-      "link": "https://gigazine.net/news/20260811-nasal-spray-stroke",
-      "title": "香港の研究者らが脳卒中治療のための点鼻スプレーを開発"
-    },
     "ca9362f46e0ff194b593": {
       "first_seen": "2026-10-16",
       "link": "https://gigazine.net/news/20261015-onion-smileball-fabexkansai2026",
@@ -11764,6 +11764,11 @@
       "first_seen": "2026-11-09",
       "link": "https://gigazine.net/news/20261108-pangram-image-ai-image-detection",
       "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた"
+    },
+    "cb7a8303e03ecc1a4606": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity",
+      "title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果"
     },
     "cbaa900e293a17699a8e": {
       "first_seen": "2026-10-04",
@@ -12050,11 +12055,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2151855.html",
       "title": "熊本のバス・電鉄・市電に共通定期「ふらピッと」 タッチ決済で月額上限"
     },
-    "d0983952661c3e360567": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000468",
-      "title": "圧をかけて“泡”爆増、ミラブルの技術が融合した「高圧洗浄機」を自宅で試したら掃除が楽しくなった"
-    },
     "d0a48896cd2ba26026e6": {
       "first_seen": "2026-10-08",
       "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002081",
@@ -12285,6 +12285,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2147726.html",
       "title": "三菱UFJカードの7%還元、アメックス拡大 対象店舗が同一に"
     },
+    "d45f8737afdb665afb46": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定"
+    },
     "d46590968bd6f983ba5b": {
       "first_seen": "2026-10-02",
       "link": "https://gigazine.net/news/20261001-firstdate-gale-shapley-algorithm",
@@ -12405,10 +12410,10 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984",
       "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応"
     },
-    "d6ab008f6480d28d56dd": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000490",
-      "title": "韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった"
+    "d6a8442a31a93f7fd9b3": {
+      "first_seen": "2026-11-22",
+      "link": "https://gigazine.net/news/20261122-ping-tool",
+      "title": "無料のWindows用Pingツール「PingTool」、TCPポートチェック・速度テスト・Wake-on-LAN機能あり"
     },
     "d6c572de015c81dd29e6": {
       "first_seen": "2026-11-22",
@@ -12884,11 +12889,6 @@
       "first_seen": "2026-11-21",
       "link": "https://www.watch.impress.co.jp/docs/news/2158373.html",
       "title": "大阪駅チカに 「うめきたの森」開園 グラングリーンをつなぐ「ひらめきの道」を歩く"
-    },
-    "ddeb0105c943a773d060": {
-      "first_seen": "2026-08-11",
-      "link": "https://gigazine.net/news/20260811-housefoods-chikyuu-no-curry-massaman",
-      "title": "人気店の1日10食限定メニューを再現したハウス食品の「地球のカレー ＜タイ風マッサマンカレー＞」を食べてみた"
     },
     "ddedbfdcf192136373b1": {
       "first_seen": "2026-10-30",
@@ -13634,11 +13634,6 @@
       "first_seen": "2026-11-14",
       "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2156240.html",
       "title": "王なきAIの世界で ジェンスン・フアン氏退任とAIへの逆風"
-    },
-    "e86c37e37d8d5fe9cbdc": {
-      "first_seen": "2026-08-11",
-      "link": "https://www.watch.impress.co.jp/docs/news/2132078.html",
-      "title": "スマートニュースが「地図」アプリ 街をぶらつく「Wanderland」"
     },
     "e888a322a22a4a5f79f9": {
       "first_seen": "2026-11-02",
@@ -14604,6 +14599,11 @@
       "first_seen": "2026-10-30",
       "link": "https://gigazine.net/news/20261029-religious-exemption-from-ai",
       "title": "AIの利用を宗教的理由で免除された人間"
+    },
+    "f926ecae9cfe13a8fa8e": {
+      "first_seen": "2026-11-22",
+      "link": "https://www.watch.impress.co.jp/docs/news/2158332.html",
+      "title": "PORTER、オリジナル杢キャンバス生地のトート「COAL」"
     },
     "f92c0da2bd203552476d": {
       "first_seen": "2026-10-31",

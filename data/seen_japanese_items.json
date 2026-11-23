@@ -30,11 +30,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001345",
       "title": "Google、フィンランドに過去最大の約2.3兆円投資 AIデータセンター増設や原発電力調達へ"
     },
-    "00cb485aaacda1847581": {
-      "first_seen": "2026-08-13",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000512",
-      "title": "RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖"
-    },
     "00eff49f800d3bd394bf": {
       "first_seen": "2026-10-28",
       "link": "https://www.watch.impress.co.jp/docs/news/2151583.html",
@@ -119,11 +114,6 @@
       "first_seen": "2026-10-14",
       "link": "https://gigazine.net/news/20261013-epic-games-ai-first",
       "title": "Epic Gamesがディズニーとの新作ゲームをAI中心で開発する方針に転換、「手書きのコードはもう不要」という社内指示も"
-    },
-    "01e31c1c05a7ef1a1b23": {
-      "first_seen": "2026-08-13",
-      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000472",
-      "title": "悪酔いにチェイサーは効果なし？ 日本酒4合＋水1Lを飲ませ二日酔い調査 大分大などが研究"
     },
     "01eb1b8c4b9704337234": {
       "first_seen": "2026-08-17",
@@ -459,6 +449,11 @@
       "first_seen": "2026-11-12",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2153049.html",
       "title": "【いつモノコト】頭全体をすっぽり覆う心地よさ。温熱×サウンドの「Relaxonic Cover」で癒される"
+    },
+    "06e478fedc4039709b91": {
+      "first_seen": "2026-11-23",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003389",
+      "title": "高級感のためだけじゃない 財布やバッグの新しいアイデアが“革製品”から生まれる理由"
     },
     "06f1df4b27ba27760963": {
       "first_seen": "2026-10-30",
@@ -3025,6 +3020,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2135395.html",
       "title": "パスポートのオンライン申請、iPhoneのマイナカードに対応"
     },
+    "333dfad53e38957093ca": {
+      "first_seen": "2026-11-23",
+      "link": "https://gigazine.net/news/20261123-19th-century-shipwreck-found",
+      "title": "「世界の果て」の島で19世紀の漂流者キャンプ跡と思われる場所が発見される"
+    },
     "335b129cfb51f9213059": {
       "first_seen": "2026-11-18",
       "link": "https://gigazine.net/news/20261117-headline",
@@ -3064,6 +3064,11 @@
       "first_seen": "2026-11-07",
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2153603.html",
       "title": "【いつモノコト】ワークマンの新リカバリーウェアを着てみた 温度調節が快適"
+    },
+    "33cd81bbe6e693872f76": {
+      "first_seen": "2026-11-23",
+      "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond",
+      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？"
     },
     "33d49e34c4a51a645386": {
       "first_seen": "2026-10-27",
@@ -3189,6 +3194,11 @@
       "first_seen": "2026-10-14",
       "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002247",
       "title": "ヤフオクなど、ポケカ「空箱」出品禁止 中身入れ替え未開封を装う悪用対策"
+    },
+    "3612c95435c0a98b675a": {
+      "first_seen": "2026-11-23",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」"
     },
     "361f19c460d408229ad6": {
       "first_seen": "2026-11-20",
@@ -3724,6 +3734,11 @@
       "first_seen": "2026-08-22",
       "link": "https://gigazine.net/news/20260821-microsd-card-test-3-years",
       "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？"
+    },
+    "3e3e9440e423102b300f": {
+      "first_seen": "2026-11-23",
+      "link": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels",
+      "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める"
     },
     "3e3f70c237b5282de553": {
       "first_seen": "2026-09-03",
@@ -4840,6 +4855,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2148307.html",
       "title": "Microsoft、中国系国際サイバー犯罪ビジネスを解体 警察庁などと連携"
     },
+    "51696d73f65f4bc094fb": {
+      "first_seen": "2026-11-23",
+      "link": "https://gigazine.net/news/20261123-sill",
+      "title": "無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要"
+    },
     "51893cf4c9a168b9dbb6": {
       "first_seen": "2026-11-02",
       "link": "https://gigazine.net/news/20261101-voicestudio",
@@ -5529,6 +5549,11 @@
       "first_seen": "2026-10-16",
       "link": "https://gigazine.net/news/20261016-krea-3-beta",
       "title": "画像生成・編集AI「Krea 3」のベータ版がリリースされる、GPT-Image-2より10倍高速で価格は3分の1"
+    },
+    "5effdd48c05117c784f6": {
+      "first_seen": "2026-11-23",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003395",
+      "title": "「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし"
     },
     "5f191cabe063368a26d8": {
       "first_seen": "2026-10-23",
@@ -7420,6 +7445,11 @@
       "link": "https://www.watch.impress.co.jp/docs/topic/2155622.html",
       "title": "ChatGPTで毎月もらえる100ドル分以上のAPIクレジットを使い切ろう!"
     },
+    "7f77f14f95aac775996c": {
+      "first_seen": "2026-11-23",
+      "link": "https://gigazine.net/news/20261123-asahi-vanilla-yogurt-calpis",
+      "title": "濃いめのカルピスでバニラヨーグルトの風味が引き立つ「バニラヨーグルト＆カルピス」試飲レビュー"
+    },
     "7f829089c3d3957062e8": {
       "first_seen": "2026-10-30",
       "link": "https://www.watch.impress.co.jp/docs/news/2152337.html",
@@ -8920,11 +8950,6 @@
       "link": "https://gigazine.net/news/20261026-bluetooth-reach-12km",
       "title": "Bluetoothの電波はどこまで届くのか？巨大なアンテナで12km先から信号を受信する実験に成功"
     },
-    "9a8c4441942377872410": {
-      "first_seen": "2026-08-12",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000502",
-      "title": "通知なしで送れるLINE「ミュートメッセージ」有料提供へ 無料のテスト機能から昇格"
-    },
     "9a9c84cbfe183a3527a1": {
       "first_seen": "2026-10-13",
       "link": "https://www.watch.impress.co.jp/docs/series/nishida/2147435.html",
@@ -9255,16 +9280,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002985",
       "title": "実在しそうで、どこにもいない「AI人」 なぜ人は“完璧なAI映像”に違和感を覚えるのか"
     },
-    "a0dfd39bca9cc380e4eb": {
-      "first_seen": "2026-08-12",
-      "link": "https://www.watch.impress.co.jp/docs/news/2132175.html",
-      "title": "Gemini、10億ユーザーを突破 2年半で最速成長"
-    },
-    "a14c583e0075095328fd": {
-      "first_seen": "2026-08-12",
-      "link": "https://gigazine.net/news/20260812-meta-zuck-the-future-is-for-everyone",
-      "title": "マーク・ザッカーバーグが異様にポジティブなAI未来論を展開、スーパーインテリジェンスで雇用も増えると超楽観的予測"
-    },
     "a14e56020d2b175c0270": {
       "first_seen": "2026-11-10",
       "link": "https://gigazine.net/news/20261109-llm-assbench",
@@ -9559,11 +9574,6 @@
       "first_seen": "2026-10-15",
       "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002260",
       "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査"
-    },
-    "a6d7c691b0a2e5ce37f0": {
-      "first_seen": "2026-08-12",
-      "link": "https://gigazine.net/news/20260812-house-chili-peppers-powder",
-      "title": "塩分抜きで唐辛子の辛さを好きなだけ足せるハウスの「唐がらし族＜大辛＞」を使ってみた"
     },
     "a6e3b5de46054b37e5fb": {
       "first_seen": "2026-09-02",
@@ -10520,11 +10530,6 @@
       "link": "https://gigazine.net/news/20261112-slopcodebench",
       "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」"
     },
-    "b8d2e4991cf9ab92ccdd": {
-      "first_seen": "2026-08-12",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000499",
-      "title": "LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」"
-    },
     "b8e345d5dcdc43ef57e6": {
       "first_seen": "2026-08-20",
       "link": "https://gigazine.net/news/20260819-lucky-pierrot-yakisoba",
@@ -10689,11 +10694,6 @@
       "first_seen": "2026-10-29",
       "link": "https://gigazine.net/news/20261029-nvidia-nemotron-3-5-transcribe",
       "title": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を公開、大勢が同時に話す場面でも高精度な話者識別が可能"
-    },
-    "bb4d775a6f8c562e4130": {
-      "first_seen": "2026-08-12",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497",
-      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ"
     },
     "bb4e5e64465124708a3e": {
       "first_seen": "2026-09-10",
@@ -13535,11 +13535,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001611",
       "title": "メルカリ、写真を撮るだけで相場価格が分かる「持ち物査定」 AI活用"
     },
-    "e654035cd6c2c8610a65": {
-      "first_seen": "2026-08-12",
-      "link": "https://gigazine.net/news/20260812-vegetable-biodiversity-diets",
-      "title": "「野菜の多様性の低下」が現代人の食生活を破壊するかもしれない"
-    },
     "e66607b9c02279bb5e73": {
       "first_seen": "2026-08-13",
       "link": "https://www.watch.impress.co.jp/docs/news/2131986.html",
@@ -14889,6 +14884,11 @@
       "first_seen": "2026-11-12",
       "link": "https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification",
       "title": "Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功"
+    },
+    "fe226dfa38c52ccae13f": {
+      "first_seen": "2026-11-23",
+      "link": "https://www.watch.impress.co.jp/docs/news/2153983.html",
+      "title": "Rokid、75gのARグラス「Rokid Max 2」を本格展開 69800円"
     },
     "fe2dcef89e8bab195f9b": {
       "first_seen": "2026-11-11",

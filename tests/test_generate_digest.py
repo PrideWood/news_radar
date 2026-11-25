@@ -108,6 +108,8 @@ class FetchOnlyTests(unittest.TestCase):
             args = ["generate_digest.py", "--date", "2026-10-06", "--state", str(root / "seen.json"),
                     "--output-dir", str(root / "digests"), "--index", str(root / "index.json"),
                     "--skip-hot-topics", "--skip-japanese"]
+            args.extend(["--chinese-output-dir", str(root / "chinese"), "--chinese-index", str(root / "chinese.json")])
+            candidate.publication_date = "2026-10-06"
             with mock.patch("sys.argv", args), mock.patch.object(digest, "collect_candidates", return_value=[candidate]):
                 self.assertEqual(digest.main(), 0)
             content = (root / "digests/2026-10-06.md").read_text()
@@ -139,6 +141,26 @@ class FetchOnlyTests(unittest.TestCase):
                 items = digest.generate_japanese_digest("2026-10-06", root / "seen.json", root / "news", root / "index.json", 80, 80, 10)
             self.assertEqual(items[0]["summary"], candidate.summary)
             self.assertIn(candidate.summary, (root / "news/2026-10-06.md").read_text())
+
+    def test_chinese_headlines_cap_at_ten_and_keep_full_issue_on_partial_refresh(self):
+        date = "2026-08-12"
+        stories = [make_candidate("Alpha", index, date) for index in range(12)]
+        duplicate = digest.dataclasses.replace(stories[0], link="https://example.org/duplicate")
+        older = make_candidate("Alpha", 99, "2026-08-11")
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            path = root / f"{date}.md"
+            index = root / "index.json"
+            with mock.patch.object(digest, "collect_candidates", return_value=[older, stories[0], duplicate, *stories[1:]]):
+                self.assertEqual(digest.generate_chinese_digest(date, root, index, 10), 10)
+            issue = path.read_text()
+            self.assertIn(stories[9].link + "\n", issue)
+            for excluded in (older, duplicate, stories[10]):
+                self.assertNotIn(excluded.link, issue)
+            with mock.patch.object(digest, "collect_candidates", return_value=stories[10:]):
+                self.assertEqual(digest.generate_chinese_digest(date, root, index, 10), 10)
+            self.assertEqual(path.read_text(), issue)
+            self.assertEqual(digest.json.loads(index.read_text())["digests"][0]["item_count"], 10)
 
     def test_hot_topics_use_only_fetched_fields(self):
         candidate = digest.HotTopicCandidate(1, "原始话题", "Baidu", "123", "https://top.baidu.com/")

@@ -38,6 +38,9 @@ DEFAULT_DIGEST_INDEX = ROOT / "data" / "digests_index.json"
 DEFAULT_HOT_TOPICS = ROOT / "data" / "chinese_hot_topics.json"
 DEFAULT_HOT_TOPICS_DIR = ROOT / "data" / "hot_topics"
 DEFAULT_HOT_TOPICS_INDEX = ROOT / "data" / "hot_topics_index.json"
+DEFAULT_CHINESE_DIGEST_DIR = ROOT / "chinese_digests"
+DEFAULT_CHINESE_DIGEST_INDEX = ROOT / "data" / "chinese_digests_index.json"
+CHINESE_HEADLINE_COUNT = 10
 DEFAULT_JAPANESE_STATE = ROOT / "data" / "seen_japanese_items.json"
 DEFAULT_JAPANESE_DIGEST_DIR = ROOT / "japanese_digests"
 DEFAULT_JAPANESE_DIGEST_INDEX = ROOT / "data" / "japanese_digests_index.json"
@@ -52,6 +55,15 @@ HOT_TOPIC_SOURCES = [
     {
         "platform": "Weibo",
         "url": "https://s.weibo.com/top/summary",
+    },
+]
+
+CHINESE_HEADLINE_SOURCES = [
+    {
+        "name": "中新网要闻导读",
+        "outlet": "中国新闻网",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "max_items": 80,
     },
 ]
 
@@ -573,10 +585,16 @@ def raw_items(candidates: list[Candidate], count: int) -> list[dict[str, Any]]:
     return [{"id": candidate.key, **dataclasses.asdict(candidate)} for candidate in candidates[:count]]
 
 
-def render_digest(path: Path, digest_date: str, items: list[dict[str, Any]]) -> None:
+def render_digest(
+    path: Path,
+    digest_date: str,
+    items: list[dict[str, Any]],
+    *,
+    retain_existing: bool = True,
+) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     existing_sections = []
-    if path.exists():
+    if retain_existing and path.exists():
         existing_sections = re.split(r"^##\s+", path.read_text(encoding="utf-8"), flags=re.MULTILINE)[1:]
     new_links = {str(item.get("link", "")) for item in items}
     lines = [f"# News Radar - {digest_date}", "", "Public source metadata and summaries.", ""]
@@ -671,6 +689,30 @@ def generate_japanese_digest(
     return items
 
 
+def generate_chinese_digest(digest_date: str, output_dir: Path, index_path: Path, timeout: int) -> int:
+    candidates = collect_candidates({"sources": CHINESE_HEADLINE_SOURCES}, timeout)
+    unique: dict[str, Candidate] = {}
+    titles: set[str] = set()
+    for candidate in candidates:
+        if candidate.publication_date != digest_date or candidate.key in unique or candidate.title in titles:
+            continue
+        unique[candidate.key] = candidate
+        titles.add(candidate.title)
+        if len(unique) == CHINESE_HEADLINE_COUNT:
+            break
+
+    path = output_dir / f"{digest_date}.md"
+    existing = path.read_text(encoding="utf-8") if path.exists() else ""
+    existing_count = len(re.findall(r"^##\s+\d+\.", existing, re.MULTILINE))
+    if not unique and not existing_count:
+        raise RuntimeError(f"No Chinese headlines published on {digest_date}")
+    if len(unique) >= existing_count:
+        items = raw_items(list(unique.values()), CHINESE_HEADLINE_COUNT)
+        render_digest(path, digest_date, items, retain_existing=False)
+    update_digest_index(output_dir, index_path, "chinese_digests")
+    return max(len(unique), existing_count)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=default_digest_date())
@@ -681,6 +723,8 @@ def main() -> int:
     parser.add_argument("--hot-topics-output", type=Path, default=DEFAULT_HOT_TOPICS)
     parser.add_argument("--hot-topics-dir", type=Path, default=DEFAULT_HOT_TOPICS_DIR)
     parser.add_argument("--hot-topics-index", type=Path, default=DEFAULT_HOT_TOPICS_INDEX)
+    parser.add_argument("--chinese-output-dir", type=Path, default=DEFAULT_CHINESE_DIGEST_DIR)
+    parser.add_argument("--chinese-index", type=Path, default=DEFAULT_CHINESE_DIGEST_INDEX)
     parser.add_argument("--japanese-state", type=Path, default=DEFAULT_JAPANESE_STATE)
     parser.add_argument("--japanese-output-dir", type=Path, default=DEFAULT_JAPANESE_DIGEST_DIR)
     parser.add_argument("--japanese-index", type=Path, default=DEFAULT_JAPANESE_DIGEST_INDEX)
@@ -691,6 +735,7 @@ def main() -> int:
     parser.add_argument("--no-llm", action="store_true", help="Deprecated compatibility flag; all runs fetch metadata only.")
     parser.add_argument("--topics-only", action="store_true", help="Update Chinese hot topics without generating a digest.")
     parser.add_argument("--skip-hot-topics", action="store_true", help="Generate the digest without updating Chinese hot topics.")
+    parser.add_argument("--chinese-only", action="store_true", help="Update the Chinese headlines only.")
     parser.add_argument("--japanese-only", action="store_true", help="Update Japanese items without generating the English digest.")
     parser.add_argument("--skip-japanese", action="store_true", help="Generate the English digest without updating Japanese items.")
     args = parser.parse_args()
@@ -705,6 +750,11 @@ def main() -> int:
         parser.error("--max-candidates must be at least as large as the requested item counts")
     if args.timeout < 1:
         parser.error("--timeout must be positive")
+
+    if args.chinese_only:
+        count = generate_chinese_digest(args.date, args.chinese_output_dir, args.chinese_index, args.timeout)
+        print(f"Wrote {args.chinese_output_dir / (args.date + '.md')} with {count} Chinese headlines")
+        return 0
 
     if args.topics_only:
         topics = generate_hot_topics(
@@ -773,6 +823,11 @@ def main() -> int:
             print(f"Wrote {args.japanese_output_dir / (args.date + '.md')} with {len(japanese_items)} Japanese items")
         except Exception as exc:
             print(f"Warning: failed to update Japanese items: {exc}", file=sys.stderr)
+    try:
+        count = generate_chinese_digest(args.date, args.chinese_output_dir, args.chinese_index, args.timeout)
+        print(f"Wrote {args.chinese_output_dir / (args.date + '.md')} with {count} Chinese headlines")
+    except Exception as exc:
+        print(f"Warning: failed to update Chinese headlines: {exc}", file=sys.stderr)
     print(f"Wrote {digest_path} with {len(items)} items")
     return 0
 

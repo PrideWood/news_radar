@@ -1,6 +1,7 @@
 const sources = {
   articles: "data/digests_index.json",
   japanese: "data/japanese_digests_index.json",
+  chinese: "data/chinese_digests_index.json",
   topics: "data/hot_topics_index.json",
 };
 const view = document.querySelector("#section-select");

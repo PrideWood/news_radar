@@ -6,35 +6,35 @@ on:
       - main
       - master
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Fetch Daily News"]
+    types: [completed]
+    branches: [main, master]
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - name: Prepare public site files
         run: |
           mkdir -p _site
           cp index.html app.js styles.css site.webmanifest .nojekyll *.png *.ico _site/
           cp -R digests japanese_digests _site/
+          if [ -d chinese_digests ]; then cp -R chinese_digests _site/; fi
           mkdir -p _site/data
           cp data/*index.json data/chinese_hot_topics.json _site/data/
           cp -R data/hot_topics _site/data/
@@ -45,6 +45,16 @@ jobs:
         with:
           path: _site
 
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5

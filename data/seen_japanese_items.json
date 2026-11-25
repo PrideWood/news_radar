@@ -400,11 +400,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002405",
       "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令"
     },
-    "06714534f87f825df588": {
-      "first_seen": "2026-08-21",
-      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000680",
-      "title": "Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに 「Tokyo Map」正式公開"
-    },
     "0682dd663055105442af": {
       "first_seen": "2026-10-27",
       "link": "https://www.watch.impress.co.jp/docs/news/2151319.html",
@@ -1309,11 +1304,6 @@
       "first_seen": "2026-11-11",
       "link": "https://www.watch.impress.co.jp/docs/news/2155284.html",
       "title": "アドビとディズニー、AIツール活用で戦略的提携"
-    },
-    "16aaad5c697df5b681dd": {
-      "first_seen": "2026-08-21",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2133658.html",
-      "title": "SpaceX、100万機のAI衛星「スターマインド」計画は実現するか?"
     },
     "16c132e6a95e88c5fdef": {
       "first_seen": "2026-11-11",
@@ -2349,11 +2339,6 @@
       "first_seen": "2026-10-10",
       "link": "https://gigazine.net/news/20261009-anthropic-oss-scanner",
       "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始"
-    },
-    "285b4ade191667293b4d": {
-      "first_seen": "2026-08-21",
-      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000658",
-      "title": "スマート給餌器で38時間の障害、ペットがご飯食べられず 飼い主の苦情殺到 「旅行中なのに」「猫が死んじゃう」"
     },
     "286f8aec82e6bbd37a4c": {
       "first_seen": "2026-11-18",
@@ -3624,6 +3609,11 @@
       "first_seen": "2026-11-19",
       "link": "https://gigazine.net/news/20261119-bosses-brag-own-good-deeds-risk",
       "title": "「自分の倫理的行動」ばかりを自慢する上司は従業員を不快にさせている可能性があるとの研究結果"
+    },
+    "3cd4c316e302b4a61904": {
+      "first_seen": "2026-11-26",
+      "link": "https://gigazine.net/news/20261125-kradlebench-ai-benchmark-minecraft",
+      "title": "AIにリアルタイムでマインクラフトをプレイさせて性能を測定する「KradleBench」、総合1位はGPT-6.2 AstraだがPVPなら人間が最強"
     },
     "3cd56350c6eed0aeeb2a": {
       "first_seen": "2026-11-22",
@@ -5085,6 +5075,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2136651.html",
       "title": "グーグル、購入した電子書籍を「Gemini Notebook」に追加可能に"
     },
+    "55b6f9ff1be1d932d409": {
+      "first_seen": "2026-11-26",
+      "link": "https://gigazine.net/news/20261126-xnu-linux",
+      "title": "Linux上で完全なmacOS GUIユーザー空間を実現する「xnulinux」"
+    },
     "55dd642a4696272c5509": {
       "first_seen": "2026-10-29",
       "link": "https://gigazine.net/news/20261029-pfpdf",
@@ -5169,6 +5164,11 @@
       "first_seen": "2026-11-05",
       "link": "https://www.watch.impress.co.jp/docs/news/2153594.html",
       "title": "「Olive」でインフルエンザ保険 オンライン診療とセットなら“デジタル完結”"
+    },
+    "5807fb22db33f3c4f56b": {
+      "first_seen": "2026-11-26",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
+      "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア"
     },
     "5809c7e1142dc6c60b52": {
       "first_seen": "2026-10-21",
@@ -11125,11 +11125,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002234",
       "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す"
     },
-    "c1e981e290dce1e35d66": {
-      "first_seen": "2026-08-20",
-      "link": "https://www.watch.impress.co.jp/docs/news/2133835.html",
-      "title": "フードデリバリー「menu」サービス終了 会社は解散"
-    },
     "c1eb17628a27120162e0": {
       "first_seen": "2026-10-15",
       "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002285",
@@ -11189,11 +11184,6 @@
       "first_seen": "2026-11-13",
       "link": "https://gigazine.net/news/20261112-united-airlines-bans-ai-agents",
       "title": "ユナイテッド航空がAIを利用したフライト予約を禁止"
-    },
-    "c27a4b746cf52b63d5cd": {
-      "first_seen": "2026-08-20",
-      "link": "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction",
-      "title": "AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説"
     },
     "c29bc2efd9dd09633ab7": {
       "first_seen": "2026-10-23",
@@ -12040,6 +12030,11 @@
       "link": "https://gigazine.net/news/20260930-ittentoppa-corn-curry",
       "title": "ローソンで「焼きとうもろこしを敷き詰めた弁当」＆「白米に激辛キーマカレーをちょっとだけのせた弁当」を買って食べてみた"
     },
+    "d020b68db1cb249e23cf": {
+      "first_seen": "2026-11-26",
+      "link": "https://gigazine.net/news/20261125-talorys",
+      "title": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」"
+    },
     "d021b8ee96da7ad78977": {
       "first_seen": "2026-11-14",
       "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003200",
@@ -12684,11 +12679,6 @@
       "first_seen": "2026-11-02",
       "link": "https://www.watch.impress.co.jp/docs/news/2152718.html",
       "title": "ゼブラ、黒インク芯をまっすぐ押し出せる3色ボールペン「ブレンユー3C」"
-    },
-    "dad41679eafe478c2ef2": {
-      "first_seen": "2026-08-20",
-      "link": "https://www.watch.impress.co.jp/docs/news/2134313.html",
-      "title": "京王、座席指定「京王ライナー」に「立席」"
     },
     "dadb038cce002ad029c6": {
       "first_seen": "2026-08-29",
@@ -13940,6 +13930,11 @@
       "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003275",
       "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ"
     },
+    "ed87f5a152bf8322838f": {
+      "first_seen": "2026-11-26",
+      "link": "https://gigazine.net/news/20261125-inside-criminal-gangs-making-fake-wine",
+      "title": "なぜ犯罪組織は「偽造ワイン」を作るのか？偽造手口はどのように進化してきたのか？"
+    },
     "ed90ff702ee8cc52f6e9": {
       "first_seen": "2026-10-01",
       "link": "https://gigazine.net/news/20261001-who-eat-with-matters-blood-sugar",
@@ -14769,6 +14764,11 @@
       "first_seen": "2026-10-28",
       "link": "https://gigazine.net/news/20261028-anduril-qualcomm-bluechip",
       "title": "パーマー・ラッキー率いる防衛企業のAndurilとQualcommがアメリカ製の新型ノートPC「BlueChip」を発表"
+    },
+    "fbafaedb655a5e2876af": {
+      "first_seen": "2026-11-26",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
+      "title": "愛知県内で水難事故相次ぐ 2人死亡"
     },
     "fbc0c4385ed6190a2b8a": {
       "first_seen": "2026-10-23",

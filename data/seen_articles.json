@@ -1,10 +1,5 @@
 {
   "seen": {
-    "000abcaad217f0aed79f": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-top-1022-rdf",
-      "title": "Zambia's civil service overhaul raises questions"
-    },
     "001282ce57e355309e02": {
       "first_seen": "2026-11-17",
       "link": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
@@ -39,16 +34,6 @@
       "first_seen": "2026-11-16",
       "link": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-top-1022-rdf",
       "title": "Macron urges unity as Francophonie summit opens in Cambodia"
-    },
-    "00bfd7fcc50307ddea87": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.cbc.ca/radio/asithappens/hefty-hawk-9.7412660?cmp=rss",
-      "title": "This hawk gobbled up neighbourhood chickens until she got too fat to fly"
-    },
-    "00e64fd09bd290c17404": {
-      "first_seen": "2026-11-07",
-      "link": "https://daily.jstor.org/how-to-cite-sources-on-jstor",
-      "title": "How to Cite Sources on JSTOR"
     },
     "012f4ec0787ae48a3bc4": {
       "first_seen": "2026-11-15",
@@ -245,11 +230,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
       "title": "What we know about the latest Russian missile strikes on Ukraine"
     },
-    "04248c96d078c586ca22": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
-      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation"
-    },
     "0428938389e2994bc9d2": {
       "first_seen": "2026-11-22",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
@@ -360,11 +340,6 @@
       "link": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
       "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says"
     },
-    "0675e4b6803593d4c347": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-      "title": "Russia launches missile attack on Kyiv, injuring residents"
-    },
     "06c161ac8d6feb2ddefa": {
       "first_seen": "2026-11-15",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
@@ -410,11 +385,6 @@
       "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
       "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical"
     },
-    "0798c7a6c9d4fdace627": {
-      "first_seen": "2026-11-07",
-      "link": "https://news.mongabay.com/short-article/2026/11/scientists-discovered-an-unknown-baby-right-whale-off-canada-they-say-its-a-cause-for-joy",
-      "title": "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy"
-    },
     "07a0675ffc8c5ddd0539": {
       "first_seen": "2026-11-15",
       "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe",
@@ -434,11 +404,6 @@
       "first_seen": "2026-11-14",
       "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
       "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington"
-    },
-    "07c3fdd0ba0829e3bb6e": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky"
     },
     "07c56e3f22f7ef78403f": {
       "first_seen": "2026-11-12",
@@ -530,11 +495,6 @@
       "link": "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-top-1022-rdf",
       "title": "Controversial kinship: From colonial rule to the Holocaust?"
     },
-    "08af0bbbd7223caded53": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/care-packages-provided-a-lifeline-for-world-war-ii-survivors-heres-how-the-group-turned-leftover-army-rations-into-an-80-year-legacy-180989826",
-      "title": "CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy"
-    },
     "08b37075536b136d2296": {
       "first_seen": "2026-11-12",
       "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
@@ -589,6 +549,11 @@
       "first_seen": "2026-11-20",
       "link": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
       "title": "Ultrasound imaging without the gel"
+    },
+    "093294106ab36d385c7e": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/entertainment/duran-duran-guitarist-andy-taylor-dead-9.7436261?cmp=rss",
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dead at 65"
     },
     "09416188137a68faf476": {
       "first_seen": "2026-11-21",
@@ -664,11 +629,6 @@
       "first_seen": "2026-11-13",
       "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
       "title": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?"
-    },
-    "0aa7d5bcb5883dcd161d": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.theatlantic.com/photography/2026/11/photos-of-the-week-mountain-castle-fire-festival-cat-wedding/689313",
-      "title": "Photos of the Week: Mountain Castle, Fire Festival, Cat Wedding"
     },
     "0ab54dc740b311a5a888": {
       "first_seen": "2026-11-13",
@@ -750,11 +710,6 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
       "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens"
     },
-    "0bb49f96544d94ecd80e": {
-      "first_seen": "2026-11-07",
-      "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-      "title": "How to predict the behavior of molecules from scant data"
-    },
     "0bc286a1152cb189fa51": {
       "first_seen": "2026-11-14",
       "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
@@ -799,6 +754,11 @@
       "first_seen": "2026-11-18",
       "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest",
       "title": "NASA Launches Nuclear Power Systems Student Contest"
+    },
+    "0c801dca8e73e521ae77": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds"
     },
     "0c875aa2c0f5add91a6f": {
       "first_seen": "2026-11-12",
@@ -865,11 +825,6 @@
       "link": "https://www.cbc.ca/news/science/esa-hera-mission-dimorphos-didymos-9.7435354?cmp=rss",
       "title": "Remember when NASA slammed a spacecraft into an asteroid? We now have close-up images of the aftermath"
     },
-    "0d8ff67061a9f55f1189": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-      "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52"
-    },
     "0da8e45ee7c9972e191b": {
       "first_seen": "2026-11-18",
       "link": "https://theconversation.com/young-americans-have-no-memory-of-aids-at-its-worst-theyre-still-at-risk-of-infection-even-when-hiv-doesnt-feel-like-a-threat-296118",
@@ -900,15 +855,15 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/airlines-bankruptcy-profit-jetblue/689332",
       "title": "What Happened to JetBlue?"
     },
+    "0de2281d8aecedabc40c": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/nigeria-detains-5-mexicans-confiscates-over-220-million-of-meth/a-80054606?maca=en-rss-en-top-1022-rdf",
+      "title": "Nigeria detains 5 Mexicans, confiscates over $220 million of meth"
+    },
     "0de2cd18c13a61a92fe9": {
       "first_seen": "2026-11-23",
       "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
       "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port"
-    },
-    "0de3fbf6adda1a9a2930": {
-      "first_seen": "2026-11-07",
-      "link": "https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819",
-      "title": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar"
     },
     "0deeb36dc5c97fe622d2": {
       "first_seen": "2026-11-14",
@@ -1095,6 +1050,11 @@
       "link": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
       "title": "Netanyahu is playing with the fire that killed Rabin"
     },
+    "11021f4bba26fe07e35c": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+      "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears"
+    },
     "110b6217cbad9e597ede": {
       "first_seen": "2026-11-08",
       "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
@@ -1109,6 +1069,11 @@
       "first_seen": "2026-11-09",
       "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
       "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections"
+    },
+    "116148d45758b3793fb8": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-top-1022-rdf",
+      "title": "Egypt: At least 31 dead after fuel truck overturns on highway"
     },
     "1171f8f8cbabc107f7bb": {
       "first_seen": "2026-11-20",
@@ -1319,6 +1284,11 @@
       "first_seen": "2026-11-07",
       "link": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
       "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions"
+    },
+    "1556d3830e2b3a4f5dc6": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+      "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east"
     },
     "155a35c1e346259d95cf": {
       "first_seen": "2026-11-07",
@@ -1790,6 +1760,11 @@
       "link": "https://theconversation.com/rural-women-in-colorado-and-nationwide-are-at-higher-risk-for-cervical-cancer-at-home-test-kits-can-help-close-the-gap-293083",
       "title": "Rural women in Colorado and nationwide are at higher risk for cervical cancer – at-home test kits can help close the gap"
     },
+    "1c6024d18fe8d709ef3d": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway"
+    },
     "1c6173b63d99f707b89d": {
       "first_seen": "2026-11-24",
       "link": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552",
@@ -1934,6 +1909,11 @@
       "first_seen": "2026-11-13",
       "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
       "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader"
+    },
+    "1eb609910b986f0a7bb6": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/opinions/2026/11/26/who-really-wants-pedro-sanchez-out-of-power?traffic_source=rss",
+      "title": "Who really wants Pedro Sanchez out of power?"
     },
     "1ec70534247cff2c8e21": {
       "first_seen": "2026-11-12",
@@ -2114,6 +2094,11 @@
       "first_seen": "2026-11-21",
       "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
       "title": "Trump's impact on an Ohio steel plant"
+    },
+    "2117f0bf9de9da4b3a47": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
+      "title": "French navy intercepts suspected drug-smuggling semi-submersible"
     },
     "211a1b1013ae1477b2ff": {
       "first_seen": "2026-11-08",
@@ -2495,6 +2480,11 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168787",
       "title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected"
     },
+    "280b38f8e6dcdf083b1a": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-top-1022-rdf",
+      "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?"
+    },
     "280e913330e9eb2e0476": {
       "first_seen": "2026-11-07",
       "link": "https://www.cbc.ca/player/play/9.7413311?cmp=rss",
@@ -2610,6 +2600,11 @@
       "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-top-1022-rdf",
       "title": "Poland begins two days of mourning over Krakow shooting"
     },
+    "29f2b2d83a49bfb7f98c": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "title": "US approves SpaceX plan to send a million data satellites to space"
+    },
     "2a021621ae0c13d85ec2": {
       "first_seen": "2026-11-17",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168808",
@@ -2634,6 +2629,11 @@
       "first_seen": "2026-11-17",
       "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
       "title": "The young people caught up in Britain's Neets crisis"
+    },
+    "2a2ca9a34f0a8bb71935": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/opinions/2026/11/26/the-world-must-choose-between-nuclear-abolition-and-nuclear-catastrophe?traffic_source=rss",
+      "title": "The world must choose between nuclear abolition and nuclear catastrophe"
     },
     "2a4837e2b4f710f32998": {
       "first_seen": "2026-11-12",
@@ -2735,6 +2735,11 @@
       "link": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus",
       "title": "NASA Eyes Crop Candidates for Future Menus"
     },
+    "2ce882fef3de6c05e8ef": {
+      "first_seen": "2026-11-26",
+      "link": "https://news.mongabay.com/short-article/2026/11/army-blows-up-bomb-chemicals-in-iowa-despite-fears-a-toxic-plume-could-endanger-residents",
+      "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents"
+    },
     "2cee795a207431df5360": {
       "first_seen": "2026-11-22",
       "link": "https://www.cbc.ca/news/health/lancet-retraction-motherisk-gideon-koren-study-codeine-breast-milk-9.7430487?cmp=rss",
@@ -2789,6 +2794,11 @@
       "first_seen": "2026-11-08",
       "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-top-1022-rdf",
       "title": "At least 6 killed in shooting in Polish city of Krakow, police say"
+    },
+    "2dd0bd121389e38484cd": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/world/judge-blocks-fcc-revoking-abc-licences-9.7436635?cmp=rss",
+      "title": "U.S. judge blocks FCC from revoking licences of Disney-owned ABC stations"
     },
     "2dd79dbf1ef09bdeda5d": {
       "first_seen": "2026-11-25",
@@ -2890,6 +2900,11 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
       "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns"
     },
+    "2ef3bfc0589ac88dabef": {
+      "first_seen": "2026-11-26",
+      "link": "https://news.mongabay.com/2026/11/a-stunning-colorful-bird-losing-ground-to-deforestation-and-climate-change-study",
+      "title": "A ‘stunning,’ colorful bird losing ground to deforestation and climate change: Study"
+    },
     "2f13a0b0e8b948b32e02": {
       "first_seen": "2026-11-10",
       "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog",
@@ -2904,6 +2919,11 @@
       "first_seen": "2026-11-26",
       "link": "https://www.cbc.ca/news/world/us-army-detonation-lead-azide-iowa-9.7435246?cmp=rss",
       "title": "U.S. army says detonation of bomb chemicals in Iowa a success despite toxic plume concerns"
+    },
+    "2f23c282532c1df9ab7f": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
+      "title": "War and drought threaten livelihoods of Sudan’s farmers"
     },
     "2f39a37b2938bfea532b": {
       "first_seen": "2026-11-10",
@@ -2969,6 +2989,11 @@
       "first_seen": "2026-11-13",
       "link": "https://theconversation.com/extreme-weather-risk-is-scaring-big-corporations-away-from-poorer-countries-that-hurts-the-companies-too-295591",
       "title": "Extreme weather risk is scaring big corporations away from poorer countries – that hurts the companies, too"
+    },
+    "2fa23f824832d9faa5fd": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
+      "title": "Children in overcrowded homes get poorer GCSE results, study finds"
     },
     "2fae7d35741b069cbd61": {
       "first_seen": "2026-11-17",
@@ -3174,6 +3199,11 @@
       "first_seen": "2026-11-13",
       "link": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864",
       "title": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years"
+    },
+    "33c06c51f461db7fbefc": {
+      "first_seen": "2026-11-26",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "title": "Türk warns of widening risk of atrocity crimes against Palestinians"
     },
     "33c4350834f59c76a26d": {
       "first_seen": "2026-11-21",
@@ -4350,6 +4380,11 @@
       "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
       "title": "No one knows how many ballots are outstanding in Mississippi's Senate race"
     },
+    "4a041e1b8991afdc9574": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions"
+    },
     "4a154b9643bef9b12723": {
       "first_seen": "2026-11-19",
       "link": "https://www.theatlantic.com/politics/2026/11/jared-kushner-affinity-arxis/689488",
@@ -4500,6 +4535,11 @@
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
     },
+    "4d40fc60ea683acadaa9": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/politics/poilievre-wainwright-nurse-employment-9.7436563?cmp=rss",
+      "title": "Poilievre claims constituent's job was threatened after meeting at CFB Wainwright"
+    },
     "4d52e248960f5c4b0854": {
       "first_seen": "2026-11-26",
       "link": "https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-top-1022-rdf",
@@ -4544,6 +4584,11 @@
       "first_seen": "2026-11-18",
       "link": "https://www.dw.com/en/pakistani-man-gets-27-years-for-foiled-plot-to-kill-trump-biden/a-79976086?maca=en-rss-en-top-1022-rdf",
       "title": "Pakistani man gets 27 years for foiled plot to kill Trump, Biden"
+    },
+    "4e339ccaa8e1244842f6": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65"
     },
     "4e9595e6102785eb3b84": {
       "first_seen": "2026-11-20",
@@ -5090,6 +5135,11 @@
       "link": "https://psyche.co/turning-points/after-my-parents-died-why-did-i-hold-on-to-their-home",
       "title": "After Ma and Pa"
     },
+    "58ae7c69fbe87b4bb354": {
+      "first_seen": "2026-11-26",
+      "link": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits",
+      "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush"
+    },
     "58b673023dcf1630b470": {
       "first_seen": "2026-11-25",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168869",
@@ -5190,6 +5240,11 @@
       "link": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-top-1022-rdf",
       "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat"
     },
+    "5a7b17abdd11c4ca380f": {
+      "first_seen": "2026-11-26",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois",
+      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis"
+    },
     "5a7cb3d52ac75b38c013": {
       "first_seen": "2026-11-13",
       "link": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
@@ -5239,6 +5294,11 @@
       "first_seen": "2026-11-24",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
       "title": "UK to host 2035 Women's World Cup, Fifa confirms"
+    },
+    "5b5b89a3893b6237b7fe": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202?maca=en-rss-en-top-1022-rdf",
+      "title": "India news: Resolve tariff concerns in trade talks — India tells US"
     },
     "5b5c551c7d1f5abe5139": {
       "first_seen": "2026-11-12",
@@ -5314,6 +5374,11 @@
       "first_seen": "2026-11-15",
       "link": "https://www.cbc.ca/news/politics/green-party-leader-mike-morrice-9.7422321?cmp=rss",
       "title": "Mike Morrice — the only candidate on the ballot — wins Green Party leadership with 96.6% of vote"
+    },
+    "5c3dccd510440a80694d": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+      "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea"
     },
     "5c4422b03db8ea3dc0e7": {
       "first_seen": "2026-11-10",
@@ -6110,6 +6175,11 @@
       "link": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-top-1022-rdf",
       "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers"
     },
+    "6a1f840dd0b93ee7054b": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/entertainment/pitt-jolie-miraval-lawsuits-allegations-9.7436552?cmp=rss",
+      "title": "Brad Pitt, Angelina Jolie settle dispute over French estate Château Miraval"
+    },
     "6a404d2b3018ac0bab0a": {
       "first_seen": "2026-11-17",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
@@ -6174,6 +6244,11 @@
       "first_seen": "2026-11-21",
       "link": "https://news.mongabay.com/short-article/2026/11/one-in-four-land-reptiles-depends-on-rock-habitats-lack-of-protection-leaves-them-in-a-hard-place",
       "title": "One in four land reptiles depends on rock habitats. Lack of protection leaves them in a hard place"
+    },
+    "6b432bf41ad562fc9a99": {
+      "first_seen": "2026-11-26",
+      "link": "https://news.mongabay.com/2026/11/how-uttarakhands-women-farmers-are-reviving-endangered-himalayan-medicinal-plants",
+      "title": "How Uttarakhand’s women farmers are reviving endangered Himalayan medicinal plants"
     },
     "6b602133ffdf12c4c887": {
       "first_seen": "2026-11-23",
@@ -6535,6 +6610,11 @@
       "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
       "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?"
     },
+    "7241a0c0f418e0beb5ad": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
+      "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV"
+    },
     "725308e8a0a34092da85": {
       "first_seen": "2026-11-11",
       "link": "https://www.theatlantic.com/ideas/2026/11/trump-hate-legacy/689362",
@@ -6729,6 +6809,11 @@
       "first_seen": "2026-11-13",
       "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
       "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story"
+    },
+    "7583f52321a2849b1c95": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway"
     },
     "759ed1011947942b7df1": {
       "first_seen": "2026-11-19",
@@ -6925,6 +7010,11 @@
       "link": "https://grist.org/science/carbon-dioxide-is-a-climate-problem-it-might-also-be-a-laundry-solution",
       "title": "Carbon dioxide is a climate problem. It might also be a laundry solution."
     },
+    "791ea9aca8c2feb9c8fa": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "title": "Has global jihadism failed, or is it simply changing shape?"
+    },
     "792d52c20b6c95e3acc0": {
       "first_seen": "2026-11-20",
       "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
@@ -6959,6 +7049,11 @@
       "first_seen": "2026-11-25",
       "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
       "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach"
+    },
+    "79a17237bc68ab6eaadd": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65"
     },
     "79a19ad80f8d020b7131": {
       "first_seen": "2026-11-12",
@@ -7180,6 +7275,11 @@
       "link": "https://www.cbc.ca/news/world/cairncross-out-cyber-white-house-9.7429359?cmp=rss",
       "title": "Sean Cairncross out, Kirsten A. Davies in as White House national cyber director: source"
     },
+    "7d493f67818aa08d3dd9": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+      "title": "Photos: Rallies around the world denounce violence against women"
+    },
     "7d8cc547f7c9a0219b51": {
       "first_seen": "2026-11-25",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168866",
@@ -7269,6 +7369,11 @@
       "first_seen": "2026-11-10",
       "link": "https://news.harvard.edu/gazette/story/2026/11/hello-how-the-telephone-transformed-human-connection-gleick-book",
       "title": "Hello? How the telephone transformed human connection"
+    },
+    "7ea37a9061fead47800c": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+      "title": "How Silicon Valley became central to Israel’s war on Palestinians"
     },
     "7eae4ea30541556ebf2e": {
       "first_seen": "2026-11-18",
@@ -7560,6 +7665,11 @@
       "link": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
       "title": "How could the Nvidia CEO’s affair threaten US national security?"
     },
+    "83f09e4e12f0510a4f40": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-top-1022-rdf",
+      "title": "How Chinese companies circumvent chips sanctions in Southeast Asia"
+    },
     "83fbbbd8cce9ecb60d3d": {
       "first_seen": "2026-11-26",
       "link": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-top-1022-rdf",
@@ -7690,6 +7800,11 @@
       "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
       "title": "Third of young Brits have never had sex, but many are sexting and watching porn"
     },
+    "8656bc359e7a47717913": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-top-1022-rdf",
+      "title": "US court blocks regulator's early review of ABC's broadcast licenses"
+    },
     "866949e0c105ad3341b5": {
       "first_seen": "2026-11-22",
       "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
@@ -7785,6 +7900,11 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
       "title": "Clashes erupt across France in another night of protest"
     },
+    "8842d637b0f0fbcccbea": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery"
+    },
     "884b0c3577a7e56a4034": {
       "first_seen": "2026-11-18",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images",
@@ -7869,6 +7989,11 @@
       "first_seen": "2026-11-23",
       "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
       "title": "Pip assessments need 'fundamental overhaul', report to say"
+    },
+    "89b18da6a7540b0a7737": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC launches partnership with Met Office for weather coverage"
     },
     "89bd132084d4900f8619": {
       "first_seen": "2026-11-26",
@@ -7999,6 +8124,11 @@
       "first_seen": "2026-11-10",
       "link": "https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss",
       "title": "Why adults are buying toys"
+    },
+    "8b51e9126a9f5749895b": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-top-1022-rdf",
+      "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons"
     },
     "8b5c5ef9690ad253c02a": {
       "first_seen": "2026-11-12",
@@ -8625,6 +8755,11 @@
       "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
       "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes"
     },
+    "95f23f4bf7cb3b5e60d7": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-top-1022-rdf",
+      "title": "EU leaders seek agreement on long-term budget and Ukraine at summit"
+    },
     "95f7158c5c096584c3ee": {
       "first_seen": "2026-11-21",
       "link": "https://www.cbc.ca/news/canada/montreal/bill-21-ruling-9.7430138?cmp=rss",
@@ -8919,6 +9054,11 @@
       "first_seen": "2026-11-24",
       "link": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
       "title": "Turkish police hunting for lioness stalking Istanbul"
+    },
+    "9a11dd2362e8c7f3eba6": {
+      "first_seen": "2026-11-26",
+      "link": "https://news.mongabay.com/2026/11/international-marine-biodiversity-conference-emphasizes-the-unsung-and-the-unknown",
+      "title": "International marine biodiversity conference emphasizes the unsung and the unknown"
     },
     "9a18ca2366aef86da184": {
       "first_seen": "2026-11-20",
@@ -9245,6 +9385,11 @@
       "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
       "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin"
     },
+    "9f5fbe34e03214f69bb3": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/king-tides-wind-rain-vancouver-island-metro-vancouver-9.7434984?cmp=rss",
+      "title": "Coastal flooding warning for Metro Vancouver as king tides coincide with storms across coastal B.C."
+    },
     "9f67dac09bdaf5e68a49": {
       "first_seen": "2026-11-19",
       "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base",
@@ -9269,11 +9414,6 @@
       "first_seen": "2026-11-23",
       "link": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss",
       "title": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else"
-    },
-    "a0277b68b1225ae6187d": {
-      "first_seen": "2026-11-06",
-      "link": "https://grist.org/extreme-weather/extreme-flooding-in-the-southwest-foreshadows-a-wild-el-nino-winter",
-      "title": "Extreme flooding in the Southwest foreshadows a wild El Niño winter"
     },
     "a05ef39c2db4fcb266da": {
       "first_seen": "2026-11-08",
@@ -9334,11 +9474,6 @@
       "first_seen": "2026-11-20",
       "link": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508",
       "title": "Welcome to Software Beirut"
-    },
-    "a144d6de7c06272c953a": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack"
     },
     "a157f098bd53fb1b9bba": {
       "first_seen": "2026-11-14",
@@ -9420,11 +9555,6 @@
       "link": "https://theconversation.com/students-creating-documentaries-with-scientists-deepens-stem-belonging-and-public-trust-in-science-293506",
       "title": "Students creating documentaries with scientists deepens STEM belonging and public trust in science"
     },
-    "a2c6e770ad911ecd8e3a": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse"
-    },
     "a2e6bdc978f4a8d32e36": {
       "first_seen": "2026-11-19",
       "link": "https://www.theatlantic.com/culture/2026/11/confessions-of-a-shopaholic-future-of-shopping-loneliness/689455",
@@ -9470,20 +9600,10 @@
       "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "title": "No clear winner after tight New Zealand general election"
     },
-    "a3ab85c1aa10c87ec05c": {
-      "first_seen": "2026-11-06",
-      "link": "https://grist.org/politics/midterm-elections-climate-change-trifectas-arizona-wisconsin-pennsylvania",
-      "title": "How the midterms could unleash a new era for clean energy in these 3 states"
-    },
     "a3bef313b882800514b5": {
       "first_seen": "2026-11-17",
       "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
       "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field"
-    },
-    "a3c5ef80a7548cd10b9d": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/health/2026/11/bird-flu-death/689308",
-      "title": "Bird Flu Could Become a Terrible Feature of Fall"
     },
     "a40ad8ac3084e3bd86c6": {
       "first_seen": "2026-11-14",
@@ -9514,11 +9634,6 @@
       "first_seen": "2026-11-20",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
       "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins"
-    },
-    "a4a39dc926ab5cb6dc8f": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-top-1022-rdf",
-      "title": "Asian stocks slump after US tech rout amid AI jitters"
     },
     "a4a4469c55ebd53e8f9d": {
       "first_seen": "2026-11-25",
@@ -9625,11 +9740,6 @@
       "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-top-1022-rdf",
       "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race"
     },
-    "a67df3524fd986fbc1c7": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822",
-      "title": "A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface"
-    },
     "a68db2f1d7afa7818e90": {
       "first_seen": "2026-11-24",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
@@ -9660,10 +9770,20 @@
       "link": "https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem",
       "title": "Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem"
     },
+    "a77b5085c9245e54e54e": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless"
+    },
     "a7c542ad64f5c84d727f": {
       "first_seen": "2026-11-12",
       "link": "https://www.theatlantic.com/politics/2026/11/majority-democrats-denver-election/689358",
       "title": "‘Make Politics Boring Again’"
+    },
+    "a7d3ba3abaa41461ece5": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+      "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify"
     },
     "a7d8f3d020f847a0ef51": {
       "first_seen": "2026-11-10",
@@ -9694,11 +9814,6 @@
       "first_seen": "2026-11-09",
       "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
       "title": "Maya Jama steps down as host of reality TV show Love Island"
-    },
-    "a8509003799bae5f4f0f": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813",
-      "title": "Archaeologists Found a 3,300-Year-Old Sword at the Bottom of a Volcanic Lake in Italy—and It's Still Sharp"
     },
     "a852678438017c2d6ba8": {
       "first_seen": "2026-11-19",
@@ -9780,11 +9895,6 @@
       "link": "https://www.smithsonianmag.com/innovation/dutch-elm-disease-virtually-wiped-out-americas-most-iconic-tree-now-scientists-are-engineering-a-comeback-for-the-beloved-species-180989899",
       "title": "Dutch Elm Disease Virtually Wiped Out America's Most Iconic Tree. Now, Scientists Are Engineering a Comeback for the Beloved Species"
     },
-    "aa31d2c0cc0f0e511edb": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-house-speaker-trump/689317",
-      "title": "The Speaker Who Gave the House Away"
-    },
     "aa477d2d4ecfc0133387": {
       "first_seen": "2026-11-12",
       "link": "https://www.bbc.co.uk/news/articles/c962y743y458o?at_medium=RSS&at_campaign=rss",
@@ -9805,25 +9915,20 @@
       "link": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
       "title": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon"
     },
-    "aa737916356db8c79380": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026",
-      "title": "What went right this week: the good news that matters"
-    },
     "aa79b2eca641560440c0": {
       "first_seen": "2026-11-25",
       "link": "https://theconversation.com/california-raised-minimum-wages-for-fast-food-workers-heres-how-it-played-out-2-years-later-294552",
       "title": "California raised minimum wages for fast-food workers – here’s how it played out 2 years later"
     },
-    "aa80d014f920b9d26fbd": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-top-1022-rdf",
-      "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal"
-    },
     "aa8e6247d001d1219b1b": {
       "first_seen": "2026-11-16",
       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
       "title": "Iran targets US military base in Bahrain with drone attack"
+    },
+    "aa93b949730b43147e11": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+      "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump"
     },
     "aaad94cf7bdb6ce39c25": {
       "first_seen": "2026-11-11",
@@ -9835,15 +9940,15 @@
       "link": "https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384?cmp=rss",
       "title": "New B.C. government announces its 1st cabinet"
     },
-    "ab0dc02559b3887cdf46": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301",
-      "title": "Chuck Schumer’s Revenge"
-    },
     "ab104c412ea2b869cdd0": {
       "first_seen": "2026-11-16",
       "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
       "title": "ASEAN, China fall short of agreeing on South China Sea code"
+    },
+    "ab16224e8d1cd5dd506e": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "title": "New UK-EU treaty has 10-year termination clause, BBC understands"
     },
     "ab240c5c1385e9720919": {
       "first_seen": "2026-11-09",
@@ -9970,6 +10075,11 @@
       "link": "https://news.mongabay.com/2026/11/francophone-leaders-must-support-jailed-mother-nature-cambodia-activists-commentary",
       "title": "Francophone leaders must support jailed Mother Nature Cambodia activists (commentary)"
     },
+    "ad118879f6c96895c41d": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-top-1022-rdf",
+      "title": "Duran Duran guitarist Andy Taylor dies at 65"
+    },
     "ad916b2fc2ce7bdde4e5": {
       "first_seen": "2026-11-17",
       "link": "https://news.mongabay.com/short-article/2026/11/environmental-groups-challenge-mexicos-rollback-of-protections-for-worlds-smallest-porpoise",
@@ -10090,20 +10200,10 @@
       "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
       "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya"
     },
-    "af8a5bce86a91f3ba023": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234?cmp=rss",
-      "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith"
-    },
     "af94a79bc0e471bc7c47": {
       "first_seen": "2026-11-15",
       "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-top-1022-rdf",
       "title": "Nigeria's upcoming election marred by rising AI disinformation"
-    },
-    "afbd91af0cf325325303": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/ideas/2026/11/death-row-commutation-california-newsom/689304",
-      "title": "The Execution Divide"
     },
     "afc6cb43ffe34235d651": {
       "first_seen": "2026-11-25",
@@ -10204,11 +10304,6 @@
       "first_seen": "2026-11-07",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
       "title": "US city votes to divest from Israel"
-    },
-    "b19174c9fe289490fb19": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/politics/2026/11/republicans-gerrymandering-redistricting-midterms/689296",
-      "title": "Republicans Redistricted Themselves Out of Congress"
     },
     "b1a82815dfb5c656b54f": {
       "first_seen": "2026-11-07",
@@ -10330,11 +10425,6 @@
       "link": "https://news.mongabay.com/short-article/2026/11/indigenous-protesters-board-soy-and-oil-barges-on-brazilian-amazon-river",
       "title": "Indigenous protesters board soy and oil barges on Brazilian Amazon river"
     },
-    "b2e3732f8306558dc488": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-      "title": "Iran’s security chief meets Putin, delivers message from Khamenei"
-    },
     "b306ca9bb9d5b1dc9b78": {
       "first_seen": "2026-11-26",
       "link": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475",
@@ -10349,11 +10439,6 @@
       "first_seen": "2026-11-26",
       "link": "https://www.theatlantic.com/culture/2026/11/melania-series-elizabeth-holmes-documentary/689588",
       "title": "With Melania , We See Nothing"
-    },
-    "b3165a845c0acbb2c411": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
-      "title": "Democratic Socialist Nithya Raman wins LA mayoral race"
     },
     "b31a497324ea7e8c0ec7": {
       "first_seen": "2026-11-24",
@@ -10394,11 +10479,6 @@
       "first_seen": "2026-11-15",
       "link": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904?cmp=rss",
       "title": "Premier says Manitoba nearing limits of what it can do on affordability, so he's going after big corporations"
-    },
-    "b41fac9c85da80f89a9e": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-      "title": "Teens worldwide aren't getting enough exercise -- especially girls"
     },
     "b42f51e566af0620eac4": {
       "first_seen": "2026-11-15",
@@ -10480,16 +10560,6 @@
       "link": "https://daily.jstor.org/beyond-the-plantation-house",
       "title": "Beyond the Plantation House"
     },
-    "b54c8a8fcc949afc34f4": {
-      "first_seen": "2026-11-06",
-      "link": "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114",
-      "title": "Why do blind people and musicians hear pitch better? New research suggests they have less internal noise"
-    },
-    "b573938ecebbcaf97213": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
-      "title": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision"
-    },
     "b58fd3aab6be3f2fc620": {
       "first_seen": "2026-11-10",
       "link": "https://www.smithsonianmag.com/history/this-african-prophet-was-burned-at-the-stake-320-years-ago-today-kimpa-vita-is-celebrated-as-the-kongolese-joan-of-arc-180989820",
@@ -10499,6 +10569,11 @@
       "first_seen": "2026-11-18",
       "link": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360?cmp=rss",
       "title": "Canada's national emergency alert system will sound off Wednesday for testing"
+    },
+    "b5c6dd7ec464c56a9c0b": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss",
+      "title": "Musician Michael Eckert killed in attempted Toronto home invasion, police say"
     },
     "b5e75e96d0d377f7ea60": {
       "first_seen": "2026-11-17",
@@ -10680,6 +10755,11 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443",
       "title": "Don’t Be So Surprised That Mississippi Turned Blue"
     },
+    "b913c5d18f2883e9e04f": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/player/play/9.7436713?cmp=rss",
+      "title": "Chicago Bean push inspires Washington Monument shove | The Moment"
+    },
     "b921899e8dbb77326398": {
       "first_seen": "2026-11-09",
       "link": "https://www.cbc.ca/news/canada/manitoba/injured-soldiers-wainwright-burn-experts-9.7410917?cmp=rss",
@@ -10810,11 +10890,6 @@
       "link": "https://www.dw.com/en/tesla-planning-€3bn-investment-in-german-factory-to-produce-cybercabs/a-79961416?maca=en-rss-en-top-1022-rdf",
       "title": "Tesla planning €3BN investment in German factory to produce Cybercabs"
     },
-    "baee136e8ad92073abee": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
-      "title": "Why one Republican won a redrawn Texas district despite blue tsunami"
-    },
     "bafa9a9e9912b1a2551f": {
       "first_seen": "2026-11-26",
       "link": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
@@ -10844,11 +10919,6 @@
       "first_seen": "2026-11-22",
       "link": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-top-1022-rdf",
       "title": "Germany news: Support for Ukraine military aid waning, survey shows"
-    },
-    "bb50ab0eb65f92f3c184": {
-      "first_seen": "2026-11-06",
-      "link": "https://theconversation.com/i-research-play-and-heres-why-recess-is-much-more-important-than-just-a-fun-break-294764",
-      "title": "I research play – and here’s why recess is much more important than just a fun break"
     },
     "bb547bb2cc527a6b2480": {
       "first_seen": "2026-11-16",
@@ -11165,6 +11235,11 @@
       "link": "https://news.mongabay.com/short-article/2026/11/a-plan-to-save-balis-vanishing-fireflies-takes-root-in-organic-farming",
       "title": "A plan to save Bali’s vanishing fireflies takes root in organic farming"
     },
+    "c1536e739e29b884369c": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+      "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release"
+    },
     "c16ebf735cbae46004b4": {
       "first_seen": "2026-11-12",
       "link": "https://news.mongabay.com/2026/11/to-boost-conservation-of-kelp-forests-start-by-naming-them-commentary",
@@ -11415,11 +11490,6 @@
       "link": "https://theconversation.com/is-it-genuine-love-or-obsessive-passion-kierkegaard-the-father-of-existentialism-had-some-thoughts-291950",
       "title": "Is it genuine love – or obsessive passion? Kierkegaard, the father of existentialism, had some thoughts"
     },
-    "c54cb1001032dc7c70b7": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
-      "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil"
-    },
     "c55d31a3e7e03808059f": {
       "first_seen": "2026-11-09",
       "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
@@ -11665,11 +11735,6 @@
       "link": "https://grist.org/culture/cozy-radicalism-right-to-repair-cafes",
       "title": "The cozy radicalism of repair cafés"
     },
-    "c8daf99589f7732f2d63": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo?at_medium=RSS&at_campaign=rss",
-      "title": "The Russell Brand I saw in court was not the flamboyant character most people will know"
-    },
     "c8ebbd1cbde74c033d52": {
       "first_seen": "2026-11-22",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168854",
@@ -11755,11 +11820,6 @@
       "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact",
       "title": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain"
     },
-    "c9c54c6020246f3b0e58": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.cbc.ca/news/entertainment/dolly-parton-manager-nephew-case-9.7411680?cmp=rss",
-      "title": "Dolly Parton's manager moves to drop complaint against late singer's nephew"
-    },
     "c9ca2f205f6c7fa8f9a9": {
       "first_seen": "2026-11-11",
       "link": "https://www.cbc.ca/news/canada/british-columbia/amy-hamm-supreme-court-hearing-9.7417263?cmp=rss",
@@ -11794,11 +11854,6 @@
       "first_seen": "2026-11-14",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
       "title": "COP31: New initiative targets AI and reliable climate change information"
-    },
-    "cace75881c1ac5ccefa5": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
-      "title": "US Justice Department sues Penn State over undocumented students’ tuition"
     },
     "cad746f84edd2f6bd054": {
       "first_seen": "2026-11-22",
@@ -11855,6 +11910,11 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/election-denialism-end-midterms/689495",
       "title": "Election Denialism Is All but Dead"
     },
+    "cb7b880b0ed46a2c9d61": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theatlantic.com/technology/2026/11/ai-agents-holiday-shopping-muse/689587",
+      "title": "Here Comes Santa Claude"
+    },
     "cba0516ed1746ed007b8": {
       "first_seen": "2026-11-19",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/from-penicillin-to-the-polio-vaccine-a-new-exhibition-reveals-how-far-weve-come-with-lifesaving-medical-innovations-and-how-much-further-we-have-to-go-180989892",
@@ -11894,11 +11954,6 @@
       "first_seen": "2026-11-13",
       "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la",
       "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA"
-    },
-    "ccb67d959929d050167c": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-      "title": "A judge blocks construction of Trump's arch moments after it won federal approval"
     },
     "ccc4389da68ad4d0f81e": {
       "first_seen": "2026-11-18",
@@ -11950,6 +12005,11 @@
       "link": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-rdf",
       "title": "Protests and reforms: France's rising debt costs threaten stability"
     },
+    "cd522dfcea3ba21b1efa": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office"
+    },
     "cd6935b22eca954beede": {
       "first_seen": "2026-11-11",
       "link": "https://theconversation.com/glp-1-drugs-carry-risk-of-rare-but-serious-eye-condition-a-physician-studying-these-medicines-explains-the-potential-side-effect-296237",
@@ -11999,11 +12059,6 @@
       "first_seen": "2026-11-19",
       "link": "https://www.cbc.ca/news/canada/british-columbia/train-derailment-skeena-river-9.7426854?cmp=rss",
       "title": "Gitxsan hereditary chiefs call for halt to rail cargo as diesel leaks from train derailment along river in B.C."
-    },
-    "ce7382028a3437efc387": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.cbc.ca/news/canada/toronto/student-walkout-protest-osap-tuition-ontario-9.7410724?cmp=rss",
-      "title": "Post-secondary students across Ontario walk out of classrooms to protest province's cuts to OSAP, tuition hike"
     },
     "ce764c74374b40bd7d56": {
       "first_seen": "2026-11-09",
@@ -12064,11 +12119,6 @@
       "first_seen": "2026-11-23",
       "link": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss",
       "title": "B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home"
-    },
-    "cf6a238773ad65679343": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks"
     },
     "cf7dbb9086e714a795fa": {
       "first_seen": "2026-11-20",
@@ -12140,6 +12190,11 @@
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168779",
       "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening"
     },
+    "d0d05cba99bef695c89b": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection"
+    },
     "d0e04b700b1d25f83426": {
       "first_seen": "2026-11-18",
       "link": "https://news.mongabay.com/short-article/2026/11/global-clean-energy-transition-demands-millions-of-acres-threatening-indigenous-rights-report-2",
@@ -12159,11 +12214,6 @@
       "first_seen": "2026-11-17",
       "link": "https://news.mongabay.com/2026/11/thailand-myanmar-river-pollution-agreement-was-weakened-then-signed-china-remains-silent",
       "title": "Thailand-Myanmar river pollution agreement was weakened, then signed. China remains silent"
-    },
-    "d10d11a4bef1839d3876": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.cbc.ca/news/business/ai-stocks-markets-9.7411079?cmp=rss",
-      "title": "AI stock sell-off sends the S&P 500 down 4.4% in worst day since April 2025"
     },
     "d1104ad8e14a506f7707": {
       "first_seen": "2026-11-07",
@@ -12215,11 +12265,6 @@
       "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-top-1022-rdf",
       "title": "Spain: Housing crisis prompts general strike, mass nighttime protests"
     },
-    "d199afdc36e3174f7fc9": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/ideas/2026/11/democrats-ai-midterms-regulation/689320",
-      "title": "Democrats Have No Coherent Plan for AI"
-    },
     "d1ace1530e898e039ac0": {
       "first_seen": "2026-11-25",
       "link": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-top-1022-rdf",
@@ -12245,6 +12290,11 @@
       "link": "https://www.cbc.ca/news/health/hepatitis-b-drug-vaccines-9.7421089?cmp=rss",
       "title": "Is a cure on the horizon for hepatitis B? New drug offers hope, but there's a 'long way to go'"
     },
+    "d256b509bbc86a957b35": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "title": "Desperate appeals from women on death row in Iran after protests"
+    },
     "d2755ebc4728e1eff983": {
       "first_seen": "2026-11-09",
       "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
@@ -12254,11 +12304,6 @@
       "first_seen": "2026-11-24",
       "link": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-top-1022-rdf",
       "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist"
-    },
-    "d27c01e46d9b0ec2d240": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
-      "title": "Building wind turbines out of parts found in Gaza’s rubble"
     },
     "d2a40e942f9610e23f38": {
       "first_seen": "2026-11-17",
@@ -12345,6 +12390,11 @@
       "link": "https://www.dw.com/en/ukraine-zelenskyy-and-hungary-s-magyar-meet-amid-thaw-in-ties/a-80036546?maca=en-rss-en-top-1022-rdf",
       "title": "Ukraine: Zelenskyy and Hungary's Magyar meet amid thaw in ties"
     },
+    "d3999f5b2a4771ce7fe5": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical"
+    },
     "d3abc207a940269ba063": {
       "first_seen": "2026-11-10",
       "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
@@ -12395,11 +12445,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
       "title": "All hostages rescued after Colombian security forces storm supermarket, says president"
     },
-    "d4d36af74f2a2095a54a": {
-      "first_seen": "2026-11-06",
-      "link": "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105",
-      "title": "Pinning down the structure of quark-gluon plasma, the universe’s first fluid"
-    },
     "d4dc9804ef9aeafc1c74": {
       "first_seen": "2026-11-24",
       "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
@@ -12444,11 +12489,6 @@
       "first_seen": "2026-11-24",
       "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
       "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book"
-    },
-    "d5e7d8854b01d4e9262f": {
-      "first_seen": "2026-11-06",
-      "link": "https://news.harvard.edu/gazette/story/2026/11/unique-opportunity-in-study-of-colorectal-cancer",
-      "title": "‘Unique opportunity’ in study of colorectal cancer"
     },
     "d5f89ef726d5aa02d3b2": {
       "first_seen": "2026-11-08",
@@ -12529,11 +12569,6 @@
       "first_seen": "2026-11-11",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168778",
       "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens"
-    },
-    "d73ba79f61ae94e1113d": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
-      "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing"
     },
     "d73bad1077b847dd210f": {
       "first_seen": "2026-11-16",
@@ -12700,11 +12735,6 @@
       "link": "https://undark.org/2026/10/30/cancer-survivors",
       "title": "After Cancer, a Complex Aftermath for Survivors"
     },
-    "d9ae7f1c0a070e03a942": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-      "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry"
-    },
     "d9b1c57b00f9868eaccb": {
       "first_seen": "2026-11-21",
       "link": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920",
@@ -12790,11 +12820,6 @@
       "link": "https://www.theatlantic.com/ideas/2026/11/jensen-huang-nvidia-reinstated/689546",
       "title": "Three Theories of Jensen Huang’s Resurrection"
     },
-    "db2b7eb53f20ca96d562": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/who-is-drug-testing-russia-s-athletes-now-that-they-have-returned-to-international-competition/a-79862467?maca=en-rss-en-top-1022-rdf",
-      "title": "Who is drug testing Russia's athletes, now that they have returned to international competition?"
-    },
     "db34f89e822d0beaee46": {
       "first_seen": "2026-11-19",
       "link": "https://theconversation.com/as-americans-gather-for-thanksgiving-a-centuries-old-sikh-tradition-offers-an-expansive-vision-of-hospitality-296562",
@@ -12819,11 +12844,6 @@
       "first_seen": "2026-11-20",
       "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "title": "UK joins in GTA 6 frenzy as game becomes available worldwide"
-    },
-    "db7f9580525f2f261583": {
-      "first_seen": "2026-11-06",
-      "link": "https://theconversation.com/an-adhd-diagnosis-can-be-a-map-to-guide-a-person-through-challenging-territory-not-to-avoid-it-altogether-293507",
-      "title": "An ADHD diagnosis can be a map to guide a person through challenging territory – not to avoid it altogether"
     },
     "db82a493e286dcdee578": {
       "first_seen": "2026-11-19",
@@ -12980,6 +13000,11 @@
       "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
       "title": "California voters defeat billionaire tax proposal that divided Democrats"
     },
+    "df0646206195c2ea0d3d": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-top-1022-rdf",
+      "title": "FedEx plane overshoots runway at Miami airport on Thanksgiving eve"
+    },
     "df09a4652121bc77f2b7": {
       "first_seen": "2026-11-16",
       "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-top-1022-rdf",
@@ -13030,11 +13055,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
       "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer"
     },
-    "e0203153ed1fe87f45a1": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-top-1022-rdf",
-      "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?"
-    },
     "e021e7270166e91ae21a": {
       "first_seen": "2026-11-20",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
@@ -13080,6 +13100,11 @@
       "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
       "title": "Helping robots fit into the human workplace"
     },
+    "e08a9958fcbd6cc66dbc": {
+      "first_seen": "2026-11-26",
+      "link": "https://news.mongabay.com/2026/11/the-night-watchmen-guarding-malaysias-critically-endangered-river-terrapins",
+      "title": "The night watchmen guarding Malaysia’s critically endangered river terrapins"
+    },
     "e08b3fd6dafacc7a3b12": {
       "first_seen": "2026-11-12",
       "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/molson-coors-recall-nl-9.7418429?cmp=rss",
@@ -13089,11 +13114,6 @@
       "first_seen": "2026-11-17",
       "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
       "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case"
-    },
-    "e0b609f23f25c3183a35": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why"
     },
     "e0dba6c0c24f83db45bc": {
       "first_seen": "2026-11-25",
@@ -13154,11 +13174,6 @@
       "first_seen": "2026-11-13",
       "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
       "title": "China rules out hosting Cop33 climate summit in 2028"
-    },
-    "e1dbc7fdce80ad54414f": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803",
-      "title": "This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds"
     },
     "e21665fb75e16490868d": {
       "first_seen": "2026-11-13",
@@ -13230,20 +13245,10 @@
       "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
       "title": "The fight over Canadian steelworker jobs"
     },
-    "e30b3baffc35753c3c95": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
-      "title": "'Misleading' student loans information left out examples of higher-salary repayments"
-    },
     "e30c0e2f8aac10b9a016": {
       "first_seen": "2026-11-18",
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons",
       "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons"
-    },
-    "e368c3da5e80cda31566": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss",
-      "title": "From groceries to tax credits, how much is in the federal budget for your wallet?"
     },
     "e375cb0e2fdc53ef12bd": {
       "first_seen": "2026-11-23",
@@ -13264,11 +13269,6 @@
       "first_seen": "2026-11-16",
       "link": "https://www.dw.com/en/pope-leo-heads-to-the-amazon-on-the-final-leg-of-his-south-american-tour/a-79952884?maca=en-rss-en-top-1022-rdf",
       "title": "Pope Leo heads to the Amazon on the final leg of his South American tour"
-    },
-    "e3b45b6d207b3a071d70": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-top-1022-rdf",
-      "title": "Paraguay: President Pena resigns amid bank crisis"
     },
     "e3d6f99e0ff04bc765ea": {
       "first_seen": "2026-11-08",
@@ -13294,6 +13294,11 @@
       "first_seen": "2026-11-22",
       "link": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225",
       "title": "Army’s plan to blow up aging explosives will spread lead over part of Iowa – what you need to know about the risks"
+    },
+    "e4297a5a2ecfdc500ad7": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats"
     },
     "e43420126c05a5091bfc": {
       "first_seen": "2026-11-20",
@@ -13350,10 +13355,10 @@
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock"
     },
-    "e578355f7abfe81a1d1d": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens"
+    "e557fc61bd3ab71c2ec5": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theatlantic.com/culture/2026/11/cliff-booth-once-upon-a-time-in-hollywood-sequel-review/689578",
+      "title": "A Bizarre Sequel to One of Tarantino’s Best Movies"
     },
     "e5bdcd7e5ae92e99955c": {
       "first_seen": "2026-11-14",
@@ -13495,25 +13500,20 @@
       "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
       "title": "NASA is looking for astronauts to live and work on the Moon"
     },
-    "e79a0183adf0cb5355a6": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.theatlantic.com/ideas/2026/11/maga-party-demographic-shift/689286",
-      "title": "Even Where MAGA Won, MAGA Lost"
-    },
     "e7a0c331f47bcd758e5d": {
       "first_seen": "2026-11-16",
       "link": "https://www.dw.com/en/how-ai-is-likely-to-change-germany-s-job-market/a-79941597?maca=en-rss-en-top-1022-rdf",
       "title": "How AI is likely to change Germany's job market"
     },
-    "e7bcb7e7de7d3841e659": {
-      "first_seen": "2026-11-06",
-      "link": "https://news.mongabay.com/2026/11/amazon-mapping-shows-cacao-expansion-without-deforestation-in-brazil",
-      "title": "Amazon mapping shows cacao expansion without deforestation in Brazil"
-    },
     "e7c5946257583af6458c": {
       "first_seen": "2026-11-17",
       "link": "https://theconversation.com/annual-water-quality-reports-dont-tell-the-full-story-of-what-youre-drinking-294766",
       "title": "Annual water-quality reports don’t tell the full story of what you’re drinking"
+    },
+    "e7d306d0f87bbffaa2d4": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/politics/defence-spending-pentagon-nato-carney-9.7435919?cmp=rss",
+      "title": "NATO's No. 2 commander strikes different tone on Canada than Pentagon"
     },
     "e8223816b55a4d77318a": {
       "first_seen": "2026-11-16",
@@ -13640,6 +13640,11 @@
       "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
       "title": "Sudan’s war will end, but will it be too late?"
     },
+    "e9699ba19a8dd80fbe35": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-top-1022-rdf",
+      "title": "Extreme weather threatens Thanksgiving festivities in US"
+    },
     "e97c77486180d1764283": {
       "first_seen": "2026-11-11",
       "link": "https://news.mongabay.com/specials/2026/11/californias-wolf-divide",
@@ -13694,6 +13699,11 @@
       "first_seen": "2026-11-23",
       "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "title": "Energy bills will soar - here's how you can ease the pain"
+    },
+    "ea52bc91cb07ec882ceb": {
+      "first_seen": "2026-11-26",
+      "link": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island",
+      "title": "Seeking Refuge on Resolution Island"
     },
     "ea5857040a1a22a220e0": {
       "first_seen": "2026-11-20",
@@ -14015,6 +14025,11 @@
       "link": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
       "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats"
     },
+    "eff647e87c64d2d35064": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+      "title": "Astronomers may have discovered a black hole born before the first stars"
+    },
     "effe0ba29fb1c1d61f45": {
       "first_seen": "2026-11-20",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
@@ -14094,16 +14109,6 @@
       "first_seen": "2026-11-25",
       "link": "https://www.cbc.ca/news/canada/ottawa/kim-budd-gilles-plouffe-podcast-9.7349352?cmp=rss",
       "title": "A teenage runaway turned to a Mountie for sanctuary. He had other plans"
-    },
-    "f157208451a684899c74": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-top-1022-rdf",
-      "title": "Iran signals satisfaction, skepticism after US midterm vote"
-    },
-    "f1b5d66874a32f4a3b21": {
-      "first_seen": "2026-11-06",
-      "link": "https://news.harvard.edu/gazette/story/2026/11/why-sofia-coppola-gave-marie-antoinette-sneakers",
-      "title": "Why Sofia Coppola gave Marie Antoinette sneakers"
     },
     "f1c6d447b9d34882c725": {
       "first_seen": "2026-11-07",
@@ -14225,6 +14230,11 @@
       "link": "https://grist.org/culture/el-nino-is-already-scrambling-your-ski-season",
       "title": "El Niño is already scrambling your ski season"
     },
+    "f3199bafd5189373ba8e": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
+      "title": "Jannik Sinner ruled out of 2027 Australian Open after knee surgery"
+    },
     "f31b84c53f4ee90c1b87": {
       "first_seen": "2026-11-24",
       "link": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics",
@@ -14304,6 +14314,11 @@
       "first_seen": "2026-11-20",
       "link": "https://e360.yale.edu/features/lake-victoria-photo-essay",
       "title": "Troubled Waters: Lake Victoria Faces an Ecological Reckoning"
+    },
+    "f49a908e16f7b17e6c3e": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/bc-premier-doerkson-immediate-priorities-9.7436031?cmp=rss",
+      "title": "B.C. premier removes sexual orientation and gender identity materials from schools"
     },
     "f4a2f49004b2be14a0c2": {
       "first_seen": "2026-11-10",
@@ -14445,11 +14460,6 @@
       "link": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-top-1022-rdf",
       "title": "Italy: Hundreds of schools evacuated after bomb threats"
     },
-    "f6e29cfb4eb685fbaecb": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.smithsonianmag.com/travel/americas-newest-unesco-world-heritage-site-is-a-swampand-thats-exactly-why-you-should-go-180989807",
-      "title": "America's Newest UNESCO World Heritage Site Is a Swamp—and That's Exactly Why You Should Go"
-    },
     "f6f2fdf78ca3e51a2cb0": {
       "first_seen": "2026-11-19",
       "link": "https://theconversation.com/black-women-helped-return-brazils-lula-to-power-can-their-gains-convert-into-political-power-295727",
@@ -14560,11 +14570,6 @@
       "link": "https://grist.org/accountability/anthropic-alignment-ai-fossil-fuels-climate-change",
       "title": "Even the ‘good guys’ of AI are locking in fossil fuels"
     },
-    "f8ca72ded35ee5247279": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.dw.com/en/germany-s-gen-z-protests-spark-debate-on-integration-bias/a-79868497?maca=en-rss-en-top-1022-rdf",
-      "title": "Germany’s Gen Z protests spark debate on integration, bias"
-    },
     "f8f131d59bf5d0ddc752": {
       "first_seen": "2026-11-09",
       "link": "https://www.cbc.ca/news/world/britain-be-ready-campaign-emergency-prep-9.7413720?cmp=rss",
@@ -14579,16 +14584,6 @@
       "first_seen": "2026-11-13",
       "link": "https://grist.org/buildings/this-surprise-cost-could-derail-your-heat-pump-or-ev-charger-installation-heres-how-to-avoid-it",
       "title": "This surprise cost could derail your heat pump or EV charger installation. Here’s how to avoid it."
-    },
-    "f9463ae2b34cb02e2b2d": {
-      "first_seen": "2026-11-06",
-      "link": "https://news.mit.edu/2026/studying-bacteria-and-cells-they-infect-rebecca-lamason-1106",
-      "title": "Studying bacteria and the cells they infect"
-    },
-    "f953b6a930afde6285b1": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "title": "Russell Brand is being investigated over two new rape complaints, police say"
     },
     "f976e2e1e059c04448de": {
       "first_seen": "2026-11-13",
@@ -14735,6 +14730,11 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
       "title": "ICE agents detain two people at Seattle airport"
     },
+    "fb6871da8b77a7e03837": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.theatlantic.com/podcasts/2026/11/david-frum-show-meghan-cox-gurdon-1970s-childhood/689584",
+      "title": "How Did Any Child Survive the 1970s?"
+    },
     "fb849f3daf520e54868f": {
       "first_seen": "2026-11-18",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare",
@@ -14749,6 +14749,11 @@
       "first_seen": "2026-11-10",
       "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
       "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay"
+    },
+    "fb9aeaa8003f1f0f4d1a": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "title": "Stalking law simplified to become one offence"
     },
     "fbae7cd0ca9331b4f9bf": {
       "first_seen": "2026-11-14",
@@ -14830,11 +14835,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
       "title": "A mysterious gap hints at black holes born from stars that never exploded"
     },
-    "fce12d9d44ef4b03e40c": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
-      "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine"
-    },
     "fce50512cd8fffddeedf": {
       "first_seen": "2026-11-18",
       "link": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-top-1022-rdf",
@@ -14870,11 +14870,6 @@
       "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
       "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess"
     },
-    "fd9325eb25acad942874": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/branko-bijelic-kai-pavlovic-court-appearance-murder-charge-9.7410976?cmp=rss",
-      "title": "Man accused of killing 11-year-old Burnaby boy makes 1st court appearance"
-    },
     "fd935d641d1d1a224332": {
       "first_seen": "2026-11-18",
       "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
@@ -14904,6 +14899,11 @@
       "first_seen": "2026-11-11",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
       "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction"
+    },
+    "fe3ed57c0c0663b5c636": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
+      "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre"
     },
     "fe43ad7793fd6a585256": {
       "first_seen": "2026-11-15",
@@ -14965,6 +14965,11 @@
       "link": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000?cmp=rss",
       "title": "COVID-19 school disruptions still impacting students today, learning loss report finds"
     },
+    "ff5c5777651e2fbd0ba3": {
+      "first_seen": "2026-11-26",
+      "link": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
+      "title": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough"
+    },
     "ff8dac294fc817cb92fa": {
       "first_seen": "2026-11-08",
       "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
@@ -14989,11 +14994,6 @@
       "first_seen": "2026-11-10",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
       "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates"
-    },
-    "ffff2886fc4b1906ffc9": {
-      "first_seen": "2026-11-06",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "title": "California governor commutes sentences for state's 548 death row inmates"
     },
     "ffffdcaf175fb3b53cc7": {
       "first_seen": "2026-11-23",

@@ -1,25 +1,32 @@
 {
   "digests": [
     {
+      "date": "2026-11-28",
+      "file": "chinese_digests/2026-11-28.md",
+      "title": "News Radar - 2026-11-28",
+      "item_count": 10,
+      "updated_at": "2026-11-28T07:38:09+00:00"
+    },
+    {
       "date": "2026-11-27",
       "file": "chinese_digests/2026-11-27.md",
       "title": "News Radar - 2026-11-27",
       "item_count": 10,
-      "updated_at": "2026-11-27T08:15:48+00:00"
+      "updated_at": "2026-11-28T07:37:57+00:00"
     },
     {
       "date": "2026-11-26",
       "file": "chinese_digests/2026-11-26.md",
       "title": "News Radar - 2026-11-26",
       "item_count": 10,
-      "updated_at": "2026-11-27T08:15:36+00:00"
+      "updated_at": "2026-11-28T07:37:57+00:00"
     },
     {
       "date": "2026-11-25",
       "file": "chinese_digests/2026-11-25.md",
       "title": "News Radar - 2026-11-25",
       "item_count": 10,
-      "updated_at": "2026-11-27T08:15:36+00:00"
+      "updated_at": "2026-11-28T07:37:57+00:00"
     }
   ]
 }

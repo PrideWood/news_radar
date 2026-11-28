@@ -180,6 +180,11 @@
       "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2149231.html",
       "title": "【いつモノコト】もうすぐ50歳 「エムット」でNISAをはじめた"
     },
+    "02f9165e4227d3814d4d": {
+      "first_seen": "2026-11-28",
+      "link": "https://www.watch.impress.co.jp/docs/news/2160111.html",
+      "title": "Microsoft 365が21％オフ、Dropbox Plusが24％オフ【Amazonブラックフライデー】"
+    },
     "030e389e5b0e2bd70ff2": {
       "first_seen": "2026-10-19",
       "link": "https://www.watch.impress.co.jp/docs/news/2148944.html",
@@ -1029,16 +1034,6 @@
       "first_seen": "2026-11-25",
       "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003431",
       "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供"
-    },
-    "1015361077466f17ee29": {
-      "first_seen": "2026-08-29",
-      "link": "https://www.watch.impress.co.jp/docs/series/kodera/2136334.html",
-      "title": "【小寺信良のくらしDX】「死なない」から「生き残る」対策へ 変わる避難の常識を「体感型防災」で学ぶ"
-    },
-    "1022eae6435a9637d947": {
-      "first_seen": "2026-08-29",
-      "link": "https://gigazine.net/news/20260829-garden-park-access-relation-diabetes",
-      "title": "自宅に庭があったり近所に公園があったりする人は糖尿病リスクが低いという研究結果"
     },
     "1025d9c3299ba9547358": {
       "first_seen": "2026-10-01",
@@ -2464,6 +2459,11 @@
       "first_seen": "2026-10-17",
       "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002341",
       "title": "相次ぐ不正アクセス「実態解明進めなければならない」 警察庁長官、担当幹部会議で指示"
+    },
+    "2a5e7dc608cb82a48390": {
+      "first_seen": "2026-11-28",
+      "link": "https://gigazine.net/news/20261128-fake-911-call-ai",
+      "title": "AI音声による虚偽通報が深刻化"
     },
     "2a834f953687f18e3805": {
       "first_seen": "2026-10-14",
@@ -4135,6 +4135,11 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2147011.html",
       "title": "アマゾン、タブレットを新ブランド「Alexa Tablet」に刷新 Google Play+ユニボディ"
     },
+    "47a2e55aa560171990b6": {
+      "first_seen": "2026-11-28",
+      "link": "https://gigazine.net/news/20261128-remote-work-costs-21-minutes-exercise",
+      "title": "リモートワークをすると1日あたり「21分」の運動時間を失うという研究結果"
+    },
     "47a401f5f5a500123cd4": {
       "first_seen": "2026-11-18",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003292",
@@ -4949,6 +4954,11 @@
       "first_seen": "2026-10-16",
       "link": "https://www.watch.impress.co.jp/docs/news/2148395.html",
       "title": "スマホを持つだけで通過 JR東「ウォークスルー改札」がCEATECで体験できる"
+    },
+    "54c55eed9734f3048c23": {
+      "first_seen": "2026-11-28",
+      "link": "https://gigazine.net/news/20261128-light-speed-discovered-350-years-ago",
+      "title": "人類は350年前にどうやって「光にも速さがある」と気づいたのか？"
     },
     "54e2eaa946684823752b": {
       "first_seen": "2026-11-06",
@@ -7705,6 +7715,11 @@
       "link": "https://www.watch.impress.co.jp/docs/topic/2149006.html",
       "title": "美術館が「路上」を問う意味 金沢から渋谷へ「路上、お邪魔ですか？」展"
     },
+    "853a32df71ca8870262b": {
+      "first_seen": "2026-11-28",
+      "link": "https://www.itmedia.co.jp/news/article/2611/28/2000003529",
+      "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた"
+    },
     "8545f019ccca1be4c758": {
       "first_seen": "2026-10-08",
       "link": "https://gigazine.net/news/20261007-faster-than-light",
@@ -7779,6 +7794,11 @@
       "first_seen": "2026-11-12",
       "link": "https://www.watch.impress.co.jp/docs/news/2155818.html",
       "title": "シャープの対話AI「ポケとも」にぶっきらぼうな「おれさまタイプ」"
+    },
+    "863530e01b8e66ec620c": {
+      "first_seen": "2026-11-28",
+      "link": "https://www.watch.impress.co.jp/docs/news/2160126.html",
+      "title": "シチズン、サファイアガラスの奥に白蝶貝を閉じ込めた黒と白の限定モデル"
     },
     "8658410d0164b917f3c5": {
       "first_seen": "2026-11-19",
@@ -7990,11 +8010,6 @@
       "link": "https://www.watch.impress.co.jp/docs/news/2153747.html",
       "title": "e-Taxが緊急メンテナンス 不審な通信を検知"
     },
-    "8a4f6cef86b0d1c30f90": {
-      "first_seen": "2026-08-28",
-      "link": "https://gigazine.net/news/20260828-calpis-soda-kanjuku-peach",
-      "title": "完熟桃のまろやかな甘みとカルピスソーダの爽やかさが楽しめる「カルピスソーダ完熟桃のくつろぎ時間」を飲んでみた"
-    },
     "8a5e86d71baee3988fe6": {
       "first_seen": "2026-09-19",
       "link": "https://gigazine.net/news/20260919-text-ai-watermarks",
@@ -8049,11 +8064,6 @@
       "first_seen": "2026-11-02",
       "link": "https://www.watch.impress.co.jp/docs/series/nishida/2152910.html",
       "title": "【西田宗千佳のイマトミライ】「プロ向け」という価値 新MacBook Pro発表から見たアップルの戦略"
-    },
-    "8b59bef30e7561d9aa70": {
-      "first_seen": "2026-08-28",
-      "link": "https://gigazine.net/news/20260828-mother-infant-vocal-response-adhd",
-      "title": "赤ちゃんの声に母親が「1秒以内」に応じる割合は小児期のADHD診断と関連する可能性"
     },
     "8b7d963165dc5d88ee7b": {
       "first_seen": "2026-08-30",
@@ -8160,6 +8170,11 @@
       "link": "https://gigazine.net/news/20261002-car-data-privacy",
       "title": "最新の車21台をテストした結果ほぼすべての車両が第三者のドメインにデータを送信しており半数以上が広告会社にメッセージを送信していたことが判明"
     },
+    "8de0dde2c0b37ed4509b": {
+      "first_seen": "2026-11-28",
+      "link": "https://www.watch.impress.co.jp/docs/series/kodera/2159299.html",
+      "title": "【小寺信良のくらしDX】腰を守ろう。座り仕事にエルゴノミクスチェアが最適解なわけ"
+    },
     "8de60dc9aaf9528b4720": {
       "first_seen": "2026-11-12",
       "link": "https://gigazine.net/news/20261112-dot-name-third-level-reversal",
@@ -8204,11 +8219,6 @@
       "first_seen": "2026-10-15",
       "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002283",
       "title": "研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信 報告書の隠しテキストで呼び込む"
-    },
-    "8ebd3b00a11de4b4b57d": {
-      "first_seen": "2026-08-28",
-      "link": "https://gigazine.net/news/20260828-anthropic-pentagon-blacklist-lawsuit",
-      "title": "国防総省によるAnthropicのサプライチェーンリスク指定は違法だと連邦判事が判断"
     },
     "8ee689813baaf6d9e96b": {
       "first_seen": "2026-11-12",
@@ -8499,6 +8509,11 @@
       "first_seen": "2026-10-06",
       "link": "https://www.watch.impress.co.jp/docs/news/2145965.html",
       "title": "多摩モノレール延伸区間の駅舎デザイン案公開 東大和～武蔵村山～瑞穂町"
+    },
+    "93bc8f5ea6a19c203bb3": {
+      "first_seen": "2026-11-28",
+      "link": "https://gigazine.net/news/20261128-china-double-11-iphone-domination",
+      "title": "AppleのiPhoneは中国最大のネット通販セールイベントで最も売れたスマホ10機種のうち6機種を占める"
     },
     "93c43c4748feced87a79": {
       "first_seen": "2026-11-12",
@@ -9605,6 +9620,11 @@
       "link": "https://gigazine.net/news/20261011-apple-configurator",
       "title": "スマホ依存を解消するためにiPhoneの機能制限システム「Apple Configurator」が役立つ"
     },
+    "a80fcf6679037ae17ad4": {
+      "first_seen": "2026-11-28",
+      "link": "https://www.watch.impress.co.jp/docs/news/2160152.html",
+      "title": "あとから後悔しないための「Amazonブラックフライデー5つの誓い」(2026)"
+    },
     "a80ffc81a9fc2bbf2b23": {
       "first_seen": "2026-11-13",
       "link": "https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price",
@@ -10105,11 +10125,6 @@
       "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001987",
       "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに"
     },
-    "b13aff5c888142c1c2a3": {
-      "first_seen": "2026-08-28",
-      "link": "https://www.watch.impress.co.jp/docs/news/2136045.html",
-      "title": "ソフトバンク、AIで生徒の悩みを早期把握 教師を支援する「メンタリ」"
-    },
     "b1605ed0a9bb1dbd4f86": {
       "first_seen": "2026-11-10",
       "link": "https://www.watch.impress.co.jp/docs/news/2155108.html",
@@ -10444,11 +10459,6 @@
       "first_seen": "2026-10-15",
       "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002254",
       "title": "日本郵便の法人向けサイト、他社の担当者名や連絡先が見える状態に 最大4807件"
-    },
-    "b7366f07e638bf004c07": {
-      "first_seen": "2026-08-28",
-      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000902",
-      "title": "ダサいスライド資料を作る大会が開催中 応募フォームもダサい"
     },
     "b73d4d2aabd0c8152c83": {
       "first_seen": "2026-11-11",
@@ -12210,11 +12220,6 @@
       "link": "https://gigazine.net/news/20261020-cornell-jane-doe-sns-reveal-movement",
       "title": "性暴力を受けたと主張する元女子大生が7人の男性の実名を挙げると逆に女子大生を特定しようとする動きが加速"
     },
-    "d2f7088d22e1cc1ff938": {
-      "first_seen": "2026-08-28",
-      "link": "https://gigazine.net/news/20260828-20-minute-fix-memory-sleep-deprivation",
-      "title": "睡眠不足の日に昼寝と同じくらい記憶力を高められる「20分の解決策」とは？"
-    },
     "d319763e6436dd73bd3d": {
       "first_seen": "2026-11-11",
       "link": "https://www.watch.impress.co.jp/docs/news/2155392.html",
@@ -12449,11 +12454,6 @@
       "first_seen": "2026-11-17",
       "link": "https://gigazine.net/news/20261117-california-doj-sue-openai",
       "title": "OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴"
-    },
-    "d71e2a52f8ec69fbf83b": {
-      "first_seen": "2026-08-28",
-      "link": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded",
-      "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？"
     },
     "d74551c805e6704737ec": {
       "first_seen": "2026-11-25",
